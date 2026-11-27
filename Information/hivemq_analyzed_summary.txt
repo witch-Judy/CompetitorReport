@@ -1,0 +1,62 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1473
+
+Domains: www.hivemq.com
+
+Languages:
+  : 700
+  blog: 619
+  hey: 90
+  news: 48
+  mqtt: 10
+  legal: 5
+  index: 1
+
+Sections:
+  extensions: 30
+  : 17
+  technology: 7
+  ford: 2
+  aws: 2
+  tulip: 2
+  introducing-hivemq-cloud: 2
+  enterprise-ai-readiness-starts-better-data-context: 1
+  coordinating-edge-microservices-hivemq-mqtt: 1
+  agentic-ai-in-industry-trusted-data-pipelines-more-important-than-models: 1
+  enabling-real-time-environmental-data-monitoring-hivemq-sensor-community: 1
+  empowering-real-world-iot-with-mqtt-for-fleet-tracking: 1
+  building-compliant-event-driven-architecture-pharma-mqtt-hivemq: 1
+  how-to-centrally-manage-hivemq-edge-with-barbara: 1
+  how-orange-and-hivemq-streamline-automated-edge-rollouts: 1
+  why-distributed-data-intelligence-is-the-missing-piece-in-industrial-ai: 1
+  an-iot-telemetry-solution-with-nodemcu-esp8226-hivemq: 1
+  top-10-videos-to-level-up-your-uns-game-for-ai-readiness-and-digital-transformation: 1
+  optimizing-edge-to-cloud-communications-with-mqtt: 1
+  mitigating-downtime-in-enterprise-iot-when-writing-database: 1
+
+Content Types:
+  other: 642
+  blog: 619
+  webinar: 93
+  resource: 59
+  product: 39
+  industry: 9
+  company: 7
+  legal: 5
+
+Years:
+  2025: 637
+  2024: 596
+  2023: 86
+  2022: 38
+  2021: 33
+  2020: 22
+  2019: 14
+  2018: 10
+  2017: 13
+  2016: 11
+  2015: 9
+  2014: 4

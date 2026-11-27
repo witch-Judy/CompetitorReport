@@ -1,0 +1,80 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 4457
+
+Domains: stripe.com
+
+Languages:
+  : 3611
+  legal: 338
+  blog: 310
+  jobs: 142
+  files: 7
+  radar: 6
+  eea: 5
+  card: 3
+  tax: 3
+  atlas: 2
+  dpa: 2
+  rcas: 2
+  sigma: 2
+  spc: 2
+  apps: 1
+  bfcm: 1
+  bsi: 1
+  eps: 1
+  fpx: 1
+  ideal: 1
+  img: 1
+  jcb: 1
+  live: 1
+  marks: 1
+  opal: 1
+  pnc: 1
+  privy: 1
+  rbl: 1
+  saas: 1
+  sccb: 1
+  smcc: 1
+  spukl: 1
+  ssa: 1
+  ssi: 1
+  stel: 1
+  tour: 1
+
+Sections:
+  more: 2247
+  news: 172
+  listing: 132
+  legal: 81
+  : 78
+  stories: 72
+  2025: 46
+  atlas: 39
+  issuing: 36
+  ssa: 32
+  2021: 25
+  2024: 23
+  2023: 13
+  2022: 11
+  consumer: 11
+  page: 10
+  pricing: 8
+  product: 6
+  blackbaud: 6
+  ips: 6
+
+Content Types:
+  resource: 2210
+  other: 1183
+  legal: 434
+  blog: 310
+  newsroom: 246
+  product: 34
+  company: 28
+  industry: 11
+  home: 1
+
+Years:

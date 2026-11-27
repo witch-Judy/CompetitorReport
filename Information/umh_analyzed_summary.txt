@@ -1,0 +1,48 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 5569
+
+Domains: umh.com
+
+Languages:
+  : 5560
+  tag: 4
+  blog: 1
+  buy: 1
+  media: 1
+  other: 1
+  rent: 1
+
+Sections:
+  : 280
+  chelsea: 2
+  collingwood: 2
+  colonial-heights: 2
+  crestview: 2
+  forest-creek: 2
+  lake-sherman-village: 2
+  meadowood: 2
+  worthington-arms: 2
+  4050-hinge-gate-lane-river-bluff-estates: 2
+  4062-hinge-gate-lane-river-bluff-estates: 2
+  ohio: 2
+  spark6_dev: 1
+  spark6_jordon: 1
+  umh: 1
+  market-heights: 1
+  vassar-park: 1
+  biddle-mission-park: 1
+  dickson-park: 1
+  letort-park: 1
+
+Content Types:
+  other: 5564
+  home: 1
+  blog: 1
+  industry: 1
+  company: 1
+  resource: 1
+
+Years:

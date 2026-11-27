@@ -1,0 +1,34 @@
+﻿company,company_key,url,h1_text,h1_length,word_count
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/bacnet-ip,BACnet/IP for drives,20,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/bacnet-ip/fbip-21,FBIP-21 BACnet/IP adapter module,32,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/bacnet-ms-tp,BACnet MS/TP for drives,23,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/canopen,CANopen for drives,18,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/canopen/fcan-01,FCAN-01 CANopen adapter module,30,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/controlnet,ControlNet for drives,21,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/controlnet/fcna-01,FCNA-01 ControlNet adapter module,33,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/devicenet,DeviceNet for drives,20,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/devicenet/fdna-01,FDNA-01 DeviceNet adapter module,32,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethercat,EtherCAT for drives,19,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethercat/feca-01,FECA-01 EtherCAT adapter module,31,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethernet-ip,EtherNet/IP for drives,22,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethernet-ip/feip-21,FEIP-21 Ethernet/IP adapter module,34,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethernet-powerlink,Ethernet POWERLINK for drives,29,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/ethernet-powerlink/fepl-02,FEPL-02 Ethernet POWERLINK adapter module,41,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/legacy-products,Legacy fieldbus option modules for ABB drives in classic phase,62,10
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/lonworks,LonWorks for drives,19,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/lonworks/flon-01,FLON-01 LonWorks adapter module,31,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/modbus-rtu,Modbus RTU for drives,21,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/modbus-rtu/fsca-01,FSCA-01 RS-485 adapter module,29,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/modbus-tcp,MODBUS/TCP for drives,21,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/modbus-tcp/fmbt-21,FMBT-21 Modbus/TCP adapter module,33,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/opc-ua-for-drives,OPC UA for drives,17,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/profibus,PROFIBUS for drives,19,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/profibus/fpba-01,FPBA-01 PROFIBUS DP adapter module,34,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/profinet,PROFINET for drives,19,3
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/fieldbus/profinet/fpno-21,FPNO-21 PROFINET IO adapter module,34,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/functional-safety/atex-certified-safety-functions,ATEX certified Safety Functions,31,4
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/functional-safety/fscs-21,FSCS-21 CIP Safety™ functions module,36,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/functional-safety/fsdt-01,FSDT-01 Functional safety design tool,37,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/functional-safety/fso-12-fso-21,FSO-12 and FSO-21 Safety function modules,41,6
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/functional-safety/fsps-21,FSPS-21 PROFIsafe safety functions module,41,5
+ABB,abb,https://www.abb.com/global/en/areas/motion/drives/connectivity/user-interface/assistant-control-panels,ABB Drive Assistant Control Panels,34,5

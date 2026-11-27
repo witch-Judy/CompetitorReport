@@ -1,0 +1,32 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1602
+
+Domains: www.se.com
+
+Languages:
+  ww: 1602
+
+Sections:
+  en: 1602
+
+Content Types:
+  newsroom: 743
+  other: 679
+  product: 109
+  company: 24
+  legal: 22
+  industry: 20
+  resource: 5
+
+Years:
+  2025: 242
+  2024: 439
+  2023: 200
+  2022: 174
+  2021: 163
+  2020: 103
+  2019: 52
+  2018: 4

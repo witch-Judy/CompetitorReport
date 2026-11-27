@@ -1,0 +1,24 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1041
+
+Domains: www.abb.com
+
+Languages:
+  : 1041
+
+Sections:
+  en: 1041
+
+Content Types:
+  other: 595
+  company: 200
+  product: 191
+  industry: 47
+  resource: 5
+  customer_story: 2
+  webinar: 1
+
+Years:

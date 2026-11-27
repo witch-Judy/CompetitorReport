@@ -1,0 +1,57 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 635
+
+Domains: www.palantir.com
+
+Languages:
+  : 523
+  jp: 59
+  uk: 30
+  pcl: 9
+  kr: 4
+  aip: 2
+  500: 1
+  titan: 1
+  rubix: 1
+  japan: 1
+  blog: 1
+  alpha: 1
+  about: 1
+  ncmec: 1
+
+Sections:
+  : 100
+  press-releases: 94
+  letters: 52
+  solutions: 28
+  platforms: 19
+  palantir-for-builders: 17
+  foundry: 17
+  defense: 13
+  fr: 9
+  en: 9
+  articles: 9
+  de: 8
+  media: 8
+  getting-hired: 7
+  casestudies: 7
+  explore: 7
+  apollo: 6
+  blog: 5
+  home: 5
+  news-and-resources: 5
+
+Content Types:
+  other: 461
+  newsroom: 157
+  blog: 6
+  resource: 6
+  company: 2
+  product: 2
+  home: 1
+
+Years:
+  2025: 635

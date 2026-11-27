@@ -1,0 +1,49 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 221
+
+Domains: univers.com
+
+Languages:
+  : 147
+  news: 34
+  tag: 33
+  event: 5
+  blog: 1
+  login: 1
+
+Sections:
+  : 37
+  enos-ark: 3
+  enos-edge: 2
+  age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings: 1
+  ais-positive-impact-on-energy-three-ways-its-already-making-a-difference: 1
+  battery-storage-is-booming-but-are-you-losing-money-without-knowing-it: 1
+  grids-in-crisis-a-wake-up-call-for-europe: 1
+  how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey: 1
+  how-nvia-accelerates-microgrids-in-europe: 1
+  less-is-more-the-power-of-focus-in-sustainability-strategies: 1
+  make-sure-digital-transformation-successful: 1
+  meet-the-intelligent-microgrid: 1
+  net-zero-emissions-a-matter-of-trust: 1
+  powering-a-sustainable-future-with-harmony-energy-and-enos-storage: 1
+  solar-power-shines-brighter-still: 1
+  spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now: 1
+  unlocking-renewable-energy-with-ai-and-iot: 1
+  what-to-expect-from-the-eu-omnibus-sustainability-package: 1
+  when-your-ai-powered-energy-optimization-doesnt-work-whos-liable: 1
+  why-we-need-an-ai-for-energy: 1
+
+Content Types:
+  other: 147
+  product: 21
+  customer_story: 19
+  resource: 19
+  industry: 12
+  home: 1
+  blog: 1
+  company: 1
+
+Years:

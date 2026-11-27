@@ -1,0 +1,57 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 508
+
+Domains: www.ge.com, www.geaerospace.com, www.gevernova.com
+
+Languages:
+  : 470
+  sites: 10
+  node: 7
+  news: 5
+  terms: 3
+  cn: 3
+  faq: 1
+  casl: 1
+  lynn: 1
+  home: 1
+  india: 1
+  apac: 1
+  latam: 1
+  korea: 1
+  china: 1
+  fr: 1
+
+Sections:
+  : 152
+  events-reports: 35
+  saas: 32
+  services: 26
+  candidate-privacy: 19
+  events: 19
+  avionics: 14
+  engines: 13
+  leadership: 13
+  aircraft-engines: 12
+  governance: 12
+  default: 10
+  doing-business: 8
+  businesses: 4
+  shareholder-services: 3
+  california-notice: 3
+  innovation: 3
+  events-archive: 2
+  important-forward-looking-statement-information: 2
+  press-releases: 2
+
+Content Types:
+  other: 461
+  company: 37
+  home: 3
+  product: 3
+  resource: 3
+  industry: 1
+
+Years:

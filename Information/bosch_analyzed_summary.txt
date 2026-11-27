@@ -1,0 +1,44 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1356
+
+Domains: www.bosch.com
+
+Languages:
+  : 713
+  de: 643
+
+Sections:
+  stories: 490
+  forschung: 95
+  news: 45
+  research-fields: 42
+  : 20
+  unternehmen: 16
+  karriere: 11
+  topics: 10
+  nachhaltigkeit: 9
+  produkte-und-services: 7
+  why-bosch: 5
+  supply-chain: 5
+  annual-report: 4
+  industry-and-trades: 4
+  about-bosch-research: 4
+  career-opportunities: 3
+  patente-und-lizenzen: 3
+  our-history: 2
+  kontakt: 2
+  acquire-bosch-licenses: 2
+
+Content Types:
+  other: 1287
+  product: 31
+  company: 18
+  industry: 13
+  blog: 4
+  legal: 2
+  home: 1
+
+Years:

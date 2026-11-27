@@ -1,0 +1,54 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 754
+
+Domains: tulip.co
+
+Languages:
+  blog: 397
+  : 319
+  legal: 16
+  roles: 6
+  team: 5
+  abm: 4
+  eng: 2
+  demos: 1
+  login: 1
+  lp: 1
+  plans: 1
+  trial: 1
+
+Sections:
+  : 54
+  hannover-messe-2023: 4
+  aerospace-defense: 4
+  medical-devices-diagnostics: 4
+  pharma-manufacturing: 4
+  terms-of-service: 4
+  compliance: 3
+  connected-worker: 3
+  lean-manufacturing: 3
+  machine-monitoring: 3
+  adopting-an-open-ecosystem: 3
+  operations-calling-2025: 3
+  engineering: 2
+  med-device-video-mailer: 2
+  no-code: 2
+  pharma-4-0: 2
+  40-hour-pop-up-factory-2023: 2
+  cell-gene-therapy: 2
+  forrester-total-economic-impact-of-tulips-frontline-operations-platform: 2
+  pop-up-factory-at-hannover-messe: 2
+
+Content Types:
+  blog: 397
+  other: 298
+  industry: 25
+  product: 17
+  legal: 15
+  home: 1
+  resource: 1
+
+Years:

@@ -1,0 +1,6280 @@
+[
+  {
+    "company": "C3 AI",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1550,
+      "content_type_distribution": {
+        "other": 1155,
+        "product": 134,
+        "blog": 130,
+        "industry": 49,
+        "resource": 38,
+        "company": 24,
+        "newsroom": 10,
+        "legal": 8,
+        "home": 1,
+        "webinar": 1
+      },
+      "content_type_percentage": {
+        "other": 74.51612903225806,
+        "product": 8.645161290322582,
+        "blog": 8.38709677419355,
+        "industry": 3.1612903225806455,
+        "resource": 2.4516129032258065,
+        "company": 1.5483870967741935,
+        "newsroom": 0.6451612903225806,
+        "legal": 0.5161290322580645,
+        "home": 0.06451612903225806,
+        "webinar": 0.06451612903225806
+      },
+      "depth_distribution": {
+        "1": 757,
+        "2": 539,
+        "3": 253,
+        "0": 1
+      },
+      "average_depth": 1.6735483870967742,
+      "language_distribution": {
+        "blog": 125,
+        "live": 72,
+        "legal": 6,
+        "data": 2,
+        "news": 1,
+        "sip": 1,
+        "svea": 1
+      },
+      "language_percentage": {
+        "blog": 8.064516129032258,
+        "live": 4.645161290322581,
+        "legal": 0.3870967741935484,
+        "data": 0.12903225806451613,
+        "news": 0.06451612903225806,
+        "sip": 0.06451612903225806,
+        "svea": 0.06451612903225806
+      },
+      "year_distribution": {
+        "2000.0": 1,
+        "2015.0": 1,
+        "2016.0": 2,
+        "2017.0": 9,
+        "2018.0": 5,
+        "2019.0": 5,
+        "2020.0": 2,
+        "2021.0": 7,
+        "2022.0": 12,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 19,
+        "2026.0": 5
+      },
+      "recent_content_years": {
+        "2020.0": 2,
+        "2021.0": 7,
+        "2022.0": 12,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 19,
+        "2026.0": 5
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 30,
+        "loyalty": 18,
+        "awareness": 147,
+        "consideration": 32
+      },
+      "funnel_percentage": {
+        "conversion": 13.215859030837004,
+        "loyalty": 7.929515418502203,
+        "awareness": 64.75770925110133,
+        "consideration": 14.096916299559473
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "data-science": 48,
+        "data-sheet": 34,
+        "artificial-intelligence": 29,
+        "machine-learning": 14,
+        "features": 14,
+        "c3-ai-ex-machina": 12,
+        "category": 10,
+        "it-for-enterprise-ai": 8,
+        "data": 7,
+        "platform-services": 5
+      },
+      "subsections": {
+        "free-demo": 17,
+        "customer": 14,
+        "products": 10,
+        "product": 9,
+        "resources": 4,
+        "customers": 2,
+        "visual-studio-code": 2,
+        "model-driven-architecture": 2,
+        "feature-store": 1,
+        "events": 1
+      },
+      "url_patterns": {
+        "/glossary/data-science": 48,
+        "/glossary/artificial-intelligence": 28,
+        "/glossary/features": 14,
+        "/glossary/machine-learning": 14,
+        "/c3-agentic-ai-platform/data": 7,
+        "/c3-agentic-ai-platform/ai": 5,
+        "/c3-agentic-ai-platform/platform-services": 5,
+        "/c3-agentic-ai-platform/application-development": 4,
+        "/c3-agentic-ai-platform/c3-ai-studio": 4,
+        "/industries/enterprise-ai-for-financial-services": 4
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 3,
+        "mean": 1.6735483870967742,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "data-science": 48,
+        "data-sheet": 34,
+        "artificial-intelligence": 29,
+        "free-demo": 17,
+        "features": 15,
+        "machine-learning": 14,
+        "customer": 14,
+        "c3-ai-ex-machina": 12,
+        "products": 10,
+        "category": 10,
+        "product": 9,
+        "it-for-enterprise-ai": 8,
+        "data": 7,
+        "ai": 5,
+        "c3-ai-studio": 5
+      },
+      "industry_focus_ratio": 7.290322580645162,
+      "product_focus_ratio": 16.129032258064516,
+      "theme_diversity": 732
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 2,
+        "2021.0": 7,
+        "2022.0": 12,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 19,
+        "2026.0": 5
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 1155,
+          "avg_depth": 1.4987012987012986,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 24,
+          "avg_depth": 1.4583333333333333,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 49,
+          "avg_depth": 1.836734693877551,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 134,
+          "avg_depth": 2.425373134328358,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 130,
+          "avg_depth": 1.9923076923076923,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 8,
+          "avg_depth": 1.875,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 38,
+          "avg_depth": 2.789473684210526,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 10,
+          "avg_depth": 3.0,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 1,
+          "avg_depth": 3.0,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(74.5%), product(8.6%), blog(8.4%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "data-science(48), data-sheet(34), artificial-intelligence(29)",
+      "update_frequency": "low",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "abb",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1041,
+      "content_type_distribution": {
+        "other": 595,
+        "company": 200,
+        "product": 191,
+        "industry": 47,
+        "resource": 5,
+        "customer_story": 2,
+        "webinar": 1
+      },
+      "content_type_percentage": {
+        "other": 57.15658021133525,
+        "company": 19.21229586935639,
+        "product": 18.34774255523535,
+        "industry": 4.514889529298751,
+        "resource": 0.48030739673390976,
+        "customer_story": 0.19212295869356388,
+        "webinar": 0.09606147934678194
+      },
+      "depth_distribution": {
+        "7": 264,
+        "8": 257,
+        "9": 208,
+        "6": 153,
+        "5": 137,
+        "10": 10,
+        "4": 10,
+        "3": 2
+      },
+      "average_depth": 7.228626320845341,
+      "language_distribution": {},
+      "language_percentage": {},
+      "year_distribution": {},
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "loyalty": 13,
+        "awareness": 15,
+        "conversion": 45,
+        "consideration": 1
+      },
+      "funnel_percentage": {
+        "loyalty": 17.56756756756757,
+        "awareness": 20.27027027027027,
+        "conversion": 60.810810810810814,
+        "consideration": 1.3513513513513513
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "en": 1041
+      },
+      "subsections": {
+        "areas": 824,
+        "company": 200,
+        "industries": 14,
+        "channel-partners": 2,
+        "news": 1
+      },
+      "url_patterns": {
+        "/global/en": 1000
+      },
+      "depth_statistics": {
+        "min": 3,
+        "max": 10,
+        "mean": 7.228626320845341,
+        "median": 7.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "en": 1041,
+        "areas": 824,
+        "company": 200,
+        "industries": 14,
+        "channel-partners": 2,
+        "news": 1
+      },
+      "industry_focus_ratio": 12.776176753121998,
+      "product_focus_ratio": 24.015369836695484,
+      "theme_diversity": 6
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 595,
+          "avg_depth": 7.6,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 191,
+          "avg_depth": 7.837696335078534,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 47,
+          "avg_depth": 6.702127659574468,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 5,
+          "avg_depth": 6.8,
+          "has_recent_updates": false
+        },
+        "customer_story": {
+          "count": 2,
+          "avg_depth": 6.5,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 1,
+          "avg_depth": 8.0,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 200,
+          "avg_depth": 5.68,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(57.2%), company(19.2%), product(18.3%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "en(1041), areas(824), company(200)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  },
+  {
+    "company": "aveva",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1685,
+      "content_type_distribution": {
+        "other": 969,
+        "blog": 376,
+        "product": 231,
+        "industry": 69,
+        "legal": 26,
+        "company": 9,
+        "resource": 4,
+        "webinar": 1
+      },
+      "content_type_percentage": {
+        "other": 57.50741839762611,
+        "blog": 22.31454005934718,
+        "product": 13.70919881305638,
+        "industry": 4.094955489614243,
+        "legal": 1.543026706231454,
+        "company": 0.5341246290801187,
+        "resource": 0.2373887240356083,
+        "webinar": 0.05934718100890207
+      },
+      "depth_distribution": {
+        "4": 762,
+        "5": 474,
+        "3": 286,
+        "6": 151,
+        "2": 11,
+        "1": 1
+      },
+      "average_depth": 4.275964391691395,
+      "language_distribution": {
+        "en": 1685
+      },
+      "language_percentage": {
+        "en": 100.0
+      },
+      "year_distribution": {
+        "2023": 25,
+        "2024": 481,
+        "2025": 1179
+      },
+      "recent_content_years": {
+        "2023": 25,
+        "2024": 481,
+        "2025": 1179
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 75,
+        "awareness": 702,
+        "loyalty": 27,
+        "consideration": 7
+      },
+      "funnel_percentage": {
+        "conversion": 9.247842170160297,
+        "awareness": 86.55980271270037,
+        "loyalty": 3.3292231812577064,
+        "consideration": 0.8631319358816275
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "perspectives": 930,
+        "products": 210,
+        "about": 204,
+        "our-industrial-life": 191,
+        "solutions": 56,
+        "industries": 34,
+        "legal": 27,
+        "connect-experience": 11,
+        "support-and-success": 7,
+        "info": 6
+      },
+      "subsections": {
+        "blog": 376,
+        "success-stories": 274,
+        "presentations": 267,
+        "type": 189,
+        "news": 155,
+        "operations": 25,
+        "partners": 25,
+        "digital-transformation": 12,
+        "careers": 7,
+        "oil-gas": 7
+      },
+      "url_patterns": {
+        "/en/perspectives": 520,
+        "/en/about": 204,
+        "/en/our-industrial-life": 191,
+        "/en/industries": 34,
+        "/en/legal": 27,
+        "/en/connect-experience": 11,
+        "/en/info": 6,
+        "/en/academia": 5,
+        "/en/": 1,
+        "/en/contact": 1
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 6,
+        "mean": 4.275964391691395,
+        "median": 4.0
+      },
+      "organization_style": "deep-hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "perspectives": 930,
+        "blog": 376,
+        "success-stories": 274,
+        "presentations": 267,
+        "products": 210,
+        "about": 205,
+        "our-industrial-life": 191,
+        "type": 189,
+        "news": 155,
+        "solutions": 56,
+        "industries": 34,
+        "legal": 27,
+        "partners": 25,
+        "operations": 25,
+        "digital-transformation": 12
+      },
+      "industry_focus_ratio": 26.58753709198813,
+      "product_focus_ratio": 22.670623145400594,
+      "theme_diversity": 299
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2023": 25,
+        "2024": 481,
+        "2025": 1179
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {
+        "1": 105,
+        "2": 45,
+        "3": 44,
+        "4": 104,
+        "5": 184,
+        "6": 70,
+        "7": 102,
+        "8": 126,
+        "9": 181,
+        "10": 289,
+        "11": 272,
+        "12": 163
+      },
+      "content_type_execution": {
+        "other": {
+          "count": 969,
+          "avg_depth": 4.654282765737874,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 69,
+          "avg_depth": 4.478260869565218,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 231,
+          "avg_depth": 3.186147186147186,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 9,
+          "avg_depth": 4.555555555555555,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 4,
+          "avg_depth": 4.25,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 26,
+          "avg_depth": 3.3076923076923075,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 376,
+          "avg_depth": 3.997340425531915,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 1,
+          "avg_depth": 3.0,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "very-active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(57.5%), blog(22.3%), product(13.7%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "deep-hierarchical",
+      "theme_strategy": "perspectives(930), blog(376), success-stories(274)",
+      "update_frequency": "very-active",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "bosch",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1356,
+      "content_type_distribution": {
+        "other": 1287,
+        "product": 31,
+        "company": 18,
+        "industry": 13,
+        "blog": 4,
+        "legal": 2,
+        "home": 1
+      },
+      "content_type_percentage": {
+        "other": 94.91150442477876,
+        "product": 2.286135693215339,
+        "company": 1.3274336283185841,
+        "industry": 0.9587020648967551,
+        "blog": 0.2949852507374631,
+        "legal": 0.14749262536873156,
+        "home": 0.07374631268436578
+      },
+      "depth_distribution": {
+        "2": 595,
+        "3": 586,
+        "4": 100,
+        "5": 39,
+        "1": 19,
+        "6": 16,
+        "0": 1
+      },
+      "average_depth": 2.6976401179941,
+      "language_distribution": {
+        "de": 643
+      },
+      "language_percentage": {
+        "de": 47.418879056047196
+      },
+      "year_distribution": {
+        "2017.0": 4,
+        "2018.0": 4,
+        "2019.0": 2,
+        "2021.0": 2,
+        "2022.0": 4,
+        "2023.0": 2,
+        "2024.0": 4,
+        "2025.0": 12
+      },
+      "recent_content_years": {
+        "2021.0": 2,
+        "2022.0": 4,
+        "2023.0": 2,
+        "2024.0": 4,
+        "2025.0": 12
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 59,
+        "consideration": 3,
+        "conversion": 7,
+        "loyalty": 12
+      },
+      "funnel_percentage": {
+        "awareness": 72.8395061728395,
+        "consideration": 3.7037037037037033,
+        "conversion": 8.641975308641975,
+        "loyalty": 14.814814814814813
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "stories": 490,
+        "forschung": 95,
+        "news": 45,
+        "research-fields": 42,
+        "unternehmen": 16,
+        "karriere": 11,
+        "topics": 10,
+        "nachhaltigkeit": 9,
+        "produkte-und-services": 7,
+        "why-bosch": 5
+      },
+      "subsections": {
+        "aktuelles": 45,
+        "forschungsschwerpunkte": 42,
+        "digitalization-and-connectivity": 17,
+        "automation": 11,
+        "themenwelten": 10,
+        "electrification": 7,
+        "supply-chain": 5,
+        "warum-bosch": 5,
+        "industrie-und-handwerk": 4,
+        "ueber-bosch-research": 4
+      },
+      "url_patterns": {
+        "/de/stories": 490,
+        "/de/forschung": 95,
+        "/research/news": 45,
+        "/research/research-fields": 42,
+        "/de/unternehmen": 16,
+        "/de/karriere": 11,
+        "/de/nachhaltigkeit": 9,
+        "/de/produkte-und-services": 7,
+        "/careers/why-bosch": 5,
+        "/company/supply-chain": 5
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 6,
+        "mean": 2.6976401179941,
+        "median": 3.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "stories": 490,
+        "forschung": 95,
+        "aktuelles": 45,
+        "news": 45,
+        "forschungsschwerpunkte": 42,
+        "research-fields": 42,
+        "digitalization-and-connectivity": 17,
+        "unternehmen": 16,
+        "karriere": 11,
+        "automation": 11,
+        "supply-chain": 10,
+        "themenwelten": 10,
+        "topics": 10,
+        "nachhaltigkeit": 9,
+        "produkte-und-services": 7
+      },
+      "industry_focus_ratio": 3.392330383480826,
+      "product_focus_ratio": 3.171091445427729,
+      "theme_diversity": 1071
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2021.0": 2,
+        "2022.0": 4,
+        "2023.0": 2,
+        "2024.0": 4,
+        "2025.0": 12
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 1287,
+          "avg_depth": 2.717948717948718,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 18,
+          "avg_depth": 2.4444444444444446,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 4,
+          "avg_depth": 2.5,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 13,
+          "avg_depth": 2.4615384615384617,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 31,
+          "avg_depth": 2.2903225806451615,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 2,
+          "avg_depth": 1.5,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(94.9%), product(2.3%), company(1.3%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "stories(490), forschung(95), aktuelles(45)",
+      "update_frequency": "low",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "cognite",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 912,
+      "content_type_distribution": {
+        "newsroom": 203,
+        "blog": 175,
+        "webinar": 151,
+        "other": 127,
+        "customer_story": 74,
+        "company": 59,
+        "resource": 59,
+        "product": 40,
+        "industry": 24
+      },
+      "content_type_percentage": {
+        "newsroom": 22.25877192982456,
+        "blog": 19.188596491228072,
+        "webinar": 16.557017543859647,
+        "other": 13.925438596491228,
+        "customer_story": 8.114035087719298,
+        "company": 6.469298245614036,
+        "resource": 6.469298245614036,
+        "product": 4.385964912280701,
+        "industry": 2.631578947368421
+      },
+      "depth_distribution": {
+        "4": 729,
+        "3": 106,
+        "2": 75,
+        "1": 2
+      },
+      "average_depth": 3.712719298245614,
+      "language_distribution": {
+        "en": 731,
+        "ja-jp": 181
+      },
+      "language_percentage": {
+        "en": 80.15350877192982,
+        "ja-jp": 19.846491228070175
+      },
+      "year_distribution": {
+        "2024": 38,
+        "2025": 874
+      },
+      "recent_content_years": {
+        "2024": 38,
+        "2025": 874
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 52,
+        "awareness": 394,
+        "consideration": 176,
+        "loyalty": 10
+      },
+      "funnel_percentage": {
+        "conversion": 8.227848101265822,
+        "awareness": 62.34177215189873,
+        "consideration": 27.848101265822784,
+        "loyalty": 1.5822784810126582
+      },
+      "funnel_balance": "balanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "resources": 472,
+        "company": 261,
+        "product": 31,
+        "demos": 24,
+        "customers": 16,
+        "industries": 16,
+        "partners": 14,
+        "roles": 4,
+        "industrial-knowledge-graph": 2,
+        "extend-your-osdu-data-platform-into-valuable-data-products": 2
+      },
+      "subsections": {
+        "newsroom": 203,
+        "blog": 175,
+        "webinars-videos": 151,
+        "customer-stories": 73,
+        "legal": 49,
+        "white-papers": 29,
+        "datasheets": 19,
+        "solution-areas": 15,
+        "analyst-reports": 11,
+        "guides": 8
+      },
+      "url_patterns": {
+        "/en/resources": 407,
+        "/en/company": 194,
+        "/ja-jp/company": 67,
+        "/ja-jp/resources": 65,
+        "/en/product": 20,
+        "/en/demos": 17,
+        "/en/customers": 14,
+        "/ja-jp/product": 11,
+        "/en/partners": 11,
+        "/en/industries": 11
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 4,
+        "mean": 3.712719298245614,
+        "median": 4.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "resources": 472,
+        "company": 261,
+        "newsroom": 203,
+        "blog": 175,
+        "webinars-videos": 151,
+        "customer-stories": 73,
+        "legal": 49,
+        "product": 31,
+        "white-papers": 29,
+        "demos": 24,
+        "datasheets": 19,
+        "industries": 16,
+        "customers": 16,
+        "solution-areas": 15,
+        "partners": 14
+      },
+      "industry_focus_ratio": 27.521929824561404,
+      "product_focus_ratio": 12.280701754385964,
+      "theme_diversity": 153
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2024": 38,
+        "2025": 874
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {
+        "1": 118,
+        "2": 10,
+        "3": 326,
+        "4": 71,
+        "5": 40,
+        "6": 137,
+        "7": 12,
+        "8": 22,
+        "9": 45,
+        "10": 57,
+        "11": 34,
+        "12": 40
+      },
+      "content_type_execution": {
+        "other": {
+          "count": 127,
+          "avg_depth": 2.4330708661417324,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 59,
+          "avg_depth": 3.847457627118644,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 24,
+          "avg_depth": 3.3333333333333335,
+          "has_recent_updates": true
+        },
+        "newsroom": {
+          "count": 203,
+          "avg_depth": 3.9901477832512313,
+          "has_recent_updates": true
+        },
+        "customer_story": {
+          "count": 74,
+          "avg_depth": 3.972972972972973,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 175,
+          "avg_depth": 3.994285714285714,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 151,
+          "avg_depth": 3.986754966887417,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 40,
+          "avg_depth": 3.525,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 59,
+          "avg_depth": 3.7966101694915255,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "newsroom(22.3%), blog(19.2%), webinar(16.6%)",
+      "funnel_strategy": "balanced",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "resources(472), company(261), newsroom(203)",
+      "update_frequency": "active",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "emerson",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 4022,
+      "content_type_distribution": {
+        "other": 3487,
+        "industry": 323,
+        "product": 172,
+        "company": 20,
+        "webinar": 14,
+        "legal": 3,
+        "blog": 2,
+        "resource": 1
+      },
+      "content_type_percentage": {
+        "other": 86.69816011934361,
+        "industry": 8.030830432620586,
+        "product": 4.276479363500746,
+        "company": 0.49726504226752855,
+        "webinar": 0.34808552958727,
+        "legal": 0.07458975634012929,
+        "blog": 0.04972650422675286,
+        "resource": 0.02486325211337643
+      },
+      "depth_distribution": {
+        "4": 1263,
+        "5": 1167,
+        "3": 1150,
+        "6": 346,
+        "7": 49,
+        "2": 40,
+        "8": 6,
+        "1": 1
+      },
+      "average_depth": 4.19816011934361,
+      "language_distribution": {
+        "en-gb": 3057
+      },
+      "language_percentage": {
+        "en-gb": 76.00696171059175
+      },
+      "year_distribution": {
+        "2001.0": 5,
+        "2002.0": 3,
+        "2003.0": 6,
+        "2004.0": 5,
+        "2005.0": 1,
+        "2010.0": 4,
+        "2015.0": 6,
+        "2016.0": 13,
+        "2017.0": 10,
+        "2018.0": 28,
+        "2019.0": 18,
+        "2020.0": 13,
+        "2021.0": 20,
+        "2022.0": 23,
+        "2023.0": 103,
+        "2024.0": 110,
+        "2025.0": 47,
+        "2026.0": 14
+      },
+      "recent_content_years": {
+        "2020.0": 13,
+        "2021.0": 20,
+        "2022.0": 23,
+        "2023.0": 103,
+        "2024.0": 110,
+        "2025.0": 47,
+        "2026.0": 14
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "loyalty": 89,
+        "conversion": 140,
+        "awareness": 1050,
+        "consideration": 39
+      },
+      "funnel_percentage": {
+        "loyalty": 6.752655538694992,
+        "conversion": 10.62215477996965,
+        "awareness": 79.66616084977238,
+        "consideration": 2.959028831562974
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "automation": 2273,
+        "news": 975,
+        "industries": 273,
+        "corporate": 175,
+        "commercial-residential": 75,
+        "expertise": 56,
+        "innovations": 34,
+        "perspectives": 30,
+        "esg": 24,
+        "support": 22
+      },
+      "subsections": {
+        "automation": 834,
+        "measurement-instrumentation": 753,
+        "control-and-safety-systems": 185,
+        "corporate": 171,
+        "services-consulting": 103,
+        "2024": 102,
+        "2023": 86,
+        "operations-business-management": 65,
+        "brands": 64,
+        "commercial-residential": 63
+      },
+      "url_patterns": {
+        "/documents/automation": 721,
+        "/documents/corporate": 175,
+        "/documents/commercial-residential": 66,
+        "/en-gb/about-us": 15,
+        "/en-gb/asset-detail": 9,
+        "/documents/2016ect-32-en-gb-8309828.pdf": 1,
+        "/documents/full-specification-en-gb-327778.pdf": 1,
+        "/documents/presentation-deck-en-gb-10154550.pdf": 1,
+        "/en-gb/11017868-11017868": 1,
+        "/en-gb/11017880-11017880": 1
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 8,
+        "mean": 4.19816011934361,
+        "median": 4.0
+      },
+      "organization_style": "deep-hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "automation": 3107,
+        "news": 975,
+        "measurement-instrumentation": 753,
+        "corporate": 346,
+        "industries": 273,
+        "control-and-safety-systems": 185,
+        "commercial-residential": 138,
+        "services-consulting": 103,
+        "2024": 102,
+        "2023": 86,
+        "operations-business-management": 65,
+        "brands": 64,
+        "expertise": 56,
+        "asset-performance-management": 55,
+        "valves": 49
+      },
+      "industry_focus_ratio": 79.28891098955744,
+      "product_focus_ratio": 10.964694181999006,
+      "theme_diversity": 1190
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 13,
+        "2021.0": 20,
+        "2022.0": 23,
+        "2023.0": 103,
+        "2024.0": 110,
+        "2025.0": 47,
+        "2026.0": 14
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 3487,
+          "avg_depth": 4.105821623171781,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 323,
+          "avg_depth": 5.114551083591332,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 172,
+          "avg_depth": 4.377906976744186,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 20,
+          "avg_depth": 3.65,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 14,
+          "avg_depth": 4.642857142857143,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 2,
+          "avg_depth": 5.0,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 3,
+          "avg_depth": 4.0,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 1,
+          "avg_depth": 3.0,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(86.7%), industry(8.0%), product(4.3%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "deep-hierarchical",
+      "theme_strategy": "automation(3107), news(975), measurement-instrumentation(753)",
+      "update_frequency": "low",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "ge",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 508,
+      "content_type_distribution": {
+        "other": 461,
+        "company": 37,
+        "home": 3,
+        "product": 3,
+        "resource": 3,
+        "industry": 1
+      },
+      "content_type_percentage": {
+        "other": 90.74803149606299,
+        "company": 7.283464566929133,
+        "home": 0.5905511811023622,
+        "product": 0.5905511811023622,
+        "resource": 0.5905511811023622,
+        "industry": 0.19685039370078738
+      },
+      "depth_distribution": {
+        "3": 178,
+        "1": 149,
+        "2": 138,
+        "4": 25,
+        "5": 15,
+        "0": 3
+      },
+      "average_depth": 2.232283464566929,
+      "language_distribution": {
+        "sites": 10,
+        "node": 7,
+        "news": 5,
+        "terms": 3,
+        "cn": 3,
+        "faq": 1,
+        "casl": 1,
+        "lynn": 1,
+        "home": 1,
+        "india": 1,
+        "apac": 1,
+        "latam": 1,
+        "korea": 1,
+        "china": 1,
+        "fr": 1
+      },
+      "language_percentage": {
+        "sites": 1.968503937007874,
+        "node": 1.3779527559055118,
+        "news": 0.984251968503937,
+        "terms": 0.5905511811023622,
+        "cn": 0.5905511811023622,
+        "faq": 0.19685039370078738,
+        "casl": 0.19685039370078738,
+        "lynn": 0.19685039370078738,
+        "home": 0.19685039370078738,
+        "india": 0.19685039370078738,
+        "apac": 0.19685039370078738,
+        "latam": 0.19685039370078738,
+        "korea": 0.19685039370078738,
+        "china": 0.19685039370078738,
+        "fr": 0.19685039370078738
+      },
+      "year_distribution": {
+        "2021.0": 1,
+        "2022.0": 4,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 20
+      },
+      "recent_content_years": {
+        "2021.0": 1,
+        "2022.0": 4,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 20
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 19,
+        "awareness": 48,
+        "loyalty": 20,
+        "consideration": 2
+      },
+      "funnel_percentage": {
+        "conversion": 21.34831460674157,
+        "awareness": 53.93258426966292,
+        "loyalty": 22.47191011235955,
+        "consideration": 2.247191011235955
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "events-reports": 35,
+        "saas": 32,
+        "services": 26,
+        "candidate-privacy": 19,
+        "events": 19,
+        "avionics": 14,
+        "leadership": 13,
+        "engines": 13,
+        "governance": 12,
+        "aircraft-engines": 12
+      },
+      "subsections": {
+        "navigation-guidance": 11,
+        "files": 10,
+        "true-choice": 8,
+        "engine-maintenance-technologies": 6,
+        "business-aviation": 4,
+        "scott-strazik": 2,
+        "connected-aircraft": 2,
+        "test-services": 2,
+        "mavi-zingoni": 1,
+        "sustainable-aviation": 1
+      },
+      "url_patterns": {
+        "/investor-relations/events-reports": 35,
+        "/systems/saas": 32,
+        "/commercial/services": 23,
+        "/careers/candidate-privacy": 19,
+        "/investors/events": 19,
+        "/systems/avionics": 14,
+        "/commercial/aircraft-engines": 12,
+        "/military-defense/engines": 12,
+        "/company/leadership": 12,
+        "/sites/default": 10
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 5,
+        "mean": 2.232283464566929,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "events-reports": 35,
+        "saas": 32,
+        "services": 26,
+        "candidate-privacy": 19,
+        "events": 19,
+        "avionics": 14,
+        "leadership": 14,
+        "engines": 13,
+        "aircraft-engines": 12,
+        "governance": 12,
+        "navigation-guidance": 11,
+        "default": 10,
+        "files": 10,
+        "true-choice": 8,
+        "doing-business": 8
+      },
+      "industry_focus_ratio": 2.1653543307086616,
+      "product_focus_ratio": 1.3779527559055118,
+      "theme_diversity": 290
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2021.0": 1,
+        "2022.0": 4,
+        "2023.0": 12,
+        "2024.0": 19,
+        "2025.0": 20
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 3,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 461,
+          "avg_depth": 2.210412147505423,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 37,
+          "avg_depth": 2.7027027027027026,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 3,
+          "avg_depth": 3.0,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 1,
+          "avg_depth": 1.0,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 3,
+          "avg_depth": 1.6666666666666667,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(90.7%), company(7.3%), home(0.6%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "events-reports(35), saas(32), services(26)",
+      "update_frequency": "low",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "hitachi",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 3126,
+      "content_type_distribution": {
+        "other": 2974,
+        "product": 94,
+        "industry": 20,
+        "customer_story": 16,
+        "resource": 15,
+        "company": 5,
+        "blog": 1,
+        "webinar": 1
+      },
+      "content_type_percentage": {
+        "other": 95.13755598208573,
+        "product": 3.0070377479206654,
+        "industry": 0.6397952655150352,
+        "customer_story": 0.5118362124120281,
+        "resource": 0.47984644913627633,
+        "company": 0.1599488163787588,
+        "blog": 0.03198976327575176,
+        "webinar": 0.03198976327575176
+      },
+      "depth_distribution": {
+        "4": 1872,
+        "3": 608,
+        "6": 365,
+        "2": 176,
+        "5": 74,
+        "1": 31
+      },
+      "average_depth": 3.920345489443378,
+      "language_distribution": {
+        "en-us": 862,
+        "ja-jp": 454,
+        "en": 380,
+        "en-eu": 341,
+        "en-in": 335,
+        "it-it": 93,
+        "th-th": 65,
+        "vi-vn": 63,
+        "id-id": 62,
+        "zh-cn": 57,
+        "pt-br": 47,
+        "en-ca": 45,
+        "zh-tw": 23,
+        "en-tw": 20,
+        "zh-hk": 19,
+        "en-hk": 19,
+        "fr-ca": 18,
+        "es-mx": 17,
+        "en-mx": 16,
+        "es-br": 14,
+        "en-za": 13,
+        "tr-tr": 8,
+        "en-ae": 6,
+        "pl-pl": 6,
+        "de-de": 1,
+        "ro-ro": 1,
+        "fr-fr": 1,
+        "en-ph": 1,
+        "en-my": 1,
+        "en-mm": 1,
+        "es-es": 1
+      },
+      "language_percentage": {
+        "en-us": 27.575175943698017,
+        "ja-jp": 14.5233525271913,
+        "en": 12.156110044785668,
+        "en-eu": 10.90850927703135,
+        "en-in": 10.71657069737684,
+        "it-it": 2.9750479846449136,
+        "th-th": 2.0793346129238643,
+        "vi-vn": 2.015355086372361,
+        "id-id": 1.983365323096609,
+        "zh-cn": 1.8234165067178503,
+        "pt-br": 1.5035188739603327,
+        "en-ca": 1.4395393474088292,
+        "zh-tw": 0.7357645553422905,
+        "en-tw": 0.6397952655150352,
+        "zh-hk": 0.6078055022392834,
+        "en-hk": 0.6078055022392834,
+        "fr-ca": 0.5758157389635317,
+        "es-mx": 0.5438259756877799,
+        "en-mx": 0.5118362124120281,
+        "es-br": 0.4478566858605247,
+        "en-za": 0.41586692258477287,
+        "tr-tr": 0.2559181062060141,
+        "en-ae": 0.19193857965451055,
+        "pl-pl": 0.19193857965451055,
+        "de-de": 0.03198976327575176,
+        "ro-ro": 0.03198976327575176,
+        "fr-fr": 0.03198976327575176,
+        "en-ph": 0.03198976327575176,
+        "en-my": 0.03198976327575176,
+        "en-mm": 0.03198976327575176,
+        "es-es": 0.03198976327575176
+      },
+      "year_distribution": {
+        "2001.0": 12,
+        "2005.0": 6,
+        "2007.0": 7,
+        "2009.0": 1,
+        "2010.0": 6,
+        "2011.0": 1,
+        "2012.0": 7,
+        "2013.0": 4,
+        "2014.0": 2,
+        "2015.0": 3,
+        "2016.0": 10,
+        "2017.0": 22,
+        "2018.0": 8,
+        "2019.0": 19,
+        "2020.0": 4,
+        "2021.0": 15,
+        "2022.0": 14,
+        "2023.0": 23,
+        "2024.0": 32,
+        "2025.0": 34,
+        "2026.0": 2
+      },
+      "recent_content_years": {
+        "2020.0": 4,
+        "2021.0": 15,
+        "2022.0": 14,
+        "2023.0": 23,
+        "2024.0": 32,
+        "2025.0": 34,
+        "2026.0": 2
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 34,
+        "loyalty": 24,
+        "awareness": 1131,
+        "consideration": 8
+      },
+      "funnel_percentage": {
+        "conversion": 2.8404344193817876,
+        "loyalty": 2.0050125313283207,
+        "awareness": 94.48621553884712,
+        "consideration": 0.6683375104427736
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "insights": 1119,
+        "press": 960,
+        "ir": 444,
+        "about": 274,
+        "products": 76,
+        "sustainability": 44,
+        "privacy": 25,
+        "sitemap": 18,
+        "termsofuse": 16,
+        "information": 16
+      },
+      "subsections": {
+        "articles": 1038,
+        "archive": 462,
+        "library": 374,
+        "events": 86,
+        "press-releases": 71,
+        "it": 49,
+        "podcasts": 44,
+        "history": 32,
+        "corporate": 22,
+        "stock": 21
+      },
+      "url_patterns": {
+        "/en-in/insights": 236,
+        "/en-eu/insights": 163,
+        "/en-eu/press": 151,
+        "/en-us/about": 77,
+        "/en-sea/insights": 74,
+        "/en-in/press": 73,
+        "/en-ca/press": 27,
+        "/en-sea/press": 27,
+        "/en-sea/about": 20,
+        "/en-eu/rd": 15
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 6,
+        "mean": 3.920345489443378,
+        "median": 4.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "insights": 1119,
+        "articles": 1038,
+        "press": 960,
+        "archive": 462,
+        "ir": 444,
+        "library": 374,
+        "about": 274,
+        "events": 86,
+        "products": 77,
+        "press-releases": 71,
+        "it": 49,
+        "sustainability": 44,
+        "podcasts": 44,
+        "history": 32,
+        "rd": 27
+      },
+      "industry_focus_ratio": 3.80678182981446,
+      "product_focus_ratio": 5.182341650671785,
+      "theme_diversity": 540
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 4,
+        "2021.0": 15,
+        "2022.0": 14,
+        "2023.0": 23,
+        "2024.0": 32,
+        "2025.0": 34,
+        "2026.0": 2
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 2974,
+          "avg_depth": 3.93039677202421,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 94,
+          "avg_depth": 3.5425531914893615,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 1,
+          "avg_depth": 4.0,
+          "has_recent_updates": false
+        },
+        "customer_story": {
+          "count": 16,
+          "avg_depth": 3.625,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 5,
+          "avg_depth": 3.2,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 20,
+          "avg_depth": 3.9,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 1,
+          "avg_depth": 4.0,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 15,
+          "avg_depth": 4.866666666666666,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(95.1%), product(3.0%), industry(0.6%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "insights(1119), articles(1038), press(960)",
+      "update_frequency": "low",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "hivemq",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1473,
+      "content_type_distribution": {
+        "other": 642,
+        "blog": 619,
+        "webinar": 93,
+        "resource": 59,
+        "product": 39,
+        "industry": 9,
+        "company": 7,
+        "legal": 5
+      },
+      "content_type_percentage": {
+        "other": 43.58452138492871,
+        "blog": 42.023082145281734,
+        "webinar": 6.313645621181263,
+        "resource": 4.005431093007468,
+        "product": 2.6476578411405294,
+        "industry": 0.6109979633401221,
+        "company": 0.47522063815342835,
+        "legal": 0.3394433129667346
+      },
+      "depth_distribution": {
+        "2": 1420,
+        "3": 36,
+        "1": 17
+      },
+      "average_depth": 2.0128988458927357,
+      "language_distribution": {
+        "blog": 619,
+        "hey": 90,
+        "news": 48,
+        "mqtt": 10,
+        "legal": 5,
+        "index": 1
+      },
+      "language_percentage": {
+        "blog": 42.023082145281734,
+        "hey": 6.109979633401222,
+        "news": 3.2586558044806515,
+        "mqtt": 0.6788866259334692,
+        "legal": 0.3394433129667346,
+        "index": 0.0678886625933469
+      },
+      "year_distribution": {
+        "2014": 4,
+        "2015": 9,
+        "2016": 11,
+        "2017": 13,
+        "2018": 10,
+        "2019": 14,
+        "2020": 22,
+        "2021": 33,
+        "2022": 38,
+        "2023": 86,
+        "2024": 596,
+        "2025": 637
+      },
+      "recent_content_years": {
+        "2020": 22,
+        "2021": 33,
+        "2022": 38,
+        "2023": 86,
+        "2024": 596,
+        "2025": 637
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 678,
+        "loyalty": 8,
+        "conversion": 13,
+        "consideration": 93
+      },
+      "funnel_percentage": {
+        "awareness": 85.60606060606061,
+        "loyalty": 1.0101010101010102,
+        "conversion": 1.6414141414141417,
+        "consideration": 11.742424242424242
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "extensions": 30,
+        "technology": 7,
+        "aws": 2,
+        "introducing-hivemq-cloud": 2,
+        "ford": 2,
+        "tulip": 2,
+        "enterprise-ai-readiness-starts-better-data-context": 1,
+        "monitoring-hivemq-mqtt-broker-in-production-guide": 1,
+        "sparkplug-essentials-part-2-architecture": 1,
+        "sparkplug-essentials-part-3-poll-response": 1
+      },
+      "subsections": {
+        "amazon-kinesis-extension": 1,
+        "google-pub-sub-extension": 1,
+        "s3-cluster-discovery-extension": 1,
+        "dc-os-cluster-discovery-extension": 1,
+        "sparkplug-influxdb-extension": 1,
+        "mqtt-message-log-extension": 1,
+        "prometheus-extension": 1,
+        "heartbeat-extension": 1,
+        "file-rbac-extension": 1,
+        "sparkplug-aware-extension": 1
+      },
+      "url_patterns": {
+        "/products/extensions": 30,
+        "/solutions/technology": 7,
+        "/blog/enterprise-ai-readiness-starts-better-data-context": 1,
+        "/blog/coordinating-edge-microservices-hivemq-mqtt": 1,
+        "/blog/agentic-ai-in-industry-trusted-data-pipelines-more-important-than-models": 1,
+        "/blog/enabling-real-time-environmental-data-monitoring-hivemq-sensor-community": 1,
+        "/blog/empowering-real-world-iot-with-mqtt-for-fleet-tracking": 1,
+        "/blog/building-compliant-event-driven-architecture-pharma-mqtt-hivemq": 1,
+        "/blog/how-to-centrally-manage-hivemq-edge-with-barbara": 1,
+        "/blog/how-orange-and-hivemq-streamline-automated-edge-rollouts": 1
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 3,
+        "mean": 2.0128988458927357,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "extensions": 30,
+        "technology": 7,
+        "ford": 2,
+        "aws": 2,
+        "tulip": 2,
+        "introducing-hivemq-cloud": 2,
+        "enterprise-ai-readiness-starts-better-data-context": 1,
+        "coordinating-edge-microservices-hivemq-mqtt": 1,
+        "agentic-ai-in-industry-trusted-data-pipelines-more-important-than-models": 1,
+        "enabling-real-time-environmental-data-monitoring-hivemq-sensor-community": 1,
+        "empowering-real-world-iot-with-mqtt-for-fleet-tracking": 1,
+        "building-compliant-event-driven-architecture-pharma-mqtt-hivemq": 1,
+        "how-to-centrally-manage-hivemq-edge-with-barbara": 1,
+        "how-orange-and-hivemq-streamline-automated-edge-rollouts": 1,
+        "why-distributed-data-intelligence-is-the-missing-piece-in-industrial-ai": 1
+      },
+      "industry_focus_ratio": 10.183299389002038,
+      "product_focus_ratio": 8.689748811948403,
+      "theme_diversity": 1453
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020": 22,
+        "2021": 33,
+        "2022": 38,
+        "2023": 86,
+        "2024": 596,
+        "2025": 637
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {
+        "1": 95,
+        "2": 66,
+        "3": 59,
+        "4": 86,
+        "5": 189,
+        "6": 225,
+        "7": 110,
+        "8": 69,
+        "9": 181,
+        "10": 85,
+        "11": 79,
+        "12": 168
+      },
+      "content_type_execution": {
+        "blog": {
+          "count": 619,
+          "avg_depth": 1.998384491114701,
+          "has_recent_updates": true
+        },
+        "other": {
+          "count": 642,
+          "avg_depth": 1.9906542056074767,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 9,
+          "avg_depth": 2.0,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 59,
+          "avg_depth": 1.9830508474576272,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 7,
+          "avg_depth": 1.8571428571428572,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 5,
+          "avg_depth": 2.0,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 93,
+          "avg_depth": 1.989247311827957,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 39,
+          "avg_depth": 2.7435897435897436,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(43.6%), blog(42.0%), webinar(6.3%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "extensions(30), technology(7), ford(2)",
+      "update_frequency": "active",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "honeywell",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 2195,
+      "content_type_distribution": {
+        "other": 1970,
+        "product": 75,
+        "company": 73,
+        "industry": 54,
+        "blog": 9,
+        "webinar": 7,
+        "resource": 4,
+        "legal": 2,
+        "customer_story": 1
+      },
+      "content_type_percentage": {
+        "other": 89.749430523918,
+        "product": 3.416856492027335,
+        "company": 3.3257403189066057,
+        "industry": 2.460136674259681,
+        "blog": 0.4100227790432802,
+        "webinar": 0.31890660592255127,
+        "resource": 0.18223234624145787,
+        "legal": 0.09111617312072894,
+        "customer_story": 0.04555808656036447
+      },
+      "depth_distribution": {
+        "6": 1661,
+        "7": 367,
+        "5": 79,
+        "4": 62,
+        "3": 26
+      },
+      "average_depth": 6.039179954441914,
+      "language_distribution": {
+        "us": 2195
+      },
+      "language_percentage": {
+        "us": 100.0
+      },
+      "year_distribution": {
+        "2022": 19,
+        "2023": 162,
+        "2024": 1162,
+        "2025": 852
+      },
+      "recent_content_years": {
+        "2022": 19,
+        "2023": 162,
+        "2024": 1162,
+        "2025": 852
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 815,
+        "loyalty": 33,
+        "conversion": 133,
+        "consideration": 18
+      },
+      "funnel_percentage": {
+        "awareness": 81.58158158158159,
+        "loyalty": 3.303303303303303,
+        "conversion": 13.313313313313312,
+        "consideration": 1.8018018018018018
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "en": 2195
+      },
+      "subsections": {
+        "press": 1187,
+        "news": 783,
+        "contact": 70,
+        "company": 54,
+        "futureshaper": 32,
+        "industries": 13,
+        "solutions": 6,
+        "events": 5,
+        "automation": 3,
+        "regional": 3
+      },
+      "url_patterns": {
+        "/us/en": 1000
+      },
+      "depth_statistics": {
+        "min": 3,
+        "max": 7,
+        "mean": 6.039179954441914,
+        "median": 6.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "en": 2195,
+        "press": 1187,
+        "news": 783,
+        "contact": 70,
+        "company": 54,
+        "futureshaper": 32,
+        "industries": 13,
+        "solutions": 6,
+        "events": 5,
+        "automation": 3,
+        "webinar": 3,
+        "employee-access": 3,
+        "regional": 3,
+        "ai": 2,
+        "coronavirus": 2
+      },
+      "industry_focus_ratio": 9.749430523917995,
+      "product_focus_ratio": 9.703872437357631,
+      "theme_diversity": 41
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2022": 19,
+        "2023": 162,
+        "2024": 1162,
+        "2025": 852
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {
+        "1": 50,
+        "2": 42,
+        "3": 13,
+        "4": 19,
+        "5": 309,
+        "6": 317,
+        "7": 979,
+        "8": 31,
+        "9": 58,
+        "10": 172,
+        "11": 76,
+        "12": 129
+      },
+      "content_type_execution": {
+        "other": {
+          "count": 1970,
+          "avg_depth": 6.093908629441624,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 4,
+          "avg_depth": 6.25,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 54,
+          "avg_depth": 5.62962962962963,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 75,
+          "avg_depth": 5.933333333333334,
+          "has_recent_updates": true
+        },
+        "customer_story": {
+          "count": 1,
+          "avg_depth": 3.0,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 73,
+          "avg_depth": 5.054794520547945,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 9,
+          "avg_depth": 7.0,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 7,
+          "avg_depth": 4.428571428571429,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 2,
+          "avg_depth": 5.5,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "very-active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(89.7%), product(3.4%), company(3.3%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "en(2195), press(1187), news(783)",
+      "update_frequency": "very-active",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "ignition",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 2500,
+      "content_type_distribution": {
+        "resource": 827,
+        "other": 815,
+        "blog": 601,
+        "webinar": 186,
+        "industry": 36,
+        "company": 19,
+        "product": 16
+      },
+      "content_type_percentage": {
+        "resource": 33.08,
+        "other": 32.6,
+        "blog": 24.04,
+        "webinar": 7.4399999999999995,
+        "industry": 1.44,
+        "company": 0.76,
+        "product": 0.64
+      },
+      "depth_distribution": {
+        "3": 967,
+        "2": 801,
+        "1": 403,
+        "4": 329
+      },
+      "average_depth": 2.4888,
+      "language_distribution": {
+        "blog": 591,
+        "news": 441,
+        "about": 11,
+        "edge": 1,
+        "ccpa": 1,
+        "login": 1
+      },
+      "language_percentage": {
+        "blog": 23.64,
+        "news": 17.64,
+        "about": 0.44,
+        "edge": 0.04,
+        "ccpa": 0.04,
+        "login": 0.04
+      },
+      "year_distribution": {
+        "2024": 54,
+        "2025": 2446
+      },
+      "recent_content_years": {
+        "2024": 54,
+        "2025": 2446
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 1128,
+        "consideration": 349,
+        "loyalty": 55,
+        "conversion": 21
+      },
+      "funnel_percentage": {
+        "awareness": 72.63361236316807,
+        "consideration": 22.47263361236317,
+        "loyalty": 3.5415325177076626,
+        "conversion": 1.3522215067611076
+      },
+      "funnel_balance": "balanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "icc": 337,
+        "tags": 182,
+        "customerproject": 182,
+        "webinar": 153,
+        "video": 145,
+        "user": 108,
+        "casestudy": 74,
+        "article": 73,
+        "podcast": 59,
+        "author": 16
+      },
+      "subsections": {
+        "2024": 38,
+        "2022": 38,
+        "2021": 30,
+        "32901": 28,
+        "52392": 28,
+        "2014": 25,
+        "2015": 25,
+        "2019": 25,
+        "2013": 24,
+        "2018": 23
+      },
+      "url_patterns": {
+        "/resources/icc": 131,
+        "/resources/customerproject": 78,
+        "/blog/tags": 68,
+        "/resources/webinar": 65,
+        "/resources/video": 55,
+        "/blog/user": 43,
+        "/resources/casestudy": 34,
+        "/resources/article": 30,
+        "/resources/podcast": 17,
+        "/blog/author": 7
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 4,
+        "mean": 2.4888,
+        "median": 3.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "icc": 337,
+        "tags": 182,
+        "customerproject": 182,
+        "webinar": 153,
+        "video": 145,
+        "user": 108,
+        "casestudy": 74,
+        "article": 74,
+        "podcast": 59,
+        "2024": 38,
+        "2022": 38,
+        "2021": 30,
+        "52392": 28,
+        "32901": 28,
+        "2019": 25
+      },
+      "industry_focus_ratio": 11.16,
+      "product_focus_ratio": 5.72,
+      "theme_diversity": 1471
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2024": 54,
+        "2025": 2446
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {
+        "2": 54,
+        "12": 2446
+      },
+      "content_type_execution": {
+        "other": {
+          "count": 815,
+          "avg_depth": 1.5889570552147239,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 827,
+          "avg_depth": 3.259975816203144,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 601,
+          "avg_depth": 2.5058236272878536,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 186,
+          "avg_depth": 2.7580645161290325,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 36,
+          "avg_depth": 3.0,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 16,
+          "avg_depth": 3.0,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 19,
+          "avg_depth": 2.9473684210526314,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "very-active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "resource(33.1%), other(32.6%), blog(24.0%)",
+      "funnel_strategy": "balanced",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "icc(337), tags(182), customerproject(182)",
+      "update_frequency": "very-active",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "rockwell-automation",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 166963,
+      "content_type_distribution": {
+        "other": 117709,
+        "product": 45263,
+        "company": 2377,
+        "blog": 873,
+        "resource": 357,
+        "industry": 135,
+        "legal": 132,
+        "webinar": 117
+      },
+      "content_type_percentage": {
+        "other": 70.50005090948294,
+        "product": 27.109599132741984,
+        "company": 1.4236687170211364,
+        "blog": 0.522870336541629,
+        "resource": 0.21381982834520222,
+        "industry": 0.08085623760953026,
+        "legal": 0.07905943232931847,
+        "webinar": 0.07007540592825956
+      },
+      "depth_distribution": {
+        "10": 43650,
+        "3": 42892,
+        "9": 26615,
+        "8": 23682,
+        "7": 12706,
+        "6": 8736,
+        "5": 4644,
+        "11": 2611,
+        "4": 705,
+        "12": 503,
+        "13": 195,
+        "2": 14,
+        "14": 9,
+        "1": 1
+      },
+      "average_depth": 7.181303642124303,
+      "language_distribution": {
+        "en-us": 166962
+      },
+      "language_percentage": {
+        "en-us": 99.9994010649066
+      },
+      "year_distribution": {
+        "2000.0": 7,
+        "2011.0": 2,
+        "2012.0": 11,
+        "2013.0": 11,
+        "2014.0": 11,
+        "2015.0": 13,
+        "2016.0": 13,
+        "2017.0": 15,
+        "2018.0": 17,
+        "2019.0": 19,
+        "2020.0": 22,
+        "2021.0": 18,
+        "2022.0": 26,
+        "2023.0": 24,
+        "2024.0": 30,
+        "2025.0": 488,
+        "2026.0": 1
+      },
+      "recent_content_years": {
+        "2020.0": 22,
+        "2021.0": 18,
+        "2022.0": 26,
+        "2023.0": 24,
+        "2024.0": 30,
+        "2025.0": 488,
+        "2026.0": 1
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 651,
+        "consideration": 228,
+        "awareness": 4545,
+        "loyalty": 8479
+      },
+      "funnel_percentage": {
+        "conversion": 4.682442638279508,
+        "consideration": 1.6399338272315327,
+        "awareness": 32.690786161260164,
+        "loyalty": 60.986837373228795
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "docs": 118680,
+        "products": 43694,
+        "company": 3239,
+        "support": 503,
+        "trust-center": 306,
+        "capabilities": 202,
+        "industries": 145,
+        "events": 130,
+        "tools": 16,
+        "careers": 11
+      },
+      "subsections": {
+        "factorytalk-optix": 61732,
+        "studio-5000-logix-designer": 23665,
+        "factorytalk-view": 7576,
+        "add-on-profiles": 6368,
+        "news": 3161,
+        "factorytalk-services-platform": 2395,
+        "technical": 2129,
+        "factorytalk-batch": 1885,
+        "aadvance-trusted-sis-workstation": 1302,
+        "diagnostics-counter-monitor": 1227
+      },
+      "url_patterns": {
+        "/en-us/company": 781,
+        "/en-us/capabilities": 202,
+        "/en-us/careers": 11,
+        "/en-us/campaigns": 2,
+        "/en-us/capabilities.html": 1,
+        "/en-us/careers.html": 1,
+        "/en-us/company.html": 1
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 14,
+        "mean": 7.181303642124303,
+        "median": 8.0
+      },
+      "organization_style": "deep-hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "docs": 118680,
+        "factorytalk-optix": 61732,
+        "products": 43694,
+        "studio-5000-logix-designer": 23665,
+        "factorytalk-view": 7576,
+        "add-on-profiles": 6368,
+        "company": 3239,
+        "news": 3161,
+        "factorytalk-services-platform": 2395,
+        "technical": 2129,
+        "factorytalk-batch": 1885,
+        "aadvance-trusted-sis-workstation": 1302,
+        "diagnostics-counter-monitor": 1227,
+        "factorytalk-assetcentre": 1100,
+        "rslinx-classic": 1086
+      },
+      "industry_focus_ratio": 1.278726424417386,
+      "product_focus_ratio": 31.360241490629658,
+      "theme_diversity": 43021
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 22,
+        "2021.0": 18,
+        "2022.0": 26,
+        "2023.0": 24,
+        "2024.0": 30,
+        "2025.0": 488,
+        "2026.0": 1
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 117709,
+          "avg_depth": 8.75253379095906,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 45263,
+          "avg_depth": 3.258909042705963,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 357,
+          "avg_depth": 8.890756302521009,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 2377,
+          "avg_depth": 4.982330668910391,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 135,
+          "avg_depth": 3.977777777777778,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 873,
+          "avg_depth": 4.9988545246277205,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 117,
+          "avg_depth": 4.017094017094017,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 132,
+          "avg_depth": 6.545454545454546,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "moderate"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(70.5%), product(27.1%), company(1.4%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "deep-hierarchical",
+      "theme_strategy": "docs(118680), factorytalk-optix(61732), products(43694)",
+      "update_frequency": "moderate",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "schneider-electric",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 1602,
+      "content_type_distribution": {
+        "newsroom": 743,
+        "other": 679,
+        "product": 109,
+        "company": 24,
+        "legal": 22,
+        "industry": 20,
+        "resource": 5
+      },
+      "content_type_percentage": {
+        "newsroom": 46.379525593008744,
+        "other": 42.38451935081148,
+        "product": 6.803995006242197,
+        "company": 1.4981273408239701,
+        "legal": 1.373283395755306,
+        "industry": 1.2484394506866416,
+        "resource": 0.3121098626716604
+      },
+      "depth_distribution": {
+        "7": 689,
+        "6": 411,
+        "8": 242,
+        "5": 189,
+        "4": 47,
+        "9": 18,
+        "3": 5,
+        "2": 1
+      },
+      "average_depth": 6.5774032459425715,
+      "language_distribution": {
+        "ww": 1602
+      },
+      "language_percentage": {
+        "ww": 100.0
+      },
+      "year_distribution": {
+        "2018.0": 4,
+        "2019.0": 53,
+        "2020.0": 116,
+        "2021.0": 176,
+        "2022.0": 175,
+        "2023.0": 200,
+        "2024.0": 439,
+        "2025.0": 243
+      },
+      "recent_content_years": {
+        "2020.0": 116,
+        "2021.0": 176,
+        "2022.0": 175,
+        "2023.0": 200,
+        "2024.0": 439,
+        "2025.0": 243
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 765,
+        "conversion": 104,
+        "loyalty": 35,
+        "consideration": 111
+      },
+      "funnel_percentage": {
+        "awareness": 75.36945812807882,
+        "conversion": 10.246305418719212,
+        "loyalty": 3.4482758620689653,
+        "consideration": 10.935960591133005
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "en": 1602
+      },
+      "subsections": {
+        "about-us": 901,
+        "work": 449,
+        "insights": 203,
+        "partners": 38,
+        "residential": 8,
+        "brands": 2
+      },
+      "url_patterns": {
+        "/ww/en": 1000
+      },
+      "depth_statistics": {
+        "min": 2,
+        "max": 9,
+        "mean": 6.5774032459425715,
+        "median": 7.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "en": 1602,
+        "about-us": 901,
+        "work": 449,
+        "insights": 203,
+        "partners": 38,
+        "residential": 8,
+        "brands": 2
+      },
+      "industry_focus_ratio": 15.043695380774032,
+      "product_focus_ratio": 19.22596754057428,
+      "theme_diversity": 7
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 116,
+        "2021.0": 176,
+        "2022.0": 175,
+        "2023.0": 200,
+        "2024.0": 439,
+        "2025.0": 243
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {
+        "1.0": 131,
+        "2.0": 240,
+        "3.0": 68,
+        "4.0": 99,
+        "5.0": 86,
+        "6.0": 121,
+        "7.0": 126,
+        "8.0": 65,
+        "9.0": 104,
+        "10.0": 108,
+        "11.0": 113,
+        "12.0": 60
+      },
+      "content_type_execution": {
+        "newsroom": {
+          "count": 743,
+          "avg_depth": 7.244952893674293,
+          "has_recent_updates": true
+        },
+        "other": {
+          "count": 679,
+          "avg_depth": 5.927835051546392,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 20,
+          "avg_depth": 5.8,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 109,
+          "avg_depth": 6.752293577981652,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 5,
+          "avg_depth": 6.0,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 24,
+          "avg_depth": 5.708333333333333,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 22,
+          "avg_depth": 5.0,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "newsroom(46.4%), other(42.4%), product(6.8%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "en(1602), about-us(901), work(449)",
+      "update_frequency": "active",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "siemens",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 33476,
+      "content_type_distribution": {
+        "other": 15609,
+        "product": 10006,
+        "company": 3921,
+        "webinar": 1952,
+        "industry": 1523,
+        "blog": 264,
+        "legal": 83,
+        "newsroom": 81,
+        "customer_story": 27,
+        "resource": 10
+      },
+      "content_type_percentage": {
+        "other": 46.62743457999761,
+        "product": 29.89007049826742,
+        "company": 11.712868921018043,
+        "webinar": 5.831043135380571,
+        "industry": 4.549528020074082,
+        "blog": 0.7886246863424543,
+        "legal": 0.24793882184251403,
+        "newsroom": 0.24196439240052578,
+        "customer_story": 0.08065479746684191,
+        "resource": 0.02987214720994145
+      },
+      "depth_distribution": {
+        "6": 9980,
+        "7": 9152,
+        "5": 5687,
+        "8": 4428,
+        "9": 1788,
+        "4": 1691,
+        "10": 466,
+        "3": 149,
+        "2": 87,
+        "11": 39,
+        "12": 9
+      },
+      "average_depth": 6.4666328115664955,
+      "language_distribution": {
+        "de": 4397,
+        "us": 3103,
+        "cn": 1434,
+        "pl": 1243,
+        "be": 1122,
+        "br": 955,
+        "nl": 952,
+        "it": 890,
+        "se": 889,
+        "es": 848,
+        "fr": 826,
+        "ch": 749,
+        "bg": 692,
+        "at": 632,
+        "uk": 620,
+        "hu": 620,
+        "tr": 599,
+        "dk": 573,
+        "in": 553,
+        "cz": 551,
+        "jp": 550,
+        "kr": 535,
+        "fi": 534,
+        "ua": 452,
+        "ar": 346,
+        "pt": 343,
+        "mx": 336,
+        "no": 299,
+        "ca": 278,
+        "au": 251,
+        "tw": 213,
+        "sk": 197,
+        "pe": 197,
+        "co": 182,
+        "th": 180,
+        "rs": 175,
+        "ro": 173,
+        "sg": 168,
+        "gr": 152,
+        "vn": 136,
+        "id": 104,
+        "asean": 92,
+        "hr": 84,
+        "ph": 83,
+        "ec": 78,
+        "si": 74,
+        "mea": 72,
+        "za": 70,
+        "cl": 70,
+        "hk": 52,
+        "my": 47,
+        "uy": 39,
+        "lu": 28,
+        "il": 20,
+        "ae": 20,
+        "ie": 17,
+        "kz": 15,
+        "pk": 14,
+        "ee": 12,
+        "eg": 12,
+        "sa": 10,
+        "qa": 9,
+        "lt": 8,
+        "lv": 8,
+        "ma": 6,
+        "bd": 6,
+        "om": 5,
+        "kw": 5,
+        "dz": 5,
+        "gh": 4,
+        "ke": 3,
+        "tz": 3,
+        "ug": 3,
+        "bh": 1
+      },
+      "language_percentage": {
+        "de": 13.134783128211255,
+        "us": 9.269327279244832,
+        "cn": 4.283665909905604,
+        "pl": 3.713107898195722,
+        "be": 3.3516549169554306,
+        "br": 2.8527900585494086,
+        "nl": 2.8438284143864263,
+        "it": 2.658621101684789,
+        "se": 2.655633886963795,
+        "es": 2.533158083403035,
+        "fr": 2.467439359541164,
+        "ch": 2.2374238260246146,
+        "bg": 2.0671525869279486,
+        "at": 1.8879197036682998,
+        "uk": 1.85207312701637,
+        "hu": 1.85207312701637,
+        "tr": 1.789341617875493,
+        "dk": 1.711674035129645,
+        "in": 1.6519297407097622,
+        "cz": 1.645955311267774,
+        "jp": 1.6429680965467799,
+        "kr": 1.5981598757318676,
+        "fi": 1.5951726610108734,
+        "ua": 1.3502210538893535,
+        "ar": 1.0335762934639743,
+        "pt": 1.0246146493009918,
+        "mx": 1.0037041462540328,
+        "no": 0.8931772015772493,
+        "ca": 0.8304456924363722,
+        "au": 0.7497908949695304,
+        "tw": 0.6362767355717529,
+        "sk": 0.5884813000358466,
+        "pe": 0.5884813000358466,
+        "co": 0.5436730792209344,
+        "th": 0.5376986497789461,
+        "rs": 0.5227625761739754,
+        "ro": 0.5167881467319871,
+        "sg": 0.5018520731270164,
+        "gr": 0.45405663759111003,
+        "vn": 0.4062612020552038,
+        "id": 0.3106703309833911,
+        "asean": 0.27482375433146133,
+        "hr": 0.2509260365635082,
+        "ph": 0.24793882184251403,
+        "ec": 0.2330027482375433,
+        "si": 0.22105388935356676,
+        "mea": 0.21507945991157845,
+        "za": 0.20910503046959014,
+        "cl": 0.20910503046959014,
+        "hk": 0.15533516549169554,
+        "my": 0.14039909188672484,
+        "uy": 0.11650137411877165,
+        "lu": 0.08364201218783607,
+        "il": 0.0597442944198829,
+        "ae": 0.0597442944198829,
+        "ie": 0.05078265025690047,
+        "kz": 0.044808220814912175,
+        "pk": 0.041821006093918034,
+        "ee": 0.03584657665192974,
+        "eg": 0.03584657665192974,
+        "sa": 0.02987214720994145,
+        "qa": 0.026884932488947307,
+        "lt": 0.02389771776795316,
+        "lv": 0.02389771776795316,
+        "ma": 0.01792328832596487,
+        "bd": 0.01792328832596487,
+        "om": 0.014936073604970726,
+        "kw": 0.014936073604970726,
+        "dz": 0.014936073604970726,
+        "gh": 0.01194885888397658,
+        "ke": 0.008961644162982434,
+        "tz": 0.008961644162982434,
+        "ug": 0.008961644162982434,
+        "bh": 0.002987214720994145
+      },
+      "year_distribution": {
+        "2000.0": 8,
+        "2005.0": 1,
+        "2006.0": 1,
+        "2007.0": 1,
+        "2011.0": 1,
+        "2012.0": 4,
+        "2013.0": 2,
+        "2014.0": 2,
+        "2015.0": 20,
+        "2016.0": 23,
+        "2017.0": 51,
+        "2018.0": 101,
+        "2019.0": 152,
+        "2020.0": 175,
+        "2021.0": 313,
+        "2022.0": 318,
+        "2023.0": 318,
+        "2024.0": 451,
+        "2025.0": 525,
+        "2026.0": 6
+      },
+      "recent_content_years": {
+        "2020.0": 175,
+        "2021.0": 313,
+        "2022.0": 318,
+        "2023.0": 318,
+        "2024.0": 451,
+        "2025.0": 525,
+        "2026.0": 6
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 1824,
+        "conversion": 2461,
+        "consideration": 2670,
+        "loyalty": 623
+      },
+      "funnel_percentage": {
+        "awareness": 24.06967537608868,
+        "conversion": 32.475587226181055,
+        "consideration": 35.233570863024546,
+        "loyalty": 8.221166534705727
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "en": 10600,
+        "de": 5397,
+        "es": 2088,
+        "fr": 1713,
+        "zh": 1561,
+        "nl": 1518,
+        "pt": 1291,
+        "pl": 1242,
+        "it": 894,
+        "sv": 884
+      },
+      "subsections": {
+        "products": 9225,
+        "company": 4100,
+        "produkte": 2722,
+        "unternehmen": 2060,
+        "produkter": 1170,
+        "produkty": 1119,
+        "productos": 966,
+        "industries": 929,
+        "entreprise": 801,
+        "bedrijf": 736
+      },
+      "url_patterns": {
+        "/at/de": 533,
+        "/ar/es": 345,
+        "/asean/en": 82,
+        "/ae/en": 19,
+        "/at/en": 8,
+        "/asean/th": 4,
+        "/asean/vi": 3,
+        "/ae/en.html": 1,
+        "/ar/es.html": 1,
+        "/asean/en.html": 1
+      },
+      "depth_statistics": {
+        "min": 2,
+        "max": 12,
+        "mean": 6.4666328115664955,
+        "median": 6.0
+      },
+      "organization_style": "deep-hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "en": 10600,
+        "products": 9225,
+        "de": 5397,
+        "company": 4100,
+        "produkte": 2722,
+        "es": 2088,
+        "unternehmen": 2060,
+        "fr": 1713,
+        "zh": 1561,
+        "nl": 1518,
+        "pt": 1291,
+        "pl": 1242,
+        "produkter": 1170,
+        "produkty": 1119,
+        "productos": 966
+      },
+      "industry_focus_ratio": 28.67726132154379,
+      "product_focus_ratio": 34.039311745728284,
+      "theme_diversity": 196
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 175,
+        "2021.0": 313,
+        "2022.0": 318,
+        "2023.0": 318,
+        "2024.0": 451,
+        "2025.0": 525,
+        "2026.0": 6
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 15609,
+          "avg_depth": 6.224549939137677,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 3921,
+          "avg_depth": 6.269064014282071,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 1523,
+          "avg_depth": 6.81155613919895,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 10006,
+          "avg_depth": 6.857185688586848,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 1952,
+          "avg_depth": 6.592213114754099,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 83,
+          "avg_depth": 4.313253012048193,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 10,
+          "avg_depth": 6.6,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 264,
+          "avg_depth": 6.246212121212121,
+          "has_recent_updates": true
+        },
+        "customer_story": {
+          "count": 27,
+          "avg_depth": 5.962962962962963,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 81,
+          "avg_depth": 8.0,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(46.6%), product(29.9%), company(11.7%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "deep-hierarchical",
+      "theme_strategy": "en(10600), products(9225), de(5397)",
+      "update_frequency": "active",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "tulip",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 754,
+      "content_type_distribution": {
+        "blog": 397,
+        "other": 298,
+        "industry": 25,
+        "product": 17,
+        "legal": 15,
+        "home": 1,
+        "resource": 1
+      },
+      "content_type_percentage": {
+        "blog": 52.65251989389921,
+        "other": 39.52254641909814,
+        "industry": 3.3156498673740056,
+        "product": 2.2546419098143233,
+        "legal": 1.989389920424403,
+        "home": 0.1326259946949602,
+        "resource": 0.1326259946949602
+      },
+      "depth_distribution": {
+        "2": 664,
+        "1": 53,
+        "3": 36,
+        "0": 1
+      },
+      "average_depth": 1.9748010610079576,
+      "language_distribution": {
+        "blog": 397,
+        "legal": 16,
+        "roles": 6,
+        "team": 5,
+        "abm": 4,
+        "eng": 2,
+        "demos": 1,
+        "login": 1,
+        "lp": 1,
+        "plans": 1,
+        "trial": 1
+      },
+      "language_percentage": {
+        "blog": 52.65251989389921,
+        "legal": 2.122015915119363,
+        "roles": 0.7957559681697612,
+        "team": 0.6631299734748011,
+        "abm": 0.5305039787798408,
+        "eng": 0.2652519893899204,
+        "demos": 0.1326259946949602,
+        "login": 0.1326259946949602,
+        "lp": 0.1326259946949602,
+        "plans": 0.1326259946949602,
+        "trial": 0.1326259946949602
+      },
+      "year_distribution": {
+        "2020.0": 1,
+        "2022.0": 12,
+        "2023.0": 24,
+        "2024.0": 16,
+        "2025.0": 10
+      },
+      "recent_content_years": {
+        "2020.0": 1,
+        "2022.0": 12,
+        "2023.0": 24,
+        "2024.0": 16,
+        "2025.0": 10
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "consideration": 10,
+        "awareness": 490,
+        "loyalty": 12,
+        "conversion": 5
+      },
+      "funnel_percentage": {
+        "consideration": 1.9342359767891684,
+        "awareness": 94.77756286266924,
+        "loyalty": 2.321083172147002,
+        "conversion": 0.9671179883945842
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "aerospace-defense": 4,
+        "medical-devices-diagnostics": 4,
+        "pharma-manufacturing": 4,
+        "hannover-messe-2023": 4,
+        "terms-of-service": 4,
+        "machine-monitoring": 3,
+        "connected-worker": 3,
+        "compliance": 3,
+        "operations-calling-2025": 3,
+        "adopting-an-open-ecosystem": 3
+      },
+      "subsections": {
+        "composable-mes": 4,
+        "thank-you": 3,
+        "download": 3,
+        "digital-work-instructions": 3,
+        "download-thank-you": 2,
+        "production-tracking": 2,
+        "demo": 1,
+        "microsoft": 1,
+        "aws": 1,
+        "professional-services": 1
+      },
+      "url_patterns": {
+        "/events/hannover-messe-2023": 4,
+        "/industries/aerospace-defense": 4,
+        "/industries/medical-devices-diagnostics": 4,
+        "/industries/pharma-manufacturing": 4,
+        "/legal/terms-of-service": 4,
+        "/ebooks/adopting-an-open-ecosystem": 3,
+        "/events/operations-calling-2025": 3,
+        "/abm/med-device-video-mailer": 2,
+        "/ebooks/40-hour-pop-up-factory-2023": 2,
+        "/ebooks/forrester-total-economic-impact-of-tulips-frontline-operations-platform": 2
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 3,
+        "mean": 1.9748010610079576,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "thank-you": 5,
+        "aerospace-defense": 5,
+        "composable-mes": 5,
+        "hannover-messe-2023": 4,
+        "medical-devices-diagnostics": 4,
+        "pharma-manufacturing": 4,
+        "terms-of-service": 4,
+        "compliance": 3,
+        "connected-worker": 3,
+        "lean-manufacturing": 3,
+        "machine-monitoring": 3,
+        "download": 3,
+        "adopting-an-open-ecosystem": 3,
+        "production-tracking": 3,
+        "operations-calling-2025": 3
+      },
+      "industry_focus_ratio": 22.148541114058357,
+      "product_focus_ratio": 10.212201591511937,
+      "theme_diversity": 680
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 1,
+        "2022.0": 12,
+        "2023.0": 24,
+        "2024.0": 16,
+        "2025.0": 10
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 298,
+          "avg_depth": 1.9093959731543624,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 397,
+          "avg_depth": 1.9974811083123425,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 17,
+          "avg_depth": 2.1176470588235294,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 25,
+          "avg_depth": 2.28,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 1,
+          "avg_depth": 3.0,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 15,
+          "avg_depth": 2.066666666666667,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "blog(52.7%), other(39.5%), industry(3.3%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "thank-you(5), aerospace-defense(5), composable-mes(5)",
+      "update_frequency": "low",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "umh",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 5569,
+      "content_type_distribution": {
+        "other": 5564,
+        "home": 1,
+        "blog": 1,
+        "industry": 1,
+        "company": 1,
+        "resource": 1
+      },
+      "content_type_percentage": {
+        "other": 99.91021727419644,
+        "home": 0.01795654516071108,
+        "blog": 0.01795654516071108,
+        "industry": 0.01795654516071108,
+        "company": 0.01795654516071108,
+        "resource": 0.01795654516071108
+      },
+      "depth_distribution": {
+        "2": 5289,
+        "1": 279,
+        "0": 1
+      },
+      "average_depth": 1.949542108098402,
+      "language_distribution": {
+        "tag": 4,
+        "blog": 1,
+        "buy": 1,
+        "media": 1,
+        "other": 1,
+        "rent": 1
+      },
+      "language_percentage": {
+        "tag": 0.07182618064284432,
+        "blog": 0.01795654516071108,
+        "buy": 0.01795654516071108,
+        "media": 0.01795654516071108,
+        "other": 0.01795654516071108,
+        "rent": 0.01795654516071108
+      },
+      "year_distribution": {
+        "2003.0": 1,
+        "2014.0": 2,
+        "2015.0": 2,
+        "2016.0": 3,
+        "2017.0": 4,
+        "2018.0": 4,
+        "2019.0": 3,
+        "2020.0": 2,
+        "2021.0": 2,
+        "2022.0": 2,
+        "2023.0": 3,
+        "2024.0": 5,
+        "2025.0": 21
+      },
+      "recent_content_years": {
+        "2020.0": 2,
+        "2021.0": 2,
+        "2022.0": 2,
+        "2023.0": 3,
+        "2024.0": 5,
+        "2025.0": 21
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 6,
+        "loyalty": 157,
+        "conversion": 1,
+        "consideration": 43
+      },
+      "funnel_percentage": {
+        "awareness": 2.898550724637681,
+        "loyalty": 75.84541062801932,
+        "conversion": 0.4830917874396135,
+        "consideration": 20.77294685990338
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "lake-sherman-village": 2,
+        "ohio": 2,
+        "collingwood": 2,
+        "worthington-arms": 2,
+        "crestview": 2,
+        "chelsea": 2,
+        "meadowood": 2,
+        "4050-hinge-gate-lane-river-bluff-estates": 2,
+        "4062-hinge-gate-lane-river-bluff-estates": 2,
+        "colonial-heights": 2
+      },
+      "subsections": {},
+      "url_patterns": {
+        "/12-south/": 1,
+        "/1905744-2/": 1,
+        "/1961589-2/": 1,
+        "/5-great-things-about-moving-to-nashville/": 1,
+        "/5-great-things-about-moving-to-sumter/": 1,
+        "/a-gardeners-secret-for-the-perfect-herb-garden/": 1,
+        "/a-quality-place-to-live/": 1,
+        "/a-rose-by-any-other-name-gardening-ideas-for-your-manufactured-home/": 1,
+        "/about-umh/": 1,
+        "/accessibility/": 1
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 2,
+        "mean": 1.949542108098402,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "chelsea": 2,
+        "collingwood": 2,
+        "colonial-heights": 2,
+        "crestview": 2,
+        "forest-creek": 2,
+        "lake-sherman-village": 2,
+        "meadowood": 2,
+        "worthington-arms": 2,
+        "4050-hinge-gate-lane-river-bluff-estates": 2,
+        "4062-hinge-gate-lane-river-bluff-estates": 2,
+        "ohio": 2,
+        "spark6_dev": 1,
+        "spark6_jordon": 1,
+        "umh": 1,
+        "market-heights": 1
+      },
+      "industry_focus_ratio": 0.01795654516071108,
+      "product_focus_ratio": 0.03591309032142216,
+      "theme_diversity": 5278
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 2,
+        "2021.0": 2,
+        "2022.0": 2,
+        "2023.0": 3,
+        "2024.0": 5,
+        "2025.0": 21
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 5564,
+          "avg_depth": 1.9503953989935299,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 1,
+          "avg_depth": 1.0,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 1,
+          "avg_depth": 1.0,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 1,
+          "avg_depth": 2.0,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 1,
+          "avg_depth": 1.0,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(99.9%), home(0.0%), blog(0.0%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "chelsea(2), collingwood(2), colonial-heights(2)",
+      "update_frequency": "low",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "univers",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 221,
+      "content_type_distribution": {
+        "other": 147,
+        "product": 21,
+        "customer_story": 19,
+        "resource": 19,
+        "industry": 12,
+        "home": 1,
+        "blog": 1,
+        "company": 1
+      },
+      "content_type_percentage": {
+        "other": 66.51583710407239,
+        "product": 9.502262443438914,
+        "customer_story": 8.597285067873303,
+        "resource": 8.597285067873303,
+        "industry": 5.429864253393665,
+        "home": 0.4524886877828055,
+        "blog": 0.4524886877828055,
+        "company": 0.4524886877828055
+      },
+      "depth_distribution": {
+        "2": 184,
+        "1": 36,
+        "0": 1
+      },
+      "average_depth": 1.8280542986425339,
+      "language_distribution": {
+        "news": 34,
+        "tag": 33,
+        "event": 5,
+        "blog": 1,
+        "login": 1
+      },
+      "language_percentage": {
+        "news": 15.384615384615385,
+        "tag": 14.93212669683258,
+        "event": 2.262443438914027,
+        "blog": 0.4524886877828055,
+        "login": 0.4524886877828055
+      },
+      "year_distribution": {
+        "2022.0": 2,
+        "2023.0": 2,
+        "2024.0": 2,
+        "2025.0": 7
+      },
+      "recent_content_years": {
+        "2022.0": 2,
+        "2023.0": 2,
+        "2024.0": 2,
+        "2025.0": 7
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 63,
+        "conversion": 4,
+        "consideration": 25,
+        "loyalty": 1
+      },
+      "funnel_percentage": {
+        "awareness": 67.74193548387096,
+        "conversion": 4.301075268817205,
+        "consideration": 26.881720430107524,
+        "loyalty": 1.0752688172043012
+      },
+      "funnel_balance": "balanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "enos-ark": 3,
+        "enos-edge": 2,
+        "age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings": 1,
+        "task-force-on-climate-related-financial-disclosures-2024-report": 1,
+        "enos-storage": 1,
+        "enos": 1,
+        "hems": 1,
+        "solar-ai-analytics": 1,
+        "wind-ai-analytics": 1,
+        "environment-social-and-governance-reports": 1
+      },
+      "subsections": {},
+      "url_patterns": {
+        "/about-us/": 1,
+        "/articles/age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings": 1,
+        "/articles/ais-positive-impact-on-energy-three-ways-its-already-making-a-difference": 1,
+        "/articles/battery-storage-is-booming-but-are-you-losing-money-without-knowing-it": 1,
+        "/articles/grids-in-crisis-a-wake-up-call-for-europe": 1,
+        "/articles/how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey": 1,
+        "/articles/how-nvia-accelerates-microgrids-in-europe": 1,
+        "/articles/less-is-more-the-power-of-focus-in-sustainability-strategies": 1,
+        "/articles/make-sure-digital-transformation-successful": 1,
+        "/articles/meet-the-intelligent-microgrid": 1
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 2,
+        "mean": 1.8280542986425339,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "enos-ark": 3,
+        "enos-edge": 2,
+        "age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings": 1,
+        "ais-positive-impact-on-energy-three-ways-its-already-making-a-difference": 1,
+        "battery-storage-is-booming-but-are-you-losing-money-without-knowing-it": 1,
+        "grids-in-crisis-a-wake-up-call-for-europe": 1,
+        "how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey": 1,
+        "how-nvia-accelerates-microgrids-in-europe": 1,
+        "less-is-more-the-power-of-focus-in-sustainability-strategies": 1,
+        "make-sure-digital-transformation-successful": 1,
+        "meet-the-intelligent-microgrid": 1,
+        "net-zero-emissions-a-matter-of-trust": 1,
+        "powering-a-sustainable-future-with-harmony-energy-and-enos-storage": 1,
+        "solar-power-shines-brighter-still": 1,
+        "spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now": 1
+      },
+      "industry_focus_ratio": 8.597285067873303,
+      "product_focus_ratio": 18.099547511312217,
+      "theme_diversity": 181
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2022.0": 2,
+        "2023.0": 2,
+        "2024.0": 2,
+        "2025.0": 7
+      },
+      "recent_trend": "increasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 147,
+          "avg_depth": 1.7891156462585034,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 1,
+          "avg_depth": 1.0,
+          "has_recent_updates": false
+        },
+        "customer_story": {
+          "count": 19,
+          "avg_depth": 1.9473684210526316,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 12,
+          "avg_depth": 1.9166666666666667,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 1,
+          "avg_depth": 2.0,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 21,
+          "avg_depth": 1.9523809523809523,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 19,
+          "avg_depth": 1.9473684210526316,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "low"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(66.5%), product(9.5%), customer_story(8.6%)",
+      "funnel_strategy": "balanced",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "enos-ark(3), enos-edge(2), age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings(1)",
+      "update_frequency": "low",
+      "recent_trend": "increasing"
+    }
+  },
+  {
+    "company": "yokogawa",
+    "category": "To B工业自动化",
+    "content_distribution": {
+      "total_content": 193459,
+      "content_type_distribution": {
+        "resource": 95125,
+        "other": 72631,
+        "product": 21704,
+        "industry": 2891,
+        "company": 689,
+        "webinar": 416,
+        "home": 2,
+        "legal": 1
+      },
+      "content_type_percentage": {
+        "resource": 49.170625300451256,
+        "other": 37.54335543965388,
+        "product": 11.218914602060385,
+        "industry": 1.4943734848210732,
+        "company": 0.356147814265555,
+        "webinar": 0.21503264257542945,
+        "home": 0.0010338107816126416,
+        "legal": 0.0005169053908063208
+      },
+      "depth_distribution": {
+        "5": 143668,
+        "4": 29381,
+        "6": 7114,
+        "8": 5378,
+        "7": 4722,
+        "3": 2677,
+        "2": 409,
+        "9": 60,
+        "1": 48,
+        "0": 2
+      },
+      "average_depth": 4.98329361776914,
+      "language_distribution": {
+        "us": 6101,
+        "br": 5679,
+        "sa-es": 5653,
+        "fr": 5460,
+        "eu": 5457,
+        "es": 5447,
+        "nl": 5446,
+        "be-fr": 5368,
+        "mx": 5336,
+        "ca": 5335,
+        "be-nl": 5306,
+        "de": 5230,
+        "it": 5209,
+        "cz": 5195,
+        "tr": 5195,
+        "uk": 5186,
+        "sg": 5125,
+        "pl": 5124,
+        "ph": 5112,
+        "sk": 5109,
+        "no": 5105,
+        "at": 5067,
+        "id": 5061,
+        "cis": 5037,
+        "th": 5028,
+        "my": 5015,
+        "au": 5002,
+        "vn": 4997,
+        "cn": 4966,
+        "bh": 4826,
+        "in": 4818,
+        "za": 4715,
+        "kr": 4673,
+        "tw": 4579,
+        "ro": 3850,
+        "hu": 3849,
+        "ch": 3688,
+        "news": 885,
+        "about": 189,
+        "terms": 1
+      },
+      "language_percentage": {
+        "us": 3.153639789309363,
+        "br": 2.9355057143890955,
+        "sa-es": 2.922066174228131,
+        "fr": 2.822303433802511,
+        "eu": 2.820752717630092,
+        "es": 2.815583663722029,
+        "nl": 2.8150667583312226,
+        "be-fr": 2.77474813784833,
+        "mx": 2.7582071653425273,
+        "ca": 2.7576902599517212,
+        "be-nl": 2.7427000036183378,
+        "de": 2.703415193917057,
+        "it": 2.692560180710125,
+        "cz": 2.685323505238836,
+        "tr": 2.685323505238836,
+        "uk": 2.680671356721579,
+        "sg": 2.6491401278823936,
+        "pl": 2.648623222491587,
+        "ph": 2.6424203578019116,
+        "sk": 2.6408696416294926,
+        "no": 2.6388020200662674,
+        "at": 2.619159615215627,
+        "id": 2.6160581828707894,
+        "cis": 2.6036524534914376,
+        "th": 2.5990003049741803,
+        "my": 2.5922805348936984,
+        "au": 2.5855607648132164,
+        "vn": 2.5829762378591847,
+        "cn": 2.5669521707441887,
+        "bh": 2.494585416031304,
+        "in": 2.490450172904853,
+        "za": 2.437208917651802,
+        "kr": 2.4154988912379367,
+        "tw": 2.3669097845021425,
+        "ro": 1.9900857546043347,
+        "hu": 1.9895688492135286,
+        "ch": 1.9063470812937109,
+        "news": 0.45746127086359384,
+        "about": 0.09769511886239461,
+        "terms": 0.0005169053908063208
+      },
+      "year_distribution": {
+        "2000.0": 76,
+        "2001.0": 35,
+        "2003.0": 3,
+        "2004.0": 3,
+        "2006.0": 3,
+        "2007.0": 2,
+        "2008.0": 167,
+        "2009.0": 448,
+        "2010.0": 114,
+        "2011.0": 136,
+        "2012.0": 990,
+        "2013.0": 1207,
+        "2014.0": 1531,
+        "2015.0": 2096,
+        "2016.0": 1542,
+        "2017.0": 1716,
+        "2018.0": 1545,
+        "2019.0": 1557,
+        "2020.0": 1480,
+        "2021.0": 1641,
+        "2022.0": 1624,
+        "2023.0": 1387,
+        "2024.0": 1385,
+        "2025.0": 660,
+        "2026.0": 35
+      },
+      "recent_content_years": {
+        "2020.0": 1480,
+        "2021.0": 1641,
+        "2022.0": 1624,
+        "2023.0": 1387,
+        "2024.0": 1385,
+        "2025.0": 660,
+        "2026.0": 35
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 1673,
+        "awareness": 32780,
+        "loyalty": 3563,
+        "consideration": 5490
+      },
+      "funnel_percentage": {
+        "conversion": 3.845446605065968,
+        "awareness": 75.34592929710846,
+        "loyalty": 8.189674987358066,
+        "consideration": 12.618949110467522
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "library": 122340,
+        "solutions": 41012,
+        "news": 19048,
+        "about": 2862,
+        "resources": 2797,
+        "industries": 1776,
+        "discontinued": 649,
+        "documents-downloads": 596,
+        "press-releases": 547,
+        "products-and-services": 441
+      },
+      "subsections": {
+        "resources": 95422,
+        "documents-downloads": 20809,
+        "discontinued": 20355,
+        "products-and-services": 14709,
+        "press-releases": 13331,
+        "videos": 5337,
+        "solutions": 4194,
+        "events": 4115,
+        "faqs": 1609,
+        "briefs": 1537
+      },
+      "url_patterns": {
+        "/at/library": 604,
+        "/at/about": 158,
+        "/about/research-development": 90,
+        "/about/ir": 44,
+        "/at/industries": 44,
+        "/about/sustainability": 24,
+        "/about/company-overview": 12,
+        "/about/careers": 7,
+        "/about/procurement-information": 7,
+        "/about/quality-assurance": 3
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 9,
+        "mean": 4.98329361776914,
+        "median": 5.0
+      },
+      "organization_style": "deep-hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "library": 122350,
+        "resources": 98219,
+        "solutions": 45206,
+        "documents-downloads": 21405,
+        "discontinued": 21004,
+        "news": 19048,
+        "products-and-services": 15150,
+        "press-releases": 13878,
+        "videos": 5501,
+        "events": 4310,
+        "about": 2862,
+        "industries": 1776,
+        "briefs": 1659,
+        "faqs": 1609,
+        "featured-topics": 1590
+      },
+      "industry_focus_ratio": 3.8493944453346702,
+      "product_focus_ratio": 26.362174931122357,
+      "theme_diversity": 912
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2020.0": 1480,
+        "2021.0": 1641,
+        "2022.0": 1624,
+        "2023.0": 1387,
+        "2024.0": 1385,
+        "2025.0": 660,
+        "2026.0": 35
+      },
+      "recent_trend": "decreasing",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 2,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 72631,
+          "avg_depth": 4.642342801283198,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 689,
+          "avg_depth": 4.339622641509434,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 21704,
+          "avg_depth": 6.3196645779579805,
+          "has_recent_updates": true
+        },
+        "industry": {
+          "count": 2891,
+          "avg_depth": 4.143203043929436,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 95125,
+          "avg_depth": 4.968935611038107,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 416,
+          "avg_depth": 5.0,
+          "has_recent_updates": true
+        },
+        "legal": {
+          "count": 1,
+          "avg_depth": 5.0,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "very-active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "resource(49.2%), other(37.5%), product(11.2%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "deep-hierarchical",
+      "theme_strategy": "library(122350), resources(98219), solutions(45206)",
+      "update_frequency": "very-active",
+      "recent_trend": "decreasing"
+    }
+  },
+  {
+    "company": "apple",
+    "category": "To C消费品",
+    "content_distribution": {
+      "total_content": 844,
+      "content_type_distribution": {
+        "other": 570,
+        "legal": 130,
+        "product": 128,
+        "resource": 10,
+        "webinar": 3,
+        "newsroom": 2,
+        "home": 1
+      },
+      "content_type_percentage": {
+        "other": 67.53554502369668,
+        "legal": 15.402843601895736,
+        "product": 15.165876777251185,
+        "resource": 1.1848341232227488,
+        "webinar": 0.35545023696682465,
+        "newsroom": 0.23696682464454977,
+        "home": 0.11848341232227488
+      },
+      "depth_distribution": {
+        "2": 265,
+        "3": 183,
+        "4": 168,
+        "1": 154,
+        "5": 53,
+        "6": 20,
+        "0": 1
+      },
+      "average_depth": 2.713270142180095,
+      "language_distribution": {
+        "legal": 136,
+        "us": 128,
+        "tv-pr": 16,
+        "mac": 14,
+        "ipad": 11,
+        "os": 6,
+        "watch": 6,
+        "ios": 5,
+        "imac": 4,
+        "siri": 1,
+        "store": 1,
+        "apps": 1,
+        "promo": 1,
+        "pages": 1,
+        "maps": 1,
+        "macos": 1,
+        "iwork": 1,
+        "wtgh": 1
+      },
+      "language_percentage": {
+        "legal": 16.113744075829384,
+        "us": 15.165876777251185,
+        "tv-pr": 1.8957345971563981,
+        "mac": 1.6587677725118484,
+        "ipad": 1.3033175355450237,
+        "os": 0.7109004739336493,
+        "watch": 0.7109004739336493,
+        "ios": 0.5924170616113744,
+        "imac": 0.47393364928909953,
+        "siri": 0.11848341232227488,
+        "store": 0.11848341232227488,
+        "apps": 0.11848341232227488,
+        "promo": 0.11848341232227488,
+        "pages": 0.11848341232227488,
+        "maps": 0.11848341232227488,
+        "macos": 0.11848341232227488,
+        "iwork": 0.11848341232227488,
+        "wtgh": 0.11848341232227488
+      },
+      "year_distribution": {},
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "consideration": 8,
+        "awareness": 8,
+        "loyalty": 77,
+        "conversion": 10
+      },
+      "funnel_percentage": {
+        "consideration": 7.766990291262135,
+        "awareness": 7.766990291262135,
+        "loyalty": 74.75728155339806,
+        "conversion": 9.70873786407767
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "search": 128,
+        "sales-support": 74,
+        "k12": 38,
+        "enterprise": 36,
+        "intellectual-property": 29,
+        "specs": 29,
+        "college-students": 27,
+        "higher-education": 24,
+        "us": 17,
+        "small-business": 14
+      },
+      "subsections": {
+        "product-red": 127,
+        "success-stories": 123,
+        "terms": 29,
+        "dispute-forms": 17,
+        "applecare": 15,
+        "certification": 15,
+        "work-at-apple": 8,
+        "itunes": 8,
+        "sales-policies": 7,
+        "tld": 5
+      },
+      "url_patterns": {
+        "/us/search": 128,
+        "/legal/sales-support": 74,
+        "/education/k12": 38,
+        "/business/enterprise": 34,
+        "/legal/intellectual-property": 29,
+        "/education/college-students": 27,
+        "/apple-arcade/": 24,
+        "/education/higher-education": 24,
+        "/careers/us": 17,
+        "/business/small-business": 14
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 6,
+        "mean": 2.713270142180095,
+        "median": 3.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "success-stories": 130,
+        "search": 128,
+        "product-red": 127,
+        "sales-support": 74,
+        "k12": 38,
+        "enterprise": 36,
+        "specs": 29,
+        "intellectual-property": 29,
+        "terms": 29,
+        "college-students": 27,
+        "higher-education": 24,
+        "us": 17,
+        "dispute-forms": 17,
+        "applecare": 15,
+        "certification": 15
+      },
+      "industry_focus_ratio": 0.7109004739336493,
+      "product_focus_ratio": 15.165876777251185,
+      "theme_diversity": 243
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 570,
+          "avg_depth": 2.329824561403509,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 3,
+          "avg_depth": 1.6666666666666667,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 10,
+          "avg_depth": 2.8,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 2,
+          "avg_depth": 2.0,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 130,
+          "avg_depth": 4.176923076923077,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 128,
+          "avg_depth": 2.984375,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(67.5%), legal(15.4%), product(15.2%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "success-stories(130), search(128), product-red(127)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  },
+  {
+    "company": "byd",
+    "category": "To C消费品",
+    "content_distribution": {
+      "total_content": 4019,
+      "content_type_distribution": {
+        "other": 3192,
+        "newsroom": 676,
+        "blog": 71,
+        "legal": 60,
+        "webinar": 18,
+        "industry": 2
+      },
+      "content_type_percentage": {
+        "other": 79.42274197561584,
+        "newsroom": 16.820104503607862,
+        "blog": 1.766608609106743,
+        "legal": 1.4929086837521772,
+        "webinar": 0.4478726051256532,
+        "industry": 0.04976362279173924
+      },
+      "depth_distribution": {
+        "3": 2140,
+        "2": 1201,
+        "4": 568,
+        "5": 93,
+        "1": 17
+      },
+      "average_depth": 2.880318487185867,
+      "language_distribution": {
+        "eu": 338,
+        "cn": 336,
+        "byd": 308,
+        "br": 307,
+        "es-es": 258,
+        "uk": 243,
+        "nl": 204,
+        "pl": 199,
+        "it": 191,
+        "fr": 186,
+        "us": 178,
+        "de": 140,
+        "se": 71,
+        "co": 67,
+        "vn": 66,
+        "hu": 65,
+        "cl": 63,
+        "bs": 63,
+        "mx": 61,
+        "pa": 55,
+        "uy": 54,
+        "pe": 53,
+        "gt": 50,
+        "do": 49,
+        "cr": 48,
+        "ec": 47,
+        "py": 45,
+        "bo": 42,
+        "sg": 41,
+        "zh-mo": 27,
+        "en-mo": 26,
+        "ke": 24,
+        "en": 21,
+        "jp": 19,
+        "uz": 15,
+        "my": 14,
+        "in": 12,
+        "at": 10,
+        "ie": 10,
+        "gr": 6,
+        "nl-be": 1,
+        "fr-be": 1,
+        "es": 1,
+        "pt": 1,
+        "en-be": 1,
+        "no": 1,
+        "dk": 1
+      },
+      "language_percentage": {
+        "eu": 8.410052251803931,
+        "cn": 8.360288629012192,
+        "byd": 7.663597909927843,
+        "br": 7.638716098531974,
+        "es-es": 6.419507340134362,
+        "uk": 6.046280169196318,
+        "nl": 5.075889524757402,
+        "pl": 4.951480467778055,
+        "it": 4.7524259766110974,
+        "fr": 4.628016919631749,
+        "us": 4.428962428464792,
+        "de": 3.483453595421747,
+        "se": 1.766608609106743,
+        "co": 1.6670813635232644,
+        "vn": 1.6421995521273949,
+        "hu": 1.6173177407315251,
+        "cl": 1.5675541179397858,
+        "bs": 1.5675541179397858,
+        "mx": 1.5177904951480468,
+        "pa": 1.368499626772829,
+        "uy": 1.3436178153769593,
+        "pe": 1.3187360039810898,
+        "gt": 1.244090569793481,
+        "do": 1.2192087583976112,
+        "cr": 1.1943269470017417,
+        "ec": 1.1694451356058722,
+        "py": 1.1196815128141329,
+        "bo": 1.045036078626524,
+        "sg": 1.0201542672306545,
+        "zh-mo": 0.6718089076884797,
+        "en-mo": 0.6469270962926101,
+        "ke": 0.5971634735008708,
+        "en": 0.522518039313262,
+        "jp": 0.4727544165215228,
+        "uz": 0.3732271709380443,
+        "my": 0.34834535954217466,
+        "in": 0.2985817367504354,
+        "at": 0.2488181139586962,
+        "ie": 0.2488181139586962,
+        "gr": 0.1492908683752177,
+        "nl-be": 0.02488181139586962,
+        "fr-be": 0.02488181139586962,
+        "es": 0.02488181139586962,
+        "pt": 0.02488181139586962,
+        "en-be": 0.02488181139586962,
+        "no": 0.02488181139586962,
+        "dk": 0.02488181139586962
+      },
+      "year_distribution": {},
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 46,
+        "awareness": 1069,
+        "consideration": 20,
+        "loyalty": 118
+      },
+      "funnel_percentage": {
+        "conversion": 3.6711891460494814,
+        "awareness": 85.31524341580207,
+        "consideration": 1.596169193934557,
+        "loyalty": 9.417398244213887
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "news-list": 664,
+        "news": 321,
+        "car": 268,
+        "service-maintenance": 127,
+        "noticias-byd-brasil": 121,
+        "electric-cars": 98,
+        "blog": 71,
+        "dynasty-home": 65,
+        "range-calculator": 62,
+        "car-club": 61
+      },
+      "subsections": {
+        "2024": 122,
+        "2023": 112,
+        "2025": 112,
+        "models": 107,
+        "seal": 48,
+        "dolphin": 41,
+        "guides": 37,
+        "seal-u-dm-i": 32,
+        "tang": 30,
+        "han": 28
+      },
+      "url_patterns": {
+        "/byd/news": 142,
+        "/br/noticias-byd-brasil": 121,
+        "/cn/news": 59,
+        "/cn/dynasty-home": 35,
+        "/cn/car-club": 32,
+        "/byd/dynasty-home": 30,
+        "/bs/news-list": 29,
+        "/byd/car-club": 29,
+        "/byd/live-list": 29,
+        "/cn/live-list": 27
+      },
+      "depth_statistics": {
+        "min": 1,
+        "max": 5,
+        "mean": 2.880318487185867,
+        "median": 3.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "news-list": 665,
+        "news": 322,
+        "car": 268,
+        "service-maintenance": 131,
+        "2024": 122,
+        "noticias-byd-brasil": 121,
+        "2023": 112,
+        "2025": 112,
+        "models": 107,
+        "electric-cars": 98,
+        "blog": 71,
+        "range-calculator": 70,
+        "dynasty-home": 65,
+        "car-club": 61,
+        "promociones": 59
+      },
+      "industry_focus_ratio": 0.1244090569793481,
+      "product_focus_ratio": 0.7962179646678278,
+      "theme_diversity": 1484
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "other": {
+          "count": 3192,
+          "avg_depth": 2.8671679197994986,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 60,
+          "avg_depth": 2.8,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 676,
+          "avg_depth": 2.9571005917159763,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 18,
+          "avg_depth": 2.388888888888889,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 2,
+          "avg_depth": 3.0,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 71,
+          "avg_depth": 2.9295774647887325,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(79.4%), newsroom(16.8%), blog(1.8%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "news-list(665), news(322), car(268)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  },
+  {
+    "company": "palantir",
+    "category": "To B科技/软件",
+    "content_distribution": {
+      "total_content": 635,
+      "content_type_distribution": {
+        "other": 460,
+        "newsroom": 157,
+        "blog": 6,
+        "resource": 6,
+        "company": 2,
+        "product": 2,
+        "home": 1,
+        "webinar": 1
+      },
+      "content_type_percentage": {
+        "other": 72.44094488188976,
+        "newsroom": 24.7244094488189,
+        "blog": 0.9448818897637795,
+        "resource": 0.9448818897637795,
+        "company": 0.31496062992125984,
+        "product": 0.31496062992125984,
+        "home": 0.15748031496062992,
+        "webinar": 0.15748031496062992
+      },
+      "depth_distribution": {
+        "2": 231,
+        "3": 207,
+        "1": 99,
+        "4": 77,
+        "5": 20,
+        "0": 1
+      },
+      "average_depth": 2.5039370078740157,
+      "language_distribution": {
+        "jp": 59,
+        "uk": 30,
+        "pcl": 9,
+        "kr": 4,
+        "aip": 2,
+        "500": 1,
+        "titan": 1,
+        "rubix": 1,
+        "japan": 1,
+        "blog": 1,
+        "alpha": 1,
+        "about": 1,
+        "ncmec": 1
+      },
+      "language_percentage": {
+        "jp": 9.291338582677165,
+        "uk": 4.724409448818897,
+        "pcl": 1.4173228346456692,
+        "kr": 0.6299212598425197,
+        "aip": 0.31496062992125984,
+        "500": 0.15748031496062992,
+        "titan": 0.15748031496062992,
+        "rubix": 0.15748031496062992,
+        "japan": 0.15748031496062992,
+        "blog": 0.15748031496062992,
+        "alpha": 0.15748031496062992,
+        "about": 0.15748031496062992,
+        "ncmec": 0.15748031496062992
+      },
+      "year_distribution": {
+        "2025": 635
+      },
+      "recent_content_years": {
+        "2025": 635
+      },
+      "content_update_activity": true
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 189,
+        "conversion": 9,
+        "consideration": 5,
+        "loyalty": 4
+      },
+      "funnel_percentage": {
+        "awareness": 91.30434782608695,
+        "conversion": 4.3478260869565215,
+        "consideration": 2.4154589371980677,
+        "loyalty": 1.932367149758454
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "press-releases": 94,
+        "letters": 52,
+        "solutions": 28,
+        "platforms": 19,
+        "foundry": 17,
+        "palantir-for-builders": 17,
+        "defense": 13,
+        "articles": 9,
+        "en": 9,
+        "fr": 9
+      },
+      "subsections": {
+        "letter-to-shareholders": 21,
+        "service-providers": 11,
+        "foundry": 10,
+        "public": 8,
+        "secure-collaboration": 6,
+        "apollo": 5,
+        "integrations": 5,
+        "get-started": 4,
+        "2023-annual-letter": 4,
+        "2022-annual-letter": 4
+      },
+      "url_patterns": {
+        "/newsroom/press-releases": 94,
+        "/newsroom/letters": 52,
+        "/jp/solutions": 27,
+        "/offerings/palantir-for-builders": 17,
+        "/platforms/foundry": 17,
+        "/jp/platforms": 17,
+        "/offerings/defense": 12,
+        "/journal/articles": 9,
+        "/newsroom/media": 8,
+        "/careers/getting-hired": 7
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 5,
+        "mean": 2.5039370078740157,
+        "median": 2.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "press-releases": 94,
+        "letters": 52,
+        "solutions": 30,
+        "foundry": 27,
+        "letter-to-shareholders": 21,
+        "platforms": 19,
+        "palantir-for-builders": 17,
+        "defense": 14,
+        "apollo": 11,
+        "service-providers": 11,
+        "fr": 9,
+        "en": 9,
+        "articles": 9,
+        "de": 8,
+        "media": 8
+      },
+      "industry_focus_ratio": 0.7874015748031495,
+      "product_focus_ratio": 15.433070866141732,
+      "theme_diversity": 382
+    },
+    "content_execution": {
+      "yearly_content_count": {
+        "2025": 635
+      },
+      "recent_trend": "stable",
+      "monthly_distribution": {
+        "12": 635
+      },
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": true
+        },
+        "other": {
+          "count": 460,
+          "avg_depth": 2.2130434782608694,
+          "has_recent_updates": true
+        },
+        "blog": {
+          "count": 6,
+          "avg_depth": 2.5,
+          "has_recent_updates": true
+        },
+        "company": {
+          "count": 2,
+          "avg_depth": 1.0,
+          "has_recent_updates": true
+        },
+        "newsroom": {
+          "count": 157,
+          "avg_depth": 3.3630573248407645,
+          "has_recent_updates": true
+        },
+        "product": {
+          "count": 2,
+          "avg_depth": 3.5,
+          "has_recent_updates": true
+        },
+        "resource": {
+          "count": 6,
+          "avg_depth": 2.6666666666666665,
+          "has_recent_updates": true
+        },
+        "webinar": {
+          "count": 1,
+          "avg_depth": 4.0,
+          "has_recent_updates": true
+        }
+      },
+      "update_frequency": "very-active"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(72.4%), newsroom(24.7%), blog(0.9%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "press-releases(94), letters(52), solutions(30)",
+      "update_frequency": "very-active",
+      "recent_trend": "stable"
+    }
+  },
+  {
+    "company": "samsara",
+    "category": "To B科技/软件",
+    "content_distribution": {
+      "total_content": 5731,
+      "content_type_distribution": {
+        "resource": 1546,
+        "blog": 1521,
+        "other": 1445,
+        "product": 515,
+        "webinar": 443,
+        "company": 93,
+        "industry": 66,
+        "legal": 66,
+        "newsroom": 35,
+        "home": 1
+      },
+      "content_type_percentage": {
+        "resource": 26.976094922352118,
+        "blog": 26.539870877682777,
+        "other": 25.21374978188798,
+        "product": 8.986215320188448,
+        "webinar": 7.729890071540743,
+        "company": 1.6227534461699529,
+        "industry": 1.1516314779270633,
+        "legal": 1.1516314779270633,
+        "newsroom": 0.610713662537079,
+        "home": 0.017448961786773687
+      },
+      "depth_distribution": {
+        "3": 2871,
+        "4": 1454,
+        "2": 1268,
+        "5": 113,
+        "1": 24,
+        "0": 1
+      },
+      "average_depth": 3.062990752050253,
+      "language_distribution": {
+        "ca": 1399,
+        "uk": 684,
+        "blog": 504,
+        "mx": 462,
+        "de": 419,
+        "fr": 402,
+        "fr-ca": 324,
+        "nl": 283,
+        "legal": 10,
+        "fleet": 3,
+        "space": 1
+      },
+      "language_percentage": {
+        "ca": 24.41109753969639,
+        "uk": 11.935089862153202,
+        "blog": 8.794276740533938,
+        "mx": 8.061420345489443,
+        "de": 7.311114988658176,
+        "fr": 7.014482638283022,
+        "fr-ca": 5.6534636189146745,
+        "nl": 4.938056185656953,
+        "legal": 0.17448961786773687,
+        "fleet": 0.05234688536032106,
+        "space": 0.017448961786773687
+      },
+      "year_distribution": {},
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 1644,
+        "conversion": 37,
+        "consideration": 458,
+        "loyalty": 705
+      },
+      "funnel_percentage": {
+        "awareness": 57.80590717299579,
+        "conversion": 1.30098452883263,
+        "consideration": 16.10407876230661,
+        "loyalty": 24.78902953586498
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "resources": 1110,
+        "blog": 1031,
+        "products": 437,
+        "customers": 430,
+        "marketplace": 384,
+        "guides": 382,
+        "webinars": 191,
+        "company": 64,
+        "legal": 59,
+        "support": 59
+      },
+      "subsections": {
+        "marketplace": 921,
+        "models": 252,
+        "content": 58,
+        "category": 48,
+        "telematics": 41,
+        "samsara-apps": 40,
+        "cameras": 38,
+        "equipment-tracking": 36,
+        "your-partner-for-the-road-ahead": 35,
+        "build-business-resilience": 24
+      },
+      "url_patterns": {
+        "/ca/blog": 487,
+        "/blog/category": 6,
+        "/ca/company": 3,
+        "/benefits/programs": 1,
+        "/blog/10-most-exciting-samsara-features-launched-in-2019": 1,
+        "/blog/2-key-things-the-fmcsa-wants-you-to-know-about-the-eld-mandate": 1,
+        "/blog/2020-trends-in-fleet-electric-vehicles-smart-cities-new-regulations-and": 1,
+        "/blog/2024-predictions-the-evolution-of-physical-operations-in-the-age-of-ai": 1,
+        "/blog/3-benefits-safety-program-samsara-insurance-partners": 1,
+        "/blog/3-hot-topics-from-the-fmcsa-at-the-great-american-trucking-show": 1
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 5,
+        "mean": 3.062990752050253,
+        "median": 3.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "marketplace": 1305,
+        "resources": 1110,
+        "blog": 1031,
+        "products": 437,
+        "customers": 430,
+        "guides": 382,
+        "models": 292,
+        "webinars": 191,
+        "content": 96,
+        "company": 64,
+        "legal": 59,
+        "solutions": 59,
+        "support": 59,
+        "category": 54,
+        "telematics": 49
+      },
+      "industry_focus_ratio": 3.12336415983249,
+      "product_focus_ratio": 12.720293142558017,
+      "theme_diversity": 2242
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 1445,
+          "avg_depth": 2.7238754325259515,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 1521,
+          "avg_depth": 2.6916502301117684,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 443,
+          "avg_depth": 2.5575620767494356,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 35,
+          "avg_depth": 3.057142857142857,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 93,
+          "avg_depth": 3.086021505376344,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 66,
+          "avg_depth": 2.787878787878788,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 1546,
+          "avg_depth": 3.6979301423027167,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 515,
+          "avg_depth": 3.702912621359223,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 66,
+          "avg_depth": 2.8636363636363638,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "resource(27.0%), blog(26.5%), other(25.2%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "marketplace(1305), resources(1110), blog(1031)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  },
+  {
+    "company": "stripe",
+    "category": "To B科技/软件",
+    "content_distribution": {
+      "total_content": 4457,
+      "content_type_distribution": {
+        "resource": 2188,
+        "other": 1170,
+        "legal": 428,
+        "blog": 304,
+        "newsroom": 273,
+        "product": 34,
+        "company": 28,
+        "webinar": 21,
+        "industry": 10,
+        "home": 1
+      },
+      "content_type_percentage": {
+        "resource": 49.091317029391966,
+        "other": 26.25084137312093,
+        "legal": 9.602871886919452,
+        "blog": 6.820731433699797,
+        "newsroom": 6.125196320394885,
+        "product": 0.7628449629795826,
+        "company": 0.6282252636302446,
+        "webinar": 0.4711689477226834,
+        "industry": 0.2243661655822302,
+        "home": 0.02243661655822302
+      },
+      "depth_distribution": {
+        "3": 2764,
+        "2": 1448,
+        "4": 99,
+        "1": 77,
+        "5": 68,
+        "0": 1
+      },
+      "average_depth": 2.6926183531523447,
+      "language_distribution": {
+        "legal": 338,
+        "blog": 310,
+        "jobs": 142,
+        "files": 7,
+        "radar": 6,
+        "eea": 5,
+        "tax": 3,
+        "card": 3,
+        "rcas": 2,
+        "dpa": 2,
+        "atlas": 2,
+        "spc": 2,
+        "sigma": 2,
+        "saas": 1,
+        "sccb": 1,
+        "apps": 1,
+        "smcc": 1,
+        "rbl": 1,
+        "ssa": 1,
+        "ssi": 1,
+        "stel": 1,
+        "spukl": 1,
+        "marks": 1,
+        "privy": 1,
+        "pnc": 1,
+        "opal": 1,
+        "live": 1,
+        "jcb": 1,
+        "img": 1,
+        "ideal": 1,
+        "fpx": 1,
+        "eps": 1,
+        "bsi": 1,
+        "bfcm": 1,
+        "tour": 1
+      },
+      "language_percentage": {
+        "legal": 7.583576396679382,
+        "blog": 6.955351133049136,
+        "jobs": 3.1859995512676687,
+        "files": 0.15705631590756114,
+        "radar": 0.13461969934933812,
+        "eea": 0.1121830827911151,
+        "tax": 0.06730984967466906,
+        "card": 0.06730984967466906,
+        "rcas": 0.04487323311644604,
+        "dpa": 0.04487323311644604,
+        "atlas": 0.04487323311644604,
+        "spc": 0.04487323311644604,
+        "sigma": 0.04487323311644604,
+        "saas": 0.02243661655822302,
+        "sccb": 0.02243661655822302,
+        "apps": 0.02243661655822302,
+        "smcc": 0.02243661655822302,
+        "rbl": 0.02243661655822302,
+        "ssa": 0.02243661655822302,
+        "ssi": 0.02243661655822302,
+        "stel": 0.02243661655822302,
+        "spukl": 0.02243661655822302,
+        "marks": 0.02243661655822302,
+        "privy": 0.02243661655822302,
+        "pnc": 0.02243661655822302,
+        "opal": 0.02243661655822302,
+        "live": 0.02243661655822302,
+        "jcb": 0.02243661655822302,
+        "img": 0.02243661655822302,
+        "ideal": 0.02243661655822302,
+        "fpx": 0.02243661655822302,
+        "eps": 0.02243661655822302,
+        "bsi": 0.02243661655822302,
+        "bfcm": 0.02243661655822302,
+        "tour": 0.02243661655822302
+      },
+      "year_distribution": {},
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "awareness": 600,
+        "conversion": 74,
+        "loyalty": 459,
+        "consideration": 22
+      },
+      "funnel_percentage": {
+        "awareness": 51.94805194805194,
+        "conversion": 6.406926406926407,
+        "loyalty": 39.740259740259745,
+        "consideration": 1.9047619047619049
+      },
+      "funnel_balance": "awareness-heavy"
+    },
+    "content_organization": {
+      "main_sections": {
+        "more": 2247,
+        "news": 172,
+        "listing": 132,
+        "legal": 81,
+        "stories": 72,
+        "2025": 46,
+        "atlas": 39,
+        "issuing": 36,
+        "ssa": 32,
+        "2021": 25
+      },
+      "subsections": {
+        "legal": 10,
+        "blackbaud": 8,
+        "page": 8,
+        "account-executive-platforms-grower": 6,
+        "id": 5,
+        "account-executive-ai-sales": 4,
+        "account-executive-enterprise": 4,
+        "account-executive-commercial-new-business": 4,
+        "sutton": 3,
+        "celtic": 3
+      },
+      "url_patterns": {
+        "/guides/atlas": 38,
+        "/blog/page": 10,
+        "/blog/product": 6,
+        "/files/ips": 6,
+        "/eea/blackbaud": 5,
+        "/blog/engineering": 3,
+        "/connect-account/legal": 3,
+        "/.well-known/payment-methods": 2,
+        "/blog/corporate": 2,
+        "/dpa/legal": 2
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 5,
+        "mean": 2.6926183531523447,
+        "median": 3.0
+      },
+      "organization_style": "flat-broad"
+    },
+    "content_themes": {
+      "top_themes": {
+        "more": 2247,
+        "news": 172,
+        "listing": 132,
+        "legal": 91,
+        "stories": 72,
+        "2025": 46,
+        "atlas": 39,
+        "issuing": 37,
+        "ssa": 32,
+        "2021": 25,
+        "2024": 23,
+        "page": 18,
+        "blackbaud": 14,
+        "2023": 13,
+        "2022": 11
+      },
+      "industry_focus_ratio": 0.8750280457706977,
+      "product_focus_ratio": 3.3206192506170065,
+      "theme_diversity": 4031
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 1,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 1170,
+          "avg_depth": 2.3205128205128207,
+          "has_recent_updates": false
+        },
+        "legal": {
+          "count": 428,
+          "avg_depth": 2.3434579439252334,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 273,
+          "avg_depth": 2.9084249084249083,
+          "has_recent_updates": false
+        },
+        "blog": {
+          "count": 304,
+          "avg_depth": 2.0822368421052633,
+          "has_recent_updates": false
+        },
+        "webinar": {
+          "count": 21,
+          "avg_depth": 2.6666666666666665,
+          "has_recent_updates": false
+        },
+        "industry": {
+          "count": 10,
+          "avg_depth": 2.4,
+          "has_recent_updates": false
+        },
+        "company": {
+          "count": 28,
+          "avg_depth": 3.0357142857142856,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 34,
+          "avg_depth": 3.764705882352941,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 2188,
+          "avg_depth": 2.999542961608775,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "resource(49.1%), other(26.3%), legal(9.6%)",
+      "funnel_strategy": "awareness-heavy",
+      "organization_strategy": "flat-broad",
+      "theme_strategy": "more(2247), news(172), listing(132)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  },
+  {
+    "company": "xiaomi",
+    "category": "To C消费品",
+    "content_distribution": {
+      "total_content": 16741,
+      "content_type_distribution": {
+        "other": 15286,
+        "product": 1444,
+        "home": 4,
+        "newsroom": 4,
+        "resource": 3
+      },
+      "content_type_percentage": {
+        "other": 91.30876291738845,
+        "product": 8.625530135595245,
+        "home": 0.02389343527865719,
+        "newsroom": 0.02389343527865719,
+        "resource": 0.01792007645899289
+      },
+      "depth_distribution": {
+        "1": 7076,
+        "8": 3841,
+        "2": 2711,
+        "6": 1713,
+        "3": 802,
+        "7": 449,
+        "4": 77,
+        "5": 68,
+        "0": 4
+      },
+      "average_depth": 3.566154948927782,
+      "language_distribution": {
+        "c": 319,
+        "a": 216,
+        "hk": 79,
+        "tw": 61,
+        "en": 58,
+        "in": 42,
+        "my": 38,
+        "sg": 30,
+        "ua": 19,
+        "es": 18,
+        "vn": 17,
+        "eg": 17,
+        "fr": 16,
+        "us": 15,
+        "mitv3": 15,
+        "p": 14,
+        "mitv4": 12,
+        "ph": 11,
+        "ru": 11,
+        "kr": 9,
+        "about": 9,
+        "pl": 8,
+        "th": 8,
+        "note3": 7,
+        "bd": 6,
+        "mi5": 6,
+        "miuav": 5,
+        "mi4c": 5,
+        "mi4": 5,
+        "mix2": 5,
+        "re": 5,
+        "air2": 5,
+        "mi5s": 5,
+        "water": 4,
+        "air2s": 4,
+        "tvzj": 4,
+        "mea": 4,
+        "air": 4,
+        "mimax": 4,
+        "mivr": 4,
+        "mi6": 4,
+        "mix": 3,
+        "id": 3,
+        "mi8": 3,
+        "mix2s": 3,
+        "mi8i": 3,
+        "mi8ud": 3,
+        "plc": 3,
+        "max3": 3,
+        "mi5c": 3,
+        "mitv": 3,
+        "it": 3,
+        "mi4s": 3,
+        "mi8te": 3,
+        "mi6x": 3,
+        "note2": 3,
+        "max2": 3,
+        "mx": 2,
+        "radio": 2,
+        "rover": 2,
+        "mouse": 2,
+        "buy": 2,
+        "mi5x": 2,
+        "hezi3": 2,
+        "mitu": 2,
+        "119-8": 1,
+        "124-8": 1,
+        "123-2": 1,
+        "125-8": 1,
+        "123-1": 1,
+        "127-2": 1,
+        "128-8": 1,
+        "12-1": 1,
+        "17-2": 1,
+        "118-8": 1,
+        "116-2": 1,
+        "110-8": 1,
+        "13-32": 1,
+        "11-64": 1,
+        "1-32": 1,
+        "0-4-2": 1,
+        "0-2-1": 1,
+        "0-16": 1,
+        "0-112": 1,
+        "0-1": 1,
+        "0-0-9": 1,
+        "0-0-8": 1,
+        "13-2": 1,
+        "136-8": 1,
+        "13-4": 1,
+        "15-64": 1,
+        "5--1": 1,
+        "163-8": 1,
+        "17-64": 1,
+        "16-64": 1,
+        "16-2": 1,
+        "16-16": 1,
+        "16-1": 1,
+        "156-1": 1,
+        "150-1": 1,
+        "15-1": 1,
+        "13-64": 1,
+        "143-4": 1,
+        "14-64": 1,
+        "14-32": 1,
+        "14-2": 1,
+        "139-2": 1,
+        "138-8": 1,
+        "135-8": 1,
+        "135-4": 1,
+        "134-1": 1,
+        "5-8": 1,
+        "189-8": 1,
+        "33-8": 1,
+        "31-64": 1,
+        "23-1": 1,
+        "209-8": 1,
+        "195-8": 1,
+        "192-8": 1,
+        "191-8": 1,
+        "173-4": 1,
+        "173-8": 1,
+        "162-8": 1,
+        "162-4": 1,
+        "123-8": 1,
+        "111-8": 1,
+        "11-8": 1,
+        "109-8": 1,
+        "1-8": 1,
+        "0-64": 1,
+        "9-64": 1,
+        "7-8": 1,
+        "245-2": 1,
+        "24-16": 1,
+        "239-8": 1,
+        "238-8": 1,
+        "254": 1,
+        "26-8": 1,
+        "30-64": 1,
+        "184-1": 1,
+        "30-32": 1,
+        "27-16": 1,
+        "26-32": 1,
+        "241-2": 1,
+        "24-8": 1,
+        "24-64": 1,
+        "22-4": 1,
+        "20-2": 1,
+        "19-64": 1,
+        "183-8": 1,
+        "32-8": 1,
+        "180-8": 1,
+        "160-8": 1,
+        "159-8": 1,
+        "14-8": 1,
+        "130-8": 1,
+        "127-1": 1,
+        "11-16": 1,
+        "1-16": 1,
+        "59-8": 1,
+        "173-2": 1,
+        "22-16": 1,
+        "174-8": 1,
+        "234-4": 1,
+        "32-32": 1,
+        "32-2": 1,
+        "32-1": 1,
+        "31-16": 1,
+        "31-1": 1,
+        "29-8": 1,
+        "29-64": 1,
+        "27-4": 1,
+        "27-32": 1,
+        "262-2": 1,
+        "26-2": 1,
+        "257": 1,
+        "245-4": 1,
+        "242-4": 1,
+        "240-4": 1,
+        "239-4": 1,
+        "239-2": 1,
+        "238-2": 1,
+        "238-1": 1,
+        "236-4": 1,
+        "236-2": 1,
+        "32-4": 1,
+        "33-16": 1,
+        "33-4": 1,
+        "8-16": 1,
+        "9-8-1": 1,
+        "9-32": 1,
+        "9-256": 1,
+        "9-2": 1,
+        "9-128": 1,
+        "9-123": 1,
+        "8-64": 1,
+        "8-321": 1,
+        "8-2": 1,
+        "8-128": 1,
+        "5-112": 1,
+        "8-112": 1,
+        "7-64": 1,
+        "7-4": 1,
+        "7-16": 1,
+        "61-32": 1,
+        "61-1": 1,
+        "59-16": 1,
+        "5-321": 1,
+        "5-128": 1,
+        "235-4": 1,
+        "233-4": 1,
+        "18-16": 1,
+        "233-2": 1,
+        "210-2": 1,
+        "209-2": 1,
+        "208-2": 1,
+        "206-8": 1,
+        "206-4": 1,
+        "206-2": 1,
+        "204-4": 1,
+        "204-2": 1,
+        "201-8": 1,
+        "200-2": 1,
+        "20-64": 1,
+        "199-2": 1,
+        "198-2": 1,
+        "193-2": 1,
+        "193-1": 1,
+        "192-1": 1,
+        "191-1": 1,
+        "184-2": 1,
+        "182-4": 1,
+        "182-2": 1,
+        "18-8": 1,
+        "211-1": 1,
+        "213-4": 1,
+        "214-4": 1,
+        "224-4": 1,
+        "232-4": 1,
+        "231-4": 1,
+        "230-4": 1,
+        "23-64": 1,
+        "229-4": 1,
+        "227-4": 1,
+        "226-4": 1,
+        "225-4": 1,
+        "225-2": 1,
+        "224-2": 1,
+        "215-4": 1,
+        "223-4": 1,
+        "221-2": 1,
+        "220-4": 1,
+        "22-2": 1,
+        "23-8": 1,
+        "219-4": 1,
+        "218-4": 1,
+        "217-4": 1,
+        "216-4": 1,
+        "231-2": 1,
+        "247": 1,
+        "193-8": 1,
+        "127": 1,
+        "59": 1,
+        "5": 1,
+        "227": 1,
+        "208": 1,
+        "160": 1,
+        "128": 1,
+        "252": 1,
+        "177": 1,
+        "159": 1,
+        "150": 1,
+        "14": 1,
+        "102": 1,
+        "116": 1,
+        "11": 1,
+        "29": 1,
+        "205": 1,
+        "198": 1,
+        "199": 1,
+        "135": 1,
+        "22": 1,
+        "209": 1,
+        "118": 1,
+        "143": 1,
+        "122": 1,
+        "19": 1,
+        "27": 1,
+        "242": 1,
+        "119": 1,
+        "229": 1,
+        "223": 1,
+        "132": 1,
+        "253": 1,
+        "231": 1,
+        "178": 1,
+        "0-0-1": 1,
+        "32": 1,
+        "224": 1,
+        "201": 1,
+        "134": 1,
+        "113": 1,
+        "222": 1,
+        "196": 1,
+        "189": 1,
+        "136": 1,
+        "12": 1,
+        "221": 1,
+        "180": 1,
+        "174": 1,
+        "26": 1,
+        "31": 1,
+        "130": 1,
+        "dapei": 1,
+        "9": 1,
+        "0": 1,
+        "13": 1,
+        "mua": 1,
+        "shb": 1,
+        "scale": 1,
+        "lipin": 1,
+        "cute": 1,
+        "buytv": 1,
+        "mena": 1,
+        "mi2a": 1,
+        "font": 1,
+        "wifi": 1,
+        "mipad": 1,
+        "http:": 1,
+        "ir": 1,
+        "mi3": 1,
+        "hezis": 1,
+        "note": 1,
+        "15": 1,
+        "114": 1,
+        "24": 1,
+        "30": 1,
+        "217": 1,
+        "18": 1,
+        "218": 1,
+        "125": 1,
+        "206": 1,
+        "pjrm": 1,
+        "23": 1,
+        "20": 1,
+        "220": 1,
+        "216": 1,
+        "8": 1,
+        "147": 1,
+        "7": 1,
+        "183": 1,
+        "109": 1,
+        "16": 1,
+        "213": 1,
+        "17": 1,
+        "162": 1,
+        "111": 1,
+        "1": 1,
+        "123": 1,
+        "150-8": 1,
+        "230": 1,
+        "226": 1,
+        "157": 1,
+        "33": 1,
+        "261": 1,
+        "244": 1,
+        "225": 1,
+        "211": 1,
+        "207": 1,
+        "204": 1,
+        "194": 1,
+        "182": 1,
+        "152": 1,
+        "260": 1,
+        "258": 1,
+        "256": 1,
+        "251": 1,
+        "239": 1,
+        "236": 1,
+        "163": 1,
+        "156": 1,
+        "15-16": 1,
+        "228": 1,
+        "0-": 1,
+        "8-0-1": 1,
+        "20-8": 1,
+        "148-8": 1,
+        "113-8": 1,
+        "1-256": 1,
+        "1-0-1": 1,
+        "0-32": 1,
+        "0-256": 1,
+        "8-123": 1,
+        "5-0-1": 1,
+        "31-8": 1,
+        "30-8": 1,
+        "255": 1,
+        "208-8": 1,
+        "147-8": 1,
+        "14-16": 1,
+        "0-128": 1,
+        "5-32": 1,
+        "184-8": 1,
+        "7-0-1": 1,
+        "5-16": 1,
+        "19-8": 1,
+        "0-8": 1,
+        "141": 1,
+        "240": 1,
+        "235": 1,
+        "233": 1,
+        "193": 1,
+        "192": 1,
+        "176": 1,
+        "173": 1,
+        "171": 1,
+        "262": 1,
+        "250": 1,
+        "246": 1,
+        "245": 1,
+        "241": 1,
+        "219": 1,
+        "212": 1,
+        "184": 1,
+        "172": 1,
+        "139": 1,
+        "129": 1,
+        "214": 1,
+        "137": 1,
+        "117": 1,
+        "155": 1,
+        "124": 1,
+        "215": 1,
+        "232": 1,
+        "237": 1,
+        "238": 1,
+        "203": 1,
+        "200": 1,
+        "148": 1,
+        "146": 1,
+        "145": 1,
+        "115": 1,
+        "112": 1,
+        "110": 1,
+        "259": 1,
+        "234": 1,
+        "248": 1,
+        "210": 1,
+        "202": 1,
+        "197": 1,
+        "195": 1,
+        "191": 1,
+        "138": 1,
+        "9-0-1": 1,
+        "61": 1,
+        "249": 1,
+        "zh-cn": 1
+      },
+      "language_percentage": {
+        "c": 1.9055014634729108,
+        "a": 1.2902455050474881,
+        "hk": 0.47189534675347944,
+        "tw": 0.3643748879995221,
+        "en": 0.34645481154052926,
+        "in": 0.2508810704259005,
+        "my": 0.2269876351472433,
+        "sg": 0.17920076458992892,
+        "ua": 0.11349381757362165,
+        "es": 0.10752045875395735,
+        "vn": 0.10154709993429306,
+        "eg": 0.10154709993429306,
+        "fr": 0.09557374111462875,
+        "us": 0.08960038229496446,
+        "mitv3": 0.08960038229496446,
+        "p": 0.08362702347530016,
+        "mitv4": 0.07168030583597156,
+        "ph": 0.06570694701630726,
+        "ru": 0.06570694701630726,
+        "kr": 0.05376022937697868,
+        "about": 0.05376022937697868,
+        "pl": 0.04778687055731438,
+        "th": 0.04778687055731438,
+        "note3": 0.04181351173765008,
+        "bd": 0.03584015291798578,
+        "mi5": 0.03584015291798578,
+        "miuav": 0.02986679409832149,
+        "mi4c": 0.02986679409832149,
+        "mi4": 0.02986679409832149,
+        "mix2": 0.02986679409832149,
+        "re": 0.02986679409832149,
+        "air2": 0.02986679409832149,
+        "mi5s": 0.02986679409832149,
+        "water": 0.02389343527865719,
+        "air2s": 0.02389343527865719,
+        "tvzj": 0.02389343527865719,
+        "mea": 0.02389343527865719,
+        "air": 0.02389343527865719,
+        "mimax": 0.02389343527865719,
+        "mivr": 0.02389343527865719,
+        "mi6": 0.02389343527865719,
+        "mix": 0.01792007645899289,
+        "id": 0.01792007645899289,
+        "mi8": 0.01792007645899289,
+        "mix2s": 0.01792007645899289,
+        "mi8i": 0.01792007645899289,
+        "mi8ud": 0.01792007645899289,
+        "plc": 0.01792007645899289,
+        "max3": 0.01792007645899289,
+        "mi5c": 0.01792007645899289,
+        "mitv": 0.01792007645899289,
+        "it": 0.01792007645899289,
+        "mi4s": 0.01792007645899289,
+        "mi8te": 0.01792007645899289,
+        "mi6x": 0.01792007645899289,
+        "note2": 0.01792007645899289,
+        "max2": 0.01792007645899289,
+        "mx": 0.011946717639328594,
+        "radio": 0.011946717639328594,
+        "rover": 0.011946717639328594,
+        "mouse": 0.011946717639328594,
+        "buy": 0.011946717639328594,
+        "mi5x": 0.011946717639328594,
+        "hezi3": 0.011946717639328594,
+        "mitu": 0.011946717639328594,
+        "119-8": 0.005973358819664297,
+        "124-8": 0.005973358819664297,
+        "123-2": 0.005973358819664297,
+        "125-8": 0.005973358819664297,
+        "123-1": 0.005973358819664297,
+        "127-2": 0.005973358819664297,
+        "128-8": 0.005973358819664297,
+        "12-1": 0.005973358819664297,
+        "17-2": 0.005973358819664297,
+        "118-8": 0.005973358819664297,
+        "116-2": 0.005973358819664297,
+        "110-8": 0.005973358819664297,
+        "13-32": 0.005973358819664297,
+        "11-64": 0.005973358819664297,
+        "1-32": 0.005973358819664297,
+        "0-4-2": 0.005973358819664297,
+        "0-2-1": 0.005973358819664297,
+        "0-16": 0.005973358819664297,
+        "0-112": 0.005973358819664297,
+        "0-1": 0.005973358819664297,
+        "0-0-9": 0.005973358819664297,
+        "0-0-8": 0.005973358819664297,
+        "13-2": 0.005973358819664297,
+        "136-8": 0.005973358819664297,
+        "13-4": 0.005973358819664297,
+        "15-64": 0.005973358819664297,
+        "5--1": 0.005973358819664297,
+        "163-8": 0.005973358819664297,
+        "17-64": 0.005973358819664297,
+        "16-64": 0.005973358819664297,
+        "16-2": 0.005973358819664297,
+        "16-16": 0.005973358819664297,
+        "16-1": 0.005973358819664297,
+        "156-1": 0.005973358819664297,
+        "150-1": 0.005973358819664297,
+        "15-1": 0.005973358819664297,
+        "13-64": 0.005973358819664297,
+        "143-4": 0.005973358819664297,
+        "14-64": 0.005973358819664297,
+        "14-32": 0.005973358819664297,
+        "14-2": 0.005973358819664297,
+        "139-2": 0.005973358819664297,
+        "138-8": 0.005973358819664297,
+        "135-8": 0.005973358819664297,
+        "135-4": 0.005973358819664297,
+        "134-1": 0.005973358819664297,
+        "5-8": 0.005973358819664297,
+        "189-8": 0.005973358819664297,
+        "33-8": 0.005973358819664297,
+        "31-64": 0.005973358819664297,
+        "23-1": 0.005973358819664297,
+        "209-8": 0.005973358819664297,
+        "195-8": 0.005973358819664297,
+        "192-8": 0.005973358819664297,
+        "191-8": 0.005973358819664297,
+        "173-4": 0.005973358819664297,
+        "173-8": 0.005973358819664297,
+        "162-8": 0.005973358819664297,
+        "162-4": 0.005973358819664297,
+        "123-8": 0.005973358819664297,
+        "111-8": 0.005973358819664297,
+        "11-8": 0.005973358819664297,
+        "109-8": 0.005973358819664297,
+        "1-8": 0.005973358819664297,
+        "0-64": 0.005973358819664297,
+        "9-64": 0.005973358819664297,
+        "7-8": 0.005973358819664297,
+        "245-2": 0.005973358819664297,
+        "24-16": 0.005973358819664297,
+        "239-8": 0.005973358819664297,
+        "238-8": 0.005973358819664297,
+        "254": 0.005973358819664297,
+        "26-8": 0.005973358819664297,
+        "30-64": 0.005973358819664297,
+        "184-1": 0.005973358819664297,
+        "30-32": 0.005973358819664297,
+        "27-16": 0.005973358819664297,
+        "26-32": 0.005973358819664297,
+        "241-2": 0.005973358819664297,
+        "24-8": 0.005973358819664297,
+        "24-64": 0.005973358819664297,
+        "22-4": 0.005973358819664297,
+        "20-2": 0.005973358819664297,
+        "19-64": 0.005973358819664297,
+        "183-8": 0.005973358819664297,
+        "32-8": 0.005973358819664297,
+        "180-8": 0.005973358819664297,
+        "160-8": 0.005973358819664297,
+        "159-8": 0.005973358819664297,
+        "14-8": 0.005973358819664297,
+        "130-8": 0.005973358819664297,
+        "127-1": 0.005973358819664297,
+        "11-16": 0.005973358819664297,
+        "1-16": 0.005973358819664297,
+        "59-8": 0.005973358819664297,
+        "173-2": 0.005973358819664297,
+        "22-16": 0.005973358819664297,
+        "174-8": 0.005973358819664297,
+        "234-4": 0.005973358819664297,
+        "32-32": 0.005973358819664297,
+        "32-2": 0.005973358819664297,
+        "32-1": 0.005973358819664297,
+        "31-16": 0.005973358819664297,
+        "31-1": 0.005973358819664297,
+        "29-8": 0.005973358819664297,
+        "29-64": 0.005973358819664297,
+        "27-4": 0.005973358819664297,
+        "27-32": 0.005973358819664297,
+        "262-2": 0.005973358819664297,
+        "26-2": 0.005973358819664297,
+        "257": 0.005973358819664297,
+        "245-4": 0.005973358819664297,
+        "242-4": 0.005973358819664297,
+        "240-4": 0.005973358819664297,
+        "239-4": 0.005973358819664297,
+        "239-2": 0.005973358819664297,
+        "238-2": 0.005973358819664297,
+        "238-1": 0.005973358819664297,
+        "236-4": 0.005973358819664297,
+        "236-2": 0.005973358819664297,
+        "32-4": 0.005973358819664297,
+        "33-16": 0.005973358819664297,
+        "33-4": 0.005973358819664297,
+        "8-16": 0.005973358819664297,
+        "9-8-1": 0.005973358819664297,
+        "9-32": 0.005973358819664297,
+        "9-256": 0.005973358819664297,
+        "9-2": 0.005973358819664297,
+        "9-128": 0.005973358819664297,
+        "9-123": 0.005973358819664297,
+        "8-64": 0.005973358819664297,
+        "8-321": 0.005973358819664297,
+        "8-2": 0.005973358819664297,
+        "8-128": 0.005973358819664297,
+        "5-112": 0.005973358819664297,
+        "8-112": 0.005973358819664297,
+        "7-64": 0.005973358819664297,
+        "7-4": 0.005973358819664297,
+        "7-16": 0.005973358819664297,
+        "61-32": 0.005973358819664297,
+        "61-1": 0.005973358819664297,
+        "59-16": 0.005973358819664297,
+        "5-321": 0.005973358819664297,
+        "5-128": 0.005973358819664297,
+        "235-4": 0.005973358819664297,
+        "233-4": 0.005973358819664297,
+        "18-16": 0.005973358819664297,
+        "233-2": 0.005973358819664297,
+        "210-2": 0.005973358819664297,
+        "209-2": 0.005973358819664297,
+        "208-2": 0.005973358819664297,
+        "206-8": 0.005973358819664297,
+        "206-4": 0.005973358819664297,
+        "206-2": 0.005973358819664297,
+        "204-4": 0.005973358819664297,
+        "204-2": 0.005973358819664297,
+        "201-8": 0.005973358819664297,
+        "200-2": 0.005973358819664297,
+        "20-64": 0.005973358819664297,
+        "199-2": 0.005973358819664297,
+        "198-2": 0.005973358819664297,
+        "193-2": 0.005973358819664297,
+        "193-1": 0.005973358819664297,
+        "192-1": 0.005973358819664297,
+        "191-1": 0.005973358819664297,
+        "184-2": 0.005973358819664297,
+        "182-4": 0.005973358819664297,
+        "182-2": 0.005973358819664297,
+        "18-8": 0.005973358819664297,
+        "211-1": 0.005973358819664297,
+        "213-4": 0.005973358819664297,
+        "214-4": 0.005973358819664297,
+        "224-4": 0.005973358819664297,
+        "232-4": 0.005973358819664297,
+        "231-4": 0.005973358819664297,
+        "230-4": 0.005973358819664297,
+        "23-64": 0.005973358819664297,
+        "229-4": 0.005973358819664297,
+        "227-4": 0.005973358819664297,
+        "226-4": 0.005973358819664297,
+        "225-4": 0.005973358819664297,
+        "225-2": 0.005973358819664297,
+        "224-2": 0.005973358819664297,
+        "215-4": 0.005973358819664297,
+        "223-4": 0.005973358819664297,
+        "221-2": 0.005973358819664297,
+        "220-4": 0.005973358819664297,
+        "22-2": 0.005973358819664297,
+        "23-8": 0.005973358819664297,
+        "219-4": 0.005973358819664297,
+        "218-4": 0.005973358819664297,
+        "217-4": 0.005973358819664297,
+        "216-4": 0.005973358819664297,
+        "231-2": 0.005973358819664297,
+        "247": 0.005973358819664297,
+        "193-8": 0.005973358819664297,
+        "127": 0.005973358819664297,
+        "59": 0.005973358819664297,
+        "5": 0.005973358819664297,
+        "227": 0.005973358819664297,
+        "208": 0.005973358819664297,
+        "160": 0.005973358819664297,
+        "128": 0.005973358819664297,
+        "252": 0.005973358819664297,
+        "177": 0.005973358819664297,
+        "159": 0.005973358819664297,
+        "150": 0.005973358819664297,
+        "14": 0.005973358819664297,
+        "102": 0.005973358819664297,
+        "116": 0.005973358819664297,
+        "11": 0.005973358819664297,
+        "29": 0.005973358819664297,
+        "205": 0.005973358819664297,
+        "198": 0.005973358819664297,
+        "199": 0.005973358819664297,
+        "135": 0.005973358819664297,
+        "22": 0.005973358819664297,
+        "209": 0.005973358819664297,
+        "118": 0.005973358819664297,
+        "143": 0.005973358819664297,
+        "122": 0.005973358819664297,
+        "19": 0.005973358819664297,
+        "27": 0.005973358819664297,
+        "242": 0.005973358819664297,
+        "119": 0.005973358819664297,
+        "229": 0.005973358819664297,
+        "223": 0.005973358819664297,
+        "132": 0.005973358819664297,
+        "253": 0.005973358819664297,
+        "231": 0.005973358819664297,
+        "178": 0.005973358819664297,
+        "0-0-1": 0.005973358819664297,
+        "32": 0.005973358819664297,
+        "224": 0.005973358819664297,
+        "201": 0.005973358819664297,
+        "134": 0.005973358819664297,
+        "113": 0.005973358819664297,
+        "222": 0.005973358819664297,
+        "196": 0.005973358819664297,
+        "189": 0.005973358819664297,
+        "136": 0.005973358819664297,
+        "12": 0.005973358819664297,
+        "221": 0.005973358819664297,
+        "180": 0.005973358819664297,
+        "174": 0.005973358819664297,
+        "26": 0.005973358819664297,
+        "31": 0.005973358819664297,
+        "130": 0.005973358819664297,
+        "dapei": 0.005973358819664297,
+        "9": 0.005973358819664297,
+        "0": 0.005973358819664297,
+        "13": 0.005973358819664297,
+        "mua": 0.005973358819664297,
+        "shb": 0.005973358819664297,
+        "scale": 0.005973358819664297,
+        "lipin": 0.005973358819664297,
+        "cute": 0.005973358819664297,
+        "buytv": 0.005973358819664297,
+        "mena": 0.005973358819664297,
+        "mi2a": 0.005973358819664297,
+        "font": 0.005973358819664297,
+        "wifi": 0.005973358819664297,
+        "mipad": 0.005973358819664297,
+        "http:": 0.005973358819664297,
+        "ir": 0.005973358819664297,
+        "mi3": 0.005973358819664297,
+        "hezis": 0.005973358819664297,
+        "note": 0.005973358819664297,
+        "15": 0.005973358819664297,
+        "114": 0.005973358819664297,
+        "24": 0.005973358819664297,
+        "30": 0.005973358819664297,
+        "217": 0.005973358819664297,
+        "18": 0.005973358819664297,
+        "218": 0.005973358819664297,
+        "125": 0.005973358819664297,
+        "206": 0.005973358819664297,
+        "pjrm": 0.005973358819664297,
+        "23": 0.005973358819664297,
+        "20": 0.005973358819664297,
+        "220": 0.005973358819664297,
+        "216": 0.005973358819664297,
+        "8": 0.005973358819664297,
+        "147": 0.005973358819664297,
+        "7": 0.005973358819664297,
+        "183": 0.005973358819664297,
+        "109": 0.005973358819664297,
+        "16": 0.005973358819664297,
+        "213": 0.005973358819664297,
+        "17": 0.005973358819664297,
+        "162": 0.005973358819664297,
+        "111": 0.005973358819664297,
+        "1": 0.005973358819664297,
+        "123": 0.005973358819664297,
+        "150-8": 0.005973358819664297,
+        "230": 0.005973358819664297,
+        "226": 0.005973358819664297,
+        "157": 0.005973358819664297,
+        "33": 0.005973358819664297,
+        "261": 0.005973358819664297,
+        "244": 0.005973358819664297,
+        "225": 0.005973358819664297,
+        "211": 0.005973358819664297,
+        "207": 0.005973358819664297,
+        "204": 0.005973358819664297,
+        "194": 0.005973358819664297,
+        "182": 0.005973358819664297,
+        "152": 0.005973358819664297,
+        "260": 0.005973358819664297,
+        "258": 0.005973358819664297,
+        "256": 0.005973358819664297,
+        "251": 0.005973358819664297,
+        "239": 0.005973358819664297,
+        "236": 0.005973358819664297,
+        "163": 0.005973358819664297,
+        "156": 0.005973358819664297,
+        "15-16": 0.005973358819664297,
+        "228": 0.005973358819664297,
+        "0-": 0.005973358819664297,
+        "8-0-1": 0.005973358819664297,
+        "20-8": 0.005973358819664297,
+        "148-8": 0.005973358819664297,
+        "113-8": 0.005973358819664297,
+        "1-256": 0.005973358819664297,
+        "1-0-1": 0.005973358819664297,
+        "0-32": 0.005973358819664297,
+        "0-256": 0.005973358819664297,
+        "8-123": 0.005973358819664297,
+        "5-0-1": 0.005973358819664297,
+        "31-8": 0.005973358819664297,
+        "30-8": 0.005973358819664297,
+        "255": 0.005973358819664297,
+        "208-8": 0.005973358819664297,
+        "147-8": 0.005973358819664297,
+        "14-16": 0.005973358819664297,
+        "0-128": 0.005973358819664297,
+        "5-32": 0.005973358819664297,
+        "184-8": 0.005973358819664297,
+        "7-0-1": 0.005973358819664297,
+        "5-16": 0.005973358819664297,
+        "19-8": 0.005973358819664297,
+        "0-8": 0.005973358819664297,
+        "141": 0.005973358819664297,
+        "240": 0.005973358819664297,
+        "235": 0.005973358819664297,
+        "233": 0.005973358819664297,
+        "193": 0.005973358819664297,
+        "192": 0.005973358819664297,
+        "176": 0.005973358819664297,
+        "173": 0.005973358819664297,
+        "171": 0.005973358819664297,
+        "262": 0.005973358819664297,
+        "250": 0.005973358819664297,
+        "246": 0.005973358819664297,
+        "245": 0.005973358819664297,
+        "241": 0.005973358819664297,
+        "219": 0.005973358819664297,
+        "212": 0.005973358819664297,
+        "184": 0.005973358819664297,
+        "172": 0.005973358819664297,
+        "139": 0.005973358819664297,
+        "129": 0.005973358819664297,
+        "214": 0.005973358819664297,
+        "137": 0.005973358819664297,
+        "117": 0.005973358819664297,
+        "155": 0.005973358819664297,
+        "124": 0.005973358819664297,
+        "215": 0.005973358819664297,
+        "232": 0.005973358819664297,
+        "237": 0.005973358819664297,
+        "238": 0.005973358819664297,
+        "203": 0.005973358819664297,
+        "200": 0.005973358819664297,
+        "148": 0.005973358819664297,
+        "146": 0.005973358819664297,
+        "145": 0.005973358819664297,
+        "115": 0.005973358819664297,
+        "112": 0.005973358819664297,
+        "110": 0.005973358819664297,
+        "259": 0.005973358819664297,
+        "234": 0.005973358819664297,
+        "248": 0.005973358819664297,
+        "210": 0.005973358819664297,
+        "202": 0.005973358819664297,
+        "197": 0.005973358819664297,
+        "195": 0.005973358819664297,
+        "191": 0.005973358819664297,
+        "138": 0.005973358819664297,
+        "9-0-1": 0.005973358819664297,
+        "61": 0.005973358819664297,
+        "249": 0.005973358819664297,
+        "zh-cn": 0.005973358819664297
+      },
+      "year_distribution": {
+        "2018": 16741
+      },
+      "recent_content_years": {},
+      "content_update_activity": false
+    },
+    "content_funnel": {
+      "funnel_distribution": {
+        "conversion": 8,
+        "awareness": 6,
+        "loyalty": 30
+      },
+      "funnel_percentage": {
+        "conversion": 18.181818181818183,
+        "awareness": 13.636363636363635,
+        "loyalty": 68.18181818181817
+      },
+      "funnel_balance": "unbalanced"
+    },
+    "content_organization": {
+      "main_sections": {
+        "askDetail": 5379,
+        "commentList": 371,
+        "xiaomizhijia": 279,
+        "asklist": 253,
+        "h": 216,
+        "specs": 211,
+        "service": 70,
+        "askList": 66,
+        "gallery": 37,
+        "miwifi": 31
+      },
+      "subsections": {
+        "gid": 6078,
+        "specs": 79,
+        "trouble": 9,
+        "repair": 8,
+        "drivers": 8,
+        "miwifi3": 8,
+        "privacy": 8,
+        "gallery": 7,
+        "miphone": 6,
+        "download": 6
+      },
+      "url_patterns": {
+        "/a/h": 216,
+        "/c/xiaomizhijia": 117,
+        "/service/bijiben": 12,
+        "/c/service": 7,
+        "/mitv4/65": 4,
+        "/service/miwifi": 4,
+        "/hk/service": 4,
+        "/service/account": 4,
+        "/service/support": 4,
+        "/service/buy": 3
+      },
+      "depth_statistics": {
+        "min": 0,
+        "max": 8,
+        "mean": 3.566154948927782,
+        "median": 2.0
+      },
+      "organization_style": "hierarchical"
+    },
+    "content_themes": {
+      "top_themes": {
+        "gid": 6078,
+        "askdetail": 5385,
+        "commentlist": 374,
+        "asklist": 319,
+        "specs": 290,
+        "xiaomizhijia": 279,
+        "h": 216,
+        "service": 72,
+        "gallery": 44,
+        "miwifi": 31,
+        "about": 30,
+        "index.html": 24,
+        "miphone": 19,
+        "support": 19,
+        "bijiben": 16
+      },
+      "industry_focus_ratio": 0.0,
+      "product_focus_ratio": 8.625530135595245,
+      "theme_diversity": 2334
+    },
+    "content_execution": {
+      "yearly_content_count": {},
+      "recent_trend": "unknown",
+      "monthly_distribution": {},
+      "content_type_execution": {
+        "home": {
+          "count": 4,
+          "avg_depth": 0.0,
+          "has_recent_updates": false
+        },
+        "other": {
+          "count": 15286,
+          "avg_depth": 3.7154912992280518,
+          "has_recent_updates": false
+        },
+        "resource": {
+          "count": 3,
+          "avg_depth": 2.6666666666666665,
+          "has_recent_updates": false
+        },
+        "newsroom": {
+          "count": 4,
+          "avg_depth": 2.25,
+          "has_recent_updates": false
+        },
+        "product": {
+          "count": 1444,
+          "avg_depth": 2.0006925207756234,
+          "has_recent_updates": false
+        }
+      },
+      "update_frequency": "unknown"
+    },
+    "strategy_summary": {
+      "main_content_strategy": "other(91.3%), product(8.6%), home(0.0%)",
+      "funnel_strategy": "unbalanced",
+      "organization_strategy": "hierarchical",
+      "theme_strategy": "gid(6078), askdetail(5385), commentlist(374)",
+      "update_frequency": "unknown",
+      "recent_trend": "unknown"
+    }
+  }
+]

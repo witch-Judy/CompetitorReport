@@ -1,0 +1,48 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 912
+
+Domains: www.cognite.com
+
+Languages:
+  en: 731
+  ja-jp: 181
+
+Sections:
+  resources: 472
+  company: 261
+  product: 31
+  demos: 24
+  industries: 16
+  customers: 16
+  partners: 14
+  roles: 4
+  industrial-data-fabric: 2
+  events: 2
+  forrester-total-economic-impact: 2
+  industrial-knowledge-graph: 2
+  industrial-canvas: 2
+  contact: 2
+  hybrid-ai: 2
+  industrial-digital-twin: 2
+  contextualization: 2
+  why-cognite: 2
+  : 2
+  generative-ai: 2
+
+Content Types:
+  newsroom: 203
+  blog: 175
+  webinar: 151
+  other: 127
+  customer_story: 74
+  company: 59
+  resource: 59
+  product: 40
+  industry: 24
+
+Years:
+  2025: 874
+  2024: 38

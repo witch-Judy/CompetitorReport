@@ -1,0 +1,4317 @@
+{
+  "company": "univers",
+  "structure": "navigation_tree",
+  "categories": [
+    {
+      "name": "About Us",
+      "key": "about-us",
+      "type": "category",
+      "children": [
+        {
+          "name": "About Us",
+          "key": "about-us::About Us",
+          "type": "page",
+          "url": "https://univers.com/about-us/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/about-us/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Articles",
+      "key": "articles",
+      "type": "category",
+      "children": [
+        {
+          "name": "Age Old Systems Smart New Solutions How Ai Is Transforming Buildings",
+          "key": "articles::age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Age Old Systems Smart New Solutions How Ai Is Transforming Buildings",
+              "key": "articles::age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings::Age Old Systems Smart New Solutions How Ai Is Transforming Buildings",
+              "type": "page",
+              "url": "https://univers.com/articles/age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/age-old-systems-smart-new-solutions-how-ai-is-transforming-buildings/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ais Positive Impact On Energy Three Ways Its Already Making A Difference",
+          "key": "articles::ais-positive-impact-on-energy-three-ways-its-already-making-a-difference",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ais Positive Impact On Energy Three Ways Its Already Making A Difference",
+              "key": "articles::ais-positive-impact-on-energy-three-ways-its-already-making-a-difference::Ais Positive Impact On Energy Three Ways Its Already Making A Difference",
+              "type": "page",
+              "url": "https://univers.com/articles/ais-positive-impact-on-energy-three-ways-its-already-making-a-difference/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/ais-positive-impact-on-energy-three-ways-its-already-making-a-difference/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Battery Storage Is Booming But Are You Losing Money Without Knowing It",
+          "key": "articles::battery-storage-is-booming-but-are-you-losing-money-without-knowing-it",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Battery Storage Is Booming But Are You Losing Money Without Knowing It",
+              "key": "articles::battery-storage-is-booming-but-are-you-losing-money-without-knowing-it::Battery Storage Is Booming But Are You Losing Money Without Knowing It",
+              "type": "page",
+              "url": "https://univers.com/articles/battery-storage-is-booming-but-are-you-losing-money-without-knowing-it/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/battery-storage-is-booming-but-are-you-losing-money-without-knowing-it/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grids In Crisis A Wake Up Call For Europe",
+          "key": "articles::grids-in-crisis-a-wake-up-call-for-europe",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Grids In Crisis A Wake Up Call For Europe",
+              "key": "articles::grids-in-crisis-a-wake-up-call-for-europe::Grids In Crisis A Wake Up Call For Europe",
+              "type": "page",
+              "url": "https://univers.com/articles/grids-in-crisis-a-wake-up-call-for-europe/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/grids-in-crisis-a-wake-up-call-for-europe/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "How Is Univers Positioning Itself Uniquely In The Decarbonization Journey",
+          "key": "articles::how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "How Is Univers Positioning Itself Uniquely In The Decarbonization Journey",
+              "key": "articles::how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey::How Is Univers Positioning Itself Uniquely In The Decarbonization Journey",
+              "type": "page",
+              "url": "https://univers.com/articles/how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/how-is-univers-positioning-itself-uniquely-in-the-decarbonization-journey/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "How Nvia Accelerates Microgrids In Europe",
+          "key": "articles::how-nvia-accelerates-microgrids-in-europe",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "How Nvia Accelerates Microgrids In Europe",
+              "key": "articles::how-nvia-accelerates-microgrids-in-europe::How Nvia Accelerates Microgrids In Europe",
+              "type": "page",
+              "url": "https://univers.com/articles/how-nvia-accelerates-microgrids-in-europe/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/how-nvia-accelerates-microgrids-in-europe/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Less Is More The Power Of Focus In Sustainability Strategies",
+          "key": "articles::less-is-more-the-power-of-focus-in-sustainability-strategies",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Less Is More The Power Of Focus In Sustainability Strategies",
+              "key": "articles::less-is-more-the-power-of-focus-in-sustainability-strategies::Less Is More The Power Of Focus In Sustainability Strategies",
+              "type": "page",
+              "url": "https://univers.com/articles/less-is-more-the-power-of-focus-in-sustainability-strategies/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/less-is-more-the-power-of-focus-in-sustainability-strategies/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Make Sure Digital Transformation Successful",
+          "key": "articles::make-sure-digital-transformation-successful",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Make Sure Digital Transformation Successful",
+              "key": "articles::make-sure-digital-transformation-successful::Make Sure Digital Transformation Successful",
+              "type": "page",
+              "url": "https://univers.com/articles/make-sure-digital-transformation-successful/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/make-sure-digital-transformation-successful/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Meet The Intelligent Microgrid",
+          "key": "articles::meet-the-intelligent-microgrid",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Meet The Intelligent Microgrid",
+              "key": "articles::meet-the-intelligent-microgrid::Meet The Intelligent Microgrid",
+              "type": "page",
+              "url": "https://univers.com/articles/meet-the-intelligent-microgrid/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/meet-the-intelligent-microgrid/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Net Zero Emissions A Matter Of Trust",
+          "key": "articles::net-zero-emissions-a-matter-of-trust",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Net Zero Emissions A Matter Of Trust",
+              "key": "articles::net-zero-emissions-a-matter-of-trust::Net Zero Emissions A Matter Of Trust",
+              "type": "page",
+              "url": "https://univers.com/articles/net-zero-emissions-a-matter-of-trust/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/net-zero-emissions-a-matter-of-trust/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Powering A Sustainable Future With Harmony Energy And Enos Storage",
+          "key": "articles::powering-a-sustainable-future-with-harmony-energy-and-enos-storage",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Powering A Sustainable Future With Harmony Energy And Enos Storage",
+              "key": "articles::powering-a-sustainable-future-with-harmony-energy-and-enos-storage::Powering A Sustainable Future With Harmony Energy And Enos Storage",
+              "type": "page",
+              "url": "https://univers.com/articles/powering-a-sustainable-future-with-harmony-energy-and-enos-storage/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/powering-a-sustainable-future-with-harmony-energy-and-enos-storage/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Solar Power Shines Brighter Still",
+          "key": "articles::solar-power-shines-brighter-still",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Solar Power Shines Brighter Still",
+              "key": "articles::solar-power-shines-brighter-still::Solar Power Shines Brighter Still",
+              "type": "page",
+              "url": "https://univers.com/articles/solar-power-shines-brighter-still/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/solar-power-shines-brighter-still/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spains New Climate Plan Why Choosing The Best Carbon Accounting Software Matters Now",
+          "key": "articles::spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Spains New Climate Plan Why Choosing The Best Carbon Accounting Software Matters Now",
+              "key": "articles::spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now::Spains New Climate Plan Why Choosing The Best Carbon Accounting Software Matters Now",
+              "type": "page",
+              "url": "https://univers.com/articles/spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/spains-new-climate-plan-why-choosing-the-best-carbon-accounting-software-matters-now/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unlocking Renewable Energy With Ai And Iot",
+          "key": "articles::unlocking-renewable-energy-with-ai-and-iot",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Unlocking Renewable Energy With Ai And Iot",
+              "key": "articles::unlocking-renewable-energy-with-ai-and-iot::Unlocking Renewable Energy With Ai And Iot",
+              "type": "page",
+              "url": "https://univers.com/articles/unlocking-renewable-energy-with-ai-and-iot/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/unlocking-renewable-energy-with-ai-and-iot/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "What To Expect From The Eu Omnibus Sustainability Package",
+          "key": "articles::what-to-expect-from-the-eu-omnibus-sustainability-package",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "What To Expect From The Eu Omnibus Sustainability Package",
+              "key": "articles::what-to-expect-from-the-eu-omnibus-sustainability-package::What To Expect From The Eu Omnibus Sustainability Package",
+              "type": "page",
+              "url": "https://univers.com/articles/what-to-expect-from-the-eu-omnibus-sustainability-package/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/what-to-expect-from-the-eu-omnibus-sustainability-package/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "When Your Ai Powered Energy Optimization Doesnt Work Whos Liable",
+          "key": "articles::when-your-ai-powered-energy-optimization-doesnt-work-whos-liable",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "When Your Ai Powered Energy Optimization Doesnt Work Whos Liable",
+              "key": "articles::when-your-ai-powered-energy-optimization-doesnt-work-whos-liable::When Your Ai Powered Energy Optimization Doesnt Work Whos Liable",
+              "type": "page",
+              "url": "https://univers.com/articles/when-your-ai-powered-energy-optimization-doesnt-work-whos-liable/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/when-your-ai-powered-energy-optimization-doesnt-work-whos-liable/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Why We Need An Ai For Energy",
+          "key": "articles::why-we-need-an-ai-for-energy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Why We Need An Ai For Energy",
+              "key": "articles::why-we-need-an-ai-for-energy::Why We Need An Ai For Energy",
+              "type": "page",
+              "url": "https://univers.com/articles/why-we-need-an-ai-for-energy/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/articles/why-we-need-an-ai-for-energy/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Author",
+      "key": "author",
+      "type": "category",
+      "children": [
+        {
+          "name": "Andy Cakebreadarchetype Co",
+          "key": "author::andy-cakebreadarchetype-co",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Andy Cakebreadarchetype Co",
+              "key": "author::andy-cakebreadarchetype-co::Andy Cakebreadarchetype Co",
+              "type": "page",
+              "url": "https://univers.com/author/andy-cakebreadarchetype-co/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/andy-cakebreadarchetype-co/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Arun Poojari",
+          "key": "author::arun-poojari",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Arun Poojari",
+              "key": "author::arun-poojari::Arun Poojari",
+              "type": "page",
+              "url": "https://univers.com/author/arun-poojari/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/arun-poojari/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chandi Rayunivers Com",
+          "key": "author::chandi-rayunivers-com",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Chandi Rayunivers Com",
+              "key": "author::chandi-rayunivers-com::Chandi Rayunivers Com",
+              "type": "page",
+              "url": "https://univers.com/author/chandi-rayunivers-com/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/chandi-rayunivers-com/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ian Delaneyarchetype Co",
+          "key": "author::ian-delaneyarchetype-co",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ian Delaneyarchetype Co",
+              "key": "author::ian-delaneyarchetype-co::Ian Delaneyarchetype Co",
+              "type": "page",
+              "url": "https://univers.com/author/ian-delaneyarchetype-co/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/ian-delaneyarchetype-co/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jacqui Chen",
+          "key": "author::jacqui-chen",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Jacqui Chen",
+              "key": "author::jacqui-chen::Jacqui Chen",
+              "type": "page",
+              "url": "https://univers.com/author/jacqui-chen/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/jacqui-chen/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Maher Chebbo",
+          "key": "author::maher-chebbo",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Maher Chebbo",
+              "key": "author::maher-chebbo::Maher Chebbo",
+              "type": "page",
+              "url": "https://univers.com/author/maher-chebbo/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/maher-chebbo/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Michaelding",
+          "key": "author::michaelding",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Michaelding",
+              "key": "author::michaelding::Michaelding",
+              "type": "page",
+              "url": "https://univers.com/author/michaelding/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/michaelding/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tapeesh",
+          "key": "author::tapeesh",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Tapeesh",
+              "key": "author::tapeesh::Tapeesh",
+              "type": "page",
+              "url": "https://univers.com/author/tapeesh/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/tapeesh/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ynse",
+          "key": "author::ynse",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ynse",
+              "key": "author::ynse::Ynse",
+              "type": "page",
+              "url": "https://univers.com/author/ynse/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/ynse/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zhao",
+          "key": "author::zhao",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Zhao",
+              "key": "author::zhao::Zhao",
+              "type": "page",
+              "url": "https://univers.com/author/zhao/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/author/zhao/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blog",
+      "key": "blog",
+      "type": "category",
+      "children": [
+        {
+          "name": "Blog",
+          "key": "blog::Blog",
+          "type": "page",
+          "url": "https://univers.com/blog/",
+          "languages": [
+            "blog"
+          ],
+          "all_urls": [
+            "https://univers.com/blog/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Careers",
+      "key": "careers",
+      "type": "category",
+      "children": [
+        {
+          "name": "Careers",
+          "key": "careers::Careers",
+          "type": "page",
+          "url": "https://univers.com/careers/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/careers/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Category",
+      "key": "category",
+      "type": "category",
+      "children": [
+        {
+          "name": "Announcements",
+          "key": "category::announcements",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Announcements",
+              "key": "category::announcements::Announcements",
+              "type": "page",
+              "url": "https://univers.com/category/announcements/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/category/announcements/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Articles",
+          "key": "category::articles",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Articles",
+              "key": "category::articles::Articles",
+              "type": "page",
+              "url": "https://univers.com/category/articles/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/category/articles/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Events",
+          "key": "category::events",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Events",
+              "key": "category::events::Events",
+              "type": "page",
+              "url": "https://univers.com/category/events/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/category/events/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "key": "contact-us",
+      "type": "category",
+      "children": [
+        {
+          "name": "Contact Us",
+          "key": "contact-us::Contact Us",
+          "type": "page",
+          "url": "https://univers.com/contact-us/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/contact-us/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cookie Policy",
+      "key": "cookie-policy",
+      "type": "category",
+      "children": [
+        {
+          "name": "Cookie Policy",
+          "key": "cookie-policy::Cookie Policy",
+          "type": "page",
+          "url": "https://univers.com/cookie-policy/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/cookie-policy/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Customer Stories",
+      "key": "customer-stories",
+      "type": "category",
+      "children": [
+        {
+          "name": "Customer Stories",
+          "key": "customer-stories::Customer Stories",
+          "type": "page",
+          "url": "https://univers.com/customer-stories/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/customer-stories/"
+          ]
+        },
+        {
+          "name": "Aet Cuts Reliance On Grid Electricity With Microgrid",
+          "key": "customer-stories::aet-cuts-reliance-on-grid-electricity-with-microgrid",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Aet Cuts Reliance On Grid Electricity With Microgrid",
+              "key": "customer-stories::aet-cuts-reliance-on-grid-electricity-with-microgrid::Aet Cuts Reliance On Grid Electricity With Microgrid",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/aet-cuts-reliance-on-grid-electricity-with-microgrid/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/aet-cuts-reliance-on-grid-electricity-with-microgrid/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cable Deploys Cloud Analytics And Remote Monitoring To Stay Ahead Of The Competition",
+          "key": "customer-stories::cable-deploys-cloud-analytics-and-remote-monitoring-to-stay-ahead-of-the-competition",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Cable Deploys Cloud Analytics And Remote Monitoring To Stay Ahead Of The Competition",
+              "key": "customer-stories::cable-deploys-cloud-analytics-and-remote-monitoring-to-stay-ahead-of-the-competition::Cable Deploys Cloud Analytics And Remote Monitoring To Stay Ahead Of The Competition",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/cable-deploys-cloud-analytics-and-remote-monitoring-to-stay-ahead-of-the-competition/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/cable-deploys-cloud-analytics-and-remote-monitoring-to-stay-ahead-of-the-competition/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Certis Boosts Productivity With Ai Hvac Optimization",
+          "key": "customer-stories::certis-boosts-productivity-with-ai-hvac-optimization",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Certis Boosts Productivity With Ai Hvac Optimization",
+              "key": "customer-stories::certis-boosts-productivity-with-ai-hvac-optimization::Certis Boosts Productivity With Ai Hvac Optimization",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/certis-boosts-productivity-with-ai-hvac-optimization/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/certis-boosts-productivity-with-ai-hvac-optimization/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Citadines Bali Adopts Smart Iot Devices For Carbon Tracking",
+          "key": "customer-stories::citadines-bali-adopts-smart-iot-devices-for-carbon-tracking",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Citadines Bali Adopts Smart Iot Devices For Carbon Tracking",
+              "key": "customer-stories::citadines-bali-adopts-smart-iot-devices-for-carbon-tracking::Citadines Bali Adopts Smart Iot Devices For Carbon Tracking",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/citadines-bali-adopts-smart-iot-devices-for-carbon-tracking/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/citadines-bali-adopts-smart-iot-devices-for-carbon-tracking/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cote Brasserie Cuts Energy Use With Ai Powered Solution",
+          "key": "customer-stories::cote-brasserie-cuts-energy-use-with-ai-powered-solution",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Cote Brasserie Cuts Energy Use With Ai Powered Solution",
+              "key": "customer-stories::cote-brasserie-cuts-energy-use-with-ai-powered-solution::Cote Brasserie Cuts Energy Use With Ai Powered Solution",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/cote-brasserie-cuts-energy-use-with-ai-powered-solution/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/cote-brasserie-cuts-energy-use-with-ai-powered-solution/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Harmony Energy Unifies Its Battery Storage Fleet With Enos Storage",
+          "key": "customer-stories::harmony-energy-unifies-its-battery-storage-fleet-with-enos-storage",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Harmony Energy Unifies Its Battery Storage Fleet With Enos Storage",
+              "key": "customer-stories::harmony-energy-unifies-its-battery-storage-fleet-with-enos-storage::Harmony Energy Unifies Its Battery Storage Fleet With Enos Storage",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/harmony-energy-unifies-its-battery-storage-fleet-with-enos-storage/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/harmony-energy-unifies-its-battery-storage-fleet-with-enos-storage/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Indorama Drives Sustainability With Smart Factory Solutions",
+          "key": "customer-stories::indorama-drives-sustainability-with-smart-factory-solutions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Indorama Drives Sustainability With Smart Factory Solutions",
+              "key": "customer-stories::indorama-drives-sustainability-with-smart-factory-solutions::Indorama Drives Sustainability With Smart Factory Solutions",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/indorama-drives-sustainability-with-smart-factory-solutions/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/indorama-drives-sustainability-with-smart-factory-solutions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Orix Digitizes Solar Farms Across Japan",
+          "key": "customer-stories::orix-digitizes-solar-farms-across-japan",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Orix Digitizes Solar Farms Across Japan",
+              "key": "customer-stories::orix-digitizes-solar-farms-across-japan::Orix Digitizes Solar Farms Across Japan",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/orix-digitizes-solar-farms-across-japan/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/orix-digitizes-solar-farms-across-japan/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Psa Decarbonizes Operations With Smart Grid Solutions",
+          "key": "customer-stories::psa-decarbonizes-operations-with-smart-grid-solutions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Psa Decarbonizes Operations With Smart Grid Solutions",
+              "key": "customer-stories::psa-decarbonizes-operations-with-smart-grid-solutions::Psa Decarbonizes Operations With Smart Grid Solutions",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/psa-decarbonizes-operations-with-smart-grid-solutions/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/psa-decarbonizes-operations-with-smart-grid-solutions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smart Tech Powers Microsofts Green Future",
+          "key": "customer-stories::smart-tech-powers-microsofts-green-future",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Smart Tech Powers Microsofts Green Future",
+              "key": "customer-stories::smart-tech-powers-microsofts-green-future::Smart Tech Powers Microsofts Green Future",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/smart-tech-powers-microsofts-green-future/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/smart-tech-powers-microsofts-green-future/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Enables Indonesias Groundbreaking Solar Plus Bess Project",
+          "key": "customer-stories::univers-enables-indonesias-groundbreaking-solar-plus-bess-project",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Enables Indonesias Groundbreaking Solar Plus Bess Project",
+              "key": "customer-stories::univers-enables-indonesias-groundbreaking-solar-plus-bess-project::Univers Enables Indonesias Groundbreaking Solar Plus Bess Project",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/univers-enables-indonesias-groundbreaking-solar-plus-bess-project/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/univers-enables-indonesias-groundbreaking-solar-plus-bess-project/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Powers Cambodias First Utility Scale Pvbess Hybrid Project With Advanced Ppc And Scada Solutions",
+          "key": "customer-stories::univers-powers-cambodias-first-utility-scale-pvbess-hybrid-project-with-advanced-ppc-and-scada-solutions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Powers Cambodias First Utility Scale Pvbess Hybrid Project With Advanced Ppc And Scada Solutions",
+              "key": "customer-stories::univers-powers-cambodias-first-utility-scale-pvbess-hybrid-project-with-advanced-ppc-and-scada-solutions::Univers Powers Cambodias First Utility Scale Pvbess Hybrid Project With Advanced Ppc And Scada Solutions",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/univers-powers-cambodias-first-utility-scale-pvbess-hybrid-project-with-advanced-ppc-and-scada-solutions/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/univers-powers-cambodias-first-utility-scale-pvbess-hybrid-project-with-advanced-ppc-and-scada-solutions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ych Slashes Energy Consumption With Carbon And Resource Management Software",
+          "key": "customer-stories::ych-slashes-energy-consumption-with-carbon-and-resource-management-software",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ych Slashes Energy Consumption With Carbon And Resource Management Software",
+              "key": "customer-stories::ych-slashes-energy-consumption-with-carbon-and-resource-management-software::Ych Slashes Energy Consumption With Carbon And Resource Management Software",
+              "type": "page",
+              "url": "https://univers.com/customer-stories/ych-slashes-energy-consumption-with-carbon-and-resource-management-software/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/customer-stories/ych-slashes-energy-consumption-with-carbon-and-resource-management-software/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Event",
+      "key": "event",
+      "type": "category",
+      "children": [
+        {
+          "name": "Events Energy Storage Summit 2025",
+          "key": "event::events-energy-storage-summit-2025",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Events Energy Storage Summit 2025",
+              "key": "event::events-energy-storage-summit-2025::Events Energy Storage Summit 2025",
+              "type": "page",
+              "url": "https://univers.com/event/events-energy-storage-summit-2025/",
+              "languages": [
+                "event"
+              ],
+              "all_urls": [
+                "https://univers.com/event/events-energy-storage-summit-2025/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "One Univers Sg",
+          "key": "event::one-univers-sg",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "One Univers Sg",
+              "key": "event::one-univers-sg::One Univers Sg",
+              "type": "page",
+              "url": "https://univers.com/event/one-univers-sg/",
+              "languages": [
+                "event"
+              ],
+              "all_urls": [
+                "https://univers.com/event/one-univers-sg/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "One Univers Singapore",
+          "key": "event::one-univers-singapore",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "One Univers Singapore",
+              "key": "event::one-univers-singapore::One Univers Singapore",
+              "type": "page",
+              "url": "https://univers.com/event/one-univers-singapore/",
+              "languages": [
+                "event"
+              ],
+              "all_urls": [
+                "https://univers.com/event/one-univers-singapore/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smart Energy Week 2025",
+          "key": "event::smart-energy-week-2025",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Smart Energy Week 2025",
+              "key": "event::smart-energy-week-2025::Smart Energy Week 2025",
+              "type": "page",
+              "url": "https://univers.com/event/smart-energy-week-2025/",
+              "languages": [
+                "event"
+              ],
+              "all_urls": [
+                "https://univers.com/event/smart-energy-week-2025/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smarter Ees Europe 2025",
+          "key": "event::smarter-ees-europe-2025",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Smarter Ees Europe 2025",
+              "key": "event::smarter-ees-europe-2025::Smarter Ees Europe 2025",
+              "type": "page",
+              "url": "https://univers.com/event/smarter-ees-europe-2025/",
+              "languages": [
+                "event"
+              ],
+              "all_urls": [
+                "https://univers.com/event/smarter-ees-europe-2025/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Events",
+      "key": "events",
+      "type": "category",
+      "children": [
+        {
+          "name": "Events",
+          "key": "events::Events",
+          "type": "page",
+          "url": "https://univers.com/events/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/events/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Form Submission Thank You Page",
+      "key": "form-submission-thank-you-page",
+      "type": "category",
+      "children": [
+        {
+          "name": "Form Submission Thank You Page",
+          "key": "form-submission-thank-you-page::Form Submission Thank You Page",
+          "type": "page",
+          "url": "https://univers.com/form-submission-thank-you-page/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/form-submission-thank-you-page/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industries",
+      "key": "industries",
+      "type": "category",
+      "children": [
+        {
+          "name": "Industries",
+          "key": "industries::Industries",
+          "type": "page",
+          "url": "https://univers.com/industries/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/industries/"
+          ]
+        },
+        {
+          "name": "Energy Utilities",
+          "key": "industries::energy-utilities",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Energy Utilities",
+              "key": "industries::energy-utilities::Energy Utilities",
+              "type": "page",
+              "url": "https://univers.com/industries/energy-utilities/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/energy-utilities/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Financial Institutions",
+          "key": "industries::financial-institutions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Financial Institutions",
+              "key": "industries::financial-institutions::Financial Institutions",
+              "type": "page",
+              "url": "https://univers.com/industries/financial-institutions/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/financial-institutions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Manufacturing",
+          "key": "industries::manufacturing",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Manufacturing",
+              "key": "industries::manufacturing::Manufacturing",
+              "type": "page",
+              "url": "https://univers.com/industries/manufacturing/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/manufacturing/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ports Transport Logistics",
+          "key": "industries::ports-transport-logistics",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ports Transport Logistics",
+              "key": "industries::ports-transport-logistics::Ports Transport Logistics",
+              "type": "page",
+              "url": "https://univers.com/industries/ports-transport-logistics/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/ports-transport-logistics/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Public Services",
+          "key": "industries::public-services",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Public Services",
+              "key": "industries::public-services::Public Services",
+              "type": "page",
+              "url": "https://univers.com/industries/public-services/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/public-services/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Real Estate",
+          "key": "industries::real-estate",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Real Estate",
+              "key": "industries::real-estate::Real Estate",
+              "type": "page",
+              "url": "https://univers.com/industries/real-estate/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/real-estate/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Retail Consumer Goods",
+          "key": "industries::retail-consumer-goods",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Retail Consumer Goods",
+              "key": "industries::retail-consumer-goods::Retail Consumer Goods",
+              "type": "page",
+              "url": "https://univers.com/industries/retail-consumer-goods/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industries/retail-consumer-goods/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industry Customer Story",
+      "key": "industry-customer-story",
+      "type": "category",
+      "children": [
+        {
+          "name": "Technology",
+          "key": "industry-customer-story::technology",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Technology",
+              "key": "industry-customer-story::technology::Technology",
+              "type": "page",
+              "url": "https://univers.com/industry-customer-story/technology/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/industry-customer-story/technology/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Job Role",
+      "key": "job-role",
+      "type": "category",
+      "children": [
+        {
+          "name": "Associate",
+          "key": "job-role::associate",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Associate",
+              "key": "job-role::associate::Associate",
+              "type": "page",
+              "url": "https://univers.com/job-role/associate/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/job-role/associate/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Director Vice President",
+          "key": "job-role::director-vice-president",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Director Vice President",
+              "key": "job-role::director-vice-president::Director Vice President",
+              "type": "page",
+              "url": "https://univers.com/job-role/director-vice-president/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/job-role/director-vice-president/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Entry Level",
+          "key": "job-role::entry-level",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Entry Level",
+              "key": "job-role::entry-level::Entry Level",
+              "type": "page",
+              "url": "https://univers.com/job-role/entry-level/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/job-role/entry-level/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Internship",
+          "key": "job-role::internship",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Internship",
+              "key": "job-role::internship::Internship",
+              "type": "page",
+              "url": "https://univers.com/job-role/internship/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/job-role/internship/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mid Senior Level",
+          "key": "job-role::mid-senior-level",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Mid Senior Level",
+              "key": "job-role::mid-senior-level::Mid Senior Level",
+              "type": "page",
+              "url": "https://univers.com/job-role/mid-senior-level/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/job-role/mid-senior-level/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Login",
+      "key": "login",
+      "type": "category",
+      "children": [
+        {
+          "name": "Login",
+          "key": "login::Login",
+          "type": "page",
+          "url": "https://univers.com/login/",
+          "languages": [
+            "login"
+          ],
+          "all_urls": [
+            "https://univers.com/login/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nan",
+      "key": "nan",
+      "type": "category",
+      "children": [
+        {
+          "name": "Nan",
+          "key": "nan::Nan",
+          "type": "page",
+          "url": "https://univers.com/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "News",
+      "key": "news",
+      "type": "category",
+      "children": [
+        {
+          "name": "News",
+          "key": "news::News",
+          "type": "page",
+          "url": "https://univers.com/news/",
+          "languages": [
+            "news"
+          ],
+          "all_urls": [
+            "https://univers.com/news/"
+          ]
+        },
+        {
+          "name": "Akaysha Energy Chooses Univers Baze%Ef%Ac%81Eld For Asset Performance Management Of The Worlds Most Powerful Bess And Portfolio Of Bess",
+          "key": "news::akaysha-energy-chooses-univers-baze%ef%ac%81eld-for-asset-performance-management-of-the-worlds-most-powerful-bess-and-portfolio-of-bess",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Akaysha Energy Chooses Univers Baze%Ef%Ac%81Eld For Asset Performance Management Of The Worlds Most Powerful Bess And Portfolio Of Bess",
+              "key": "news::akaysha-energy-chooses-univers-baze%ef%ac%81eld-for-asset-performance-management-of-the-worlds-most-powerful-bess-and-portfolio-of-bess::Akaysha Energy Chooses Univers Baze%Ef%Ac%81Eld For Asset Performance Management Of The Worlds Most Powerful Bess And Portfolio Of Bess",
+              "type": "page",
+              "url": "https://univers.com/news/akaysha-energy-chooses-univers-baze%ef%ac%81eld-for-asset-performance-management-of-the-worlds-most-powerful-bess-and-portfolio-of-bess/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/akaysha-energy-chooses-univers-baze%ef%ac%81eld-for-asset-performance-management-of-the-worlds-most-powerful-bess-and-portfolio-of-bess/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Apex Clean Energy Rolls Out Bazefield Across 2Gw Of Renewable Assets",
+          "key": "news::apex-clean-energy-rolls-out-bazefield-across-2gw-of-renewable-assets",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Apex Clean Energy Rolls Out Bazefield Across 2Gw Of Renewable Assets",
+              "key": "news::apex-clean-energy-rolls-out-bazefield-across-2gw-of-renewable-assets::Apex Clean Energy Rolls Out Bazefield Across 2Gw Of Renewable Assets",
+              "type": "page",
+              "url": "https://univers.com/news/apex-clean-energy-rolls-out-bazefield-across-2gw-of-renewable-assets/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/apex-clean-energy-rolls-out-bazefield-across-2gw-of-renewable-assets/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bloomberg New Economy Climate Technology Coalition Launched Today In Singapore",
+          "key": "news::bloomberg-new-economy-climate-technology-coalition-launched-today-in-singapore",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Bloomberg New Economy Climate Technology Coalition Launched Today In Singapore",
+              "key": "news::bloomberg-new-economy-climate-technology-coalition-launched-today-in-singapore::Bloomberg New Economy Climate Technology Coalition Launched Today In Singapore",
+              "type": "page",
+              "url": "https://univers.com/news/bloomberg-new-economy-climate-technology-coalition-launched-today-in-singapore/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/bloomberg-new-economy-climate-technology-coalition-launched-today-in-singapore/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Brewing Innovation Univers And Starbucks China Redefine Green Retail From Store To Supplier",
+          "key": "news::brewing-innovation-univers-and-starbucks-china-redefine-green-retail-from-store-to-supplier",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Brewing Innovation Univers And Starbucks China Redefine Green Retail From Store To Supplier",
+              "key": "news::brewing-innovation-univers-and-starbucks-china-redefine-green-retail-from-store-to-supplier::Brewing Innovation Univers And Starbucks China Redefine Green Retail From Store To Supplier",
+              "type": "page",
+              "url": "https://univers.com/news/brewing-innovation-univers-and-starbucks-china-redefine-green-retail-from-store-to-supplier/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/brewing-innovation-univers-and-starbucks-china-redefine-green-retail-from-store-to-supplier/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bureau Veritas Creates A Net Zero Centre Of Excellence In Collaboration With Envision Digital Now Univers",
+          "key": "news::bureau-veritas-creates-a-net-zero-centre-of-excellence-in-collaboration-with-envision-digital-now-univers",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Bureau Veritas Creates A Net Zero Centre Of Excellence In Collaboration With Envision Digital Now Univers",
+              "key": "news::bureau-veritas-creates-a-net-zero-centre-of-excellence-in-collaboration-with-envision-digital-now-univers::Bureau Veritas Creates A Net Zero Centre Of Excellence In Collaboration With Envision Digital Now Univers",
+              "type": "page",
+              "url": "https://univers.com/news/bureau-veritas-creates-a-net-zero-centre-of-excellence-in-collaboration-with-envision-digital-now-univers/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/bureau-veritas-creates-a-net-zero-centre-of-excellence-in-collaboration-with-envision-digital-now-univers/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Climate Change And The Food Industry",
+          "key": "news::climate-change-and-the-food-industry",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Climate Change And The Food Industry",
+              "key": "news::climate-change-and-the-food-industry::Climate Change And The Food Industry",
+              "type": "page",
+              "url": "https://univers.com/news/climate-change-and-the-food-industry/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/climate-change-and-the-food-industry/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dbs And Univers Partner To Scale Digital Solutions For Net Zero Across Asia",
+          "key": "news::dbs-and-univers-partner-to-scale-digital-solutions-for-net-zero-across-asia",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Dbs And Univers Partner To Scale Digital Solutions For Net Zero Across Asia",
+              "key": "news::dbs-and-univers-partner-to-scale-digital-solutions-for-net-zero-across-asia::Dbs And Univers Partner To Scale Digital Solutions For Net Zero Across Asia",
+              "type": "page",
+              "url": "https://univers.com/news/dbs-and-univers-partner-to-scale-digital-solutions-for-net-zero-across-asia/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/dbs-and-univers-partner-to-scale-digital-solutions-for-net-zero-across-asia/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Esg Leaders Recognized At 2022 Seal Business Sustainability Awards",
+          "key": "news::esg-leaders-recognized-at-2022-seal-business-sustainability-awards",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Esg Leaders Recognized At 2022 Seal Business Sustainability Awards",
+              "key": "news::esg-leaders-recognized-at-2022-seal-business-sustainability-awards::Esg Leaders Recognized At 2022 Seal Business Sustainability Awards",
+              "type": "page",
+              "url": "https://univers.com/news/esg-leaders-recognized-at-2022-seal-business-sustainability-awards/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/esg-leaders-recognized-at-2022-seal-business-sustainability-awards/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Global Ai For Energy Leader Univers To Launch Malaysias First Net Zero Centre Of Excellence",
+          "key": "news::global-ai-for-energy-leader-univers-to-launch-malaysias-first-net-zero-centre-of-excellence",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Global Ai For Energy Leader Univers To Launch Malaysias First Net Zero Centre Of Excellence",
+              "key": "news::global-ai-for-energy-leader-univers-to-launch-malaysias-first-net-zero-centre-of-excellence::Global Ai For Energy Leader Univers To Launch Malaysias First Net Zero Centre Of Excellence",
+              "type": "page",
+              "url": "https://univers.com/news/global-ai-for-energy-leader-univers-to-launch-malaysias-first-net-zero-centre-of-excellence/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/global-ai-for-energy-leader-univers-to-launch-malaysias-first-net-zero-centre-of-excellence/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "How Does Advanced Analytics Help You Take Corrective Actions And Increase Yield",
+          "key": "news::how-does-advanced-analytics-help-you-take-corrective-actions-and-increase-yield",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "How Does Advanced Analytics Help You Take Corrective Actions And Increase Yield",
+              "key": "news::how-does-advanced-analytics-help-you-take-corrective-actions-and-increase-yield::How Does Advanced Analytics Help You Take Corrective Actions And Increase Yield",
+              "type": "page",
+              "url": "https://univers.com/news/how-does-advanced-analytics-help-you-take-corrective-actions-and-increase-yield/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/how-does-advanced-analytics-help-you-take-corrective-actions-and-increase-yield/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Interview Market Oriented Approaches Key To Unlocking Healthy Growth In Renewables",
+          "key": "news::interview-market-oriented-approaches-key-to-unlocking-healthy-growth-in-renewables",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Interview Market Oriented Approaches Key To Unlocking Healthy Growth In Renewables",
+              "key": "news::interview-market-oriented-approaches-key-to-unlocking-healthy-growth-in-renewables::Interview Market Oriented Approaches Key To Unlocking Healthy Growth In Renewables",
+              "type": "page",
+              "url": "https://univers.com/news/interview-market-oriented-approaches-key-to-unlocking-healthy-growth-in-renewables/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/interview-market-oriented-approaches-key-to-unlocking-healthy-growth-in-renewables/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jtc Appoints Univers And Pacificlight To Develop Singapores First District Level Smart Grid In Punggol Digital District",
+          "key": "news::jtc-appoints-univers-and-pacificlight-to-develop-singapores-first-district-level-smart-grid-in-punggol-digital-district",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Jtc Appoints Univers And Pacificlight To Develop Singapores First District Level Smart Grid In Punggol Digital District",
+              "key": "news::jtc-appoints-univers-and-pacificlight-to-develop-singapores-first-district-level-smart-grid-in-punggol-digital-district::Jtc Appoints Univers And Pacificlight To Develop Singapores First District Level Smart Grid In Punggol Digital District",
+              "type": "page",
+              "url": "https://univers.com/news/jtc-appoints-univers-and-pacificlight-to-develop-singapores-first-district-level-smart-grid-in-punggol-digital-district/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/jtc-appoints-univers-and-pacificlight-to-develop-singapores-first-district-level-smart-grid-in-punggol-digital-district/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ptt Group And Envision Digital Now Univers Partner To Achieve Net Zero Via Decarbonization Platform",
+          "key": "news::ptt-group-and-envision-digital-now-univers-partner-to-achieve-net-zero-via-decarbonization-platform",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ptt Group And Envision Digital Now Univers Partner To Achieve Net Zero Via Decarbonization Platform",
+              "key": "news::ptt-group-and-envision-digital-now-univers-partner-to-achieve-net-zero-via-decarbonization-platform::Ptt Group And Envision Digital Now Univers Partner To Achieve Net Zero Via Decarbonization Platform",
+              "type": "page",
+              "url": "https://univers.com/news/ptt-group-and-envision-digital-now-univers-partner-to-achieve-net-zero-via-decarbonization-platform/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/ptt-group-and-envision-digital-now-univers-partner-to-achieve-net-zero-via-decarbonization-platform/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Singapore Budget 2025 Meeting The Nations Growing Energy Needs",
+          "key": "news::singapore-budget-2025-meeting-the-nations-growing-energy-needs",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Singapore Budget 2025 Meeting The Nations Growing Energy Needs",
+              "key": "news::singapore-budget-2025-meeting-the-nations-growing-energy-needs::Singapore Budget 2025 Meeting The Nations Growing Energy Needs",
+              "type": "page",
+              "url": "https://univers.com/news/singapore-budget-2025-meeting-the-nations-growing-energy-needs/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/singapore-budget-2025-meeting-the-nations-growing-energy-needs/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sita And Envision Digital Now Univers Partner On Solutions That Help Airports Cut Fuel And Power Costs While Advancing Their Net Zero Ambitions",
+          "key": "news::sita-and-envision-digital-now-univers-partner-on-solutions-that-help-airports-cut-fuel-and-power-costs-while-advancing-their-net-zero-ambitions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Sita And Envision Digital Now Univers Partner On Solutions That Help Airports Cut Fuel And Power Costs While Advancing Their Net Zero Ambitions",
+              "key": "news::sita-and-envision-digital-now-univers-partner-on-solutions-that-help-airports-cut-fuel-and-power-costs-while-advancing-their-net-zero-ambitions::Sita And Envision Digital Now Univers Partner On Solutions That Help Airports Cut Fuel And Power Costs While Advancing Their Net Zero Ambitions",
+              "type": "page",
+              "url": "https://univers.com/news/sita-and-envision-digital-now-univers-partner-on-solutions-that-help-airports-cut-fuel-and-power-costs-while-advancing-their-net-zero-ambitions/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/sita-and-envision-digital-now-univers-partner-on-solutions-that-help-airports-cut-fuel-and-power-costs-while-advancing-their-net-zero-ambitions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Smrts Intelligent Facilities Management Initiative Saves Energy At Stations With Envision Digital Now Univers",
+          "key": "news::smrts-intelligent-facilities-management-initiative-saves-energy-at-stations-with-envision-digital-now-univers",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Smrts Intelligent Facilities Management Initiative Saves Energy At Stations With Envision Digital Now Univers",
+              "key": "news::smrts-intelligent-facilities-management-initiative-saves-energy-at-stations-with-envision-digital-now-univers::Smrts Intelligent Facilities Management Initiative Saves Energy At Stations With Envision Digital Now Univers",
+              "type": "page",
+              "url": "https://univers.com/news/smrts-intelligent-facilities-management-initiative-saves-energy-at-stations-with-envision-digital-now-univers/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/smrts-intelligent-facilities-management-initiative-saves-energy-at-stations-with-envision-digital-now-univers/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Environmental Impact Of Energy Consumption In Food Manufacturing",
+          "key": "news::the-environmental-impact-of-energy-consumption-in-food-manufacturing",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "The Environmental Impact Of Energy Consumption In Food Manufacturing",
+              "key": "news::the-environmental-impact-of-energy-consumption-in-food-manufacturing::The Environmental Impact Of Energy Consumption In Food Manufacturing",
+              "type": "page",
+              "url": "https://univers.com/news/the-environmental-impact-of-energy-consumption-in-food-manufacturing/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/the-environmental-impact-of-energy-consumption-in-food-manufacturing/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Impact Of Refrigeration On Global Warming",
+          "key": "news::the-impact-of-refrigeration-on-global-warming",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "The Impact Of Refrigeration On Global Warming",
+              "key": "news::the-impact-of-refrigeration-on-global-warming::The Impact Of Refrigeration On Global Warming",
+              "type": "page",
+              "url": "https://univers.com/news/the-impact-of-refrigeration-on-global-warming/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/the-impact-of-refrigeration-on-global-warming/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Amcharge Partner To Drive Ai Powered Industrial Optimisation Across Malaysia And Thailand",
+          "key": "news::univers-amcharge-partner-to-drive-ai-powered-industrial-optimisation-across-malaysia-and-thailand",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Amcharge Partner To Drive Ai Powered Industrial Optimisation Across Malaysia And Thailand",
+              "key": "news::univers-amcharge-partner-to-drive-ai-powered-industrial-optimisation-across-malaysia-and-thailand::Univers Amcharge Partner To Drive Ai Powered Industrial Optimisation Across Malaysia And Thailand",
+              "type": "page",
+              "url": "https://univers.com/news/univers-amcharge-partner-to-drive-ai-powered-industrial-optimisation-across-malaysia-and-thailand/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-amcharge-partner-to-drive-ai-powered-industrial-optimisation-across-malaysia-and-thailand/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers And Citi Collaborate To Announce A New Innovative Voluntary Carbon Credit Digital Solution",
+          "key": "news::univers-and-citi-collaborate-to-announce-a-new-innovative-voluntary-carbon-credit-digital-solution",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers And Citi Collaborate To Announce A New Innovative Voluntary Carbon Credit Digital Solution",
+              "key": "news::univers-and-citi-collaborate-to-announce-a-new-innovative-voluntary-carbon-credit-digital-solution::Univers And Citi Collaborate To Announce A New Innovative Voluntary Carbon Credit Digital Solution",
+              "type": "page",
+              "url": "https://univers.com/news/univers-and-citi-collaborate-to-announce-a-new-innovative-voluntary-carbon-credit-digital-solution/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-and-citi-collaborate-to-announce-a-new-innovative-voluntary-carbon-credit-digital-solution/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers And Onamba Corporation Concludes A Business Alliance Agreement",
+          "key": "news::univers-and-onamba-corporation-concludes-a-business-alliance-agreement",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers And Onamba Corporation Concludes A Business Alliance Agreement",
+              "key": "news::univers-and-onamba-corporation-concludes-a-business-alliance-agreement::Univers And Onamba Corporation Concludes A Business Alliance Agreement",
+              "type": "page",
+              "url": "https://univers.com/news/univers-and-onamba-corporation-concludes-a-business-alliance-agreement/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-and-onamba-corporation-concludes-a-business-alliance-agreement/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers And Sbs Transit Launch Sbst Energy And Operations Ai Platform",
+          "key": "news::univers-and-sbs-transit-launch-sbst-energy-and-operations-ai-platform",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers And Sbs Transit Launch Sbst Energy And Operations Ai Platform",
+              "key": "news::univers-and-sbs-transit-launch-sbst-energy-and-operations-ai-platform::Univers And Sbs Transit Launch Sbst Energy And Operations Ai Platform",
+              "type": "page",
+              "url": "https://univers.com/news/univers-and-sbs-transit-launch-sbst-energy-and-operations-ai-platform/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-and-sbs-transit-launch-sbst-energy-and-operations-ai-platform/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers And Sp Group Partner To Pilot Singapores Virtual Power Plant Under Ema Regulatory Sandbox",
+          "key": "news::univers-and-sp-group-partner-to-pilot-singapores-virtual-power-plant-under-ema-regulatory-sandbox",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers And Sp Group Partner To Pilot Singapores Virtual Power Plant Under Ema Regulatory Sandbox",
+              "key": "news::univers-and-sp-group-partner-to-pilot-singapores-virtual-power-plant-under-ema-regulatory-sandbox::Univers And Sp Group Partner To Pilot Singapores Virtual Power Plant Under Ema Regulatory Sandbox",
+              "type": "page",
+              "url": "https://univers.com/news/univers-and-sp-group-partner-to-pilot-singapores-virtual-power-plant-under-ema-regulatory-sandbox/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-and-sp-group-partner-to-pilot-singapores-virtual-power-plant-under-ema-regulatory-sandbox/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Commits To Science Based Climate Action",
+          "key": "news::univers-commits-to-science-based-climate-action",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Commits To Science Based Climate Action",
+              "key": "news::univers-commits-to-science-based-climate-action::Univers Commits To Science Based Climate Action",
+              "type": "page",
+              "url": "https://univers.com/news/univers-commits-to-science-based-climate-action/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-commits-to-science-based-climate-action/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Launches Enos Ark 2 0 Smarter Faster And Scalable Ai For Energy Savings And Carbon Reduction",
+          "key": "news::univers-launches-enos-ark-2-0-smarter-faster-and-scalable-ai-for-energy-savings-and-carbon-reduction",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Launches Enos Ark 2 0 Smarter Faster And Scalable Ai For Energy Savings And Carbon Reduction",
+              "key": "news::univers-launches-enos-ark-2-0-smarter-faster-and-scalable-ai-for-energy-savings-and-carbon-reduction::Univers Launches Enos Ark 2 0 Smarter Faster And Scalable Ai For Energy Savings And Carbon Reduction",
+              "type": "page",
+              "url": "https://univers.com/news/univers-launches-enos-ark-2-0-smarter-faster-and-scalable-ai-for-energy-savings-and-carbon-reduction/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-launches-enos-ark-2-0-smarter-faster-and-scalable-ai-for-energy-savings-and-carbon-reduction/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Launches World First Global Impact Ai Lab In Collaboration With Amd Microsoft And Nus To Accelerate Enterprise Ai And Iot Innovation",
+          "key": "news::univers-launches-world-first-global-impact-ai-lab-in-collaboration-with-amd-microsoft-and-nus-to-accelerate-enterprise-ai-and-iot-innovation",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Launches World First Global Impact Ai Lab In Collaboration With Amd Microsoft And Nus To Accelerate Enterprise Ai And Iot Innovation",
+              "key": "news::univers-launches-world-first-global-impact-ai-lab-in-collaboration-with-amd-microsoft-and-nus-to-accelerate-enterprise-ai-and-iot-innovation::Univers Launches World First Global Impact Ai Lab In Collaboration With Amd Microsoft And Nus To Accelerate Enterprise Ai And Iot Innovation",
+              "type": "page",
+              "url": "https://univers.com/news/univers-launches-world-first-global-impact-ai-lab-in-collaboration-with-amd-microsoft-and-nus-to-accelerate-enterprise-ai-and-iot-innovation/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-launches-world-first-global-impact-ai-lab-in-collaboration-with-amd-microsoft-and-nus-to-accelerate-enterprise-ai-and-iot-innovation/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Named A Leader In 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+          "key": "news::univers-named-a-leader-in-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Named A Leader In 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+              "key": "news::univers-named-a-leader-in-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms::Univers Named A Leader In 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+              "type": "page",
+              "url": "https://univers.com/news/univers-named-a-leader-in-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-named-a-leader-in-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Partners With Microsoft To Advance Ai For Energy Efficiency In Data Centers",
+          "key": "news::univers-partners-with-microsoft-to-advance-ai-for-energy-efficiency-in-data-centers",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Partners With Microsoft To Advance Ai For Energy Efficiency In Data Centers",
+              "key": "news::univers-partners-with-microsoft-to-advance-ai-for-energy-efficiency-in-data-centers::Univers Partners With Microsoft To Advance Ai For Energy Efficiency In Data Centers",
+              "type": "page",
+              "url": "https://univers.com/news/univers-partners-with-microsoft-to-advance-ai-for-energy-efficiency-in-data-centers/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-partners-with-microsoft-to-advance-ai-for-energy-efficiency-in-data-centers/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Recognised With Momentum Award In Granite Asias Nextgen Tech 30",
+          "key": "news::univers-recognised-with-momentum-award-in-granite-asias-nextgen-tech-30",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Recognised With Momentum Award In Granite Asias Nextgen Tech 30",
+              "key": "news::univers-recognised-with-momentum-award-in-granite-asias-nextgen-tech-30::Univers Recognised With Momentum Award In Granite Asias Nextgen Tech 30",
+              "type": "page",
+              "url": "https://univers.com/news/univers-recognised-with-momentum-award-in-granite-asias-nextgen-tech-30/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-recognised-with-momentum-award-in-granite-asias-nextgen-tech-30/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Selected By Albert Heijn To Accelerate Its Path To Net Zero",
+          "key": "news::univers-selected-by-albert-heijn-to-accelerate-its-path-to-net-zero",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Selected By Albert Heijn To Accelerate Its Path To Net Zero",
+              "key": "news::univers-selected-by-albert-heijn-to-accelerate-its-path-to-net-zero::Univers Selected By Albert Heijn To Accelerate Its Path To Net Zero",
+              "type": "page",
+              "url": "https://univers.com/news/univers-selected-by-albert-heijn-to-accelerate-its-path-to-net-zero/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-selected-by-albert-heijn-to-accelerate-its-path-to-net-zero/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Software Enos Ark And Tuv Suds Carbon Accounting Verification Services Will Be Jointly Marketed Across Asia Pacific",
+          "key": "news::univers-software-enos-ark-and-tuv-suds-carbon-accounting-verification-services-will-be-jointly-marketed-across-asia-pacific",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Software Enos Ark And Tuv Suds Carbon Accounting Verification Services Will Be Jointly Marketed Across Asia Pacific",
+              "key": "news::univers-software-enos-ark-and-tuv-suds-carbon-accounting-verification-services-will-be-jointly-marketed-across-asia-pacific::Univers Software Enos Ark And Tuv Suds Carbon Accounting Verification Services Will Be Jointly Marketed Across Asia Pacific",
+              "type": "page",
+              "url": "https://univers.com/news/univers-software-enos-ark-and-tuv-suds-carbon-accounting-verification-services-will-be-jointly-marketed-across-asia-pacific/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-software-enos-ark-and-tuv-suds-carbon-accounting-verification-services-will-be-jointly-marketed-across-asia-pacific/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Unveils Enos Ark The Award Winning End To End Ai Decarbonization Software For Global Enterprises",
+          "key": "news::univers-unveils-enos-ark-the-award-winning-end-to-end-ai-decarbonization-software-for-global-enterprises",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Unveils Enos Ark The Award Winning End To End Ai Decarbonization Software For Global Enterprises",
+              "key": "news::univers-unveils-enos-ark-the-award-winning-end-to-end-ai-decarbonization-software-for-global-enterprises::Univers Unveils Enos Ark The Award Winning End To End Ai Decarbonization Software For Global Enterprises",
+              "type": "page",
+              "url": "https://univers.com/news/univers-unveils-enos-ark-the-award-winning-end-to-end-ai-decarbonization-software-for-global-enterprises/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/univers-unveils-enos-ark-the-award-winning-end-to-end-ai-decarbonization-software-for-global-enterprises/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Voltalis And Univers Team Up To Expand Smart Energy Flexibility Solutions Targeting 10 15 Cost Savings For Commercial Buildings Across Europe And Asia",
+          "key": "news::voltalis-and-univers-team-up-to-expand-smart-energy-flexibility-solutions-targeting-10-15-cost-savings-for-commercial-buildings-across-europe-and-asia",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Voltalis And Univers Team Up To Expand Smart Energy Flexibility Solutions Targeting 10 15 Cost Savings For Commercial Buildings Across Europe And Asia",
+              "key": "news::voltalis-and-univers-team-up-to-expand-smart-energy-flexibility-solutions-targeting-10-15-cost-savings-for-commercial-buildings-across-europe-and-asia::Voltalis And Univers Team Up To Expand Smart Energy Flexibility Solutions Targeting 10 15 Cost Savings For Commercial Buildings Across Europe And Asia",
+              "type": "page",
+              "url": "https://univers.com/news/voltalis-and-univers-team-up-to-expand-smart-energy-flexibility-solutions-targeting-10-15-cost-savings-for-commercial-buildings-across-europe-and-asia/",
+              "languages": [
+                "news"
+              ],
+              "all_urls": [
+                "https://univers.com/news/voltalis-and-univers-team-up-to-expand-smart-energy-flexibility-solutions-targeting-10-15-cost-savings-for-commercial-buildings-across-europe-and-asia/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Page Header",
+      "key": "page-header",
+      "type": "category",
+      "children": [
+        {
+          "name": "Black",
+          "key": "page-header::black",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Black",
+              "key": "page-header::black::Black",
+              "type": "page",
+              "url": "https://univers.com/page-header/black/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/page-header/black/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "White",
+          "key": "page-header::white",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "White",
+              "key": "page-header::white::White",
+              "type": "page",
+              "url": "https://univers.com/page-header/white/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/page-header/white/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Partner",
+      "key": "partner",
+      "type": "category",
+      "children": [
+        {
+          "name": "Capgemini",
+          "key": "partner::capgemini",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Capgemini",
+              "key": "partner::capgemini::Capgemini",
+              "type": "page",
+              "url": "https://univers.com/partner/capgemini/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/capgemini/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Demo",
+          "key": "partner::demo",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Demo",
+              "key": "partner::demo::Demo",
+              "type": "page",
+              "url": "https://univers.com/partner/demo/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/demo/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eaton",
+          "key": "partner::eaton",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Eaton",
+              "key": "partner::eaton::Eaton",
+              "type": "page",
+              "url": "https://univers.com/partner/eaton/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/eaton/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ibm",
+          "key": "partner::ibm",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ibm",
+              "key": "partner::ibm::Ibm",
+              "type": "page",
+              "url": "https://univers.com/partner/ibm/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/ibm/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T Systems",
+          "key": "partner::t-systems",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "T Systems",
+              "key": "partner::t-systems::T Systems",
+              "type": "page",
+              "url": "https://univers.com/partner/t-systems/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/t-systems/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tridium",
+          "key": "partner::tridium",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Tridium",
+              "key": "partner::tridium::Tridium",
+              "type": "page",
+              "url": "https://univers.com/partner/tridium/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner/tridium/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Partner Category",
+      "key": "partner-category",
+      "type": "category",
+      "children": [
+        {
+          "name": "Company",
+          "key": "partner-category::company",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Company",
+              "key": "partner-category::company::Company",
+              "type": "page",
+              "url": "https://univers.com/partner-category/company/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner-category/company/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Independent Software Vendors",
+          "key": "partner-category::independent-software-vendors",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Independent Software Vendors",
+              "key": "partner-category::independent-software-vendors::Independent Software Vendors",
+              "type": "page",
+              "url": "https://univers.com/partner-category/independent-software-vendors/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner-category/independent-software-vendors/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Industry Service",
+          "key": "partner-category::industry-service",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Industry Service",
+              "key": "partner-category::industry-service::Industry Service",
+              "type": "page",
+              "url": "https://univers.com/partner-category/industry-service/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner-category/industry-service/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Management Consultants",
+          "key": "partner-category::management-consultants",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Management Consultants",
+              "key": "partner-category::management-consultants::Management Consultants",
+              "type": "page",
+              "url": "https://univers.com/partner-category/management-consultants/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/partner-category/management-consultants/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Partners",
+      "key": "partners",
+      "type": "category",
+      "children": [
+        {
+          "name": "Partners",
+          "key": "partners::Partners",
+          "type": "page",
+          "url": "https://univers.com/partners/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/partners/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Policies",
+      "key": "policies",
+      "type": "category",
+      "children": [
+        {
+          "name": "Policies",
+          "key": "policies::Policies",
+          "type": "page",
+          "url": "https://univers.com/policies/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/policies/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Privacy Policy",
+      "key": "privacy-policy",
+      "type": "category",
+      "children": [
+        {
+          "name": "Privacy Policy",
+          "key": "privacy-policy::Privacy Policy",
+          "type": "page",
+          "url": "https://univers.com/privacy-policy/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/privacy-policy/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Bazefield",
+      "key": "product-bazefield",
+      "type": "category",
+      "children": [
+        {
+          "name": "Product Bazefield",
+          "key": "product-bazefield::Product Bazefield",
+          "type": "page",
+          "url": "https://univers.com/product-bazefield/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/product-bazefield/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Product Customer Story",
+      "key": "product-customer-story",
+      "type": "category",
+      "children": [
+        {
+          "name": "Enos Ark",
+          "key": "product-customer-story::enos-ark",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Ark",
+              "key": "product-customer-story::enos-ark::Enos Ark",
+              "type": "page",
+              "url": "https://univers.com/product-customer-story/enos-ark/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/product-customer-story/enos-ark/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Edge",
+          "key": "product-customer-story::enos-edge",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Edge",
+              "key": "product-customer-story::enos-edge::Enos Edge",
+              "type": "page",
+              "url": "https://univers.com/product-customer-story/enos-edge/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/product-customer-story/enos-edge/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Flex",
+          "key": "product-customer-story::enos-flex",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Flex",
+              "key": "product-customer-story::enos-flex::Enos Flex",
+              "type": "page",
+              "url": "https://univers.com/product-customer-story/enos-flex/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/product-customer-story/enos-flex/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enpact",
+          "key": "product-customer-story::enpact",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enpact",
+              "key": "product-customer-story::enpact::Enpact",
+              "type": "page",
+              "url": "https://univers.com/product-customer-story/enpact/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/product-customer-story/enpact/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Products",
+      "key": "products",
+      "type": "category",
+      "children": [
+        {
+          "name": "Enos Ark",
+          "key": "products::enos-ark",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Ark",
+              "key": "products::enos-ark::Enos Ark",
+              "type": "page",
+              "url": "https://univers.com/products/enos-ark/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-ark/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Charge",
+          "key": "products::enos-charge",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Charge",
+              "key": "products::enos-charge::Enos Charge",
+              "type": "page",
+              "url": "https://univers.com/products/enos-charge/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-charge/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Cloud",
+          "key": "products::enos-cloud",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Cloud",
+              "key": "products::enos-cloud::Enos Cloud",
+              "type": "page",
+              "url": "https://univers.com/products/enos-cloud/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-cloud/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Edge",
+          "key": "products::enos-edge",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Edge",
+              "key": "products::enos-edge::Enos Edge",
+              "type": "page",
+              "url": "https://univers.com/products/enos-edge/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-edge/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Microgrid Overview",
+          "key": "products::enos-microgrid-overview",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Microgrid Overview",
+              "key": "products::enos-microgrid-overview::Enos Microgrid Overview",
+              "type": "page",
+              "url": "https://univers.com/products/enos-microgrid-overview/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-microgrid-overview/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Microgrid",
+          "key": "products::enos-microgrid",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Microgrid",
+              "key": "products::enos-microgrid::Enos Microgrid",
+              "type": "page",
+              "url": "https://univers.com/products/enos-microgrid/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-microgrid/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Ppc",
+          "key": "products::enos-ppc",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Ppc",
+              "key": "products::enos-ppc::Enos Ppc",
+              "type": "page",
+              "url": "https://univers.com/products/enos-ppc/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-ppc/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Renewables",
+          "key": "products::enos-renewables",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Renewables",
+              "key": "products::enos-renewables::Enos Renewables",
+              "type": "page",
+              "url": "https://univers.com/products/enos-renewables/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-renewables/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Scada",
+          "key": "products::enos-scada",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Scada",
+              "key": "products::enos-scada::Enos Scada",
+              "type": "page",
+              "url": "https://univers.com/products/enos-scada/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-scada/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Storage",
+          "key": "products::enos-storage",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Storage",
+              "key": "products::enos-storage::Enos Storage",
+              "type": "page",
+              "url": "https://univers.com/products/enos-storage/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos-storage/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos",
+          "key": "products::enos",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos",
+              "key": "products::enos::Enos",
+              "type": "page",
+              "url": "https://univers.com/products/enos/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/enos/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Hems",
+          "key": "products::hems",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Hems",
+              "key": "products::hems::Hems",
+              "type": "page",
+              "url": "https://univers.com/products/hems/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/hems/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Solar Ai Analytics",
+          "key": "products::solar-ai-analytics",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Solar Ai Analytics",
+              "key": "products::solar-ai-analytics::Solar Ai Analytics",
+              "type": "page",
+              "url": "https://univers.com/products/solar-ai-analytics/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/solar-ai-analytics/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wind Ai Analytics",
+          "key": "products::wind-ai-analytics",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Wind Ai Analytics",
+              "key": "products::wind-ai-analytics::Wind Ai Analytics",
+              "type": "page",
+              "url": "https://univers.com/products/wind-ai-analytics/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/products/wind-ai-analytics/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Report",
+      "key": "report",
+      "type": "category",
+      "children": [
+        {
+          "name": "Supplier Code Of Conduct",
+          "key": "report::supplier-code-of-conduct",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Supplier Code Of Conduct",
+              "key": "report::supplier-code-of-conduct::Supplier Code Of Conduct",
+              "type": "page",
+              "url": "https://univers.com/report/supplier-code-of-conduct/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/report/supplier-code-of-conduct/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Task Force On Climate Related Financial Disclosures 2024 Report",
+          "key": "report::task-force-on-climate-related-financial-disclosures-2024-report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Task Force On Climate Related Financial Disclosures 2024 Report",
+              "key": "report::task-force-on-climate-related-financial-disclosures-2024-report::Task Force On Climate Related Financial Disclosures 2024 Report",
+              "type": "page",
+              "url": "https://univers.com/report/task-force-on-climate-related-financial-disclosures-2024-report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/report/task-force-on-climate-related-financial-disclosures-2024-report/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Report Type",
+      "key": "report-type",
+      "type": "category",
+      "children": [
+        {
+          "name": "Environment Social And Governance Reports",
+          "key": "report-type::environment-social-and-governance-reports",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Environment Social And Governance Reports",
+              "key": "report-type::environment-social-and-governance-reports::Environment Social And Governance Reports",
+              "type": "page",
+              "url": "https://univers.com/report-type/environment-social-and-governance-reports/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/report-type/environment-social-and-governance-reports/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos",
+      "key": "request-demo-enos",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos",
+          "key": "request-demo-enos::Request Demo Enos",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Ark",
+      "key": "request-demo-enos-ark",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Ark",
+          "key": "request-demo-enos-ark::Request Demo Enos Ark",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-ark/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-ark/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Charge",
+      "key": "request-demo-enos-charge",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Charge",
+          "key": "request-demo-enos-charge::Request Demo Enos Charge",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-charge/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-charge/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Cloud",
+      "key": "request-demo-enos-cloud",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Cloud",
+          "key": "request-demo-enos-cloud::Request Demo Enos Cloud",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-cloud/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-cloud/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Edge",
+      "key": "request-demo-enos-edge",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Edge",
+          "key": "request-demo-enos-edge::Request Demo Enos Edge",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-edge/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-edge/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Microgrid",
+      "key": "request-demo-enos-microgrid",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Microgrid",
+          "key": "request-demo-enos-microgrid::Request Demo Enos Microgrid",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-microgrid/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-microgrid/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Microgrid Hems",
+      "key": "request-demo-enos-microgrid-hems",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Microgrid Hems",
+          "key": "request-demo-enos-microgrid-hems::Request Demo Enos Microgrid Hems",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-microgrid-hems/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-microgrid-hems/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Microgrid Overview",
+      "key": "request-demo-enos-microgrid-overview",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Microgrid Overview",
+          "key": "request-demo-enos-microgrid-overview::Request Demo Enos Microgrid Overview",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-microgrid-overview/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-microgrid-overview/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Ppc",
+      "key": "request-demo-enos-ppc",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Ppc",
+          "key": "request-demo-enos-ppc::Request Demo Enos Ppc",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-ppc/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-ppc/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Renewables",
+      "key": "request-demo-enos-renewables",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Renewables",
+          "key": "request-demo-enos-renewables::Request Demo Enos Renewables",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-renewables/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-renewables/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Renewables Bazefield",
+      "key": "request-demo-enos-renewables-bazefield",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Renewables Bazefield",
+          "key": "request-demo-enos-renewables-bazefield::Request Demo Enos Renewables Bazefield",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-renewables-bazefield/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-renewables-bazefield/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Scada",
+      "key": "request-demo-enos-scada",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Scada",
+          "key": "request-demo-enos-scada::Request Demo Enos Scada",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-scada/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-scada/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Enos Storage",
+      "key": "request-demo-enos-storage",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Enos Storage",
+          "key": "request-demo-enos-storage::Request Demo Enos Storage",
+          "type": "page",
+          "url": "https://univers.com/request-demo-enos-storage/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-enos-storage/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Renewables Ai Analytics",
+      "key": "request-demo-renewables-ai-analytics",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Renewables Ai Analytics",
+          "key": "request-demo-renewables-ai-analytics::Request Demo Renewables Ai Analytics",
+          "type": "page",
+          "url": "https://univers.com/request-demo-renewables-ai-analytics/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-renewables-ai-analytics/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Security Compliance",
+      "key": "request-demo-security-compliance",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Security Compliance",
+          "key": "request-demo-security-compliance::Request Demo Security Compliance",
+          "type": "page",
+          "url": "https://univers.com/request-demo-security-compliance/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-security-compliance/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Solar Ai Analytics",
+      "key": "request-demo-solar-ai-analytics",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Solar Ai Analytics",
+          "key": "request-demo-solar-ai-analytics::Request Demo Solar Ai Analytics",
+          "type": "page",
+          "url": "https://univers.com/request-demo-solar-ai-analytics/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-solar-ai-analytics/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Request Demo Wind Ai Analytics",
+      "key": "request-demo-wind-ai-analytics",
+      "type": "category",
+      "children": [
+        {
+          "name": "Request Demo Wind Ai Analytics",
+          "key": "request-demo-wind-ai-analytics::Request Demo Wind Ai Analytics",
+          "type": "page",
+          "url": "https://univers.com/request-demo-wind-ai-analytics/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/request-demo-wind-ai-analytics/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resource",
+      "key": "resource",
+      "type": "category",
+      "children": [
+        {
+          "name": "2023 Strategic Roadmap For Greenhouse Gas Emissions Data And Analytics",
+          "key": "resource::2023-strategic-roadmap-for-greenhouse-gas-emissions-data-and-analytics",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "2023 Strategic Roadmap For Greenhouse Gas Emissions Data And Analytics",
+              "key": "resource::2023-strategic-roadmap-for-greenhouse-gas-emissions-data-and-analytics::2023 Strategic Roadmap For Greenhouse Gas Emissions Data And Analytics",
+              "type": "page",
+              "url": "https://univers.com/resource/2023-strategic-roadmap-for-greenhouse-gas-emissions-data-and-analytics/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/2023-strategic-roadmap-for-greenhouse-gas-emissions-data-and-analytics/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Australia Residential Energy Price Arbitrage Challenge Report",
+          "key": "resource::australia-residential-energy-price-arbitrage-challenge-report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Australia Residential Energy Price Arbitrage Challenge Report",
+              "key": "resource::australia-residential-energy-price-arbitrage-challenge-report::Australia Residential Energy Price Arbitrage Challenge Report",
+              "type": "page",
+              "url": "https://univers.com/resource/australia-residential-energy-price-arbitrage-challenge-report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/australia-residential-energy-price-arbitrage-challenge-report/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bazefield Product Demo",
+          "key": "resource::bazefield-product-demo",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Bazefield Product Demo",
+              "key": "resource::bazefield-product-demo::Bazefield Product Demo",
+              "type": "page",
+              "url": "https://univers.com/resource/bazefield-product-demo/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/bazefield-product-demo/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bazefield Product Overview",
+          "key": "resource::bazefield-product-overview",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Bazefield Product Overview",
+              "key": "resource::bazefield-product-overview::Bazefield Product Overview",
+              "type": "page",
+              "url": "https://univers.com/resource/bazefield-product-overview/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/bazefield-product-overview/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Electric Vehicle Battery Carbon Footprint And Low Carbon Circular Development",
+          "key": "resource::electric-vehicle-battery-carbon-footprint-and-low-carbon-circular-development",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Electric Vehicle Battery Carbon Footprint And Low Carbon Circular Development",
+              "key": "resource::electric-vehicle-battery-carbon-footprint-and-low-carbon-circular-development::Electric Vehicle Battery Carbon Footprint And Low Carbon Circular Development",
+              "type": "page",
+              "url": "https://univers.com/resource/electric-vehicle-battery-carbon-footprint-and-low-carbon-circular-development/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/electric-vehicle-battery-carbon-footprint-and-low-carbon-circular-development/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Ark Product Brochure",
+          "key": "resource::enos-ark-product-brochure",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Ark Product Brochure",
+              "key": "resource::enos-ark-product-brochure::Enos Ark Product Brochure",
+              "type": "page",
+              "url": "https://univers.com/resource/enos-ark-product-brochure/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/enos-ark-product-brochure/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Microgrid Featured In Verdantix Buyers Guide For Ai Driven Optimisation And Scalable Microgrid Control",
+          "key": "resource::enos-microgrid-featured-in-verdantix-buyers-guide-for-ai-driven-optimisation-and-scalable-microgrid-control",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Microgrid Featured In Verdantix Buyers Guide For Ai Driven Optimisation And Scalable Microgrid Control",
+              "key": "resource::enos-microgrid-featured-in-verdantix-buyers-guide-for-ai-driven-optimisation-and-scalable-microgrid-control::Enos Microgrid Featured In Verdantix Buyers Guide For Ai Driven Optimisation And Scalable Microgrid Control",
+              "type": "page",
+              "url": "https://univers.com/resource/enos-microgrid-featured-in-verdantix-buyers-guide-for-ai-driven-optimisation-and-scalable-microgrid-control/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/enos-microgrid-featured-in-verdantix-buyers-guide-for-ai-driven-optimisation-and-scalable-microgrid-control/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Microgrid Product Brochure",
+          "key": "resource::enos-microgrid-product-brochure",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Microgrid Product Brochure",
+              "key": "resource::enos-microgrid-product-brochure::Enos Microgrid Product Brochure",
+              "type": "page",
+              "url": "https://univers.com/resource/enos-microgrid-product-brochure/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/enos-microgrid-product-brochure/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Scada Ppc Product Brochure",
+          "key": "resource::enos-scada-ppc-product-brochure",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Scada Ppc Product Brochure",
+              "key": "resource::enos-scada-ppc-product-brochure::Enos Scada Ppc Product Brochure",
+              "type": "page",
+              "url": "https://univers.com/resource/enos-scada-ppc-product-brochure/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/enos-scada-ppc-product-brochure/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Storage Product Brochure",
+          "key": "resource::enos-storage-product-brochure",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Storage Product Brochure",
+              "key": "resource::enos-storage-product-brochure::Enos Storage Product Brochure",
+              "type": "page",
+              "url": "https://univers.com/resource/enos-storage-product-brochure/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/enos-storage-product-brochure/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gartner Report Predicts 2025 Converting Sustainability Pledges Actionable Insights And Strategic Recommendations",
+          "key": "resource::gartner-report-predicts-2025-converting-sustainability-pledges-actionable-insights-and-strategic-recommendations",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Gartner Report Predicts 2025 Converting Sustainability Pledges Actionable Insights And Strategic Recommendations",
+              "key": "resource::gartner-report-predicts-2025-converting-sustainability-pledges-actionable-insights-and-strategic-recommendations::Gartner Report Predicts 2025 Converting Sustainability Pledges Actionable Insights And Strategic Recommendations",
+              "type": "page",
+              "url": "https://univers.com/resource/gartner-report-predicts-2025-converting-sustainability-pledges-actionable-insights-and-strategic-recommendations/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/gartner-report-predicts-2025-converting-sustainability-pledges-actionable-insights-and-strategic-recommendations/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Industrial Clusters Working Together To Achieve Net Zero",
+          "key": "resource::industrial-clusters-working-together-to-achieve-net-zero",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Industrial Clusters Working Together To Achieve Net Zero",
+              "key": "resource::industrial-clusters-working-together-to-achieve-net-zero::Industrial Clusters Working Together To Achieve Net Zero",
+              "type": "page",
+              "url": "https://univers.com/resource/industrial-clusters-working-together-to-achieve-net-zero/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/industrial-clusters-working-together-to-achieve-net-zero/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Turn Data Into Value With Solar Ai Analytics",
+          "key": "resource::turn-data-into-value-with-solar-ai-analytics",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Turn Data Into Value With Solar Ai Analytics",
+              "key": "resource::turn-data-into-value-with-solar-ai-analytics::Turn Data Into Value With Solar Ai Analytics",
+              "type": "page",
+              "url": "https://univers.com/resource/turn-data-into-value-with-solar-ai-analytics/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/turn-data-into-value-with-solar-ai-analytics/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers 2022 Sustainability Report",
+          "key": "resource::univers-2022-sustainability-report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers 2022 Sustainability Report",
+              "key": "resource::univers-2022-sustainability-report::Univers 2022 Sustainability Report",
+              "type": "page",
+              "url": "https://univers.com/resource/univers-2022-sustainability-report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/univers-2022-sustainability-report/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers 2023 Sustainability Report",
+          "key": "resource::univers-2023-sustainability-report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers 2023 Sustainability Report",
+              "key": "resource::univers-2023-sustainability-report::Univers 2023 Sustainability Report",
+              "type": "page",
+              "url": "https://univers.com/resource/univers-2023-sustainability-report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/univers-2023-sustainability-report/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers 2024 Sustainability Report",
+          "key": "resource::univers-2024-sustainability-report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers 2024 Sustainability Report",
+              "key": "resource::univers-2024-sustainability-report::Univers 2024 Sustainability Report",
+              "type": "page",
+              "url": "https://univers.com/resource/univers-2024-sustainability-report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/univers-2024-sustainability-report/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Named A Leader In The 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+          "key": "resource::univers-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Named A Leader In The 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+              "key": "resource::univers-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms::Univers Named A Leader In The 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms",
+              "type": "page",
+              "url": "https://univers.com/resource/univers-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/univers-named-a-leader-in-the-2025-gartner-magic-quadrant-for-global-industrial-iot-platforms/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Univers Trust Center",
+          "key": "resource::univers-trust-center",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Univers Trust Center",
+              "key": "resource::univers-trust-center::Univers Trust Center",
+              "type": "page",
+              "url": "https://univers.com/resource/univers-trust-center/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/univers-trust-center/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wef Briefing Paper Accelerating Clean Industrial Electrification In The Eu",
+          "key": "resource::wef-briefing-paper-accelerating-clean-industrial-electrification-in-the-eu",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Wef Briefing Paper Accelerating Clean Industrial Electrification In The Eu",
+              "key": "resource::wef-briefing-paper-accelerating-clean-industrial-electrification-in-the-eu::Wef Briefing Paper Accelerating Clean Industrial Electrification In The Eu",
+              "type": "page",
+              "url": "https://univers.com/resource/wef-briefing-paper-accelerating-clean-industrial-electrification-in-the-eu/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource/wef-briefing-paper-accelerating-clean-industrial-electrification-in-the-eu/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resource Label",
+      "key": "resource-label",
+      "type": "category",
+      "children": [
+        {
+          "name": "Brochure",
+          "key": "resource-label::brochure",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Brochure",
+              "key": "resource-label::brochure::Brochure",
+              "type": "page",
+              "url": "https://univers.com/resource-label/brochure/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource-label/brochure/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Portal",
+          "key": "resource-label::portal",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Portal",
+              "key": "resource-label::portal::Portal",
+              "type": "page",
+              "url": "https://univers.com/resource-label/portal/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource-label/portal/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Report",
+          "key": "resource-label::report",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Report",
+              "key": "resource-label::report::Report",
+              "type": "page",
+              "url": "https://univers.com/resource-label/report/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource-label/report/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Video",
+          "key": "resource-label::video",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Video",
+              "key": "resource-label::video::Video",
+              "type": "page",
+              "url": "https://univers.com/resource-label/video/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource-label/video/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Whitepaper",
+          "key": "resource-label::whitepaper",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Whitepaper",
+              "key": "resource-label::whitepaper::Whitepaper",
+              "type": "page",
+              "url": "https://univers.com/resource-label/whitepaper/",
+              "languages": [
+                NaN
+              ],
+              "all_urls": [
+                "https://univers.com/resource-label/whitepaper/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Resources",
+      "key": "resources",
+      "type": "category",
+      "children": [
+        {
+          "name": "Resources",
+          "key": "resources::Resources",
+          "type": "page",
+          "url": "https://univers.com/resources/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/resources/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Security Compliance",
+      "key": "security-compliance",
+      "type": "category",
+      "children": [
+        {
+          "name": "Security Compliance",
+          "key": "security-compliance::Security Compliance",
+          "type": "page",
+          "url": "https://univers.com/security-compliance/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/security-compliance/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sustainability",
+      "key": "sustainability",
+      "type": "category",
+      "children": [
+        {
+          "name": "Sustainability",
+          "key": "sustainability::Sustainability",
+          "type": "page",
+          "url": "https://univers.com/sustainability/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/sustainability/"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tag",
+      "key": "tag",
+      "type": "category",
+      "children": [
+        {
+          "name": "Ai Energy Optimization",
+          "key": "tag::ai-energy-optimization",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ai Energy Optimization",
+              "key": "tag::ai-energy-optimization::Ai Energy Optimization",
+              "type": "page",
+              "url": "https://univers.com/tag/ai-energy-optimization/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/ai-energy-optimization/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ai For Energy",
+          "key": "tag::ai-for-energy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Ai For Energy",
+              "key": "tag::ai-for-energy::Ai For Energy",
+              "type": "page",
+              "url": "https://univers.com/tag/ai-for-energy/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/ai-for-energy/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Carbon Management",
+          "key": "tag::carbon-management",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Carbon Management",
+              "key": "tag::carbon-management::Carbon Management",
+              "type": "page",
+              "url": "https://univers.com/tag/carbon-management/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/carbon-management/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Commercial Energy Management",
+          "key": "tag::commercial-energy-management",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Commercial Energy Management",
+              "key": "tag::commercial-energy-management::Commercial Energy Management",
+              "type": "page",
+              "url": "https://univers.com/tag/commercial-energy-management/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/commercial-energy-management/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Cross Industry Sustainability",
+          "key": "tag::cross-industry-sustainability",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Cross Industry Sustainability",
+              "key": "tag::cross-industry-sustainability::Cross Industry Sustainability",
+              "type": "page",
+              "url": "https://univers.com/tag/cross-industry-sustainability/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/cross-industry-sustainability/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Csrd",
+          "key": "tag::csrd",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Csrd",
+              "key": "tag::csrd::Csrd",
+              "type": "page",
+              "url": "https://univers.com/tag/csrd/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/csrd/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D4D",
+          "key": "tag::d4d",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "D4D",
+              "key": "tag::d4d::D4D",
+              "type": "page",
+              "url": "https://univers.com/tag/d4d/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/d4d/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Decarbonization Strategy",
+          "key": "tag::decarbonization-strategy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Decarbonization Strategy",
+              "key": "tag::decarbonization-strategy::Decarbonization Strategy",
+              "type": "page",
+              "url": "https://univers.com/tag/decarbonization-strategy/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/decarbonization-strategy/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Digital Decarbonization",
+          "key": "tag::digital-decarbonization",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Digital Decarbonization",
+              "key": "tag::digital-decarbonization::Digital Decarbonization",
+              "type": "page",
+              "url": "https://univers.com/tag/digital-decarbonization/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/digital-decarbonization/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Digital Transformation",
+          "key": "tag::digital-transformation",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Digital Transformation",
+              "key": "tag::digital-transformation::Digital Transformation",
+              "type": "page",
+              "url": "https://univers.com/tag/digital-transformation/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/digital-transformation/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Double Materiality",
+          "key": "tag::double-materiality",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Double Materiality",
+              "key": "tag::double-materiality::Double Materiality",
+              "type": "page",
+              "url": "https://univers.com/tag/double-materiality/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/double-materiality/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Energy Security",
+          "key": "tag::energy-security",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Energy Security",
+              "key": "tag::energy-security::Energy Security",
+              "type": "page",
+              "url": "https://univers.com/tag/energy-security/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/energy-security/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Energy Transition",
+          "key": "tag::energy-transition",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Energy Transition",
+              "key": "tag::energy-transition::Energy Transition",
+              "type": "page",
+              "url": "https://univers.com/tag/energy-transition/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/energy-transition/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Enos Ark",
+          "key": "tag::enos-ark",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Enos Ark",
+              "key": "tag::enos-ark::Enos Ark",
+              "type": "page",
+              "url": "https://univers.com/tag/enos-ark/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/enos-ark/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Environmental Management",
+          "key": "tag::environmental-management",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Environmental Management",
+              "key": "tag::environmental-management::Environmental Management",
+              "type": "page",
+              "url": "https://univers.com/tag/environmental-management/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/environmental-management/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Esg Compliance",
+          "key": "tag::esg-compliance",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Esg Compliance",
+              "key": "tag::esg-compliance::Esg Compliance",
+              "type": "page",
+              "url": "https://univers.com/tag/esg-compliance/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/esg-compliance/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Esg",
+          "key": "tag::esg",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Esg",
+              "key": "tag::esg::Esg",
+              "type": "page",
+              "url": "https://univers.com/tag/esg/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/esg/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eu Omnibus Package",
+          "key": "tag::eu-omnibus-package",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Eu Omnibus Package",
+              "key": "tag::eu-omnibus-package::Eu Omnibus Package",
+              "type": "page",
+              "url": "https://univers.com/tag/eu-omnibus-package/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/eu-omnibus-package/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Eu Taxonomy",
+          "key": "tag::eu-taxonomy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Eu Taxonomy",
+              "key": "tag::eu-taxonomy::Eu Taxonomy",
+              "type": "page",
+              "url": "https://univers.com/tag/eu-taxonomy/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/eu-taxonomy/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "European Energy Policy",
+          "key": "tag::european-energy-policy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "European Energy Policy",
+              "key": "tag::european-energy-policy::European Energy Policy",
+              "type": "page",
+              "url": "https://univers.com/tag/european-energy-policy/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/european-energy-policy/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "European Sustainability",
+          "key": "tag::european-sustainability",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "European Sustainability",
+              "key": "tag::european-sustainability::European Sustainability",
+              "type": "page",
+              "url": "https://univers.com/tag/european-sustainability/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/european-sustainability/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grid Capacity Planning",
+          "key": "tag::grid-capacity-planning",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Grid Capacity Planning",
+              "key": "tag::grid-capacity-planning::Grid Capacity Planning",
+              "type": "page",
+              "url": "https://univers.com/tag/grid-capacity-planning/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/grid-capacity-planning/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grid Modernization",
+          "key": "tag::grid-modernization",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Grid Modernization",
+              "key": "tag::grid-modernization::Grid Modernization",
+              "type": "page",
+              "url": "https://univers.com/tag/grid-modernization/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/grid-modernization/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Grid Stability Solutions",
+          "key": "tag::grid-stability-solutions",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Grid Stability Solutions",
+              "key": "tag::grid-stability-solutions::Grid Stability Solutions",
+              "type": "page",
+              "url": "https://univers.com/tag/grid-stability-solutions/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/grid-stability-solutions/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Impact Measurement",
+          "key": "tag::impact-measurement",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Impact Measurement",
+              "key": "tag::impact-measurement::Impact Measurement",
+              "type": "page",
+              "url": "https://univers.com/tag/impact-measurement/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/impact-measurement/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Iot Energy Management",
+          "key": "tag::iot-energy-management",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Iot Energy Management",
+              "key": "tag::iot-energy-management::Iot Energy Management",
+              "type": "page",
+              "url": "https://univers.com/tag/iot-energy-management/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/iot-energy-management/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Microgrid Technology",
+          "key": "tag::microgrid-technology",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Microgrid Technology",
+              "key": "tag::microgrid-technology::Microgrid Technology",
+              "type": "page",
+              "url": "https://univers.com/tag/microgrid-technology/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/microgrid-technology/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Net Zero Industry Act",
+          "key": "tag::net-zero-industry-act",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Net Zero Industry Act",
+              "key": "tag::net-zero-industry-act::Net Zero Industry Act",
+              "type": "page",
+              "url": "https://univers.com/tag/net-zero-industry-act/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/net-zero-industry-act/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Renewable Energy Optimization",
+          "key": "tag::renewable-energy-optimization",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Renewable Energy Optimization",
+              "key": "tag::renewable-energy-optimization::Renewable Energy Optimization",
+              "type": "page",
+              "url": "https://univers.com/tag/renewable-energy-optimization/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/renewable-energy-optimization/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Renewable Monitoring Control",
+          "key": "tag::renewable-monitoring-control",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Renewable Monitoring Control",
+              "key": "tag::renewable-monitoring-control::Renewable Monitoring Control",
+              "type": "page",
+              "url": "https://univers.com/tag/renewable-monitoring-control/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/renewable-monitoring-control/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Renewables",
+          "key": "tag::renewables",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Renewables",
+              "key": "tag::renewables::Renewables",
+              "type": "page",
+              "url": "https://univers.com/tag/renewables/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/renewables/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Solar Power",
+          "key": "tag::solar-power",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Solar Power",
+              "key": "tag::solar-power::Solar Power",
+              "type": "page",
+              "url": "https://univers.com/tag/solar-power/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/solar-power/"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sustainability Strategy",
+          "key": "tag::sustainability-strategy",
+          "type": "subcategory",
+          "children": [
+            {
+              "name": "Sustainability Strategy",
+              "key": "tag::sustainability-strategy::Sustainability Strategy",
+              "type": "page",
+              "url": "https://univers.com/tag/sustainability-strategy/",
+              "languages": [
+                "tag"
+              ],
+              "all_urls": [
+                "https://univers.com/tag/sustainability-strategy/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terms Of Service",
+      "key": "terms-of-service",
+      "type": "category",
+      "children": [
+        {
+          "name": "Terms Of Service",
+          "key": "terms-of-service::Terms Of Service",
+          "type": "page",
+          "url": "https://univers.com/terms-of-service/",
+          "languages": [
+            NaN
+          ],
+          "all_urls": [
+            "https://univers.com/terms-of-service/"
+          ]
+        }
+      ]
+    }
+  ]
+}

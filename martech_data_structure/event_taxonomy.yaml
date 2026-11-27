@@ -1,0 +1,70 @@
+# Event Taxonomy（事件语言）
+# 与 design.md 一致；v0 最小闭环：download → event → score → stage → dashboard
+
+version: "v0"
+minimal_loop:
+  - content_downloaded
+  - form_submitted
+  - "email_* / webinar_* (HubSpot)"
+  outcome: "lead_score_daily + lifecycle_state → dashboard"
+
+categories:
+  A_content:
+    label: "Content 行为（最核心）"
+    events:
+      - type: content_viewed
+        description: 看了内容（页/资源）
+      - type: content_downloaded
+        description: 下载（白皮书/资料）
+        v0_priority: true
+      - type: content_shared
+        description: 分享
+      - type: asset_clicked
+        description: 点击 CTA/按钮
+
+  B_hubspot:
+    label: "HubSpot 行为（营销自动化）"
+    events:
+      - type: form_submitted
+        description: 表单提交
+        v0_priority: true
+      - type: email_opened
+        description: 邮件打开
+      - type: email_clicked
+        description: 邮件点击
+      - type: webinar_registered
+        description: Webinar 注册
+      - type: webinar_attended
+        description: Webinar 参会
+
+  C_sales_feedback:
+    label: "Sales 反馈（可选；本系统不包含严格 Sales 逻辑）"
+    scope_note: "仅培育效果好的 leads 推给 Sales；其反馈用于长期更新培育机制。v0 不依赖此类事件。"
+    events:
+      - type: lead_status_changed
+        description: 线索状态变更（如由 Sales 反馈回写）
+      - type: lifecycle_stage_changed
+        description: 生命周期阶段变更（由培育逻辑或反馈推导）
+      - type: sales_feedback_received
+        description: Sales 返回结果（已联系/有效/无效等），用于长期优化培育规则
+      # 以下若由外部系统提供可接入，非本系统必建：
+      # opportunity_created, meeting_booked
+
+  D_operations:
+    label: "数据/内容操作行为（内部运营）"
+    events:
+      - type: content_created
+        description: 内容创建
+      - type: content_updated
+        description: 内容更新
+      - type: tag_added
+        description: 打标签
+      - type: campaign_launched
+        description: 活动上线
+
+# v0 计分示例（与 lead_score_daily 重算逻辑一致）
+scoring_rules_v0:
+  content_downloaded: 10
+  webinar_registered: 15
+  email_clicked: 3
+  # 可扩展：form_submitted、webinar_attended 等

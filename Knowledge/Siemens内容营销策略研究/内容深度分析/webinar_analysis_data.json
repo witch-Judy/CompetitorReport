@@ -1,0 +1,379 @@
+[
+  {
+    "url": "https://www.siemens.com/ar/es/productos/automatizacion/sistemas/cnc4you/education-training/webinars.html",
+    "url_hash": "e5a1f0520ba7",
+    "content_type": "webinar",
+    "content_data": {
+      "title": "Webinars - Siemens AR",
+      "h1": "Webinars CNC",
+      "word_count": 0,
+      "paragraph_count": 0
+    },
+    "structure": {
+      "title_structure": {
+        "length": 21,
+        "word_count": 4,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {},
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": false,
+        "image_count": 0,
+        "has_links": true,
+        "link_count": 8
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 0,
+          "factors": []
+        },
+        "scannability": {
+          "score": 0,
+          "factors": []
+        },
+        "engagement_elements": {
+          "has_images": false,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "webinar",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:22"
+  },
+  {
+    "url": "https://www.siemens.com/ar/es/productos/automatizacion/sistemas/cnc4you/education-training/webinars/digital-twins-in-production-planning.html",
+    "url_hash": "16abc5cb04f8",
+    "content_type": "webinar",
+    "content_data": {
+      "title": "Digital Twins in production planning - Siemens AR",
+      "h1": "Digital Twins in production planning",
+      "word_count": 0,
+      "paragraph_count": 0
+    },
+    "structure": {
+      "title_structure": {
+        "length": 49,
+        "word_count": 8,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {},
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": false,
+        "image_count": 0,
+        "has_links": true,
+        "link_count": 8
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 0,
+          "factors": []
+        },
+        "scannability": {
+          "score": 0,
+          "factors": []
+        },
+        "engagement_elements": {
+          "has_images": false,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "webinar",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:25"
+  },
+  {
+    "url": "https://www.siemens.com/ar/es/productos/automatizacion/sistemas/cnc4you/education-training/webinars/form-webinar-g-code-1.html",
+    "url_hash": "868b120059b9",
+    "content_type": "webinar",
+    "content_data": {
+      "title": "Register for the webinar G code programming, part 1 - Siemens AR",
+      "h1": "Webinar series \"Knowledge lead | CNC\"",
+      "word_count": 0,
+      "paragraph_count": 0
+    },
+    "structure": {
+      "title_structure": {
+        "length": 64,
+        "word_count": 12,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {},
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": false,
+        "image_count": 0,
+        "has_links": true,
+        "link_count": 8
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 0,
+          "factors": []
+        },
+        "scannability": {
+          "score": 0,
+          "factors": []
+        },
+        "engagement_elements": {
+          "has_images": false,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": [
+          "form"
+        ]
+      },
+      "content_strategy": {
+        "content_type": "webinar",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:27"
+  },
+  {
+    "url": "https://www.siemens.com/ar/es/productos/automatizacion/sistemas/cnc4you/education-training/webinars/webinar-flexibility-g-code-1.html",
+    "url_hash": "346c7ea6698b",
+    "content_type": "webinar",
+    "content_data": {
+      "title": "Flexibility and transparency in G code programming, #1 - Siemens AR",
+      "h1": "Transparency and flexibility in SINUMERIK G code programming, part 1",
+      "word_count": 0,
+      "paragraph_count": 0
+    },
+    "structure": {
+      "title_structure": {
+        "length": 67,
+        "word_count": 11,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {},
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": false,
+        "image_count": 0,
+        "has_links": true,
+        "link_count": 8
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 0,
+          "factors": []
+        },
+        "scannability": {
+          "score": 0,
+          "factors": []
+        },
+        "engagement_elements": {
+          "has_images": false,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "webinar",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:30"
+  },
+  {
+    "url": "https://www.siemens.com/ar/es/productos/automatizacion/sistemas/cnc4you/education-training/webinars/webinar-g-code-programming-2-turning.html",
+    "url_hash": "c9df34a42bbf",
+    "content_type": "webinar",
+    "content_data": {
+      "title": "G code programming, part 2, turning - Siemens AR",
+      "h1": "SINUMERIK CNC programming with G code - part 2, turning",
+      "word_count": 0,
+      "paragraph_count": 0
+    },
+    "structure": {
+      "title_structure": {
+        "length": 48,
+        "word_count": 9,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {},
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": false,
+        "image_count": 0,
+        "has_links": true,
+        "link_count": 8
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 0,
+          "factors": []
+        },
+        "scannability": {
+          "score": 0,
+          "factors": []
+        },
+        "engagement_elements": {
+          "has_images": false,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "webinar",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:32"
+  }
+]

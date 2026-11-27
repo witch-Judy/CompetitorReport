@@ -1,0 +1,4309 @@
+====================================================================================================
+Cognite 网站战略重组结构树
+====================================================================================================
+
+📊 重组说明:
+  • Remove: 已剔除包含 thank-you, test, signup, login, policy 的节点
+  • Merge: 已合并语言代码层（en/jp），简化层级结构
+  • Group: 已创建 Strategic Themes 虚拟节点，按业务逻辑归类
+
+====================================================================================================
+
+📈 统计信息:
+  • 原始页面数: 4019 个
+  • 重组后页面数: 3782 个
+  • 删除页面数: 237 个
+
+├─ 📁 404
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • 404
+
+
+├─ 🏭 Industries
+│      └─ 行业解决方案（能源/电力相关）
+│      └─ 共 59 个页面
+
+│  ├─ 📂 Br (3 个页面)
+│  │  ├─ • Byd Energy Investe 50 Milhoes Em Pesquisa
+│  │  ├─ • Byd Anuncia A Maior E Mais Inovadora Rede De Recar
+│  │  └─ • Empregos  Abertura De Vagas Em Camacari
+
+│  ├─ 📂 Bs (2 个页面)
+│  │  ├─ • Byd Partners With Nvidia To Bring Geforce Now Clou
+│  │  └─ • Byd Rolls Off Its 3 Millionth New Energy Vehicle A
+
+│  ├─ 📂 Eu (12 个页面)
+
+│  ├─ 📂 Fr (2 个页面)
+│  │  ├─ • Definition Nev New Energy Vehicle
+│  │  └─ • Definition Nev New Energy Vehicle.Html
+
+│  ├─ 📂 Hu (1 个页面)
+│  │  └─ • A Byd Eladasi Rekordot Ert El A New Energy Vehicle
+
+│  ├─ 📂 Nl (15 个页面)
+
+│  ├─ 📂 Uk (8 个页面)
+│  │  ├─ • Byd Announces Cooperation With Louwman For New Ene
+│  │  ├─ • Byd Appoints Shlomo Motors As Distributor For New 
+│  │  ├─ • Byd New Energy Passenger Vehicle Sales Hit 104,338
+│  │  ├─ • Byd Partners With Hedin Mobility Group For New Ene
+│  │  ├─ • Byd Partners With Nic Christiansen Group For New E
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Us (15 个页面)
+
+│  └─ 📂 Vn (1 个页面)
+│     └─ • Byd Rolls Off Its 3 Millionth New Energy Vehicle A
+
+
+├─ 📁 Other
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Jp
+
+
+├─ 📁 SustainableDevelopment
+│      └─ Sustainabledevelopment
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Sustainabledevelopment
+
+
+├─ 📁 about-byd
+│      └─ About Byd
+│      └─ 共 2 个页面
+
+│  └─ 📄 [直接页面] (2 个)
+│     ├─ • About Byd
+│     └─ • About Byd
+
+
+├─ 📁 at
+│      └─ At
+│      └─ 共 10 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Range Calculator (1 个页面)
+│  │  └─ • Range Calculator
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 bo
+│      └─ Bo
+│      └─ 共 38 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Bo
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (6 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Byd Yuan Pro
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin Mini
+│  │  ├─ • Song Plus Dmi
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (13 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Dolphin Mini (1 个页面)
+│  │  └─ • Order Dolphin Mini
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 br
+│      └─ Br
+│      └─ 共 274 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Br
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Account (1 个页面)
+│  │  └─ • Account
+
+│  ├─ 📂 Account Setting (1 个页面)
+│  │  └─ • Account Setting
+
+│  ├─ 📂 Autocarga (1 个页面)
+│  │  └─ • Autocarga
+
+│  ├─ 📂 Bateria Blade (1 个页面)
+│  │  └─ • Bateria Blade
+
+│  ├─ 📂 Blindagem Certificada (1 个页面)
+│  │  └─ • Blindagem Certificada
+
+│  ├─ 📂 Blindagem Certificada Com Garantia (1 个页面)
+│  │  └─ • Blindagem Certificada Com Garantia
+
+│  ├─ 📂 Brindefestivalinterlagos (1 个页面)
+│  │  └─ • Brindefestivalinterlagos
+
+│  ├─ 📂 Byd Assistance (1 个页面)
+│  │  └─ • Byd Assistance
+
+│  ├─ 📂 Byd Canal De Voz (1 个页面)
+│  │  └─ • Byd Canal De Voz
+
+│  ├─ 📂 Byd Design (1 个页面)
+│  │  └─ • Byd Design
+
+│  ├─ 📂 Byd Disus (1 个页面)
+│  │  └─ • Byd Disus
+
+│  ├─ 📂 Byd E Plataform (1 个页面)
+│  │  └─ • Byd E Plataform
+
+│  ├─ 📂 Byd Por Assinatura (1 个页面)
+│  │  └─ • Byd Por Assinatura
+
+│  ├─ 📂 Bydclub (1 个页面)
+│  │  └─ • Bydclub
+
+│  ├─ 📂 Bydclubconfirmation (1 个页面)
+│  │  └─ • Bydclubconfirmation
+
+│  ├─ 📂 Byddobrasil (1 个页面)
+│  │  └─ • Byddobrasil
+
+│  ├─ 📂 Bydpesquisa (1 个页面)
+│  │  └─ • Bydpesquisa
+
+│  ├─ 📂 Cad Camarote Brahma N1 (1 个页面)
+│  │  └─ • Cad Camarote Brahma N1
+
+│  ├─ 📂 Cad Camarote Salvador (1 个页面)
+│  │  └─ • Cad Camarote Salvador
+
+│  ├─ 📂 Cad Nosso Camarote (1 个页面)
+│  │  └─ • Cad Nosso Camarote
+
+│  ├─ 📂 Cad Nosso Camarote2 (1 个页面)
+│  │  └─ • Cad Nosso Camarote2
+
+│  ├─ 📂 Cadastro Certificacao Byd (1 个页面)
+│  │  └─ • Cadastro Certificacao Byd
+
+│  ├─ 📂 Calculadora De Economia (1 个页面)
+│  │  └─ • Calculadora De Economia
+
+│  ├─ 📂 Calculadora De Economia1 (1 个页面)
+│  │  └─ • Calculadora De Economia1
+
+│  ├─ 📂 Calculadora De Economia2 (1 个页面)
+│  │  └─ • Calculadora De Economia2
+
+│  ├─ 📂 Calculadora De Economia21 (1 个页面)
+│  │  └─ • Calculadora De Economia21
+
+│  ├─ 📂 Campanhatrade (1 个页面)
+│  │  └─ • Campanhatrade
+
+│  ├─ 📂 Car (18 个页面)
+
+│  ├─ 📂 Career (1 个页面)
+│  │  └─ • Career
+
+│  ├─ 📂 Carros Eletricos (15 个页面)
+
+│  ├─ 📂 Carros Eletricos Byd (1 个页面)
+│  │  └─ • Carros Eletricos Byd
+
+│  ├─ 📂 Carros Hibridos (10 个页面)
+│  │  ├─ • Carros Hibridos
+│  │  ├─ • King
+│  │  ├─ • King1
+│  │  ├─ • Shark
+│  │  ├─ • Shark1
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Central Relacionamento (1 个页面)
+│  │  └─ • Central Relacionamento
+
+│  ├─ 📂 Chave Digital (1 个页面)
+│  │  └─ • Chave Digital
+
+│  ├─ 📂 Condicoes (1 个页面)
+│  │  └─ • Condicoes
+
+│  ├─ 📂 Condicoes Trio Eletrico (1 个页面)
+│  │  └─ • Condicoes Trio Eletrico
+
+│  ├─ 📂 Contato (1 个页面)
+│  │  └─ • Contato
+
+│  ├─ 📂 Diretas (8 个页面)
+│  │  ├─ • Diretas
+│  │  ├─ • Byd Cnpj Microempresas
+│  │  ├─ • Byd Locadoras
+│  │  ├─ • Byd Produtor Rural
+│  │  ├─ • Byd Taxi
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Event List (1 个页面)
+│  │  └─ • Event List
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Historico Condicoes (1 个页面)
+│  │  └─ • Historico Condicoes
+
+│  ├─ 📂 Legislacao Seguranca (1 个页面)
+│  │  └─ • Legislacao Seguranca
+
+│  ├─ 📂 Manual Compliance (1 个页面)
+│  │  └─ • Manual Compliance
+
+│  ├─ 📂 Manual Guia Rapido (1 个页面)
+│  │  └─ • Manual Guia Rapido
+
+│  ├─ 📂 Manual Manutencao Garantia (1 个页面)
+│  │  └─ • Manual Manutencao Garantia
+
+│  ├─ 📂 Manual Proprietario (1 个页面)
+│  │  └─ • Manual Proprietario
+
+│  ├─ 📂 Manual Recharge (1 个页面)
+│  │  └─ • Manual Recharge
+
+│  ├─ 📂 Mapa Do Site (1 个页面)
+│  │  └─ • Mapa Do Site
+
+│  ├─ 📂 Monte O Seu Dolphin (1 个页面)
+│  │  └─ • Monte O Seu Dolphin
+
+│  ├─ 📂 Monte O Seu Dolphin Mini (1 个页面)
+│  │  └─ • Monte O Seu Dolphin Mini
+
+│  ├─ 📂 Noticias Byd Brasil (115 个页面)
+
+│  ├─ 📂 O Que E Nev (1 个页面)
+│  │  └─ • O Que E Nev
+
+│  ├─ 📂 Oferta Selecionada (1 个页面)
+│  │  └─ • Oferta Selecionada
+
+│  ├─ 📂 Ofertas (2 个页面)
+│  │  ├─ • Ofertas
+│  │  └─ • Oferta Selecionada
+
+│  ├─ 📂 Ofertas1 (1 个页面)
+│  │  └─ • Oferta Selecionada
+
+│  ├─ 📂 Order Atto 8 (1 个页面)
+│  │  └─ • Order Atto 8
+
+│  ├─ 📂 Order Byd Mais (11 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Dolphin Mini (1 个页面)
+│  │  └─ • Order Dolphin Mini
+
+│  ├─ 📂 Order Dolphin Plus (1 个页面)
+│  │  └─ • Order Dolphin Plus
+
+│  ├─ 📂 Order Han Ev (1 个页面)
+│  │  └─ • Order Han Ev
+
+│  ├─ 📂 Order King Dmi (1 个页面)
+│  │  └─ • Order King Dmi
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Song (1 个页面)
+│  │  └─ • Order Song
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Song Plus Premium (1 个页面)
+│  │  └─ • Order Song Plus Premium
+
+│  ├─ 📂 Order Song Pro (1 个页面)
+│  │  └─ • Order Song Pro
+
+│  ├─ 📂 Order Tan (1 个页面)
+│  │  └─ • Order Tan
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📂 Perguntas Frequentes (1 个页面)
+│  │  └─ • Perguntas Frequentes
+
+│  ├─ 📂 Pesquisabyd (1 个页面)
+│  │  └─ • Pesquisabyd
+
+│  ├─ 📂 Plano De Manutencao (1 个页面)
+│  │  └─ • Plano De Manutencao
+
+│  ├─ 📂 Politica De Cookies (1 个页面)
+│  │  └─ • Politica De Cookies
+
+│  ├─ 📂 Pos Vendas (1 个页面)
+│  │  └─ • Pos Vendas
+
+│  ├─ 📂 Privacidade (1 个页面)
+│  │  └─ • Privacidade
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Reconstruindosonhos (1 个页面)
+│  │  └─ • Reconstruindosonhos
+
+│  ├─ 📂 Regrasbydclub (1 个页面)
+│  │  └─ • Regrasbydclub
+
+│  ├─ 📂 Regrasn1Club (1 个页面)
+│  │  └─ • Regrasn1Club
+
+│  ├─ 📂 Regulamento 30 Anos (1 个页面)
+│  │  └─ • Regulamento 30 Anos
+
+│  ├─ 📂 Regulamento Campanha Marina (1 个页面)
+│  │  └─ • Regulamento Campanha Marina
+
+│  ├─ 📂 Regulamentoraizen (1 个页面)
+│  │  └─ • Regulamentoraizen
+
+│  ├─ 📂 Reset Password (1 个页面)
+│  │  └─ • Reset Password
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Save Leasing Configuration (1 个页面)
+│  │  └─ • Save Leasing Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Servico (3 个页面)
+│  │  ├─ • Servico
+│  │  ├─ • App
+│  │  └─ • Dilink
+
+│  ├─ 📂 Servico Manutencao Byd Auto Brasil (1 个页面)
+│  │  └─ • Politica De Garantia
+
+│  ├─ 📂 Sobre A Byd (1 个页面)
+│  │  └─ • Sobre A Byd
+
+│  ├─ 📂 Tecnologia (2 个页面)
+│  │  ├─ • Tecnologia
+│  │  └─ • Byd Disus
+
+│  ├─ 📂 Tecnologia Byd Cell To Body (1 个页面)
+│  │  └─ • Tecnologia Byd Cell To Body
+
+│  ├─ 📂 Tecnologia Byd Super Hibrido (1 个页面)
+│  │  └─ • Tecnologia Byd Super Hibrido
+
+│  ├─ 📂 Termos De Uso (1 个页面)
+│  │  └─ • Termos De Uso
+
+│  └─ 📂 Vendas Pcd (1 个页面)
+│     └─ • Vendas Pcd
+
+
+├─ 📁 bs
+│      └─ Bs
+│      └─ 共 57 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Bs
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin Mini
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (4 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Data Privacy
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (26 个页面)
+
+│  ├─ 📂 Order (4 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Dolphin
+│  │  ├─ • Tang
+│  │  └─ • Yuan Plus
+
+│  ├─ 📂 Order Dolphin Mini (1 个页面)
+│  │  └─ • Order Dolphin Mini
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Song Plus (1 个页面)
+│  │  └─ • Order Song Plus
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 byd
+│      └─ Byd
+│      └─ 共 302 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 After Sales Service (4 个页面)
+│  │  ├─ • After Sales Service
+│  │  ├─ • Jingcheng
+│  │  ├─ • Maintenance Protection
+│  │  └─ • Social Responsibility
+
+│  ├─ 📂 Brand Center (7 个页面)
+│  │  ├─ • Brand Center
+│  │  ├─ • Branded Videos And Events
+│  │  ├─ • Industries And Businesses
+│  │  ├─ • Leading In Branding Markets
+│  │  ├─ • Leading In Technology Markets
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Car Club (29 个页面)
+
+│  ├─ 📂 Charge Station (1 个页面)
+│  │  └─ • Charge Station
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Dealer Joining (1 个页面)
+│  │  └─ • Dealer Joining
+
+│  ├─ 📂 Dynasty Home (30 个页面)
+
+│  ├─ 📂 Financial Calculate (1 个页面)
+│  │  └─ • Financial Calculate
+
+│  ├─ 📂 Financial Compare (1 个页面)
+│  │  └─ • Financial Compare
+
+│  ├─ 📂 Help Center (1 个页面)
+│  │  └─ • Help Center
+
+│  ├─ 📂 Ht Club (1 个页面)
+│  │  └─ • Ht Club
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Language (1 个页面)
+│  │  └─ • Language
+
+│  ├─ 📂 Live List (29 个页面)
+
+│  ├─ 📂 Mobile (1 个页面)
+│  │  └─ • Mini Program
+
+│  ├─ 📂 Mulan (15 个页面)
+
+│  ├─ 📂 News (142 个页面)
+
+│  ├─ 📂 Ocean Home (25 个页面)
+
+│  ├─ 📂 Order Optional (1 个页面)
+│  │  └─ • Order Optional
+
+│  ├─ 📂 Parameter Comparison (1 个页面)
+│  │  └─ • Parameter Comparison
+
+│  ├─ 📂 Privacy (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • White Paper
+
+│  ├─ 📂 Race Track (3 个页面)
+│  │  ├─ • Race Hefei
+│  │  ├─ • Race Shaoxing
+│  │  └─ • Race Zhengzhou
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 User Center (1 个页面)
+│  │  └─ • User Center
+
+│  └─ 📂 User Manual (1 个页面)
+│     └─ • User Manual
+
+
+├─ 📁 car
+│      └─ Car
+│      └─ 共 5 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Car
+
+│  ├─ 📂 Atto3 (2 个页面)
+│  │  ├─ • Atto3
+│  │  └─ • Atto3
+
+│  ├─ 📂 Han (1 个页面)
+│  │  └─ • Han
+
+│  └─ 📂 Tang (1 个页面)
+│     └─ • Tang
+
+
+├─ 📁 cl
+│      └─ Cl
+│      └─ 共 60 个页面
+
+│  ├─ 📂 Order Song Pro (1 个页面)
+│  │  └─ • Order Song Pro
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Cl
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Basesconcurso (1 个页面)
+│  │  └─ • Basesconcurso
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (11 个页面)
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Dolphinmini (1 个页面)
+│  │  └─ • Dolphinmini
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (18 个页面)
+
+│  ├─ 📂 Order (7 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Order Yuanplus
+│  │  ├─ • Seal
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 cn
+│      └─ Cn
+│      └─ 共 330 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 After Sales Service (4 个页面)
+│  │  ├─ • After Sales Service
+│  │  ├─ • Jingcheng
+│  │  ├─ • Maintenance Protection
+│  │  └─ • Social Responsibility
+
+│  ├─ 📂 Brand Center (7 个页面)
+│  │  ├─ • Brand Center
+│  │  ├─ • Branded Videos And Events
+│  │  ├─ • Industries And Businesses
+│  │  ├─ • Leading In Branding Markets
+│  │  ├─ • Leading In Technology Markets
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Car Club (32 个页面)
+
+│  ├─ 📂 Charge Station (1 个页面)
+│  │  └─ • Charge Station
+
+│  ├─ 📂 Chat (1 个页面)
+│  │  └─ • Chat
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Dealer Joining (1 个页面)
+│  │  └─ • Dealer Joining
+
+│  ├─ 📂 Detail 13 (1 个页面)
+│  │  └─ • Detail 13
+
+│  ├─ 📂 Detail611 (1 个页面)
+│  │  └─ • Detail611
+
+│  ├─ 📂 Detail612 (1 个页面)
+│  │  └─ • Detail612
+
+│  ├─ 📂 Detail613 (1 个页面)
+│  │  └─ • Detail613
+
+│  ├─ 📂 Detail614 (1 个页面)
+│  │  └─ • Detail614
+
+│  ├─ 📂 Dynasty Home (35 个页面)
+
+│  ├─ 📂 Financial Calculate (1 个页面)
+│  │  └─ • Financial Calculate
+
+│  ├─ 📂 Financial Compare (1 个页面)
+│  │  └─ • Financial Compare
+
+│  ├─ 📂 Haibao 06 Gt 360 (1 个页面)
+│  │  └─ • Haibao 06 Gt 360
+
+│  ├─ 📂 Haibao 06 Dm I Zj Vr (1 个页面)
+│  │  └─ • Haibao 06 Dm I Zj Vr
+
+│  ├─ 📂 Haibao 06 Ev 360 (1 个页面)
+│  │  └─ • Haibao 06 Ev 360
+
+│  ├─ 📂 Haibao 06 Lx 360 (1 个页面)
+│  │  └─ • Haibao 06 Lx 360
+
+│  ├─ 📂 Haibao 07 Dm I Vr (1 个页面)
+│  │  └─ • Haibao 07 Dm I Vr
+
+│  ├─ 📂 Haishi 06Dm I 360 (1 个页面)
+│  │  └─ • Haishi 06Dm I 360
+
+│  ├─ 📂 Haishi 06Ev 360 (1 个页面)
+│  │  └─ • Haishi 06Ev 360
+
+│  ├─ 📂 Help Center (1 个页面)
+│  │  └─ • Help Center
+
+│  ├─ 📂 Ht Club (1 个页面)
+│  │  └─ • Ht Club
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Language (1 个页面)
+│  │  └─ • Language
+
+│  ├─ 📂 Live List (27 个页面)
+
+│  ├─ 📂 Mobile (1 个页面)
+│  │  └─ • Mini Program
+
+│  ├─ 📂 Mulan (17 个页面)
+
+│  ├─ 📂 News (147 个页面)
+
+│  ├─ 📂 Ocean Home (25 个页面)
+
+│  ├─ 📂 Order Optional (1 个页面)
+│  │  └─ • Order Optional
+
+│  ├─ 📂 Parameter Comparison (1 个页面)
+│  │  └─ • Parameter Comparison
+
+│  ├─ 📂 Privacy (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • White Paper
+
+│  ├─ 📂 Race Track (4 个页面)
+│  │  ├─ • Race Track
+│  │  ├─ • Race Hefei
+│  │  ├─ • Race Shaoxing
+│  │  └─ • Race Zhengzhou
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 User Center (1 个页面)
+│  │  └─ • User Center
+
+│  └─ 📂 User Manual (1 个页面)
+│     └─ • User Manual
+
+
+├─ 📁 co
+│      └─ Co
+│      └─ 共 64 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Co
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Account (1 个页面)
+│  │  └─ • Account
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Bydseagull (1 个页面)
+│  │  └─ • Bydseagull
+
+│  ├─ 📂 Car (12 个页面)
+
+│  ├─ 📂 Concesionarios (1 个页面)
+│  │  └─ • Concesionarios
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (18 个页面)
+
+│  ├─ 📂 Order (6 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Song Plus Dmi
+│  │  ├─ • Tang
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Song Plus Ev (1 个页面)
+│  │  └─ • Order Song Plus Ev
+
+│  ├─ 📂 Order Song Pro (1 个页面)
+│  │  └─ • Order Song Pro
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Order Yuan Up (1 个页面)
+│  │  └─ • Order Yuan Up
+
+│  ├─ 📂 Ordersealion7 (1 个页面)
+│  │  └─ • Ordersealion7
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Service Maintenance (2 个页面)
+│  │  ├─ • Service Maintenance
+│  │  └─ • Owners Manual
+
+│  └─ 📂 Talleres (1 个页面)
+│     └─ • Talleres
+
+
+├─ 📁 contact-us
+│      └─ Contact Us
+│      └─ 共 2 个页面
+
+│  └─ 📄 [直接页面] (2 个)
+│     ├─ • Contact Us
+│     └─ • Contact Us
+
+
+├─ 📁 cookie
+│      └─ Cookie
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Cookie
+
+
+├─ 📁 cr
+│      └─ Cr
+│      └─ 共 44 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Cr
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (8 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Newtang
+│  │  ├─ • Seal
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (15 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Sealion 7 Ev (1 个页面)
+│  │  └─ • Order Sealion 7 Ev
+
+│  ├─ 📂 Order Songplusev (1 个页面)
+│  │  └─ • Order Songplusev
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 data-privacy
+│      └─ Data Privacy
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Data Privacy
+
+
+├─ 📁 de
+│      └─ De
+│      └─ 共 137 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 Impressum (1 个页面)
+│  │  └─ • Impressum
+
+│  ├─ 📂 Impressum.Html (1 个页面)
+│  │  └─ • Impressum.Html
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Aktion (2 个页面)
+│  │  ├─ • Aktion
+│  │  └─ • Black Friday 2024 Aktionsbedingungen
+
+│  ├─ 📂 Angebot (3 个页面)
+│  │  ├─ • Black Friday Deals
+│  │  ├─ • Plan Electrificate
+│  │  └─ • Plan Electrificate.Html
+
+│  ├─ 📂 Angebot 2026 (1 个页面)
+│  │  └─ • Angebot 2026
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Automechanika Frankfurt 2024 (1 个页面)
+│  │  └─ • Automechanika Frankfurt 2024
+
+│  ├─ 📂 Byd Frankfurt (1 个页面)
+│  │  └─ • Byd Frankfurt
+
+│  ├─ 📂 Byd Hamburg (1 个页面)
+│  │  └─ • Byd Hamburg
+
+│  ├─ 📂 Byd Riess (1 个页面)
+│  │  └─ • Byd Riess
+
+│  ├─ 📂 Byd Senger (1 个页面)
+│  │  └─ • Byd Senger
+
+│  ├─ 📂 Byd Sittensen (1 个页面)
+│  │  └─ • Byd Sittensen
+
+│  ├─ 📂 Byd Stuttgart (1 个页面)
+│  │  └─ • Byd Stuttgart
+
+│  ├─ 📂 Car (8 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Act Notice (1 个页面)
+│  │  └─ • Data Act Notice
+
+│  ├─ 📂 Dealer Admittance (1 个页面)
+│  │  └─ • Dealer Admittance
+
+│  ├─ 📂 Dealer Admittance.Html (1 个页面)
+│  │  └─ • Dealer Admittance.Html
+
+│  ├─ 📂 E Fahrzeuge (30 个页面)
+
+│  ├─ 📂 E Fahrzeuge.Html (1 个页面)
+│  │  └─ • E Fahrzeuge.Html
+
+│  ├─ 📂 Elektroauto Fuehrer (1 个页面)
+│  │  └─ • Elektroauto Fuehrer
+
+│  ├─ 📂 Elektroauto Fuehrer.Html (1 个页面)
+│  │  └─ • Elektroauto Fuehrer.Html
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Flotte (1 个页面)
+│  │  └─ • Flotte
+
+│  ├─ 📂 Fur Besitzer (5 个页面)
+│  │  ├─ • Fur Besitzer
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Service Maintenance.Html
+│  │  ├─ • Wie Byd Ihre Privatsphare Und Daten Schutzt
+│  │  └─ • Wie Byd Ihre Privatsphare Und Daten Schutzt.Html
+
+│  ├─ 📂 Fur Besitzer.Html (1 个页面)
+│  │  └─ • Fur Besitzer.Html
+
+│  ├─ 📂 Garantiebedingungen (1 个页面)
+│  │  └─ • Garantiebedingungen
+
+│  ├─ 📂 Haendlerwerden (1 个页面)
+│  │  └─ • Haendlerwerden
+
+│  ├─ 📂 Haendlerwerden.Html (1 个页面)
+│  │  └─ • Haendlerwerden.Html
+
+│  ├─ 📂 Hybrid Fahrzeuge (8 个页面)
+│  │  ├─ • Hybrid Fahrzeuge
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Einkaufsfuhrer
+│  │  ├─ • Vor Und Nachteile Von Hybrid Fahrzeugen
+│  │  ├─ • Vor Und Nachteile Von Hybrid Fahrzeugen.Html
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Konfiguration (13 个页面)
+
+│  ├─ 📂 Nachhaltigkeit (1 个页面)
+│  │  └─ • Nachhaltigkeit
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Atto3.Html (1 个页面)
+│  │  └─ • Order Atto3.Html
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Dolphin.Html (1 个页面)
+│  │  └─ • Order Dolphin.Html
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Seal U Dm I.Html (1 个页面)
+│  │  └─ • Order Seal U Dm I.Html
+
+│  ├─ 📂 Order Seal U.Html (1 个页面)
+│  │  └─ • Order Seal U.Html
+
+│  ├─ 📂 Order Seal.Html (1 个页面)
+│  │  └─ • Order Seal.Html
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Order Sealion 7.Html (1 个页面)
+│  │  └─ • Order Sealion 7.Html
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Tang.Html (1 个页面)
+│  │  └─ • Order Tang.Html
+
+│  ├─ 📂 Privacy (6 个页面)
+│  │  ├─ • Privacy
+│  │  ├─ • Hinweis Atto 2 Boost
+│  │  ├─ • Hinweis Dolphin Surf
+│  │  ├─ • Hinweis Seal 6 Dm I Touring
+│  │  ├─ • Hinweis Seal Comfort
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Save Configuration.Html (1 个页面)
+│  │  └─ • Save Configuration.Html
+
+│  ├─ 📂 Save Leasing Configuration (1 个页面)
+│  │  └─ • Save Leasing Configuration
+
+│  ├─ 📂 Service Maintenance (1 个页面)
+│  │  └─ • Service Maintenance
+
+│  ├─ 📂 Service Maintenance.Html (1 个页面)
+│  │  └─ • Service Maintenance.Html
+
+│  ├─ 📂 Storeleads (1 个页面)
+│  │  └─ • Storeleads
+
+│  ├─ 📂 Storeleads.Html (1 个页面)
+│  │  └─ • Storeleads.Html
+
+│  ├─ 📂 Technologie (3 个页面)
+│  │  ├─ • Technologie
+│  │  ├─ • Byd Super Dm Plug In Hybridtechnologie
+│  │  └─ • Byd Super Dm Plug In Hybridtechnologie.Html
+
+│  ├─ 📂 Technologie.Html (1 个页面)
+│  │  └─ • Technologie.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 Uefa Euro 2024 (1 个页面)
+│  │  └─ • Uefa Euro 2024
+
+│  └─ 📂 Uefa Euro 2024.Html (1 个页面)
+│     └─ • Uefa Euro 2024.Html
+
+
+├─ 📁 dk
+│      └─ Dk
+│      └─ 共 1 个页面
+
+│  └─ 📂 404.Html (1 个页面)
+│     └─ • 404.Html
+
+
+├─ 📁 do
+│      └─ Do
+│      └─ 共 45 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Do
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (8 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Bydshark
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 News List (15 个页面)
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order New Tang (1 个页面)
+│  │  └─ • Order New Tang
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Service Maintenance (2 个页面)
+│  │  ├─ • Service Maintenance
+│  │  └─ • Owners Manual
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 ec
+│      └─ Ec
+│      └─ 共 43 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Ec
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (7 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Newtang
+│  │  ├─ • Shark
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (16 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan (1 个页面)
+│  │  └─ • Order Yuan
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 en-be
+│      └─ En Be
+│      └─ 共 1 个页面
+
+│  └─ 📂 404 (1 个页面)
+│     └─ • 404
+
+
+├─ 📁 en-mo
+│      └─ En Mo
+│      └─ 共 24 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (4 个页面)
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • M6
+│  │  └─ • Seal
+
+│  ├─ 📂 Contact (1 个页面)
+│  │  └─ • Contact
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order M6 (1 个页面)
+│  │  └─ • Order M6
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Support (5 个页面)
+│  │  ├─ • Support
+│  │  ├─ • App
+│  │  ├─ • Dilink
+│  │  ├─ • Service
+│  │  └─ • Owners Manual
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 error
+│      └─ Error
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Error
+
+
+├─ 📁 es
+│      └─ Es
+│      └─ 共 1 个页面
+
+│  └─ 📂 404.Html (1 个页面)
+│     └─ • 404.Html
+
+
+├─ 📁 es-es
+│      └─ Es Es
+│      └─ 共 255 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Aviso Data Act (1 个页面)
+│  │  └─ • Aviso Data Act
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Coches Electricos (30 个页面)
+
+│  ├─ 📂 Coches Flota Byd (1 个页面)
+│  │  └─ • Coches Flota Byd
+
+│  ├─ 📂 Coches Hibridos (9 个页面)
+│  │  ├─ • Coches Hibridos
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Guia
+│  │  ├─ • Guia.Html
+│  │  ├─ • Ventajas Desventajas Coches Hibridos
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Condiciones De Uso (1 个页面)
+│  │  └─ • Condiciones De Uso
+
+│  ├─ 📂 Configurador (14 个页面)
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Dolphin Surf (1 个页面)
+│  │  └─ • Dolphin Surf
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Es Es (3 个页面)
+│  │  ├─ • Blackdaysbyd
+│  │  ├─ • Byd Seal U Dm I Promocion Canarias
+│  │  └─ • Seal U Dmi Promocion Canarias
+
+│  ├─ 📂 Explicamos Hev Bev Y Phev (1 个页面)
+│  │  └─ • Explicamos Hev Bev Y Phev
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Inicio Para El Coche Electrico (1 个页面)
+│  │  └─ • Inicio Para El Coche Electrico
+
+│  ├─ 📂 News List (83 个页面)
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Promociones (56 个页面)
+
+│  ├─ 📂 Promociones Canarias (9 个页面)
+│  │  ├─ • Atto 2 Dmi Canarias
+│  │  ├─ • Atto 3 Canarias
+│  │  ├─ • Dolphin Canarias
+│  │  ├─ • Dolphin Surf Canarias
+│  │  ├─ • Gama Byd Atto 2 Canarias
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Service Maintenance (4 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Emergency
+│  │  ├─ • Manual Del Propietario
+│  │  └─ • Owners Manual
+
+│  ├─ 📂 Soporte (4 个页面)
+│  │  ├─ • Soporte
+│  │  ├─ • Como Byd Protege Sus Datos Y Su Privacidad
+│  │  ├─ • Manual Instalacion Cargadores
+│  │  └─ • Sostenibilidad
+
+│  ├─ 📂 Tecnologia (5 个页面)
+│  │  ├─ • Tecnologia
+│  │  ├─ • Byd Blade Battery
+│  │  ├─ • Byd E Platform 3
+│  │  ├─ • Byd E Platform 3.Html
+│  │  └─ • Byd Super Dm Con Tecnologia Hibrida Enchufable
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  └─ 📂 Uefa Euro 2024 (1 个页面)
+│     └─ • Uefa Euro 2024
+
+
+├─ 📁 eu
+│      └─ Eu
+│      └─ 共 245 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 Byd Shell Charge Cards (1 个页面)
+│  │  └─ • Byd Shell Charge Cards
+
+│  ├─ 📂 Byd Shell Charge Cards.Html (1 个页面)
+│  │  └─ • Byd Shell Charge Cards.Html
+
+│  ├─ 📂 Byd_And_Shell_Partner_On_Charging_For_100,000_Electric_Vehicle_Customers (1 个页面)
+│  │  └─ • Byd_And_Shell_Partner_On_Charging_For_100,000_Elec
+
+│  ├─ 📂 Byd_And_Shell_Partner_On_Charging_For_100,000_Electric_Vehicle_Customers.Html (1 个页面)
+│  │  └─ • Byd_And_Shell_Partner_On_Charging_For_100,000_Elec
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 App.Html (1 个页面)
+│  │  └─ • App.Html
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Assistance Pdf.Html (1 个页面)
+│  │  └─ • Assistance Pdf.Html
+
+│  ├─ 📂 Assistance.Html (1 个页面)
+│  │  └─ • Assistance.Html
+
+│  ├─ 📂 Atto 2.Html (1 个页面)
+│  │  └─ • Atto 2.Html
+
+│  ├─ 📂 Atto3 (1 个页面)
+│  │  └─ • Atto3
+
+│  ├─ 📂 Atto3.Html (1 个页面)
+│  │  └─ • Atto3.Html
+
+│  ├─ 📂 Blog (26 个页面)
+
+│  ├─ 📂 Blog.Html (1 个页面)
+│  │  └─ • Blog.Html
+
+│  ├─ 📂 Byd Digital Key.Html (1 个页面)
+│  │  └─ • Byd Digital Key.Html
+
+│  ├─ 📂 Car (8 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Charge Cards Privacy Legal (1 个页面)
+│  │  └─ • Charge Cards Privacy Legal
+
+│  ├─ 📂 Charge Cards Privacy Legal.Html (1 个页面)
+│  │  └─ • Charge Cards Privacy Legal.Html
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Contact Us.Html (1 个页面)
+│  │  └─ • Contact Us.Html
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Act Notice (1 个页面)
+│  │  └─ • Data Act Notice
+
+│  ├─ 📂 Dealer Admittance (1 个页面)
+│  │  └─ • Dealer Admittance
+
+│  ├─ 📂 Dealer Admittance.Html (1 个页面)
+│  │  └─ • Dealer Admittance.Html
+
+│  ├─ 📂 Dlink.Html (1 个页面)
+│  │  └─ • Dlink.Html
+
+│  ├─ 📂 Dolphin (1 个页面)
+│  │  └─ • Dolphin
+
+│  ├─ 📂 Dolphin Surf.Html (1 个页面)
+│  │  └─ • Dolphin Surf.Html
+
+│  ├─ 📂 Dolphin.Html (1 个页面)
+│  │  └─ • Dolphin.Html
+
+│  ├─ 📂 Electric Cars (23 个页面)
+
+│  ├─ 📂 Electric Cars.Html (1 个页面)
+│  │  └─ • Electric Cars.Html
+
+│  ├─ 📂 Emergency.Html (1 个页面)
+│  │  └─ • Emergency.Html
+
+│  ├─ 📂 Epic Pass Byd On Tiktok Privacy Notice (1 个页面)
+│  │  └─ • Epic Pass Byd On Tiktok Privacy Notice
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Eu (1 个页面)
+│  │  └─ • Byd Dolphin Named Best Buy Car Of Europe 2024 By A
+
+│  ├─ 📂 Eu Doc (1 个页面)
+│  │  └─ • Eu Doc
+
+│  ├─ 📂 Eu Doc.Html (1 个页面)
+│  │  └─ • Eu Doc.Html
+
+│  ├─ 📂 Euro 2024 Byd Events (1 个页面)
+│  │  └─ • Euro 2024 Byd Events
+
+│  ├─ 📂 Euro 2024 Byd Events.Html (1 个页面)
+│  │  └─ • Euro 2024 Byd Events.Html
+
+│  ├─ 📂 Euro 2025 Byd Events (1 个页面)
+│  │  └─ • Euro 2025 Byd Events
+
+│  ├─ 📂 Euro 2025 Byd Events.Html (1 个页面)
+│  │  └─ • Euro 2025 Byd Events.Html
+
+│  ├─ 📂 Ev Hub Privacy Legal (1 个页面)
+│  │  └─ • Ev Hub Privacy Legal
+
+│  ├─ 📂 Ev Hub Privacy Legal.Html (1 个页面)
+│  │  └─ • Ev Hub Privacy Legal.Html
+
+│  ├─ 📂 Ev Range Vs Footballer Endurance.Html (1 个页面)
+│  │  └─ • Ev Range Vs Footballer Endurance.Html
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Find Store.Html (1 个页面)
+│  │  └─ • Find Store.Html
+
+│  ├─ 📂 Fleet Car (1 个页面)
+│  │  └─ • Fleet Car
+
+│  ├─ 📂 Frequently Asked Questions (1 个页面)
+│  │  └─ • Frequently Asked Questions
+
+│  ├─ 📂 Han (1 个页面)
+│  │  └─ • Han
+
+│  ├─ 📂 Han.Html (1 个页面)
+│  │  └─ • Han.Html
+
+│  ├─ 📂 Home.Html (1 个页面)
+│  │  └─ • Home.Html
+
+│  ├─ 📂 How Byd Protects Your Privacy Data.Html (1 个页面)
+│  │  └─ • How Byd Protects Your Privacy Data.Html
+
+│  ├─ 📂 Hybrid Cars (6 个页面)
+│  │  ├─ • Hybrid Cars
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Seal 6 Dm I
+│  │  ├─ • Seal 6 Dm I Touring
+│  │  ├─ • Seal U Dm I
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Hybrid Cars.Html (1 个页面)
+│  │  └─ • Hybrid Cars.Html
+
+│  ├─ 📂 Image Bank (1 个页面)
+│  │  └─ • Image Bank
+
+│  ├─ 📂 Image Bank.Html (1 个页面)
+│  │  └─ • Image Bank.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Join The Green Wave (1 个页面)
+│  │  └─ • Join The Green Wave
+
+│  ├─ 📂 Join The Green Wave.Html (1 个页面)
+│  │  └─ • Join The Green Wave.Html
+
+│  ├─ 📂 News List (43 个页面)
+
+│  ├─ 📂 Ownership (5 个页面)
+│  │  ├─ • Ownership
+│  │  ├─ • Byd Digital Key
+│  │  ├─ • Byd Digital Key.Html
+│  │  ├─ • How Byd Protects Your Privacy Data
+│  │  └─ • How Byd Protects Your Privacy Data.Html
+
+│  ├─ 📂 Ownership.Html (1 个页面)
+│  │  └─ • Ownership.Html
+
+│  ├─ 📂 Press Kit2022 (1 个页面)
+│  │  └─ • Press Kit2022
+
+│  ├─ 📂 Press Kit2022.Html (1 个页面)
+│  │  └─ • Press Kit2022.Html
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Range Calculator (21 个页面)
+
+│  ├─ 📂 Seal (1 个页面)
+│  │  └─ • Seal
+
+│  ├─ 📂 Seal 6 Dm I (1 个页面)
+│  │  └─ • Seal 6 Dm I
+
+│  ├─ 📂 Seal 6 Dm I Touring (1 个页面)
+│  │  └─ • Seal 6 Dm I Touring
+
+│  ├─ 📂 Seal U (1 个页面)
+│  │  └─ • Seal U
+
+│  ├─ 📂 Seal U Dm I (1 个页面)
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Seal U.Html (1 个页面)
+│  │  └─ • Seal U.Html
+
+│  ├─ 📂 Seal.Html (1 个页面)
+│  │  └─ • Seal.Html
+
+│  ├─ 📂 Sealion 7.Html (1 个页面)
+│  │  └─ • Sealion 7.Html
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Search.Html (1 个页面)
+│  │  └─ • Search.Html
+
+│  ├─ 📂 Service Maintenance (6 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Emergency
+│  │  ├─ • Frequently Asked Questions
+│  │  ├─ • Owners Manual
+│  │  ├─ • Owners Manual.Html
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Service Maintenance.Html (1 个页面)
+│  │  └─ • Service Maintenance.Html
+
+│  ├─ 📂 Shell Byd Ev Hub2022 (1 个页面)
+│  │  └─ • Shell Byd Ev Hub2022
+
+│  ├─ 📂 Shell Byd Ev Hub2022.Html (1 个页面)
+│  │  └─ • Shell Byd Ev Hub2022.Html
+
+│  ├─ 📂 Support (3 个页面)
+│  │  ├─ • Support
+│  │  ├─ • App.Html
+│  │  └─ • Dlink.Html
+
+│  ├─ 📂 Support.Html (1 个页面)
+│  │  └─ • Support.Html
+
+│  ├─ 📂 Tang (1 个页面)
+│  │  └─ • Tang
+
+│  ├─ 📂 Tang.Html (1 个页面)
+│  │  └─ • Tang.Html
+
+│  ├─ 📂 Technology (7 个页面)
+│  │  ├─ • Technology
+│  │  ├─ • Byd Blade Battery
+│  │  ├─ • Byd Blade Battery.Html
+│  │  ├─ • Byd E Platform 3
+│  │  ├─ • Byd E Platform 3.Html
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Technology.Html (1 个页面)
+│  │  └─ • Technology.Html
+
+│  ├─ 📂 Terms And Conditions (1 个页面)
+│  │  └─ • Terms And Conditions
+
+│  ├─ 📂 Terms And Conditions.Html (1 个页面)
+│  │  └─ • Terms And Conditions.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 Terms Of Use.Html (1 个页面)
+│  │  └─ • Terms Of Use.Html
+
+│  ├─ 📂 Uefa Euro 2024 (1 个页面)
+│  │  └─ • Uefa Euro 2024
+
+│  ├─ 📂 Uefa Euro 2024 Contact Form (1 个页面)
+│  │  └─ • Uefa Euro 2024 Contact Form
+
+│  ├─ 📂 Uefa Euro 2024 Contact Form.Html (1 个页面)
+│  │  └─ • Uefa Euro 2024 Contact Form.Html
+
+│  ├─ 📂 Uefa Euro 2024.Html (1 个页面)
+│  │  └─ • Uefa Euro 2024.Html
+
+│  ├─ 📂 Uefa Euro U21 (1 个页面)
+│  │  └─ • Uefa Euro U21
+
+│  ├─ 📂 Uefa Euro U21 Sk (1 个页面)
+│  │  └─ • Uefa Euro U21 Sk
+
+│  ├─ 📂 Uefa Euro U21 Sk.Html (1 个页面)
+│  │  └─ • Uefa Euro U21 Sk.Html
+
+│  ├─ 📂 Uefa Euro U21.Html (1 个页面)
+│  │  └─ • Uefa Euro U21.Html
+
+│  ├─ 📂 Unsubscribe (1 个页面)
+│  │  └─ • Unsubscribe
+
+│  ├─ 📂 Unsubscribe.Html (1 个页面)
+│  │  └─ • Unsubscribe.Html
+
+│  └─ 📂 What Is A Nev.Html (1 个页面)
+│     └─ • What Is A Nev.Html
+
+
+├─ 📁 fr
+│      └─ Fr
+│      └─ 共 178 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 A Propos De Byd (1 个页面)
+│  │  └─ • A Propos De Byd
+
+│  ├─ 📂 A Propos De Byd.Html (1 个页面)
+│  │  └─ • A Propos De Byd.Html
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Byd Event (1 个页面)
+│  │  └─ • Byd Event
+
+│  ├─ 📂 Byd Event.Html (1 个页面)
+│  │  └─ • Byd Event.Html
+
+│  ├─ 📂 Campaign (8 个页面)
+│  │  ├─ • Campaign
+│  │  ├─ • Bientot Disponible Atto 2
+│  │  ├─ • Black Friday.Html
+│  │  ├─ • Byd Branding Vtc 2024
+│  │  ├─ • Decouvrez La Famille Seal U
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Car (8 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Configurateur (10 个页面)
+│  │  ├─ • Configurateur
+│  │  ├─ • Atto 2
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Atto 2 Dm I.Html
+│  │  ├─ • Dolphin
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Contact Us Backup (1 个页面)
+│  │  └─ • Contact Us Backup
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Act (1 个页面)
+│  │  └─ • Data Act
+
+│  ├─ 📂 Developpement Durable (1 个页面)
+│  │  └─ • Developpement Durable
+
+│  ├─ 📂 Developpement Durable.Html (1 个页面)
+│  │  └─ • Developpement Durable.Html
+
+│  ├─ 📂 Entretien Et Reparation (9 个页面)
+│  │  ├─ • Entretien Et Reparation
+│  │  ├─ • Garantie Constructeur
+│  │  ├─ • Garantie Constructeur.Html
+│  │  ├─ • Manuel Du Proprietaire
+│  │  ├─ • Manuel Du Proprietaire.Html
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Entretien Et Reparation.Html (1 个页面)
+│  │  └─ • Entretien Et Reparation.Html
+
+│  ├─ 📂 Event Lemans 2024 Byd Formulaire De Contact (1 个页面)
+│  │  └─ • Event Lemans 2024 Byd Formulaire De Contact
+
+│  ├─ 📂 Event Top Marques Monaco 2024 Byd Formulaire De Contact (1 个页面)
+│  │  └─ • Event Top Marques Monaco 2024 Byd Formulaire De Co
+
+│  ├─ 📂 Flotte Entreprise (1 个页面)
+│  │  └─ • Flotte Entreprise
+
+│  ├─ 📂 Fr (2 个页面)
+│  │  ├─ • Order Sealion 7.Html
+│  │  └─ • Tous Les Termes Des Vehicules Electriques Explique
+
+│  ├─ 📂 General Formulaire De Contact (1 个页面)
+│  │  └─ • General Formulaire De Contact
+
+│  ├─ 📂 Guides De Voitures Electriques (1 个页面)
+│  │  └─ • Guides De Voitures Electriques
+
+│  ├─ 📂 Guides De Voitures Electriques.Html (1 个页面)
+│  │  └─ • Guides De Voitures Electriques.Html
+
+│  ├─ 📂 How Byd Protects Your Privacy Data (1 个页面)
+│  │  └─ • How Byd Protects Your Privacy Data
+
+│  ├─ 📂 How Byd Protects Your Privacy Data.Html (1 个页面)
+│  │  └─ • How Byd Protects Your Privacy Data.Html
+
+│  ├─ 📂 Hybrid (1 个页面)
+│  │  └─ • Hybrid
+
+│  ├─ 📂 Hybrid.Html (1 个页面)
+│  │  └─ • Hybrid.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Mondial De Lauto Paris (1 个页面)
+│  │  └─ • Mondial De Lauto Paris
+
+│  ├─ 📂 News List (8 个页面)
+│  │  ├─ • News List
+│  │  ├─ • Byd Present Salon Automobile Lyon 2025
+│  │  ├─ • Byd Lumieres En Seine 2025
+│  │  ├─ • Byd Night Run
+│  │  ├─ • Byd Termine L Annee 2023 Avec Un Chiffre D Affaire
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Offre Speciale Euro 2024 (6 个页面)
+│  │  ├─ • Offre Speciale Euro 2024
+│  │  ├─ • Atto3 Dolphin Euro Editions Limitees
+│  │  ├─ • Byd Atto 3 Offre Speciale Euro 2024
+│  │  ├─ • Byd Dolphin Offre Speciale Euro 2024
+│  │  ├─ • Byd Seal Offre Speciale Euro 2024
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Atto3.Html (1 个页面)
+│  │  └─ • Order Atto3.Html
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Dolphin.Html (1 个页面)
+│  │  └─ • Order Dolphin.Html
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Han.Html (1 个页面)
+│  │  └─ • Order Han.Html
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Seal U Dm I.Html (1 个页面)
+│  │  └─ • Order Seal U Dm I.Html
+
+│  ├─ 📂 Order Seal U.Html (1 个页面)
+│  │  └─ • Order Seal U.Html
+
+│  ├─ 📂 Order Seal.Html (1 个页面)
+│  │  └─ • Order Seal.Html
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Tang.Html (1 个页面)
+│  │  └─ • Order Tang.Html
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Range Calculator (13 个页面)
+
+│  ├─ 📂 Reseau (1 个页面)
+│  │  └─ • Reseau
+
+│  ├─ 📂 Reseau.Html (1 个页面)
+│  │  └─ • Reseau.Html
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Save Configuration.Html (1 个页面)
+│  │  └─ • Save Configuration.Html
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Search.Html (1 个页面)
+│  │  └─ • Search.Html
+
+│  ├─ 📂 Services (3 个页面)
+│  │  ├─ • Services
+│  │  ├─ • Comment Byd Protege Vos Donnees Et Votre Vie Prive
+│  │  └─ • Comment Byd Protege Vos Donnees Et Votre Vie Prive
+
+│  ├─ 📂 Services.Html (1 个页面)
+│  │  └─ • Services.Html
+
+│  ├─ 📂 Super Hybride (1 个页面)
+│  │  └─ • Super Hybride
+
+│  ├─ 📂 Technologie (4 个页面)
+│  │  ├─ • Technologie
+│  │  ├─ • Super Hybride
+│  │  ├─ • Technologie Hybride Rechargeable Super Dm
+│  │  └─ • Technologie Hybride Rechargeable Super Dm.Html
+
+│  ├─ 📂 Technologie.Html (1 个页面)
+│  │  └─ • Technologie.Html
+
+│  ├─ 📂 Technology (1 个页面)
+│  │  └─ • Technology
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 Uefa Euro 2024 (1 个页面)
+│  │  └─ • Uefa Euro 2024
+
+│  ├─ 📂 Uefa Euro 2024.Html (1 个页面)
+│  │  └─ • Uefa Euro 2024.Html
+
+│  ├─ 📂 Vehicules Hybrides (9 个页面)
+│  │  ├─ • Vehicules Hybrides
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Atto 2 Dm I.Html
+│  │  ├─ • Guide
+│  │  ├─ • Avantages Inconvenients Voitures Hybrides
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Voitures Electriques (39 个页面)
+
+│  └─ 📂 Voitures Electriques.Html (1 个页面)
+│     └─ • Voitures Electriques.Html
+
+
+├─ 📁 fr-be
+│      └─ Fr Be
+│      └─ 共 1 个页面
+
+│  └─ 📂 404 (1 个页面)
+│     └─ • 404
+
+
+├─ 📁 gr
+│      └─ Gr
+│      └─ 共 6 个页面
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 gt
+│      └─ Gt
+│      └─ 共 46 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Gt
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seagull
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (13 个页面)
+
+│  ├─ 📂 Order (9 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Han
+│  │  ├─ • Order Dolphin
+│  │  ├─ • Seagull
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 hu
+│      └─ Hu
+│      └─ 共 59 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Atto3 (1 个页面)
+│  │  └─ • Atto3
+
+│  ├─ 📂 Campaign (1 个页面)
+│  │  └─ • Byd Magyarorszag Szueletesnapi Instagram Nyeremeny
+
+│  ├─ 📂 Car (7 个页面)
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Seal
+│  │  ├─ • Seal 6 Dm I
+│  │  ├─ • Seal U
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Act Notice.Html (1 个页面)
+│  │  └─ • Data Act Notice.Html
+
+│  ├─ 📂 Elektromos Autok (12 个页面)
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Hibrid Autok (3 个页面)
+│  │  ├─ • Seal 6 Dm I
+│  │  ├─ • Seal 6 Dm I Touring
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Konfigurator (4 个页面)
+│  │  ├─ • Atto 2
+│  │  ├─ • Dolphin Surf
+│  │  ├─ • Seal 6 Dm I
+│  │  └─ • Seal 6 Dm I Touring
+
+│  ├─ 📂 News List (7 个页面)
+│  │  ├─ • News List
+│  │  ├─ • A Budapesti Taxiflotta 50 Elektromos Byd Modellel 
+│  │  ├─ • A Byd Dolphin Az Autobest 2024 Es Gyoztese Europa 
+│  │  ├─ • A Byd Seal U Es A Byd Tang Is Ot Csillagot Szerzet
+│  │  ├─ • A Gls Hungary Byd Gepjarmuveket Valasztott Fenntar
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Service Maintenance (1 个页面)
+│  │  └─ • Owners Manual
+
+│  ├─ 📂 Service Maintenance.Html (1 个页面)
+│  │  └─ • Service Maintenance.Html
+
+│  ├─ 📂 Technologia (2 个页面)
+│  │  ├─ • Technologia
+│  │  └─ • A Byd Super Dm Plug In Hibrid Technologiaja.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  └─ 📂 Uefa Euro 2024 (1 个页面)
+│     └─ • Uefa Euro 2024
+
+
+├─ 📁 ie
+│      └─ Ie
+│      └─ 共 10 个页面
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (4 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  └─ • Seal
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 in
+│      └─ In
+│      └─ 共 11 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • In
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (2 个页面)
+│  │  ├─ • Car
+│  │  └─ • Atto3
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Recruitment Scam Alert (1 个页面)
+│  │  └─ • Recruitment Scam Alert
+
+│  └─ 📂 Service (2 个页面)
+│     ├─ • Service
+│     └─ • Owners Manual
+
+
+├─ 📁 index
+│      └─ Index
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Index
+
+
+├─ 📁 it
+│      └─ It
+│      └─ 共 187 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 5 Stelle Euro Ncap Per Seal 6 E Seal 6 Dm I Touring (1 个页面)
+│  │  └─ • 5 Stelle Euro Ncap Per Seal 6 E Seal 6 Dm I Tourin
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Area Clienti (9 个页面)
+│  │  ├─ • Area Clienti
+│  │  ├─ • In Che Modo Byd Protegge La Tua Privacy E I Tuoi D
+│  │  ├─ • Iniziative Per La Sostenibilita
+│  │  ├─ • Servizi Di Manutenzione
+│  │  ├─ • Guida Di Sicurezza Per Emergenze
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Auto Elettriche (26 个页面)
+
+│  ├─ 📂 Auto Ibride (7 个页面)
+│  │  ├─ • Auto Ibride
+│  │  ├─ • Atto 2 Dm I
+│  │  ├─ • Guida
+│  │  ├─ • Vantaggi E Svantaggi Delle Auto Ibride
+│  │  ├─ • Seal 6 Dm I
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Auto Ibride Old (2 个页面)
+│  │  ├─ • Auto Ibride Old
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Autolab_Plug_In_Event (1 个页面)
+│  │  └─ • Autolab_Plug_In_Event
+
+│  ├─ 📂 Campaign (3 个页面)
+│  │  ├─ • Campaign
+│  │  ├─ • Campaign Page
+│  │  └─ • Drivek
+
+│  ├─ 📂 Car (7 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Han
+│  │  ├─ • Seal
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Chi Siamo (1 个页面)
+│  │  └─ • Chi Siamo
+
+│  ├─ 📂 Chi Siamo1 (1 个页面)
+│  │  └─ • Chi Siamo1
+
+│  ├─ 📂 Concessionarie E Assistenza (1 个页面)
+│  │  └─ • Concessionarie E Assistenza
+
+│  ├─ 📂 Configuratore (16 个页面)
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Act (1 个页面)
+│  │  └─ • Data Act
+
+│  ├─ 📂 E Seller Form (1 个页面)
+│  │  └─ • E Seller Form
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Garanzia E Manutenzione (1 个页面)
+│  │  └─ • Garanzia E Manutenzione
+
+│  ├─ 📂 Guide Per Auto Elettriche (2 个页面)
+│  │  ├─ • Guide Per Auto Elettriche
+│  │  └─ • Guide Per Auto Elettriche
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 It (4 个页面)
+│  │  ├─ • Error
+│  │  ├─ • Leader Con Elettrico E Ibrido A Novembre
+│  │  ├─ • Dreams Days
+│  │  └─ • Blade Battery
+
+│  ├─ 📂 Leader Con Elettrico E Ibrido A Novembre (1 个页面)
+│  │  └─ • Leader Con Elettrico E Ibrido A Novembre
+
+│  ├─ 📂 News (32 个页面)
+
+│  ├─ 📂 News List (5 个页面)
+│  │  ├─ • News List
+│  │  ├─ • Byd E Maxi Insieme Per La Mobilita Elettrica Profe
+│  │  ├─ • Byd Entra In Unrae Unione Nazionale Rappresentanti
+│  │  ├─ • Dolphin Surf Cavalca Onda Verde Con The Flo Sui Na
+│  │  └─ • Dolphin Surf Protagonista Di The Cage
+
+│  ├─ 📂 Offerte (1 个页面)
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Offerte Natale Auto (1 个页面)
+│  │  └─ • Offerte Natale Auto
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Partnership Inter (1 个页面)
+│  │  └─ • Partnership Inter
+
+│  ├─ 📂 Partnership Ufficiale Inter (1 个页面)
+│  │  └─ • Partnership Ufficiale Inter
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Promozioni (22 个页面)
+
+│  ├─ 📂 Registrazione Lead Eventi (1 个页面)
+│  │  └─ • Registrazione Lead Eventi
+
+│  ├─ 📂 Roadshow Dolphin Surf (1 个页面)
+│  │  └─ • Roadshow Dolphin Surf
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Seal U Dm I (1 个页面)
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Service Maintenance (4 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Emergency
+│  │  ├─ • Manuale Del Proprietario
+│  │  └─ • Owners Manual
+
+│  ├─ 📂 Servizi Di Manutenzione (4 个页面)
+│  │  ├─ • Servizi Di Manutenzione
+│  │  ├─ • Emergency
+│  │  ├─ • Manuale Del Proprietario
+│  │  └─ • Owners Manual
+
+│  ├─ 📂 Tecnologia (6 个页面)
+│  │  ├─ • Tecnologia
+│  │  ├─ • Blade Battery
+│  │  ├─ • Cosa E Un Nev
+│  │  ├─ • Ibrida Super Dm I
+│  │  ├─ • Super Dm Plug In Hybrid Technology Di Byd
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  └─ 📂 Uefa Euro 2024 (1 个页面)
+│     └─ • Uefa Euro 2024
+
+
+├─ 📁 ke
+│      └─ Ke
+│      └─ 共 24 个页面
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Blade Battery.Html (1 个页面)
+│  │  └─ • Blade Battery.Html
+
+│  ├─ 📂 Car (10 个页面)
+│  │  ├─ • Atto3.Html
+│  │  ├─ • Dolphin Surf
+│  │  ├─ • Dolphin Surf.Html
+│  │  ├─ • Dolphin.Html
+│  │  ├─ • Seal.Html
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Privacy.Html (1 个页面)
+│  │  └─ • Data Privacy.Html
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Find Store.Html (1 个页面)
+│  │  └─ • Find Store.Html
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Support (3 个页面)
+│  │  ├─ • App.Html
+│  │  ├─ • Dlink.Html
+│  │  └─ • Service Maintenance.Html
+
+│  └─ 📂 Support.Html (1 个页面)
+│     └─ • Support.Html
+
+
+├─ 📁 mx
+│      └─ Mx
+│      └─ 共 57 个页面
+
+│  ├─ 📂 Byd App (1 个页面)
+│  │  └─ • Byd App
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Mx
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Account (1 个页面)
+│  │  └─ • Account
+
+│  ├─ 📂 Byd Careers (1 个页面)
+│  │  └─ • Byd Careers
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (14 个页面)
+
+│  ├─ 📂 Conquista 2025 (1 个页面)
+│  │  └─ • Conquista 2025
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (4 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  ├─ • Terminos Y Condiciones
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (13 个页面)
+
+│  ├─ 📂 Order (10 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Byd M9
+│  │  ├─ • Dolphin Mini
+│  │  ├─ • King
+│  │  ├─ • Order Shark
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Precios De Mantenimiento
+
+
+├─ 📁 my
+│      └─ My
+│      └─ 共 13 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (1 个页面)
+│  │  └─ • Atto3
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  └─ 📂 Support (5 个页面)
+│     ├─ • Support
+│     ├─ • App
+│     ├─ • Dilink
+│     ├─ • Service
+│     └─ • Owners Manual
+
+
+├─ 📁 news-list
+│      └─ News List
+│      └─ 共 11 个页面
+
+│  ├─ 📂 1000 Units Of Byd D1 Forms The Largest Ev Taxi Fleet Outside Of China (1 个页面)
+│  │  └─ • 1000 Units Of Byd D1 Forms The Largest Ev Taxi Fle
+
+│  ├─ 📂 Byd Marks 30Th Anniversary With Roll Off 10 Millionth Nev (1 个页面)
+│  │  └─ • Byd Marks 30Th Anniversary With Roll Off 10 Millio
+
+│  ├─ 📂 Byd Stella Li Voted World Car Person Of The Year (1 个页面)
+│  │  └─ • Byd Stella Li Voted World Car Person Of The Year
+
+│  ├─ 📂 Byd Unveils Super E Platform Megawatt Flash Charging Electric Vehicles Matching Refueling Speeds (1 个页面)
+│  │  └─ • Byd Unveils Super E Platform Megawatt Flash Chargi
+
+│  ├─ 📂 Byds Flagship Han Ev Debuts In Brazil (1 个页面)
+│  │  └─ • Byds Flagship Han Ev Debuts In Brazil
+
+│  ├─ 📂 First Byd Electric Vehicle Rolls Off The Line In Brazil (1 个页面)
+│  │  └─ • First Byd Electric Vehicle Rolls Off The Line In B
+
+│  ├─ 📂 The 1 Millionth Byd Dolphin Mini Byd Seagull Rolled Off Production Line (1 个页面)
+│  │  └─ • The 1 Millionth Byd Dolphin Mini Byd Seagull Rolle
+
+│  ├─ 📂 Zhao Xintong Named Byd Champion Ambassador (1 个页面)
+│  │  └─ • Zhao Xintong Named Byd Champion Ambassador
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • News List
+
+│  ├─ 📂 Blind Booking Now Open For Byd Sealion 7 In Nepal With Exclusive Early Buyer Benefits1 (1 个页面)
+│  │  └─ • Blind Booking Now Open For Byd Sealion 7 In Nepal 
+
+│  └─ 📂 Byd Sealion 7 Now Available In 100 Kw Version (1 个页面)
+│     └─ • Byd Sealion 7 Now Available In 100 Kw Version
+
+
+├─ 📁 nl
+│      └─ Nl
+│      └─ 共 183 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 Neem Contact Met Ons Op (1 个页面)
+│  │  └─ • Neem Contact Met Ons Op
+
+│  ├─ 📂 Neem Contact Met Ons Op.Html (1 个页面)
+│  │  └─ • Neem Contact Met Ons Op.Html
+
+│  ├─ 📂 Aanschaf (8 个页面)
+│  │  ├─ • Aanschaf
+│  │  ├─ • Particulier Financieren
+│  │  ├─ • Particulier Financieren.Html
+│  │  ├─ • Particulier Private Lease.Html
+│  │  ├─ • Zakelijk Leasen
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Aanschaf.Html (1 个页面)
+│  │  └─ • Aanschaf.Html
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Assistance Pdf.Html (1 个页面)
+│  │  └─ • Assistance Pdf.Html
+
+│  ├─ 📂 Assistance.Html (1 个页面)
+│  │  └─ • Assistance.Html
+
+│  ├─ 📂 Blog (25 个页面)
+
+│  ├─ 📂 Blog.Html (1 个页面)
+│  │  └─ • Blog.Html
+
+│  ├─ 📂 Configurator (23 个页面)
+
+│  ├─ 📂 Configurator.Html (1 个页面)
+│  │  └─ • Configurator.Html
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Act Notice (1 个页面)
+│  │  └─ • Data Act Notice
+
+│  ├─ 📂 Data Act Notice.Html (1 个页面)
+│  │  └─ • Data Act Notice.Html
+
+│  ├─ 📂 Electric Cars (16 个页面)
+
+│  ├─ 📂 Electric Cars.Html (1 个页面)
+│  │  └─ • Electric Cars.Html
+
+│  ├─ 📂 Elektrische Autos (1 个页面)
+│  │  └─ • Elektrische Autos
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Find Store.Html (1 个页面)
+│  │  └─ • Find Store.Html
+
+│  ├─ 📂 Hybrid Cars (9 个页面)
+│  │  ├─ • Hybrid Cars
+│  │  ├─ • Seal 6 Dm I
+│  │  ├─ • Seal 6 Dm I Touring
+│  │  ├─ • Seal 6 Dm I Touring.Html
+│  │  ├─ • Seal 6 Dm I.Html
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Hybrid Cars.Html (1 个页面)
+│  │  └─ • Hybrid Cars.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 News List (41 个页面)
+
+│  ├─ 📂 News List.Html (1 个页面)
+│  │  └─ • News List.Html
+
+│  ├─ 📂 Nl (1 个页面)
+│  │  └─ • Electric Cars.Html
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Save Configuration.Html (1 个页面)
+│  │  └─ • Save Configuration.Html
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Search.Html (1 个页面)
+│  │  └─ • Search.Html
+
+│  ├─ 📂 Service Maintenance (9 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Battery Information On Electrochemical Performance
+│  │  ├─ • Battery Information On Electrochemical Performance
+│  │  ├─ • Emergency
+│  │  ├─ • Emergency.Html
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Service Maintenance.Html (1 个页面)
+│  │  └─ • Service Maintenance.Html
+
+│  ├─ 📂 Support (5 个页面)
+│  │  ├─ • Support
+│  │  ├─ • App
+│  │  ├─ • App.Html
+│  │  ├─ • Dlink
+│  │  └─ • Dlink.Html
+
+│  ├─ 📂 Support.Html (1 个页面)
+│  │  └─ • Support.Html
+
+│  ├─ 📂 Technology (9 个页面)
+│  │  ├─ • Technology
+│  │  ├─ • Byd Blade Battery
+│  │  ├─ • Byd Blade Battery.Html
+│  │  ├─ • Byd E Platform
+│  │  ├─ • Byd E Platform.Html
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Technology.Html (1 个页面)
+│  │  └─ • Technology.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  └─ 📂 Terms Of Use.Html (1 个页面)
+│     └─ • Terms Of Use.Html
+
+
+├─ 📁 nl-be
+│      └─ Nl Be
+│      └─ 共 1 个页面
+
+│  └─ 📂 404.Html (1 个页面)
+│     └─ • 404.Html
+
+
+├─ 📁 no
+│      └─ No
+│      └─ 共 1 个页面
+
+│  └─ 📂 404.Html (1 个页面)
+│     └─ • 404.Html
+
+
+├─ 📁 pa
+│      └─ Pa
+│      └─ 共 51 个页面
+
+│  ├─ 📂 Order Dolphin Mini (1 个页面)
+│  │  └─ • Order Dolphin Mini
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Song Plus (1 个页面)
+│  │  └─ • Order Song Plus
+
+│  ├─ 📂 Order Song Pro (1 个页面)
+│  │  └─ • Order Song Pro
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Pa
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (11 个页面)
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (16 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 pe
+│      └─ Pe
+│      └─ 共 50 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Pe
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Byd Yuan Up
+│  │  ├─ • Bydshark
+│  │  ├─ • Seagull
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  └─ • Terminos De Uso
+
+│  ├─ 📂 News List (18 个页面)
+
+│  ├─ 📂 Order (9 个页面)
+│  │  ├─ • Order
+│  │  ├─ • Order Song Plus
+│  │  ├─ • Order Shark
+│  │  ├─ • Order Song Pro
+│  │  ├─ • Order Tang
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 pl
+│      └─ Pl
+│      └─ 共 188 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 Bydsuntago2025 (1 个页面)
+│  │  └─ • Bydsuntago2025
+
+│  ├─ 📂 Bydsuntago2025.Html (1 个页面)
+│  │  └─ • Bydsuntago2025.Html
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Assistance Pdf.Html (1 个页面)
+│  │  └─ • Assistance Pdf.Html
+
+│  ├─ 📂 Assistance.Html (1 个页面)
+│  │  └─ • Assistance.Html
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin.Html
+│  │  ├─ • Seal
+│  │  ├─ • Seal U
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Contact Us.Html (1 个页面)
+│  │  └─ • Contact Us.Html
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Act Notice (1 个页面)
+│  │  └─ • Data Act Notice
+
+│  ├─ 📂 Data Act Notice.Html (1 个页面)
+│  │  └─ • Data Act Notice.Html
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Find Store.Html (1 个页面)
+│  │  └─ • Find Store.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Konfiguracja (12 个页面)
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Dolphin.Html (1 个页面)
+│  │  └─ • Order Dolphin.Html
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U (1 个页面)
+│  │  └─ • Order Seal U
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Seal U Dm I.Html (1 个页面)
+│  │  └─ • Order Seal U Dm I.Html
+
+│  ├─ 📂 Order Seal U.Html (1 个页面)
+│  │  └─ • Order Seal U.Html
+
+│  ├─ 📂 Order Seal.Html (1 个页面)
+│  │  └─ • Order Seal.Html
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Order Sealion 7.Html (1 个页面)
+│  │  └─ • Order Sealion 7.Html
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Tang.Html (1 个页面)
+│  │  └─ • Order Tang.Html
+
+│  ├─ 📂 Ownership (5 个页面)
+│  │  ├─ • Ownership
+│  │  ├─ • Byd Digital Key
+│  │  ├─ • Byd Digital Key.Html
+│  │  ├─ • Jak Byd Chroni Twoja Prywatnosc I Dane
+│  │  └─ • Jak Byd Chroni Twoja Prywatnosc I Dane.Html
+
+│  ├─ 📂 Ownership.Html (1 个页面)
+│  │  └─ • Ownership.Html
+
+│  ├─ 📂 Pl (52 个页面)
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Promocje (3 个页面)
+│  │  ├─ • Promocje
+│  │  ├─ • Finansowanie 1.Html
+│  │  └─ • Wyprzedaz
+
+│  ├─ 📂 Promocje.Html (1 个页面)
+│  │  └─ • Promocje.Html
+
+│  ├─ 📂 Range Calculator (18 个页面)
+
+│  ├─ 📂 Samochody Elektryczne (21 个页面)
+
+│  ├─ 📂 Samochody Elektryczne.Html (1 个页面)
+│  │  └─ • Samochody Elektryczne.Html
+
+│  ├─ 📂 Samochody Hybrydowe (9 个页面)
+│  │  ├─ • Samochody Hybrydowe
+│  │  ├─ • Seal 5 Dm I
+│  │  ├─ • Seal 5 Dm I.Html
+│  │  ├─ • Seal 6 Dm I
+│  │  ├─ • Seal 6 Dm I Touring
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Samochody Hybrydowe.Html (1 个页面)
+│  │  └─ • Samochody Hybrydowe.Html
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Save Configuration.Html (1 个页面)
+│  │  └─ • Save Configuration.Html
+
+│  ├─ 📂 Service Maintenance (5 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Emergency
+│  │  ├─ • Emergency.Html
+│  │  ├─ • Owners Manual
+│  │  └─ • Owners Manual.Html
+
+│  ├─ 📂 Service Maintenance.Html (1 个页面)
+│  │  └─ • Service Maintenance.Html
+
+│  ├─ 📂 Technologia (7 个页面)
+│  │  ├─ • Technologia
+│  │  ├─ • Byd Blade Battery
+│  │  ├─ • Byd Blade Battery.Html
+│  │  ├─ • Byd E Platform 3
+│  │  ├─ • Byd E Platform 3.Html
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Technologia.Html (1 个页面)
+│  │  └─ • Technologia.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 Terms Of Use.Html (1 个页面)
+│  │  └─ • Terms Of Use.Html
+
+│  ├─ 📂 Uefa Euro 2024 (1 个页面)
+│  │  └─ • Uefa Euro 2024
+
+│  └─ 📂 Uefa Euro 2024.Html (1 个页面)
+│     └─ • Uefa Euro 2024.Html
+
+
+├─ 📁 privacy
+│      └─ Privacy
+│      └─ 共 2 个页面
+
+│  └─ 📄 [直接页面] (2 个)
+│     ├─ • Privacy
+│     └─ • Privacy
+
+
+├─ 📁 pt
+│      └─ Pt
+│      └─ 共 1 个页面
+
+│  └─ 📂 404 (1 个页面)
+│     └─ • 404
+
+
+├─ 📁 py
+│      └─ Py
+│      └─ 共 42 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Py
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (7 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Bydshark
+│  │  ├─ • Han
+│  │  ├─ • New Tang
+│  │  ├─ • Song Plus Dmi
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (15 个页面)
+
+│  ├─ 📂 Order (6 个页面)
+│  │  ├─ • Order
+│  │  ├─ • New Tang
+│  │  ├─ • Order Shark
+│  │  ├─ • Order Song Pro Dmi
+│  │  ├─ • Song Plus Dmi
+│  │   └─ ... 还有 1 个页面
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 se
+│      └─ Se
+│      └─ 共 67 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 Emergency Response Guide (1 个页面)
+│  │  └─ • Emergency Response Guide
+
+│  ├─ 📂 Instruktionsbok (1 个页面)
+│  │  └─ • Instruktionsbok
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Assistance Pdf.Html (1 个页面)
+│  │  └─ • Assistance Pdf.Html
+
+│  ├─ 📂 Assistance.Html (1 个页面)
+│  │  └─ • Assistance.Html
+
+│  ├─ 📂 Configurador (3 个页面)
+│  │  ├─ • Dolphin Surf
+│  │  ├─ • Seal 6 Dm I Touring
+│  │  └─ • Sealion 7
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Contact Us.Html (1 个页面)
+│  │  └─ • Contact Us.Html
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Act Notice (1 个页面)
+│  │  └─ • Data Act Notice
+
+│  ├─ 📂 Data Act Notice.Html (1 个页面)
+│  │  └─ • Data Act Notice.Html
+
+│  ├─ 📂 Electric Cars (9 个页面)
+│  │  ├─ • Electric Cars
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin Surf
+│  │  ├─ • Seal
+│  │  ├─ • Seal U
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Electric Cars Old (8 个页面)
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin.Html
+│  │  ├─ • Seal
+│  │  ├─ • Seal U
+│  │  ├─ • Seal U.Html
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Electric Cars.Html (1 个页面)
+│  │  └─ • Electric Cars.Html
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Find Store.Html (1 个页面)
+│  │  └─ • Find Store.Html
+
+│  ├─ 📂 Hybrid Cars (4 个页面)
+│  │  ├─ • Hybrid Cars
+│  │  ├─ • Seal 6 Dm I Touring
+│  │  ├─ • Seal U Dm I
+│  │  └─ • Seal U Dm I.Html
+
+│  ├─ 📂 Hybrid Cars Old (2 个页面)
+│  │  ├─ • Seal U Dm I
+│  │  └─ • Seal U Dm I.Html
+
+│  ├─ 📂 Hybrid Cars.Html (1 个页面)
+│  │  └─ • Hybrid Cars.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Konfiguration (2 个页面)
+│  │  ├─ • Seal U Dm I
+│  │  └─ • Sealion 7
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Search.Html (1 个页面)
+│  │  └─ • Search.Html
+
+│  ├─ 📂 Service And Maintenance (1 个页面)
+│  │  └─ • Service And Maintenance
+
+│  ├─ 📂 Technology (7 个页面)
+│  │  ├─ • Technology
+│  │  ├─ • Byd Blade Battery
+│  │  ├─ • Byd Blade Battery.Html
+│  │  ├─ • Byd E Platform 3
+│  │  ├─ • Byd E Platform 3.Html
+│  │   └─ ... 还有 2 个页面
+
+│  ├─ 📂 Technology.Html (1 个页面)
+│  │  └─ • Technology.Html
+
+│  ├─ 📂 Terms Of Use (1 个页面)
+│  │  └─ • Terms Of Use
+
+│  └─ 📂 Terms Of Use.Html (1 个页面)
+│     └─ • Terms Of Use.Html
+
+
+├─ 📁 search
+│      └─ Search
+│      └─ 共 1 个页面
+
+│  └─ 📄 [直接页面] (1 个)
+│     └─ • Search
+
+
+├─ 📁 sg
+│      └─ Sg
+│      └─ 共 39 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Atto2
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • M6
+│  │  ├─ • Seal
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Contact (1 个页面)
+│  │  └─ • Contact
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Customers (1 个页面)
+│  │  └─ • Customers
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Order Atto2 (1 个页面)
+│  │  └─ • Order Atto2
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order M6 (1 个页面)
+│  │  └─ • Order M6
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal6 (1 个页面)
+│  │  └─ • Order Seal6
+
+│  ├─ 📂 Order Sealion 6 (1 个页面)
+│  │  └─ • Order Sealion 6
+
+│  ├─ 📂 Order Sealion7 (1 个页面)
+│  │  └─ • Order Sealion7
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Range Calculator (1 个页面)
+│  │  └─ • Range Calculator
+
+│  ├─ 📂 Recruitment Scam Alert (1 个页面)
+│  │  └─ • Recruitment Scam Alert
+
+│  ├─ 📂 Recruitment_Scam (1 个页面)
+│  │  └─ • Recruitment_Scam
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Support (6 个页面)
+│  │  ├─ • Support
+│  │  ├─ • App
+│  │  ├─ • Dilink
+│  │  ├─ • Service
+│  │  ├─ • Owners Manual
+│  │   └─ ... 还有 1 个页面
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 support
+│      └─ Support
+│      └─ 共 9 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Support
+
+│  ├─ 📂 Auto Recycling Legal (3 个页面)
+│  │  ├─ • Auto Recycling Legal
+│  │  ├─ • 2023
+│  │  └─ • 2024
+
+│  ├─ 📂 Driving Precautions (1 个页面)
+│  │  └─ • Driving Precautions
+
+│  ├─ 📂 Info For Related Business Operators (1 个页面)
+│  │  └─ • Info For Related Business Operators
+
+│  ├─ 📂 Recall Related Info Two (1 个页面)
+│  │  └─ • Recall Related Info Two
+
+│  ├─ 📂 Specific Maintenance (1 个页面)
+│  │  └─ • Specific Maintenance
+
+│  └─ 📂 User Manual And Others (1 个页面)
+│     └─ • User Manual And Others
+
+
+├─ 📁 uk
+│      └─ Uk
+│      └─ 共 228 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 Byd Shell Charge Cards (1 个页面)
+│  │  └─ • Byd Shell Charge Cards
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Assistance (1 个页面)
+│  │  └─ • Assistance
+
+│  ├─ 📂 Assistance Pdf (1 个页面)
+│  │  └─ • Assistance Pdf
+
+│  ├─ 📂 Blog (17 个页面)
+
+│  ├─ 📂 Byd Everything Electric 2024 Terms Conditions (1 个页面)
+│  │  └─ • Byd Everything Electric 2024 Terms Conditions
+
+│  ├─ 📂 Byd Shell Recharge Faqs (1 个页面)
+│  │  └─ • Byd Shell Recharge Faqs
+
+│  ├─ 📂 Campaigns (1 个页面)
+│  │  └─ • Event Contact
+
+│  ├─ 📂 Car (4 个页面)
+│  │  ├─ • Atto3
+│  │  ├─ • Dolphin
+│  │  ├─ • Seal
+│  │  └─ • Seal U Dm I
+
+│  ├─ 📂 Charge Cards Privacy Legal (1 个页面)
+│  │  └─ • Charge Cards Privacy Legal
+
+│  ├─ 📂 Christmas Giveaway Terms Conditions (1 个页面)
+│  │  └─ • Christmas Giveaway Terms Conditions
+
+│  ├─ 📂 Configurator (16 个页面)
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Discover Byd Electric Roadshow (1 个页面)
+│  │  └─ • Discover Byd Electric Roadshow
+
+│  ├─ 📂 Discover Byd Electric Roadshow.Html (1 个页面)
+│  │  └─ • Discover Byd Electric Roadshow.Html
+
+│  ├─ 📂 Electric Cars (50 个页面)
+
+│  ├─ 📂 Electric Cars.Html (1 个页面)
+│  │  └─ • Electric Cars.Html
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Ev Hub Privacy Legal (1 个页面)
+│  │  └─ • Ev Hub Privacy Legal
+
+│  ├─ 📂 Ev Range Vs Footballer Endurance (1 个页面)
+│  │  └─ • Ev Range Vs Footballer Endurance
+
+│  ├─ 📂 Ev Range Vs Footballer Endurance.Html (1 个页面)
+│  │  └─ • Ev Range Vs Footballer Endurance.Html
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Fleet Cars (1 个页面)
+│  │  └─ • Fleet Cars
+
+│  ├─ 📂 Guides (1 个页面)
+│  │  └─ • Advantages Disadvantages Hybrid Cars.Html
+
+│  ├─ 📂 Home Charger (1 个页面)
+│  │  └─ • Home Charger
+
+│  ├─ 📂 Hybrid Cars (10 个页面)
+│  │  ├─ • Hybrid Cars
+│  │  ├─ • Guides
+│  │  ├─ • Guides.Html
+│  │  ├─ • Advantages Disadvantages Hybrid Cars
+│  │  ├─ • Advantages Disadvantages Hybrid Cars.Html
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Hybrid Cars Old (1 个页面)
+│  │  └─ • Hybrid Cars Old
+
+│  ├─ 📂 Hybrid Cars Old.Html (1 个页面)
+│  │  └─ • Hybrid Cars Old.Html
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 Keepy Uppy Terms And Conditions (1 个页面)
+│  │  └─ • Keepy Uppy Terms And Conditions
+
+│  ├─ 📂 London To Brighton Ev Rally 2025 (1 个页面)
+│  │  └─ • London To Brighton Ev Rally 2025
+
+│  ├─ 📂 News List (14 个页面)
+
+│  ├─ 📂 Offers Coming Soon (1 个页面)
+│  │  └─ • Offers Coming Soon
+
+│  ├─ 📂 Order Atto3 (1 个页面)
+│  │  └─ • Order Atto3
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Seal U Dm I (1 个页面)
+│  │  └─ • Order Seal U Dm I
+
+│  ├─ 📂 Order Sealion 7 (1 个页面)
+│  │  └─ • Order Sealion 7
+
+│  ├─ 📂 Ownership (3 个页面)
+│  │  ├─ • Ownership
+│  │  ├─ • How Byd Protects Your Privacy Data
+│  │  └─ • How Byd Protects Your Privacy Data.Html
+
+│  ├─ 📂 Press Kit2022 (1 个页面)
+│  │  └─ • Press Kit2022
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Purchase (53 个页面)
+
+│  ├─ 📂 Range Calculator (8 个页面)
+│  │  ├─ • Range Calculator
+│  │  ├─ • Atto 2
+│  │  ├─ • Atto 3
+│  │  ├─ • Dolphin
+│  │  ├─ • Dolphin Surf
+│  │   └─ ... 还有 3 个页面
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  ├─ 📂 Service Maintenance (4 个页面)
+│  │  ├─ • Service Maintenance
+│  │  ├─ • Emergency
+│  │  ├─ • Owners Manual
+│  │  └─ • Owners Manual.Html
+
+│  ├─ 📂 Shell Byd Ev Hub2022 (1 个页面)
+│  │  └─ • Shell Byd Ev Hub2022
+
+│  ├─ 📂 Social Media Content Use (1 个页面)
+│  │  └─ • Social Media Content Use
+
+│  ├─ 📂 Sustainability (1 个页面)
+│  │  └─ • Sustainability
+
+│  ├─ 📂 Sustainability.Html (1 个页面)
+│  │  └─ • Sustainability.Html
+
+│  ├─ 📂 Tax Strategy (1 个页面)
+│  │  └─ • Tax Strategy
+
+│  ├─ 📂 Technology (3 个页面)
+│  │  ├─ • Technology
+│  │  ├─ • Byd Super Dm Plug In Hybrid Technology
+│  │  └─ • Byd Super Dm Plug In Hybrid Technology.Html
+
+│  ├─ 📂 Terms And Conditions (1 个页面)
+│  │  └─ • Terms And Conditions
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 us
+│      └─ Us
+│      └─ 共 158 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Us
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Design (1 个页面)
+│  │  └─ • Byd Design
+
+│  ├─ 📂 Car (2 个页面)
+│  │  ├─ • Car
+│  │  └─ • Han Ev
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Legal (3 个页面)
+│  │  ├─ • Legal
+│  │  ├─ • California Consumer Privacy Act
+│  │  └─ • Privacy
+
+│  ├─ 📂 News List (146 个页面)
+
+│  └─ 📂 Search (1 个页面)
+│     └─ • Search
+
+
+├─ 📁 uy
+│      └─ Uy
+│      └─ 共 50 个页面
+
+│  ├─ 📄 [直接页面] (1 个)
+│  │  └─ • Uy
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Byd Diseno (1 个页面)
+│  │  └─ • Byd Diseno
+
+│  ├─ 📂 Car (10 个页面)
+│  │  ├─ • Car
+│  │  ├─ • Byd Yuan Pro
+│  │  ├─ • Bydshark
+│  │  ├─ • Newe2
+│  │  ├─ • Han
+│  │   └─ ... 还有 5 个页面
+
+│  ├─ 📂 Contact Us (1 个页面)
+│  │  └─ • Contact Us
+
+│  ├─ 📂 Data Privacy (1 个页面)
+│  │  └─ • Data Privacy
+
+│  ├─ 📂 Error (1 个页面)
+│  │  └─ • Error
+
+│  ├─ 📂 Find Store (1 个页面)
+│  │  └─ • Find Store
+
+│  ├─ 📂 Legal (2 个页面)
+│  │  ├─ • Privacy
+│  │  └─ • Terms Of Use
+
+│  ├─ 📂 News List (16 个页面)
+
+│  ├─ 📂 Order Newe2 (1 个页面)
+│  │  └─ • Order Newe2
+
+│  ├─ 📂 Order Shark (1 个页面)
+│  │  └─ • Order Shark
+
+│  ├─ 📂 Order Dolphin (1 个页面)
+│  │  └─ • Order Dolphin
+
+│  ├─ 📂 Order Han (1 个页面)
+│  │  └─ • Order Han
+
+│  ├─ 📂 Order Seagull (1 个页面)
+│  │  └─ • Order Seagull
+
+│  ├─ 📂 Order Seal (1 个页面)
+│  │  └─ • Order Seal
+
+│  ├─ 📂 Order Song Plus Dmi (1 个页面)
+│  │  └─ • Order Song Plus Dmi
+
+│  ├─ 📂 Order Tang (1 个页面)
+│  │  └─ • Order Tang
+
+│  ├─ 📂 Order Yuan Plus (1 个页面)
+│  │  └─ • Order Yuan Plus
+
+│  ├─ 📂 Order Yuan Pro (1 个页面)
+│  │  └─ • Order Yuan Pro
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  ├─ 📂 Save Configuration (1 个页面)
+│  │  └─ • Save Configuration
+
+│  ├─ 📂 Search (1 个页面)
+│  │  └─ • Search
+
+│  └─ 📂 Service Maintenance (2 个页面)
+│     ├─ • Service Maintenance
+│     └─ • Owners Manual
+
+
+├─ 📁 uz
+│      └─ Uz
+│      └─ 共 15 个页面
+
+│  ├─ 📂 404 (1 个页面)
+│  │  └─ • 404
+
+│  ├─ 📂 About Byd (1 个页面)
+│  │  └─ • About Byd
+
+│  ├─ 📂 Car (9 个页面)
+│  │  ├─ • Byd Chazor Champion
+│  │  ├─ • Byd E2
+│  │  ├─ • Byd Seagull
+│  │  ├─ • Byd Song Pro Dm I Champion
+│  │  ├─ • Byd Yuan Up
+│  │   └─ ... 还有 4 个页面
+
+│  ├─ 📂 Cookie (1 个页面)
+│  │  └─ • Cookie
+
+│  ├─ 📂 Index (1 个页面)
+│  │  └─ • Index
+
+│  ├─ 📂 Privacy (1 个页面)
+│  │  └─ • Privacy
+
+│  └─ 📂 Terms Of Use (1 个页面)
+│     └─ • Terms Of Use
+
+
+├─ 📁 vn
+│      └─ Vn
+│      └─ 共 62 个页面
+
+│  ├─ 📂 404.Html (1 个页面)
+│  │  └─ • 404.Html
+
+│  ├─ 📂 Dich Vu Hau Mai (4 个页面)
+│  │  ├─ • Chinh Sach Bao Hanh.Html
+│  │  ├─ • Dich Vu Sua Chua Va Cham Soc Xe.Html
+│  │  ├─ • Phu Tung Phu Kien.Html
+│  │  └─ • Tram Sac.Html
+
+│  ├─ 📂 Vr (1 个页面)
+│  │  └─ • Vr
+
+│  ├─ 📂 About Byd.Html (1 个页面)
+│  │  └─ • About Byd.Html
+
+│  ├─ 📂 Car (19 个页面)
+
+│  ├─ 📂 Contact.Html (1 个页面)
+│  │  └─ • Contact.Html
+
+│  ├─ 📂 Cookie.Html (1 个页面)
+│  │  └─ • Cookie.Html
+
+│  ├─ 📂 Data Privacy.Html (1 个页面)
+│  │  └─ • Data Privacy.Html
+
+│  ├─ 📂 Error.Html (1 个页面)
+│  │  └─ • Error.Html
+
+│  ├─ 📂 Index.Html (1 个页面)
+│  │  └─ • Index.Html
+
+│  ├─ 📂 News List (25 个页面)
+
+│  ├─ 📂 News List.Html (1 个页面)
+│  │  └─ • News List.Html
+
+│  ├─ 📂 Privacy.Html (1 个页面)
+│  │  └─ • Privacy.Html
+
+│  ├─ 📂 Store.Html (1 个页面)
+│  │  └─ • Store.Html
+
+│  ├─ 📂 Terms Of Use.Html (1 个页面)
+│  │  └─ • Terms Of Use.Html
+
+│  ├─ 📂 Uefa Euro 2024.Html (1 个页面)
+│  │  └─ • Uefa Euro 2024.Html
+
+│  └─ 📂 Video Guide.Html (1 个页面)
+│     └─ • Video Guide.Html
+
+
+└─ 📁 zh-mo
+       └─ Zh Mo
+       └─ 共 25 个页面
+
+   ├─ 📂 404 (1 个页面)
+   │  └─ • 404
+
+   ├─ 📂 About Byd (1 个页面)
+   │  └─ • About Byd
+
+   ├─ 📂 Car (4 个页面)
+   │  ├─ • Atto3
+   │  ├─ • Dolphin
+   │  ├─ • M6
+   │  └─ • Seal
+
+   ├─ 📂 Contact (1 个页面)
+   │  └─ • Contact
+
+   ├─ 📂 Cookie (1 个页面)
+   │  └─ • Cookie
+
+   ├─ 📂 Data Privacy (1 个页面)
+   │  └─ • Data Privacy
+
+   ├─ 📂 Error (1 个页面)
+   │  └─ • Error
+
+   ├─ 📂 Find Store (1 个页面)
+   │  └─ • Find Store
+
+   ├─ 📂 Index.Html (1 个页面)
+   │  └─ • Index.Html
+
+   ├─ 📂 Order Atto3 (1 个页面)
+   │  └─ • Order Atto3
+
+   ├─ 📂 Order Dolphin (1 个页面)
+   │  └─ • Order Dolphin
+
+   ├─ 📂 Order M6 (1 个页面)
+   │  └─ • Order M6
+
+   ├─ 📂 Order Seal (1 个页面)
+   │  └─ • Order Seal
+
+   ├─ 📂 Privacy (1 个页面)
+   │  └─ • Privacy
+
+   ├─ 📂 Save Configuration (1 个页面)
+   │  └─ • Save Configuration
+
+   ├─ 📂 Support (6 个页面)
+   │  ├─ • Support
+   │  ├─ • App
+   │  ├─ • Dilink
+   │  ├─ • Service
+   │  ├─ • Owners Manual
+   │   └─ ... 还有 1 个页面
+
+   └─ 📂 Terms Of Use (1 个页面)
+      └─ • Terms Of Use
+
+
+
+====================================================================================================
+📊 重组统计摘要
+====================================================================================================
+
+Strategic Themes 节点: 0 个页面
+Industries 节点（包含移动的）: 59 个页面

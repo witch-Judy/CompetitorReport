@@ -1,0 +1,88 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 4019
+
+Domains: www.byd.com
+
+Languages:
+  eu: 338
+  cn: 336
+  byd: 308
+  br: 307
+  es-es: 258
+  uk: 243
+  nl: 204
+  pl: 199
+  it: 191
+  fr: 186
+  us: 178
+  de: 140
+  se: 71
+  co: 67
+  vn: 66
+  hu: 65
+  bs: 63
+  cl: 63
+  mx: 61
+  pa: 55
+  uy: 54
+  pe: 53
+  gt: 50
+  do: 49
+  cr: 48
+  ec: 47
+  py: 45
+  bo: 42
+  sg: 41
+  zh-mo: 27
+  en-mo: 26
+  ke: 24
+  en: 21
+  jp: 19
+  uz: 15
+  my: 14
+  in: 12
+  at: 10
+  ie: 10
+  gr: 6
+  dk: 1
+  en-be: 1
+  es: 1
+  fr-be: 1
+  nl-be: 1
+  no: 1
+  pt: 1
+
+Sections:
+  news-list: 664
+  news: 321
+  car: 268
+  service-maintenance: 127
+  noticias-byd-brasil: 121
+  electric-cars: 98
+  blog: 71
+  dynasty-home: 65
+  range-calculator: 62
+  car-club: 61
+  live-list: 56
+  promociones: 56
+  pl: 55
+  purchase: 53
+  legal: 51
+  order: 51
+  ocean-home: 50
+  support: 46
+  voitures-electriques: 41
+  configurator: 39
+
+Content Types:
+  other: 3870
+  blog: 73
+  legal: 60
+  product: 10
+  industry: 5
+  company: 1
+
+Years:

@@ -1,0 +1,120 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 33476
+
+Domains: www.siemens.com
+
+Languages:
+  : 4452
+  de: 4397
+  us: 3103
+  cn: 1434
+  pl: 1243
+  be: 1122
+  br: 955
+  nl: 952
+  it: 890
+  se: 889
+  es: 848
+  fr: 826
+  ch: 749
+  bg: 692
+  at: 632
+  hu: 620
+  uk: 620
+  tr: 599
+  dk: 573
+  in: 553
+  cz: 551
+  jp: 550
+  kr: 535
+  fi: 534
+  ua: 452
+  ar: 346
+  pt: 343
+  mx: 336
+  no: 299
+  ca: 278
+  au: 251
+  tw: 213
+  pe: 197
+  sk: 197
+  co: 182
+  th: 180
+  rs: 175
+  ro: 173
+  sg: 168
+  gr: 152
+  vn: 136
+  id: 104
+  asean: 92
+  hr: 84
+  ph: 83
+  ec: 78
+  si: 74
+  mea: 72
+  cl: 70
+  za: 70
+  hk: 52
+  my: 47
+  uy: 39
+  lu: 28
+  ae: 20
+  il: 20
+  ie: 17
+  kz: 15
+  pk: 14
+  ee: 12
+  eg: 12
+  sa: 10
+  qa: 9
+  lt: 8
+  lv: 8
+  bd: 6
+  ma: 6
+  dz: 5
+  kw: 5
+  om: 5
+  gh: 4
+  ke: 3
+  tz: 3
+  ug: 3
+  bh: 1
+
+Sections:
+  en: 10600
+  de: 5397
+  es: 2088
+  fr: 1713
+  zh: 1561
+  nl: 1518
+  pt: 1291
+  pl: 1242
+  it: 894
+  sv: 884
+  hu: 619
+  tr: 598
+  bg: 596
+  da: 567
+  cs: 550
+  ja: 549
+  fi: 518
+  uk: 451
+  ko: 438
+  no: 298
+
+Content Types:
+  other: 15609
+  product: 10006
+  company: 3921
+  webinar: 1952
+  industry: 1523
+  blog: 264
+  legal: 83
+  newsroom: 81
+  customer_story: 27
+  resource: 10
+
+Years:

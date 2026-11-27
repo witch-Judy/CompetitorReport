@@ -1,0 +1,1680 @@
+====================================================================================================
+tulip 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Product
+
+│  ├─ 📄 Edge Devices
+
+│  ├─ 📄 Edge Io
+
+│  ├─ 📄 Factory Kit
+
+│  └─ 📄 Light Kit
+
+
+├─ 📁 Industries
+
+│  ├─ 📄 Industries
+
+│  ├─ 📄 Additive Manufacturing
+
+│  ├─ 📂 Aerospace Defense
+│  │  ├─ 📄 Composable Mes
+│  │  ├─ 📄 Digital Work Instructions
+│  │  └─ 📄 Production Tracking
+
+│  ├─ 📂 Automotive Boating
+│  │  └─ 📄 Composable Mes
+
+│  ├─ 📄 Batch And Hybrid Batch
+
+│  ├─ 📄 Biotech Manufacturing
+
+│  ├─ 📄 Cell Gene Therapy
+
+│  ├─ 📄 Consumer Products
+
+│  ├─ 📄 Contract Manufacturing
+
+│  ├─ 📄 Discrete Manufacturing
+
+│  ├─ 📄 Electronics
+
+│  ├─ 📄 Food Beverage
+
+│  ├─ 📄 Industrial Products
+
+│  ├─ 📄 Laboratory Operations
+
+│  ├─ 📄 Luxury Goods
+
+│  ├─ 📄 Machining
+
+│  ├─ 📂 Medical Devices Diagnostics
+│  │  ├─ 📄 Composable Mes
+│  │  ├─ 📄 Digital Work Instructions
+│  │  └─ 📄 Production Tracking
+
+│  ├─ 📄 New Product Introduction
+
+│  └─ 📂 Pharma Manufacturing
+│     ├─ 📄 Composable Mes
+│     ├─ 📄 Digital Work Instructions
+│     └─ 📄 Track And Trace System
+
+
+├─ 📁 Solutions
+
+│  ├─ 📄 Solutions
+
+│  ├─ 📄 Composable Mes
+
+│  └─ 📄 Connected Worker
+
+
+├─ 📁 Partners
+
+│  ├─ 📄 Partners
+
+│  ├─ 📄 Archsys
+
+│  ├─ 📄 Bosch Rexroth
+
+│  ├─ 📄 Connected Device Partners
+
+│  ├─ 📄 Solution Partners
+
+│  ├─ 📂 Strategic Alliances
+│  │  ├─ 📄 Aws
+│  │  └─ 📄 Microsoft
+
+│  └─ 📄 Technology Partners
+
+
+├─ 📁 Demos
+
+│  └─ 📄 Demos
+
+
+├─ 📁 _Careers
+
+│  ├─ 📄 _Careers
+
+│  ├─ 📄 Budapest
+
+│  ├─ 📄 Commercial
+
+│  ├─ 📄 Engineering
+
+│  ├─ 📄 Hq
+
+│  ├─ 📄 Marketing
+
+│  ├─ 📄 Munich
+
+│  └─ 📄 Operations
+
+
+├─ 📁 Abm
+
+│  ├─ 📄 Manufacturing Strategy Executive Viewpoint 4 Part Roundtable Series
+
+│  ├─ 📂 Med Device Video Mailer
+│  │  └─ 📄 Thank You
+
+│  └─ 📂 New Year Industrial Operations
+│     └─ 📄 Thank You For Scheduling Your Demo
+
+
+├─ 📁 About Us
+
+│  └─ 📄 About Us
+
+
+├─ 📁 Augmented Lean
+
+│  └─ 📄 Augmented Lean
+
+
+├─ 📁 Blog
+
+│  ├─ 📄 10 Best Lean Manufacturing Books
+
+│  ├─ 📄 10 Best Six Sigma Lean Books
+
+│  ├─ 📄 10 Notable Black Innovators In Manufacturing Tech
+
+│  ├─ 📄 2025 Mes Vendor Comparison Guide
+
+│  ├─ 📄 22 Questions To Ask When Evaluating A Next Gen Mes
+
+│  ├─ 📄 3 Key Takeaways From Hannover Messe 2024
+
+│  ├─ 📄 3 Key Takeaways From Operations Calling 2023
+
+│  ├─ 📄 4 Proven Ways To Increase Throughput In Your Shop
+
+│  ├─ 📄 5 Key Takeaways From Hannover Messe 2023
+
+│  ├─ 📄 5 Predictions For Frontline Operations In 2024
+
+│  ├─ 📄 5 Predictions For Life Sciences In 2024
+
+│  ├─ 📄 5 Reasons Operators Love Smart Work Instructions
+
+│  ├─ 📄 5 Reasons To Digitize Manufacturing Workflows
+
+│  ├─ 📄 5 Reasons To Digitize Your Process Audit Checklist
+
+│  ├─ 📄 5S Checklists
+
+│  ├─ 📄 5S Tools And Visual Management
+
+│  ├─ 📄 6 Manufacturing Dashboards For Visualizing Production
+
+│  ├─ 📄 8 Principles From Roches Digital Transformation Journey
+
+│  ├─ 📄 8 Questions To Ask Before Buying Digital Work Instructions Software
+
+│  ├─ 📄 9 Wastes Of Lean Manufacturing
+
+│  ├─ 📄 Blog
+
+│  ├─ 📄 Additive Manufacturing Examples Advantages For Manufacturers
+
+│  ├─ 📄 Agents In Tulip April 1
+
+│  ├─ 📄 Agile Manufacturing Vs Lean Manufacturing
+
+│  ├─ 📄 Agile Vs Traditional Approach To Problems In Manufacturing
+
+│  ├─ 📄 Ai In Action 5 Highlights From Operations Calling
+
+│  ├─ 📄 Ai Manufacturing Copilot
+
+│  ├─ 📄 Ai Trigger Actions Beta
+
+│  ├─ 📄 Ai Troubleshooting Manufacturing
+
+│  ├─ 📄 Ai Use Cases In Manufacturing
+
+│  ├─ 📄 Ai Work Instructions
+
+│  ├─ 📄 Alcoa Principles A Guide To Data Integrity
+
+│  ├─ 📄 An Overview Of Food Safety Management Systems
+
+│  ├─ 📄 Announcing Ai Agents
+
+│  ├─ 📄 Announcing Edge Encabulator
+
+│  ├─ 📄 Announcing Frontline Copilot
+
+│  ├─ 📄 Announcing Opsmoto
+
+│  ├─ 📄 Announcing The 2024 Winners Of The Tulip Groundbreaker Awards
+
+│  ├─ 📄 Announcing The Latest Winners Of The Tulip Groundbreaker Awards
+
+│  ├─ 📄 App Diagrams The Easiest Way To Understand Your Tulip Apps
+
+│  ├─ 📄 Audit Management For Manufacturers
+
+│  ├─ 📄 Augmented Reality Impacts Of Ar For Manufacturers
+
+│  ├─ 📄 Automated Visual Inspection
+
+│  ├─ 📄 Automations Ga
+
+│  ├─ 📄 Autonomous Maintenance Managing Machine Upkeep
+
+│  ├─ 📄 Avoid Wasted Investment Choose The Right Smart Device For Your Operations
+
+│  ├─ 📄 Batch Process Vs Continuous Process
+
+│  ├─ 📄 Benefits Of Industrial Iot
+
+│  ├─ 📄 Best Manufacturing Podcasts
+
+│  ├─ 📄 Best Platforms For Digitizing Work Orders
+
+│  ├─ 📄 Best Practices For Managing Work In Progress
+
+│  ├─ 📄 Big Data For Manufacturing
+
+│  ├─ 📄 Bill Of Materials Bom Management
+
+│  ├─ 📄 Blog Community Spotlight Richard Shaw
+
+│  ├─ 📄 Bottleneck Analysis Tools
+
+│  ├─ 📄 Bridging The Gap Connecting Old Machines To New Systems With Machine Learning And Edge Connectivity
+
+│  ├─ 📄 Bringing Dataops To The Tulip Ecosystem
+
+│  ├─ 📄 Bringing Open Source To Operations
+
+│  ├─ 📄 Build And Deploy Your Computer Vision Project
+
+│  ├─ 📄 Build Apps From Sops With Ai Composer Now With Templates
+
+│  ├─ 📄 Build For Scale Establishing A Robust Governance Framework
+
+│  ├─ 📄 Build Govern Scale Key Takeaways From The Virtual Event
+
+│  ├─ 📄 Build Vs Buy Mes
+
+│  ├─ 📄 Build Your First Automated Weld Log With These 5 Steps
+
+│  ├─ 📄 Bundle Adjustment Optimization For 3D Jigs In Tulip Vision
+
+│  ├─ 📄 Business Intelligence In Manufacturing
+
+│  ├─ 📄 Cellular Manufacturing
+
+│  ├─ 📄 Cgmp Guide To Current Good Manufacturing Practices
+
+│  ├─ 📄 Change Management Best Practices For Manufacturers
+
+│  ├─ 📄 Choosing A Trusted Mes For Regulated Manufacturers
+
+│  ├─ 📄 Choosing The Right Mes To Streamline Quality Compliance
+
+│  ├─ 📄 Cloud Computing In Manufacturing
+
+│  ├─ 📄 Cognitive Load In Manufacturing
+
+│  ├─ 📄 Community Spotlight Abigail Tingley
+
+│  ├─ 📄 Community Spotlight Carol Lin
+
+│  ├─ 📄 Community Spotlight Edgar Mendoza
+
+│  ├─ 📄 Community Spotlight Maggie Bradley
+
+│  ├─ 📄 Community Spotlight Nicolette Naya
+
+│  ├─ 📄 Competitive Advantages Of Next Gen Mes
+
+│  ├─ 📄 Composability How Luxury Goods Manufacturers Can Remain Resilient
+
+│  ├─ 📄 Composable Enterprise Comparing Traditional Mes To Platform As A Service
+
+│  ├─ 📄 Composable Hmis Augmenting Operators Transforming Operations
+
+│  ├─ 📄 Composable Manufacturing Systems
+
+│  ├─ 📄 Computer Software Assurance
+
+│  ├─ 📄 Computer Vision In Manufacturing Industry 4 0 Ecosystem
+
+│  ├─ 📄 Computerized Maintenance Management Systems
+
+│  ├─ 📄 Connecting Machines With Opc Ua
+
+│  ├─ 📄 Continuous Improvement With Kaizen
+
+│  ├─ 📄 Continuous Manufacturing
+
+│  ├─ 📄 Core Features Of Mes Manufacturing Execution Systems
+
+│  ├─ 📄 Corrective Action Vs Preventive Action
+
+│  ├─ 📄 Corrective And Preventive Action Capa Management
+
+│  ├─ 📄 Cost Of Quality
+
+│  ├─ 📄 Create Your Digital Logbook Solution Using The Equipment Logbook App Suite
+
+│  ├─ 📄 Custom Widget Copilot Preview
+
+│  ├─ 📄 Cycle Vs Lead Vs Takt
+
+│  ├─ 📄 Data Collection For Manufacturers
+
+│  ├─ 📄 Data Contextualization Operations Platform Vs Mes
+
+│  ├─ 📄 Defect Detection Using Ai For Visual Quality Inspections
+
+│  ├─ 📄 Definitions Of Quality In Manufacturing
+
+│  ├─ 📄 Democratizing The Shop Floor
+
+│  ├─ 📄 Designing Software With Intention How To Optimize Frontline Operator Processes
+
+│  ├─ 📄 Deviation Management For Life Sciences Manufacturers
+
+│  ├─ 📄 Devices Operations A Match Made For Quality
+
+│  ├─ 📄 Digital Excellence In Life Sciences A Composable Approach To Innovation
+
+│  ├─ 📄 Digital Logbooks Building Apps In A Gxp Environment
+
+│  ├─ 📄 Digital Operations Platforms
+
+│  ├─ 📄 Digital Sops For Pharmaceutical Manufacturers With Tulip
+
+│  ├─ 📄 Digital Transformation In Manufacturing
+
+│  ├─ 📄 Digital Transformation Is A Bridge To Nowhere Enter Continuous Transformation
+
+│  ├─ 📄 Digital Transformation Roadmap For Manufacturing
+
+│  ├─ 📄 Digital Twins In Manufacturing
+
+│  ├─ 📄 Digital Work Instructions Template
+
+│  ├─ 📄 Digitizing Shop Floor Control
+
+│  ├─ 📄 Digitizing Your Weigh And Dispense Procedures
+
+│  ├─ 📄 Document Management In Manufacturing
+
+│  ├─ 📄 Dynamic Work Instructions
+
+│  ├─ 📄 E Signatures In Tulip Building Apps In A Gxp Environment
+
+│  ├─ 📄 Economic Potential Of Digital Transformation
+
+│  ├─ 📄 Ecosystem At Operations Calling 2025
+
+│  ├─ 📄 Edge Devices Guide For Manufacturers
+
+│  ├─ 📄 Electronic Batch Records
+
+│  ├─ 📄 Electronic Device History Records Edhr
+
+│  ├─ 📄 Electronic Quality Management Systems Eqms For Manufacturing
+
+│  ├─ 📄 Embracing First Time Quality In Manufacturing
+
+│  ├─ 📄 Embracing Paperless Manufacturing
+
+│  ├─ 📄 Enterprise App Exchange
+
+│  ├─ 📄 Erp Integrations Connecting Shop Floor Processes To Backend Systems
+
+│  ├─ 📄 Examining Composability What Should It Look Like In Real Life
+
+│  ├─ 📄 Expert Insights The Future Of Manufacturing
+
+│  ├─ 📄 Factory Automation A Guide To Digitizing Your Factory
+
+│  ├─ 📄 Faster Time To Market Just Became A Matter Of Global Health
+
+│  ├─ 📄 Fda Compliant Process Visibility In Pharma Production Facility
+
+│  ├─ 📄 First Article Inspection
+
+│  ├─ 📄 First Pass Yield Taking Steps To Improve Throughput
+
+│  ├─ 📄 Fishbone Ishikawa Diagram Template For Root Cause Analysis
+
+│  ├─ 📄 Five Trends Redefining The Future Of Hmis
+
+│  ├─ 📄 Five Years Of Innovation Celebrating The Partnership Between Tulip And Dmg Mori
+
+│  ├─ 📄 For Big Impacts With Traceability Start Small
+
+│  ├─ 📄 From Paper To Pixels Maximize Productivity With Digital Logbooks
+
+│  ├─ 📄 Frontline Copilot Update Spring 2024
+
+│  ├─ 📄 Generative Ai And Traditional Ml In Analytics
+
+│  ├─ 📄 Generative Ai Manufacturing
+
+│  ├─ 📄 Gmp Software
+
+│  ├─ 📄 Good Documentation Practices
+
+│  ├─ 📄 High Tech Manufacturing Overview
+
+│  ├─ 📄 How Industry 4 0 Is Training Tomorrows Workforce
+
+│  ├─ 📄 How Industry 4 0 Is Transforming Lean Manufacturing
+
+│  ├─ 📄 How Mes Are Transforming Energy Management In Manufacturing
+
+│  ├─ 📄 How Mqtt Fits Into Industrial Architectures
+
+│  ├─ 📄 How Rfk Racing Combines Manufacturing And Technology To Win
+
+│  ├─ 📄 How Should General Manufacturing Think Of Composability
+
+│  ├─ 📄 How Should Life Sciences Manufacturers Think Of Composability
+
+│  ├─ 📄 How The Connected Factory Empowers Workers
+
+│  ├─ 📄 How To Accelerate Time To Value In Your Manufacturing Platform Implementation
+
+│  ├─ 📄 How To Build A Word Clock A Look At Tulips Latest Demo App
+
+│  ├─ 📄 How To Calculate And Reduce Manufacturing Costs
+
+│  ├─ 📄 How To Calculate Oee Automatically With Apps
+
+│  ├─ 📄 How To Conduct Process Audits From Your Mobile Phone
+
+│  ├─ 📄 How To Manage Your Material Systems With Digital Solutions
+
+│  ├─ 📄 How To Reduce Cost Of Quality With Industry 4 0
+
+│  ├─ 📄 How To Reduce Downtime In Manufacturing
+
+│  ├─ 📄 How To Reduce Throughput Time In Manufacturing
+
+│  ├─ 📄 How To Track Production With A Digital Dashboard
+
+│  ├─ 📄 How To Turn Tribal Knowledge Into Institutional Knowledge In Manufacturing
+
+│  ├─ 📄 How To Write A Better Gemba Walk Checklist
+
+│  ├─ 📄 How Tulip Is Modernising Its Analytics Platform With Recharts
+
+│  ├─ 📄 Human Connection To Operations Excellence
+
+│  ├─ 📄 Human Error In Manufacturing Is A Systems Problem
+
+│  ├─ 📄 Human Performance Explained
+
+│  ├─ 📄 Implementing Iot Solutions 8 Pitfalls To Avoid
+
+│  ├─ 📄 Importance Of Education In Manufacturing
+
+│  ├─ 📄 Improving Efficiency Without Compromising Craftmanship
+
+│  ├─ 📄 Improving Production Efficiency 6 Ways To Streamline Production
+
+│  ├─ 📄 Industrial Iot Gateways
+
+│  ├─ 📄 Industrial Iot Use Cases And Applications
+
+│  ├─ 📄 Industry 4 0 For Operations Management
+
+│  ├─ 📄 Inline Quality Assurance For The 21St Century
+
+│  ├─ 📄 Inside The 2025 Agent Builders Challenge
+
+│  ├─ 📄 Integrate Tulip To 100 Applications With The Tulip Microsoft Power Automate Connector
+
+│  ├─ 📄 Intro To Cloud Based Manufacturing Execution Systems
+
+│  ├─ 📄 Introducing Ai Composer
+
+│  ├─ 📄 Introducing Ai Copilot For Manufacturers In The Life Sciences Industry
+
+│  ├─ 📄 Introducing Ai Powered Automations
+
+│  ├─ 📄 Introducing Analytics Insights For Frontline Engineers
+
+│  ├─ 📄 Introducing Automations
+
+│  ├─ 📄 Introducing Custom User Roles
+
+│  ├─ 📄 Introducing Edge Drivers
+
+│  ├─ 📄 Introducing Edge Io A New Edge Device From Tulip
+
+│  ├─ 📄 Introducing Machine Kit
+
+│  ├─ 📄 Introducing Multilingual Apps In Tulip
+
+│  ├─ 📄 Introducing Spatial Add On For Mes To The Tulip Library
+
+│  ├─ 📄 Introducing The Composable App Suite For Lab Operations
+
+│  ├─ 📄 Introducing The Composable Mes App Suite
+
+│  ├─ 📄 Introducing The Composable Mes For Pharma
+
+│  ├─ 📄 Introducing Tulip Mcp
+
+│  ├─ 📄 Introducing Workspaces In Tulip
+
+│  ├─ 📄 Inventory Management Katana
+
+│  ├─ 📄 Inventory Management Strategies For Manufacturers
+
+│  ├─ 📄 Is The Future Of Mes Saas
+
+│  ├─ 📄 Iso 13485 Guide For Medical Device Manufacturers
+
+│  ├─ 📄 Iso 13485 Vs 21 Cfr 820
+
+│  ├─ 📄 Iso 9001 Compliance
+
+│  ├─ 📄 It Ot Convergence Tips For Gaining Visibility In Your Connected Factory
+
+│  ├─ 📄 It Vs Ot Difference Between Information Technology And Operational Technology
+
+│  ├─ 📄 Just In Sequence Vs Just In Time
+
+│  ├─ 📄 Just In Time Vs Just In Case
+
+│  ├─ 📄 Kamishibai Boards The Lean Way To Visualize Production
+
+│  ├─ 📄 Kanban Systems Lean Tools For Manufacturers
+
+│  ├─ 📄 Keeping The Human A Part Of Automation
+
+│  ├─ 📄 Lean Manufacturers Guide To Andon
+
+│  ├─ 📄 Lessons In Resilience For Manufacturing
+
+│  ├─ 📄 Library Release 14
+
+│  ├─ 📄 Library Release 15
+
+│  ├─ 📄 Library Release 16
+
+│  ├─ 📄 Library Release 19
+
+│  ├─ 📄 Library Release 9
+
+│  ├─ 📄 Line Clearance In Manufacturing
+
+│  ├─ 📄 Logistics In The Time Of Covid 19
+
+│  ├─ 📄 Looking Ahead At The Year Of Composable Operations
+
+│  ├─ 📄 Lot Tracking Batch Tracking For Manufacturers
+
+│  ├─ 📄 Luxury Goods Manufacturing Where Craftsmanship Meets Digitization
+
+│  ├─ 📄 Machine Condition Monitoring For Improving Oee
+
+│  ├─ 📄 Machine Data For Manufacturers
+
+│  ├─ 📄 Machine Learning In Manufacturing An Introduction To Industrial Ai
+
+│  ├─ 📄 Machine To Machine M2M Connectivity
+
+│  ├─ 📄 Machine Vibration Analysis Tools Tips More
+
+│  ├─ 📄 Machine Vision In Manufacturing
+
+│  ├─ 📄 Manufacturers Guide To 21 Cfr Part 11 Compliance
+
+│  ├─ 📄 Manufacturers Guide To Gmp Compliance
+
+│  ├─ 📄 Manufacturers Guide To Reducing Rework
+
+│  ├─ 📄 Manufacturing Apps For Quality 4 0
+
+│  ├─ 📄 Manufacturing Data Management
+
+│  ├─ 📄 Manufacturing Industry Trends
+
+│  ├─ 📄 Manufacturing Intelligence A Guide To Implementation And Best Practices
+
+│  ├─ 📄 Manufacturing Kpis Key Production Metrics You Should Know
+
+│  ├─ 📄 Manufacturing Labeling Tips Best Practices
+
+│  ├─ 📄 Manufacturing Noncomformances Examples How To Prevent
+
+│  ├─ 📄 Manufacturing Operations Management Mom
+
+│  ├─ 📄 Manufacturing Optimization Best Practices
+
+│  ├─ 📄 Manufacturing Platforms Build Or Buy
+
+│  ├─ 📄 Manufacturing Process Audits A Primer
+
+│  ├─ 📄 Manufacturing Process Automation
+
+│  ├─ 📄 Manufacturing Quality Defect Tracking
+
+│  ├─ 📄 Manufacturing Sensors Types Benefits And More
+
+│  ├─ 📄 Manufacturing Software Off The Shelf Vs Custom Vs Customizable
+
+│  ├─ 📄 Manufacturing Systems Processes Used In Production
+
+│  ├─ 📄 Manufacturing Travelers Steps To Digitize Your Product Documentation
+
+│  ├─ 📄 Manufacturing Work Orders
+
+│  ├─ 📄 Manufacturings New Blueprint Why Composability Is The Architecture Of Agility
+
+│  ├─ 📄 Master Batch Record A Guide To Pharma Compliance Records
+
+│  ├─ 📄 Material Review Board
+
+│  ├─ 📄 Maximize Manufacturing Erp Value
+
+│  ├─ 📄 Medical Device Labeling
+
+│  ├─ 📄 Meet The 2025 Groundbreakers
+
+│  ├─ 📄 Mes Isa 95 Mes 11 Cmes Namur
+
+│  ├─ 📄 Mes Or Iiot Platform Or Both Which Is Right For Me
+
+│  ├─ 📄 Mistake Proofing In Manufacturing
+
+│  ├─ 📄 Model Context Protocol Mcp For Manufacturing
+
+│  ├─ 📄 Modernizing Manufacturing Stanley Black And Decker Hellaby
+
+│  ├─ 📄 Mrp Vs Erp Breaking Down The Difference
+
+│  ├─ 📄 Mtbf Mttf Mttr Incident Metrics
+
+│  ├─ 📄 Multi Site Scaling Best Practices
+
+│  ├─ 📄 Multi Site Visibility Transforms Manufacturing
+
+│  ├─ 📄 Navigating Technology Transfers
+
+│  ├─ 📄 New Product Introduction Breaking Down Npi For Manufacturers
+
+│  ├─ 📄 Next Gen Mes For Automating Discrete Manufacturing Processes
+
+│  ├─ 📄 Oee Vs Ope Toward A Holistic Understanding Of Your Machine Data
+
+│  ├─ 📄 Open Source For Manufacturing Key Lessons Manufacturers Can Learn
+
+│  ├─ 📄 Open Source Plcs Arduinos Disruption Of Industrial Automation
+
+│  ├─ 📄 Open Vs Closed Architecture
+
+│  ├─ 📄 Openai Tulip Library 2023
+
+│  ├─ 📄 Operationalize Your Defects
+
+│  ├─ 📄 Operations Calling 2025 Looking Back On The Future Of Operations
+
+│  ├─ 📄 Optimizing The Neural Compute Stick For Executing Vision Models On The Edge
+
+│  ├─ 📄 Overall Equipment Effectiveness Oee Dashboard
+
+│  ├─ 📄 Overcoming Manufacturing Bottlenecks
+
+│  ├─ 📄 Overcoming The Manufacturing Labor Shortage
+
+│  ├─ 📄 Paperless Compliance At Novo Nordisk
+
+│  ├─ 📄 Pharma Qms Simplify Your Quality Management Practices
+
+│  ├─ 📄 Pharmaceutical Manufacturing Trends To Watch
+
+│  ├─ 📄 Pick To Light For Manufacturers
+
+│  ├─ 📄 Platforms Vs Point Solutions Whats The Difference
+
+│  ├─ 📄 Poka Yoke Examples Everyday Life
+
+│  ├─ 📄 Pop Up Factory 2022
+
+│  ├─ 📄 Practical Guide To Kaizen Events
+
+│  ├─ 📄 Predictive Maintenance Isnt Just An Ai Problem
+
+│  ├─ 📄 Preventing Escapes In Luxury Goods Manufacturing With Apps
+
+│  ├─ 📄 Problems With Paper On Glass In Manufacturing
+
+│  ├─ 📄 Process Validation For Pharmaceutical Manufacturers
+
+│  ├─ 📄 Product Updates 191
+
+│  ├─ 📄 Product Updates 193
+
+│  ├─ 📄 Product Updates 201 202
+
+│  ├─ 📄 Production Capacity Strategies For Improving Productivity
+
+│  ├─ 📄 Production Management In The Modern Factory
+
+│  ├─ 📄 Production Monitoring Best Practices For Manufacturers
+
+│  ├─ 📄 Production Reporting Visualize Production Metrics That Matter
+
+│  ├─ 📄 Programmable Logic Controller What Is A Plc
+
+│  ├─ 📄 Put Ai To Work Across Your Operations
+
+│  ├─ 📄 Quality Assurance Plan
+
+│  ├─ 📄 Quality Control Checklist For Manufacturers
+
+│  ├─ 📄 Quality Control In Food Industry
+
+│  ├─ 📄 Re Imagining The Operations Tech Stack With High Accuracy Location Data
+
+│  ├─ 📄 Redefining Mes Composability First
+
+│  ├─ 📄 Reduce Changeover Time In Manufacturing
+
+│  ├─ 📄 Reduce Lead Time In Manufacturing
+
+│  ├─ 📄 Reshaping Data Architectures With Uns And Mqtt
+
+│  ├─ 📄 Resource Monitoring Improving Machine Efficiency With Iot
+
+│  ├─ 📄 Rethinking Frontline Intelligence How Tulip Is Transforming Manufacturing Operations With Nvidia Ai
+
+│  ├─ 📄 Rethinking Laboratory Information Management Systems
+
+│  ├─ 📄 Rethinking Your Manufacturing Software Rfp Template
+
+│  ├─ 📄 Review By Exception
+
+│  ├─ 📄 Role Of Humans And Ai In Industry 4
+
+│  ├─ 📄 Root Cause Analysis Tools
+
+│  ├─ 📄 Saas For Manufacturers
+
+│  ├─ 📄 Saas Vs Paas Vs Iaas Making Sense Of The Distinction For Manufacturers
+
+│  ├─ 📄 Safety Audits For Manufacturers
+
+│  ├─ 📄 Safety Cross A Tool For Improving Safety And Quality
+
+│  ├─ 📄 Scada Meets Frontline Tulip And Ignition
+
+│  ├─ 📄 Scaling Manufacturing Systems Across Global Sites
+
+│  ├─ 📄 Sdk Vision
+
+│  ├─ 📄 Seeing Your Vision
+
+│  ├─ 📄 Serialization For Pharmaceutical Manufacturers
+
+│  ├─ 📄 Shaping The Future Of Frontline Operations At Operations Calling 2024
+
+│  ├─ 📄 Shift From Traditional Lean To Digital Lean
+
+│  ├─ 📄 Skills Gap Manufacturing
+
+│  ├─ 📄 Spatial Intelligence And Material Tracking With Tulip And Zerokey
+
+│  ├─ 📄 Sqcdp Board
+
+│  ├─ 📄 Stop Chasing Data Replace Manual Entry With Automated Data Collection
+
+│  ├─ 📄 Streamlining Nonconformance Reports With Digital Solutions
+
+│  ├─ 📄 Streamlining Traceability With App Completion Data
+
+│  ├─ 📄 System Of Record Vs System Of Engagement
+
+│  ├─ 📄 The Big Picture How Devices Can Empower End To End Visibility
+
+│  ├─ 📄 The Context Gap Why Manufacturing Ai Fails Without Human Insight
+
+│  ├─ 📄 The Evolution Of Hmis From Push Buttons To No Code Apps
+
+│  ├─ 📄 The Future Human Machine Interfaces Hmi In An Iot World
+
+│  ├─ 📄 The Future Of Mes Is Composability Heres How Tulip And Our Customers Are Showing The Way
+
+│  ├─ 📄 The Hidden Factory 5 Things You Should Know
+
+│  ├─ 📄 The History And Future Of The Assembly Line
+
+│  ├─ 📄 The Kitting Process For Manufacturers
+
+│  ├─ 📄 The Pursuit Of Manufacturing Excellence
+
+│  ├─ 📄 The Quickstart Poc
+
+│  ├─ 📄 The Upgrade Process Operations Platform Vs Mes
+
+│  ├─ 📄 Time Tracking For Manufacturers
+
+│  ├─ 📄 Tool Tracking With Tulip
+
+│  ├─ 📄 Top 5 Quality Metrics To Track For Manufacturers
+
+│  ├─ 📄 Total Cost Of Ownership Guide Operations Platform Vs Mes
+
+│  ├─ 📄 Traceability In Manufacturing
+
+│  ├─ 📄 Track And Trace Systems
+
+│  ├─ 📄 Track Trace In Pharma Manufacturing
+
+│  ├─ 📄 Tracking And Recreating Your Golden Batch
+
+│  ├─ 📄 Training The Next Generation Of Ai Ml Engineers
+
+│  ├─ 📄 Transitioning To Next Gen Mes
+
+│  ├─ 📄 Tulip And Microsoft Empowering Frontline Workers Through Integrations
+
+│  ├─ 📄 Tulip And Microsoft Transform The Workforce
+
+│  ├─ 📄 Tulip Attending Packexpo East Philadelphia
+
+│  ├─ 📄 Tulip Challenging The Manufacturing Execution Systems Category Heres How
+
+│  ├─ 📄 Tulip Duro Aerospace Manufacturing
+
+│  ├─ 📄 Tulip For Inventory Management
+
+│  ├─ 📄 Tulip For Supply Chain Visibility
+
+│  ├─ 📄 Tulip Microsoft Fabric
+
+│  ├─ 📄 Tulip On The Roads Next Stop Manufacturing X O Southeast
+
+│  ├─ 📄 Tulip On Wearable Devices For Hands Free Frontline Apps
+
+│  ├─ 📄 Tulip Player On Apple Ios
+
+│  ├─ 📄 Tulip Vision A New Look Into Frontline Operations
+
+│  ├─ 📄 Turning Data Into Value With Context
+
+│  ├─ 📄 Ultimate Guide To Time Studies In The Connected Factory
+
+│  ├─ 📄 Unlocking Spatial Intelligence With Quantum Rtls
+
+│  ├─ 📄 Unlocking The Power Of Composable Hmis In Modern Manufacturing
+
+│  ├─ 📄 Using Augmentation To Reduce Variability In Manufacturing
+
+│  ├─ 📄 Using Failure Analysis To Identify Root Cause
+
+│  ├─ 📄 Using Manufacturing Analytics To Improve Your Operations
+
+│  ├─ 📄 Visual Management
+
+│  ├─ 📄 Visual Work Instructions
+
+│  ├─ 📄 We Built More Than A Qi Phone Charger At Digital Factory 2022
+
+│  ├─ 📄 What Are Manufacturing Apps
+
+│  ├─ 📄 What Is A Citizen Developer In Manufacturing
+
+│  ├─ 📄 What Is A Pareto Chart Definition Examples
+
+│  ├─ 📄 What Is A Push System Vs A Pull System
+
+│  ├─ 📄 What Is An Iiot Platform Definitions Examples
+
+│  ├─ 📄 What Is Data Sharing 10 Things Manufacturers Need To Know Now
+
+│  ├─ 📄 What Is Food Traceability
+
+│  ├─ 📄 What Is Takt Time
+
+│  ├─ 📄 What Is The Difference Between A Causal Factor A Root Cause
+
+│  ├─ 📄 What Manufacturing Can Learn From Salesforce Com
+
+│  ├─ 📄 What Skills Do Manufacturers Need Most In 2020
+
+│  ├─ 📄 Whats New In Tulip Fall 2025
+
+│  ├─ 📄 Whats Next Custom Widgets
+
+│  ├─ 📄 Whatsnew Spring2025
+
+│  ├─ 📄 Why A Copilot Is The Future Of Frontline Operations
+
+│  ├─ 📄 Why Digital Augmentation Means More Than Augmented Reality In Manufacturing
+
+│  ├─ 📄 Why Do Manufacturers Still Use Excel
+
+│  ├─ 📄 Why I Joined Tulip Olivier Neron
+
+│  ├─ 📄 Why Industrial Data Needs Standards
+
+│  ├─ 📄 Why More Manufacturers Will Turn To No Code Platforms In 2024
+
+│  ├─ 📄 Work Order Tracking For The Digital Era
+
+│  └─ 📄 Zebra Connected Factory Framework
+
+
+├─ 📁 Bootcamp
+
+│  └─ 📄 Bootcamp
+
+
+├─ 📁 Case Studies
+
+│  ├─ 📄 Case Studies
+
+│  ├─ 📄 Aerospace Manufacturer Achieves Compliance Traceability With Composable Mes
+
+│  ├─ 📄 Autodesk Technology Center
+
+│  ├─ 📄 Boat Manufacturer
+
+│  ├─ 📄 Custom Orthodontic Aligner
+
+│  ├─ 📄 Dmg Mori
+
+│  ├─ 📄 Dmg Mori With Microsoft
+
+│  ├─ 📄 Double H
+
+│  ├─ 📄 Energy Storage Manufacturer
+
+│  ├─ 📄 Formlabs Mes
+
+│  ├─ 📄 Innovafeed Is Growing Production 5X With Tulip
+
+│  ├─ 📄 Laerdal Medical
+
+│  ├─ 📄 Leading Tool Manufacturer Enhances Quality With End To End Traceability
+
+│  ├─ 📄 Life Sciences Elogbooks
+
+│  ├─ 📄 Lighting Manufacturer
+
+│  ├─ 📄 Luxury Jeweler
+
+│  ├─ 📄 Mack Molding
+
+│  ├─ 📄 Magic Tilt
+
+│  ├─ 📄 Medical Device Case Study
+
+│  ├─ 📄 Personalized Prosthetic Arm
+
+│  ├─ 📄 Pharmaceutical Case Study
+
+│  ├─ 📄 Piaggio Fast Forward
+
+│  ├─ 📄 Pratt Miller Engineering Gains Competitive Edge With Rapid Process Adaptation
+
+│  ├─ 📄 Reframe Systems Builds Homes 2 5 Times Faster With Tulip
+
+│  ├─ 📄 Rfk Racing Drives Continuous Transformation At 200 Mph With Tulip
+
+│  ├─ 📄 Sharp Packaging
+
+│  ├─ 📄 Swift
+
+│  ├─ 📄 Tico Reduced Quality Inspection And Rework Time By 60
+
+│  ├─ 📄 Top 10 Pharmaceutical Case Study
+
+│  └─ 📄 Zaleco
+
+
+├─ 📁 Category
+
+│  ├─ 📄 Ai
+
+│  ├─ 📄 Analytics Kpis
+
+│  ├─ 📄 Community
+
+│  ├─ 📄 Compliance
+
+│  ├─ 📄 Connected Worker
+
+│  ├─ 📄 Digital Transformation
+
+│  ├─ 📄 Engineering
+
+│  ├─ 📄 Events
+
+│  ├─ 📄 Governance
+
+│  ├─ 📄 Insights
+
+│  ├─ 📄 Labs
+
+│  ├─ 📄 Lean Manufacturing
+
+│  ├─ 📄 Machine Monitoring
+
+│  ├─ 📄 No Code
+
+│  ├─ 📄 Operations Apps
+
+│  ├─ 📄 Partner
+
+│  ├─ 📄 Pharma 4 0
+
+│  ├─ 📄 Press
+
+│  ├─ 📄 Process Execution
+
+│  ├─ 📄 Product
+
+│  ├─ 📄 Quality
+
+│  ├─ 📄 Tulip
+
+│  └─ 📄 Tulip Experience Center
+
+
+├─ 📁 Community
+
+│  └─ 📄 Community
+
+
+├─ 📁 Contact Sales
+
+│  └─ 📄 Contact Sales
+
+
+├─ 📁 Contact Us
+
+│  └─ 📄 Contact Us
+
+
+├─ 📁 Digital Guidance
+
+│  ├─ 📄 Digital Guidance
+
+│  └─ 📄 Kitting Software
+
+
+├─ 📁 Ebooks
+
+│  ├─ 📄 3D Printing
+
+│  ├─ 📂 40 Hour Pop Up Factory 2023
+│  │  └─ 📄 Download
+
+│  ├─ 📄 5 Ways Luxury Good Manufacturing Is Changing Infographic
+
+│  ├─ 📄 Ebooks
+
+│  ├─ 📂 Adopting An Open Ecosystem
+│  │  ├─ 📄 Download
+│  │  └─ 📄 Download Thank You
+
+│  ├─ 📄 Agile Manufacturing
+
+│  ├─ 📄 App Design Patterns Infographic
+
+│  ├─ 📄 Augmented Lean
+
+│  ├─ 📄 Augmented Worker
+
+│  ├─ 📄 Building A Pop Up Factory At Digital Factory 2022
+
+│  ├─ 📄 Cell Gene Therapy
+
+│  ├─ 📄 Connected Worker
+
+│  ├─ 📄 Continuous Transformation For Aerospace And Defense Manufacturing
+
+│  ├─ 📄 Continuous Transformation For Medical Device Manufacturing
+
+│  ├─ 📄 Continuous Transformation For Pharmaceutical Manufacturing
+
+│  ├─ 📄 Continuous Transformation In Manufacturing
+
+│  ├─ 📄 Digital Culture
+
+│  ├─ 📄 Digital Machine Shop
+
+│  ├─ 📄 Digital Production Tracking How No Code Connected Platforms Deliver Value
+
+│  ├─ 📄 Digital Transformation In Life Sciences
+
+│  ├─ 📄 Edge Computing
+
+│  ├─ 📂 Forrester Total Economic Impact Of Tulips Frontline Operations Platform
+│  │  └─ 📄 Download Thank You
+
+│  ├─ 📄 Gemba Walk
+
+│  ├─ 📄 How Automotive Manufacturers Can Stay Resilient In A Changing World
+
+│  ├─ 📄 Iiot For Manufacturers
+
+│  ├─ 📄 Iiot Platform Buyers Guide
+
+│  ├─ 📄 Industry 4 0
+
+│  ├─ 📄 Infotech Mes Emotional Footprint
+
+│  ├─ 📄 Kaizen
+
+│  ├─ 📄 Lean Manufacturing
+
+│  ├─ 📄 Machine Monitoring
+
+│  ├─ 📄 Magic Quadrant For Mes
+
+│  ├─ 📄 Manufacturing Execution Systems
+
+│  ├─ 📄 Mes Vs Operations Platforms
+
+│  ├─ 📄 New Digital Transformation Approach For Industrial Manufacturing
+
+│  ├─ 📄 No Code
+
+│  ├─ 📄 Open Ecosystem Infographic
+
+│  ├─ 📄 Overall Equipment Effectiveness Oee
+
+│  ├─ 📄 Pharma 4 0
+
+│  ├─ 📄 Poka Yoke
+
+│  ├─ 📄 Pop Up Factory
+
+│  ├─ 📂 Pop Up Factory At Hannover Messe
+│  │  └─ 📄 Download
+
+│  ├─ 📄 Preventive Maintenance
+
+│  ├─ 📄 Production Tracking
+
+│  ├─ 📄 Quality Management Systems
+
+│  ├─ 📄 Remote Deployment
+
+│  ├─ 📄 Root Cause Analysis
+
+│  ├─ 📄 The Rise Of The Citizen Developer
+
+│  ├─ 📄 The Ultimate Guide To 5S
+
+│  ├─ 📄 Time To Value
+
+│  ├─ 📄 Total Economic Impact Infographic
+
+│  ├─ 📄 Tulip For Clinical Trial Manufacturing
+
+│  ├─ 📄 Validation 4 0
+
+│  └─ 📄 Workforce Competitive Advantage
+
+
+├─ 📁 Editor Guide
+
+│  ├─ 📄 Assets
+
+│  ├─ 📄 Content Design Guidance
+
+│  ├─ 📄 Craft Definitions
+
+│  ├─ 📄 Editorial Entry Template
+
+│  ├─ 📄 Homepage
+
+│  ├─ 📄 Index Template
+
+│  ├─ 📄 Navigation
+
+│  ├─ 📄 Page Template
+
+│  └─ 📄 Product Template
+
+
+├─ 📁 Education Partnerships
+
+│  ├─ 📄 Education Partnerships
+
+│  └─ 📄 Thank You
+
+
+├─ 📁 Education Partnerships 2
+
+│  └─ 📄 Thank You
+
+
+├─ 📁 Eng
+
+│  ├─ 📄 Eng
+
+│  └─ 📄 Interviews
+
+
+├─ 📁 Events
+
+│  ├─ 📄 Events
+
+│  ├─ 📄 Automations Launch Event
+
+│  ├─ 📂 Democratize The Edge
+│  │  └─ 📄 Register
+
+│  ├─ 📂 Hannover Messe 2023
+│  │  ├─ 📄 Hannover Messe 2023 Aws
+│  │  ├─ 📄 Hannover Messe 2023 Evening Reception
+│  │  ├─ 📄 Hannover Messe 2023 Evening Reception 2
+│  │  └─ 📄 Hannover Messe 2023 Microsoft
+
+│  ├─ 📄 Hannover Messe 2025
+
+│  ├─ 📂 Imts 2022
+│  │  └─ 📄 Imts Resources
+
+│  ├─ 📄 Office Hours
+
+│  ├─ 📂 Operations Calling 2025
+│  │  ├─ 📄 Aerospace Defense
+│  │  ├─ 📄 Medical Device Manufacturing
+│  │  └─ 📄 Pharmaceutical Biotech
+
+│  ├─ 📄 Operations Calling On Demand
+
+│  ├─ 📄 Tulip At Dmc2025
+
+│  ├─ 📂 Tulip At Hannover Messe 2024
+│  │  └─ 📄 Word Clock Instructions
+
+│  ├─ 📂 Tulip Dmg Mori Open House Pvt
+│  │  └─ 📄 Thank You
+
+│  └─ 📄 Tulip Showcase 2022
+
+
+├─ 📁 Exclusive Tulip Event Red Sox Game
+
+│  └─ 📄 Exclusive Tulip Event Red Sox Game
+
+
+├─ 📁 Exclusive Tulip Event Thailand Bangkok
+
+│  └─ 📄 Exclusive Tulip Event Thailand Bangkok
+
+
+├─ 📁 Explore Tulip
+
+│  └─ 📄 Explore Tulip
+
+
+├─ 📁 Frontline Operations
+
+│  └─ 📄 Frontline Operations
+
+
+├─ 📁 Gartners Magic Quadrant For Mes
+
+│  └─ 📄 Gartners Magic Quadrant For Mes
+
+
+├─ 📁 General Manufacturing
+
+│  └─ 📄 General Manufacturing
+
+
+├─ 📁 Glossary
+
+│  ├─ 📄 Glossary
+
+│  ├─ 📄 Connected Factory
+
+│  ├─ 📄 Five Whys
+
+│  ├─ 📄 Just In Time
+
+│  ├─ 📄 Pdca Cycle
+
+│  ├─ 📄 Quality By Design
+
+│  ├─ 📄 Total Productive Maintenance Tpm
+
+│  ├─ 📄 Total Quality Management
+
+│  ├─ 📄 Value Stream Mapping
+
+│  ├─ 📄 What Is A Smart Factory And What It Means For You
+
+│  ├─ 📄 What Is An Application Ecosystem
+
+│  ├─ 📄 What Is Line Balancing How To Achieve It
+
+│  ├─ 📄 What Is Quality 4 0
+
+│  └─ 📄 What Is Standardized Work And How To Apply It
+
+
+├─ 📁 Groundbreakers
+
+│  ├─ 📄 Groundbreakers
+
+│  ├─ 📄 Golden Shovel Spotlight Albert Winsman Cellares
+
+│  ├─ 📄 Golden Shovel Spotlight Darren Oneil Schenck
+
+│  ├─ 📄 Golden Shovel Spotlight John Boyle Pratt Miller Eng
+
+│  ├─ 📄 Golden Shovel Spotlight Mario Ríos Smith Nephew
+
+│  ├─ 📄 Golden Shovel Spotlight Zach Kreiley Sbd
+
+│  ├─ 📄 Golden Spade Spotlight Russel Bradley Mit
+
+│  ├─ 📄 Greenhouse Spotlight Astrazeneca Dco
+
+│  ├─ 📄 Greenhouse Spotlight Avon
+
+│  ├─ 📄 Greenhouse Spotlight Bd
+
+│  └─ 📄 Greenhouse Spotlight Innovafeed
+
+
+├─ 📁 How It Works
+
+│  └─ 📄 How It Works
+
+
+├─ 📁 Inventory
+
+│  └─ 📄 Inventory
+
+
+├─ 📁 Legal
+
+│  ├─ 📄 Legal
+
+│  ├─ 📄 Acceptable Use Policy
+
+│  ├─ 📄 Api License Agreement
+
+│  ├─ 📄 Api Policy
+
+│  ├─ 📄 Developer Policy
+
+│  ├─ 📄 Partner Terms And Conditions
+
+│  ├─ 📄 Privacy Policy
+
+│  ├─ 📄 Shipping Returns
+
+│  ├─ 📄 Subprocessors
+
+│  ├─ 📄 Support Policy
+
+│  ├─ 📂 Terms Of Service
+│  │  ├─ 📄 Frontline Copilot
+│  │  ├─ 📄 Hardware Products
+│  │  └─ 📄 Professional Services
+
+│  ├─ 📄 Tulip Ai Terms
+
+│  └─ 📄 Website Terms Of Use
+
+
+├─ 📁 Library
+
+│  └─ 📄 Library
+
+
+├─ 📁 Library Search
+
+│  └─ 📄 Library Search
+
+
+├─ 📁 Life Sciences
+
+│  └─ 📄 Life Sciences
+
+
+├─ 📁 Login
+
+│  └─ 📄 Login
+
+
+├─ 📁 Lp
+
+│  └─ 📄 Industrial Manufacturing Software
+
+
+├─ 📁 Nan
+
+│  └─ 📄 Nan
+
+
+├─ 📁 Newsletter
+
+│  ├─ 📂 Subscribe
+│  │  └─ 📄 Thank You
+
+│  ├─ 📄 Whats New April 2023
+
+│  ├─ 📄 Whats New April 2024
+
+│  ├─ 📄 Whats New August 2022
+
+│  ├─ 📄 Whats New August 2023
+
+│  ├─ 📄 Whats New August 2023 Lifesciences
+
+│  ├─ 📄 Whats New August 2024
+
+│  ├─ 📄 Whats New December 2022
+
+│  ├─ 📄 Whats New December 2023
+
+│  ├─ 📄 Whats New February 2023
+
+│  ├─ 📄 Whats New February 2024
+
+│  ├─ 📄 Whats New January 2023
+
+│  ├─ 📄 Whats New July 2022
+
+│  ├─ 📄 Whats New July 2023
+
+│  ├─ 📄 Whats New July 2024
+
+│  ├─ 📄 Whats New June 2023
+
+│  ├─ 📄 Whats New June 2024
+
+│  ├─ 📄 Whats New March 2023
+
+│  ├─ 📄 Whats New March 2023 Ls
+
+│  ├─ 📄 Whats New March 2024
+
+│  ├─ 📄 Whats New May
+
+│  ├─ 📄 Whats New May 2023
+
+│  ├─ 📄 Whats New November 2022
+
+│  ├─ 📄 Whats New November 2023
+
+│  ├─ 📄 Whats New November 2023 2
+
+│  ├─ 📄 Whats New October 2022
+
+│  ├─ 📄 Whats New October 2022 2
+
+│  ├─ 📄 Whats New October 2023
+
+│  ├─ 📄 Whats New September 2022
+
+│  ├─ 📄 Whats New September 2023
+
+│  ├─ 📄 Whats New September 2024
+
+│  └─ 📄 Whats New September 2024 Ls
+
+
+├─ 📁 Newsletter Sign Up
+
+│  └─ 📄 Newsletter Sign Up
+
+
+├─ 📁 Plans
+
+│  └─ 📄 Plans
+
+
+├─ 📁 Platform
+
+│  ├─ 📄 Platform
+
+│  ├─ 📄 App Editor
+
+│  ├─ 📄 Automations
+
+│  ├─ 📄 Common Data Model
+
+│  ├─ 📄 Connectors Integrations
+
+│  ├─ 📄 Edge Connectivity
+
+│  ├─ 📄 Governance And Change Management
+
+│  ├─ 📄 Gxp
+
+│  ├─ 📄 Integrations Connectors
+
+│  ├─ 📄 Machine Kit
+
+│  ├─ 📄 Plugins
+
+│  ├─ 📄 Security Compliance Governance
+
+│  ├─ 📄 Tulip Ai
+
+│  ├─ 📄 Tulip Player
+
+│  ├─ 📄 Validation With Tulip
+
+│  ├─ 📂 Vision
+│  │  └─ 📄 Demo
+
+│  └─ 📄 Workspaces
+
+
+├─ 📁 Pop Up Factory
+
+│  └─ 📄 Pop Up Factory
+
+
+├─ 📁 Production Management
+
+│  └─ 📄 Production Management
+
+
+├─ 📁 Quality
+
+│  ├─ 📄 Quality
+
+│  ├─ 📄 Inline Quality Inspection
+
+│  ├─ 📄 Non Conformance Management
+
+│  └─ 📄 Visual Quality Inspection
+
+
+├─ 📁 Roles
+
+│  ├─ 📄 Roles
+
+│  ├─ 📄 Business Leaders
+
+│  ├─ 📄 Engineers
+
+│  ├─ 📄 Innovation Leaders
+
+│  ├─ 📄 It Leaders
+
+│  └─ 📄 Operations Leaders
+
+
+├─ 📁 Services
+
+│  └─ 📄 Services
+
+
+├─ 📁 Team
+
+│  ├─ 📄 Team
+
+│  ├─ 📄 Engineering Team
+
+│  ├─ 📄 It Team
+
+│  ├─ 📄 Operations Team
+
+│  └─ 📄 Quality Team
+
+
+├─ 📁 Tec Virtual Tour
+
+│  └─ 📄 Tec Virtual Tour
+
+
+├─ 📁 Thank You
+
+│  └─ 📄 Thank You
+
+
+├─ 📁 Traceability And Compliance
+
+│  ├─ 📄 Traceability And Compliance
+
+│  ├─ 📄 Genealogy
+
+│  └─ 📄 Weigh And Dispense
+
+
+├─ 📁 Trial
+
+│  └─ 📄 Trial
+
+
+├─ 📁 Trust Center
+
+│  ├─ 📄 Trust Center
+
+│  ├─ 📄 Availability
+
+│  ├─ 📂 Compliance
+│  │  └─ 📄 Fedramp Rob
+
+│  └─ 📄 Security
+
+
+├─ 📁 Tulip Experience Center
+
+│  └─ 📄 Tulip Experience Center
+
+
+├─ 📁 Tulip Gaming
+
+│  └─ 📄 Tulip Gaming
+
+
+├─ 📁 University
+
+│  └─ 📄 University
+
+
+├─ 📁 Use Case
+
+│  ├─ 📄 Use Case
+
+│  ├─ 📄 Audit
+
+│  ├─ 📄 Lean Manufacturing
+
+│  ├─ 📄 Machine Monitoring
+
+│  └─ 📄 Order Material Tracking
+
+
+├─ 📁 What Our Life Sciences Customers Are Saying
+
+│  └─ 📄 What Our Life Sciences Customers Are Saying
+
+
+└─ 📁 Whats New
+
+   └─ 📄 Whats New
+

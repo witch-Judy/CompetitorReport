@@ -1,0 +1,85 @@
+﻿company,company_key,url,h1_text,h1_length,word_count
+GE,ge,https://www.ge.com/,"GE - Once, Now, Forever",23,5
+GE,ge,https://www.ge.com/about-us,Empowering the next generation,30,4
+GE,ge,https://www.ge.com/faq,Frequently asked questions and answers,38,5
+GE,ge,https://www.ge.com/investor-relations,Going forward as three public companies,39,6
+GE,ge,https://www.ge.com/investor-relations/shareholder-services,GE Shareholder Services,23,3
+GE,ge,https://www.ge.com/investor-relations/ir-contact,Contact investor relations,26,3
+GE,ge,https://www.ge.com/history-ge,Highlights throughout the history of GE,39,6
+GE,ge,https://www.ge.com/history-ge-aerospace,Learn more about GE Aerospace at,32,6
+GE,ge,https://www.ge.com/history-ge-healthcare,Learn more about GE HealthCare at,33,6
+GE,ge,https://www.ge.com/history-ge-vernova,Learn more about GE Vernova at,30,6
+GE,ge,https://www.ge.com/terms,Terms,5,1
+GE,ge,https://www.ge.com/privacy,Privacy Policy,14,2
+GE,ge,https://www.ge.com/sitemap,Site Map,8,2
+GE,ge,https://www.ge.com/contact,Directory,9,1
+GE,ge,https://www.ge.com/contact,Key Contacts,12,2
+GE,ge,https://www.ge.com/security,"At GE, security and compliance are top priorities.",50,8
+GE,ge,https://www.ge.com/investor-relations/events-archive,GE Events Archive,17,3
+GE,ge,https://www.ge.com/investor-relations/statement-regarding-transaction,Statement Regarding Transaction,31,3
+GE,ge,https://www.ge.com/pay-transparency,Pay Transparency,16,2
+GE,ge,https://www.ge.com/accessibility,Accessibility,13,1
+GE,ge,https://www.ge.com/privacy/california-notice,Notice to California Residents,30,4
+GE,ge,https://www.ge.com/investor-relations/important-forward-looking-statement-information,GE Forward-Looking Statements,29,3
+GE,ge,https://www.ge.com/news/,Home,4,1
+GE,ge,https://www.ge.com/news/press-releases/ge-aerospace-launches-as-independent-investment-grade-public-company-following,"GE Aerospace Launches as Independent, Investment-Grade Public Company Following Completion of GE Vernova Spin-Off",113,14
+GE,ge,https://www.ge.com/news/press-releases/ge-announces-filing-of-form-10-registration-statement-for-planned-spin-off-of-ge-vernova,GE announces filing of Form 10 registration statement for planned spin-off of GE Vernova,88,14
+GE,ge,https://www.ge.com/news/reports/a-world-of-good-six-ge-innovations-that-are-about-to-change-everything,A World of Good: Six GE Innovations That Are About to Change Everything,71,13
+GE,ge,https://www.ge.com/news/reports/to-make-the-important-interesting-a-look-back-at-a-century-of-advertising-at-ge,To Make the Important Interesting: A Look Back at a Century of Advertising at GE,80,15
+GE,ge,https://www.geaerospace.com/,Advancing flight for future generations,39,5
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/cfm56,CFM56Engine family,18,2
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/ct7,CT7Engine family,16,2
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/genx,GEnxEngine,10,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/lm2500-plus-g4,LM2500+G4Engine,15,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/lm6000,LM6000Engine,12,1
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice,TrueChoice Commercial Services,30,3
+GE,ge,https://www.geaerospace.com/company/careers,See your careertake flight,26,4
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/digital-solutions,Digital Solutions for TrueChoice™,33,4
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/cfm-leap,CFM LEAPEngine family,21,3
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/hf120,HF120Turbofan,13,1
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/cf34,CF34Engine Family,17,2
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/transitions,TrueChoiceTransitions,21,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/lm500,LM500Engine,11,1
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/cf6,CF6Engine family,16,2
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/ge90,GE90Engine,10,1
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/passport,PassportTurbofan,16,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/lm2500,LM2500Gas Turbine Engine,24,3
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/catalyst,Catalyst engine,15,2
+GE,ge,https://www.geaerospace.com/commercial/services/onpoint,OnPointServices,15,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/t700,T700Turboshaft engine,21,2
+GE,ge,https://www.geaerospace.com/military-defense/services/marine,Marine Services,15,2
+GE,ge,https://www.geaerospace.com/commercial/services/on-wing-support,On Wing Support,15,3
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/flight-hour,TrueChoice™Flight Hour,22,2
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/overhaul,TrueChoice™ Overhaul,20,2
+GE,ge,https://www.geaerospace.com/military-defense/engines/f110,F110Engine,10,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/f414,F414Engine,10,1
+GE,ge,https://www.geaerospace.com/military-defense/engines/t408,T408Turboshaft engine,21,2
+GE,ge,https://www.geaerospace.com/commercial/services/engine-maintenance-technologies/360-foam-wash,360 Foam Wash,13,3
+GE,ge,https://www.geaerospace.com/systems,Systems Hub,11,2
+GE,ge,https://www.geaerospace.com/commercial/services,ServicesAviation Maintenance,28,2
+GE,ge,https://www.geaerospace.com/company/businesses/colibrium-additive,Powered by partnership with GE AerospaceFor the ready,53,8
+GE,ge,https://www.geaerospace.com/sustainability,Sustainability in Aviation,26,3
+GE,ge,https://www.geaerospace.com/commercial/services/TRUEngine,TRUEngineTechnical Program,26,2
+GE,ge,https://www.geaerospace.com/commercial/aircraft-engines/h-series,H-SeriesTurboprop engine family,31,3
+GE,ge,https://www.geaerospace.com/contact,Contact us,10,2
+GE,ge,https://www.geaerospace.com/military-defense/engines/f404,F404Engine,10,1
+GE,ge,https://www.geaerospace.com/industry-survey,2023Industry Survey,19,2
+GE,ge,https://www.geaerospace.com/sustainability/strategy/collaborations,IndustryCollaboration,21,1
+GE,ge,https://www.geaerospace.com/sustainability/innovation/landmark-technologies,Landmarktechnologies,20,1
+GE,ge,https://www.geaerospace.com/company/about-us/history,Aerospacehistory,16,1
+GE,ge,https://www.geaerospace.com/company/businesses/avio-aero,Avio Aero,9,2
+GE,ge,https://www.geaerospace.com/company/businesses/dowty-propellers,DowtyPropellers,15,1
+GE,ge,https://www.geaerospace.com/systems/electrification,Electrification,15,1
+GE,ge,https://www.geaerospace.com/customer-support,Customer support,16,2
+GE,ge,https://www.geaerospace.com/sustainability/strategy/operations,OptimizingOperations,20,1
+GE,ge,https://www.geaerospace.com/sustainability/innovation/alternative-fuels,Alternative fuelsSustainable Aviation Fuel (SAF) and more,57,7
+GE,ge,https://www.geaerospace.com/commercial/services/test-services,Testservices,12,1
+GE,ge,https://www.geaerospace.com/customer-support/technical-publications-cmm-index,Technical PublicationsCMM Index,31,3
+GE,ge,https://www.geaerospace.com/casl,GE Aerospace -Canada’s Anti-Spam LegislationUnsubscribe Request,63,6
+GE,ge,https://www.geaerospace.com/commercial/services/360-foam-wash/contact,Foam Wash Contact form,22,4
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/contact,Request More Information,24,3
+GE,ge,https://www.geaerospace.com/commercial/services/test-services/connect-with-expert,Connect With an Expert,22,4
+GE,ge,https://www.geaerospace.com/commercial/services/true-choice/request-form,Request More Information,24,3
+GE,ge,https://www.geaerospace.com/security/report-cybersecurity,Report Cybersecurity Issue,26,3
+GE,ge,https://www.geaerospace.com/customer-support/technical-manuals-indexes,Technical Manual Index,22,3
+GE,ge,https://www.geaerospace.com/commercial/services/business-aviation/customer-details-form,Customer Details Form,21,3

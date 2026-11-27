@@ -1,0 +1,84 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 193459
+
+Domains: www.yokogawa.com
+
+Languages:
+  us: 6101
+  br: 5679
+  sa-es: 5653
+  fr: 5460
+  eu: 5457
+  es: 5447
+  nl: 5446
+  be-fr: 5368
+  mx: 5336
+  ca: 5335
+  be-nl: 5306
+  de: 5230
+  it: 5209
+  cz: 5195
+  tr: 5195
+  uk: 5186
+  sg: 5125
+  pl: 5124
+  ph: 5112
+  sk: 5109
+  no: 5105
+  at: 5067
+  id: 5061
+  cis: 5037
+  : 5035
+  th: 5028
+  my: 5015
+  au: 5002
+  vn: 4997
+  cn: 4966
+  bh: 4826
+  in: 4818
+  za: 4715
+  kr: 4673
+  tw: 4579
+  ro: 3850
+  hu: 3849
+  ch: 3688
+  news: 885
+  about: 189
+  terms: 1
+
+Sections:
+  library: 122340
+  solutions: 41012
+  news: 19048
+  about: 2862
+  resources: 2797
+  industries: 1776
+  discontinued: 649
+  documents-downloads: 596
+  press-releases: 547
+  products-and-services: 441
+  support: 230
+  events: 195
+  videos: 164
+  briefs: 122
+  research-development: 90
+  ir: 63
+  featured-topics: 63
+  : 50
+  contact: 37
+  privacy-notice: 37
+
+Content Types:
+  resource: 95125
+  other: 72631
+  product: 21704
+  industry: 2891
+  company: 689
+  webinar: 416
+  home: 2
+  legal: 1
+
+Years:

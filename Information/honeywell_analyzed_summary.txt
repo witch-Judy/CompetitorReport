@@ -1,0 +1,30 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 2195
+
+Domains: www.honeywell.com
+
+Languages:
+  us: 2195
+
+Sections:
+  en: 2195
+
+Content Types:
+  other: 1970
+  product: 75
+  company: 73
+  industry: 54
+  blog: 9
+  webinar: 7
+  resource: 4
+  legal: 2
+  customer_story: 1
+
+Years:
+  2025: 852
+  2024: 1162
+  2023: 162
+  2022: 19

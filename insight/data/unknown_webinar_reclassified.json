@@ -1,0 +1,1262 @@
+[
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Cybersecurity 20230316"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Webinar13 Artificial Intelligence"
+  },
+  {
+    "type": "technical",
+    "confidence": "medium",
+    "reason": "包含技术类关键词(2个)",
+    "title": "Webinar7 Virtuell Vorausgedacht Digitaler Zwilling"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Digitales Service"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Whats New In Factory Automation"
+  },
+  {
+    "type": "technical",
+    "confidence": "medium",
+    "reason": "包含技术类关键词(1个)",
+    "title": "Webinar Cybersecurity For Critical Infrastructures"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(3个)",
+    "title": "Webinar Cybersecurity Nis2"
+  },
+  {
+    "type": "technical",
+    "confidence": "medium",
+    "reason": "包含技术类关键词(4个)",
+    "title": "Webinar Reglementation Epbd Automatisation Intelligent Batiment"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Save Time With Standardization"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(3个)",
+    "title": "4 Gratis Webinars Over Industrial Network Security Maak Uw Industrieel Netwerk Klaar Voor De Digitale Toekomst"
+  },
+  {
+    "type": "technical",
+    "confidence": "medium",
+    "reason": "包含技术类关键词(1个)",
+    "title": "Webinar Cybersecurity For Critical Infrastructures"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(3个)",
+    "title": "Webinar Cybersecurity Nis2"
+  },
+  {
+    "type": "technical",
+    "confidence": "medium",
+    "reason": "包含技术类关键词(3个)",
+    "title": "Webinar Epbd Regelgeving Slimme Gebouwautomatisering"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Save Time With Standardization"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(3个)",
+    "title": "Webinar Integracao Com O Inversor E Controlador Da Siemens"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Pharma Rtls"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(3个)",
+    "title": "Webinar Solucao De Automacao Parte2"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Security Endpoint Protection Ihre Anlagen In Sicheren Handen"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Smart Power Management"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar1"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Artificial Intelligence Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Formulario De Inscripcion Webinars 2024 Siemens Di Si "
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Redefina La Eficiencia Con Modelo Renovable En Psee"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Aplikacni Regulatory"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Cidla"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Comfy"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Dra"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Horaky"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(2个)",
+    "title": "Webinar Hydraulika"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Klapkove Pohony"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Knx Gamma"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Merice Tepla"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Overeni Bezpecnosti"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Picv"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Regulatory Rdg2Kn"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Simaris Pokracovani 2"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Simaris"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Softstartery"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Dcp Dcc"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Inteligentni Ventil"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Rdg2"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Rele 3Sk2"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Rozhrani Iolink"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Simaris Pripojnice"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Simaris Therm"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Ventily Picv"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Mereni Tepla"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Monitorovani Elektricke Energie"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Cybersecurity"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Elektronika"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Konsolidace Mobilnich Dat V Provozu Zavodu"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Kyberneticka Bezpecnost 2"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Serie Webinaru Pro Elektroprojektanty"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Building X"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Atex"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Chemie"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Comos Ddms"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Comos"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Digitalni Dvojce"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Openness"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Partneri"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Prumyslove Komunikace A Identifikace"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Simit"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Nis2 Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Energiewende In Der Logistik"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Erhoehte Anlagenverfuegbarkeit Durch Zustandsueberwachung"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Inbetriebnahme Einfach Gemacht Mit Powerconfig"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Vorsorge Cockpit"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Brandschutzplanung Im Krankenhaus"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Cybersicherheit In Gebauden 1"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Kritis"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarladetechnikelektrobusse"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarleistungsschalteranlagen"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Batterie"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Kurzschlussfestigkeit"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Multitasking Fraesen Drehen"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Packtalks Series"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Produktpalette Sinorix Al Deco"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Reihe Innovative Konzepte"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Safety Integrated"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Schaltschrank Wbn "
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Siriusschluesselschalter"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Vorgefertigte Stromversorgungen Rechenzentren"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Julewebinar 2021"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Julewebinar 2022"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Julewebinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Siemens Julewebinar 2024"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Siemens Julewebinar 2025"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Siemens Julewebinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Tilmeld Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Nis2 Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Artificial Intelligence Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Ai Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Edge Computing Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Instrumentation Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Motion Control Highlights"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Seri"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Artificial Intelligence Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Efficacite Energetique Distribution Electricite"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Replay Webinar Datacenter"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Hybrid Workplace Smart Office Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Psse Cloud Webinar Gswsummit"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Battery"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Electronics Highly Automated Fmcs"
+  },
+  {
+    "type": "product",
+    "confidence": "medium",
+    "reason": "包含产品类关键词(1个)",
+    "title": "Webinar Electronics Standardization"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Evolution Automation Data Center Cooling"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Packtalks Series"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Webinar Power Quality Management For Data Centers"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Safety Integrated"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Sigreen For Suppliers"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Strengthening Cyber Defenses"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Transforming Buildings Into Smart Cyber Secure Assets Pxc7"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Nis2 Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Comos Mobile Worker Webinar For Partners"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Real Time Optimisation Monitoring And Control Of Lng Facilities Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Siemens Rexel Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Siemens Rexel Webinar French"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Mastering Bess Fire Safety"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Dlr Webinar Us"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Dlr Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Accelerate Planning Performance With Psse Cloud Offering"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Plan Your Grid Expansion With Psssincal"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Commissioning Made Easy With Powerconfig"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "8Djh Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarcerberusfit"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Data Security Regional Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Ipc Webinar Sorozat"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinarium Szimulacios Szoftver A Villamos Halozatok Optimalizalasahoz"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Fire Alarm Protection For Building Safety Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Public Address Voice Alarm Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Webinar Buildings Security And Safety"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Smart Building Technology For Healthcare Facilities"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 1"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 2"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 3"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 1"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 2"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar 3"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Brewer World Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Feedback"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Si"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Artificial Intelligence Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Sps 2025 Highlight Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(2个)",
+    "title": "Webinar Cybersecurity"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Integracion Energias Renovables Webinar Pss Sincal"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Data Center "
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Reyrolle Portfolio"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Raport I Webinar Nt Branzy Food And Beverage"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Targi Szkolenia Webinary"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Chemia"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Webinar Industrial Edge Na Przykadzie Node Red "
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Jak Wykorzysta Ai W Przemyle"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Mezoinwestycje"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Automatyzacja Linii Produkcyjnej W Przemysle Ciezkim Webinar Partner"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Automatyzacja W Automatyce Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Cykl 3 Webinarow Dla Branzy Chemicznej"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Cykl 3 Webinarow Dla Branzy Spozywczej"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Cykl Webinarow Apc"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarow Apc"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Dobor Konfiguracja I Testowanie Ukladu Zabezpieczen Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Integracja Aplikacji Powiadomien Sms E Mail Webinar Partner"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Optymalizacja Procesu Biologicznego Oczyszczania Sciekow Webinar Partner"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Poprawa Jakosci Produktu Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Rozporzadzenie Parlamentu Europejskiego I Rady Ue 2024 Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Daniel Malz"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Jak Uzyskac Finansowanie"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Dodaj Sobie Energii Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinary"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Di Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Pregled Webinara"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Si Mesec Webinara"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Siemens Smart Infrastructure Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinari Siemens Digital Industries Januar Mart 2021"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Knx Gamma Webinar Sk"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Frekvencne Menice Hvac Sk"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarlarimiz"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Akilli Cozumler Ile Enerji Verimliligi Webinari"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinarlar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Run My Virtual Machine Kullanimi Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Siemens Akll Cozumleri Ile Enerji Verimliligi Ve Dijitallesmenin Gucu Webinar"
+  },
+  {
+    "type": "education",
+    "confidence": "medium",
+    "reason": "包含教育类关键词(1个)",
+    "title": "Bms And Fire Detection Webinar Series"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "包含编号，可能是产品系列",
+    "title": "Distribution Partner Webinar 5 February 2025"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Distribution Partner Webinar Oct 2025"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Virtual Space Ug Webinar Uk And Ireland"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Green Radiology Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Registration"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Short Circuit Calculation"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Tips Icp North America"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Registration"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Integrating Third Party Devices Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Pcs 7 Webinar July 2025"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Process Automation Webinar Presenters"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "H2 Technology Stack Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Plug And Play Flexibility Webinar"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Critical Environments Webinar Replay"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Form Webinar G120X Intro"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Form Webinar Overcurrent Protection Sccr"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Webinar Digital Substation 11 2025"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Pdm Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Senseye Drivetrain Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Senseye Sensors Webinar"
+  },
+  {
+    "type": "product",
+    "confidence": "low",
+    "reason": "标题简短，可能是产品名称",
+    "title": "Webinar Wannacry"
+  },
+  {
+    "type": "unknown",
+    "confidence": "low",
+    "reason": "无法通过规则匹配",
+    "title": "Digital Industries Kicked Off Customer Webinars"
+  }
+]

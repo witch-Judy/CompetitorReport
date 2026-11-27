@@ -1,0 +1,45 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 166963
+
+Domains: www.rockwellautomation.com
+
+Languages:
+  en-us: 166962
+  : 1
+
+Sections:
+  docs: 118680
+  products: 43694
+  company: 3239
+  support: 503
+  trust-center: 306
+  capabilities: 202
+  industries: 145
+  events: 130
+  tools: 16
+  careers: 11
+  sales: 5
+  sustainability: 5
+  solutions: 4
+  campaigns: 2
+  inventory: 2
+  : 1
+  capabilities.html: 1
+  careers.html: 1
+  company.html: 1
+  estimation-tool.html: 1
+
+Content Types:
+  other: 117709
+  product: 45263
+  company: 2377
+  blog: 873
+  resource: 357
+  industry: 135
+  legal: 132
+  webinar: 117
+
+Years:

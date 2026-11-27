@@ -1,0 +1,460 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='utf-8'>
+<title>HubSpot Alignment Requirements (EN)</title>
+<style>
+body { font-family: Arial, Helvetica, sans-serif; line-height: 1.5; padding: 24px; }
+code, pre { font-family: Menlo, Monaco, Consolas, monospace; }
+pre { white-space: pre-wrap; }
+table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+th, td { border: 1px solid #ddd; padding: 8px; vertical-align: top; }
+th { background: #f5f5f5; }
+</style>
+</head>
+<body>
+<h1>HubSpot Alignment Requirements (Marketing Hub + Content Hub)</h1>
+<h2>Goals and Scope</h2>
+<p>This document aligns the team on HubSpot implementation scope and functional requirements. HubSpot is confirmed as the core data integration platform. The focus covers Marketing Hub and Content Hub capabilities, ensuring 6 Core Seats can support key business scenarios.</p>
+<h2>Assumptions</h2>
+<ul>
+<li>Account plan: 6 Core Seats.</li>
+<li>Scope: Marketing Hub + Content Hub (including HubSpot Breeze AI).</li>
+<li>Data integration: HubSpot is the primary data integration entry point.</li>
+</ul>
+<h2>Functional Requirements (Must be Native)</h2>
+<h3>1. Advanced Email Automation &amp; Workflows</h3>
+<p>To support events and campaigns, requirements include:
+- Behavior-Based Triggers: Automated emails triggered by specific website actions, form submissions, or event registrations.
+- Drip Campaigns &amp; Nurture Sequences: Multi-step email journeys designed to move leads through the funnel (Lead → MQL → SQL) without manual intervention.
+- Personalization &amp; Tokens: Using customer data to tailor email content dynamically for higher engagement. (Eg: Focus in Industry or job title)
+- Automated Internal Notifications: Alerting the team the moment a lead hits a specific "SQL" threshold.</p>
+<h3>2. Social Media Management &amp; Tracking</h3>
+<p>We need to centralize our social strategy within HubSpot. This must include:
+- Multi-channel Publishing &amp; Monitoring: Management of our LinkedIn and YouTube accounts.
+- Social Attribution: The ability to track how social media interactions (clicks and engagements) contribute to lead generation and closed-won revenue.</p>
+<h3>3. Full-Funnel Tracking &amp; ROI</h3>
+<p>We require a dashboard that moves beyond surface-level metrics to show true Marketing ROI:
+- Funnel Velocity: Reporting on the time it takes for a lead to progress to MQL and SQL.
+- Closed-Loop Reporting: Linking specific event spends and digital campaigns to generated revenue.
+- Website Analytics: Integrating site performance data directly into our ROI reports.
+- Derived Metrics: Dashboards must support secondary/derived calculations based on raw metrics (e.g., CVR, LTV/CAC, funnel velocity).</p>
+<h3>4. HubSpot Breeze &amp; Content Hub</h3>
+<p>Using Breeze AI for content "remixing" and lead intelligence (Need check if there is any additional cost):
+- Breeze Content Remix: Rewrite, expand, and repurpose existing content for multi-channel outputs.
+- Breeze Lead Intelligence: Assist lead scoring and identify high-intent contacts.
+- Cost Confirmation: Verify if Breeze AI requires additional fees or add-on packages.</p>
+<h3>5. Content Hub / CMS</h3>
+<p>Ensure content production, website hosting, and form conversion are closed-loop:
+- Content Management: Pages/blogs/landing pages with version control.
+- Forms &amp; Conversion: Form fields, progressive profiling, hidden fields for source capture.
+- A/B Testing: Page or email experiments with statistical results.
+- SEO &amp; Content Optimization: SEO keywords, metadata, readability, and structure guidance.
+- Multi-language &amp; Localization: Regional content management and publishing workflows.</p>
+<h3>6. Lifecycle &amp; CRM Alignment</h3>
+<p>Ensure sales collaboration and lifecycle execution:
+- Lifecycle Stages: Lead / MQL / SQL / Opportunity / Customer with standard definitions and change rules.
+- Lead Scoring: Behavioral + firmographic scoring with workflow/segment integration.
+- Segmentation &amp; Lists: Dynamic/static lists and segmentation rules.
+- SLA &amp; Follow-up: MQL → SQL follow-up timing with escalation alerts.</p>
+<h3>7. Paid Media / Ads Integration</h3>
+<p>Ad data must be tied to conversion and revenue:
+- Ad Platform Connections: Connect major ad platforms and sync spend + conversions.
+- Ad Attribution: Channel-level ROI attribution for paid media.
+- Audience Sync: Push HubSpot segments to ad audiences.</p>
+<h3>8. Events &amp; Campaigns</h3>
+<p>Support online/offline event data capture:
+- Registration &amp; Attendance: Integrate event platforms/forms and record status.
+- Event Attribution: Attribute MQL/SQL and revenue impact to events.
+- Offline Business Card Import: Batch import with field mapping.</p>
+<h3>9. Compliance &amp; Governance</h3>
+<p>Ensure data compliance and quality:
+- Consent Management: Privacy compliance, subscription preferences, opt-out, audit trails.
+- Data Quality: Duplicate detection, field validation, required rules.
+- Access Control: Role permissions, field-level visibility, approvals.</p>
+<h2>Implementation Support Needs (HubSpot / Oxygen)</h2>
+<ul>
+<li>Workflow Architecture: Build automation logic to prevent overlaps and conflicts.</li>
+<li>Lead Scoring &amp; Funnel Definition: Define triggers and thresholds for MQL → SQL.</li>
+<li>Attribution Modeling: Ensure dashboards correctly attribute ROI by channel (Email vs. Social vs. Organic).</li>
+</ul>
+<h2>Data Integration &amp; Source Tracking</h2>
+<p>HubSpot as the core integration platform must cover historical and future data sources:
+- Regional Customer Data: Integrate customer data from Angela (by region).
+- Historical Website Data: Integrate visitor/customer data from Jessie (legacy sites).
+- Future Data Sources: Support campaign/event business cards and offline sources.
+- Webflow Forms Integration: Sync Webflow site forms into HubSpot.
+- Source Tagging: Mark user sources (Organic / Ads / Referral).
+- Link Tracking: Support multiple links for traffic source tracking (short links or UTM).
+- Bitly Integration: Connect Bitly for short link generation and click tracking.</p>
+<h2>Data Dictionary &amp; Field Alignment</h2>
+<ul>
+<li>Field Mapping: Source fields → HubSpot fields (including required fields).</li>
+<li>Standardization Rules: Names, enums, date formats, country/region normalization.</li>
+<li>Deduplication &amp; Primary Keys: Unique IDs and deduping logic.</li>
+<li>Event &amp; Campaign Fields: Unified definitions for events, campaigns, offline cards.</li>
+<li>Attribution Fields: UTM / referrer / source / medium definitions and write rules.</li>
+</ul>
+<h2>Research Alignment Notes</h2>
+<ul>
+<li>Unified Event Model: Website behavior, forms, events, ad clicks should share a consistent event taxonomy.</li>
+<li>Cross-Channel Attribution: Email / Social / Ads / Organic must be comparable and attributable.</li>
+<li>Extensible Integration: New sites and campaigns should be low-cost to integrate.</li>
+<li>Data Traceability: Core metrics must be traceable to source events.</li>
+</ul>
+<h2>Funnel Stages &amp; Metrics Framework</h2>
+<p>Funnel stages: Awareness → Consideration → Lead Generation.</p>
+<h3>Channel Metrics (Merged Table)</h3>
+<p>Note: If metrics come from external platforms, they must sync into HubSpot or the data warehouse and align with source fields.</p>
+<table>
+<thead>
+<tr>
+<th>Channel</th>
+<th>Metric</th>
+<th>Funnel Stage</th>
+<th>Definition / Goal</th>
+<th>Why Important</th>
+<th>Recommended Frequency</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LinkedIn (Organic)</td>
+<td>Impressions</td>
+<td>Awareness</td>
+<td>Times posts were shown</td>
+<td>Raw visibility of organic content</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Organic)</td>
+<td>Engagement rate</td>
+<td>Consideration</td>
+<td>Likes/comments/shares rate</td>
+<td>Content quality and resonance</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Organic)</td>
+<td>Clicks (post→link)</td>
+<td>Consideration</td>
+<td>Post-to-link clicks</td>
+<td>Traffic driving ability</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Organic)</td>
+<td>Followers / Followers Growth</td>
+<td>Consideration</td>
+<td>Followers and growth</td>
+<td>Brand growth</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Organic)</td>
+<td>Shares</td>
+<td>Awareness/Consideration</td>
+<td>Share count</td>
+<td>Content amplification</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Paid)</td>
+<td>Impressions</td>
+<td>Awareness</td>
+<td>Ad impressions</td>
+<td>Paid reach</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Paid)</td>
+<td>CTR</td>
+<td>Consideration</td>
+<td>Click-through rate</td>
+<td>Creative effectiveness</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Paid)</td>
+<td>CPL</td>
+<td>Lead gen</td>
+<td>Cost per lead</td>
+<td>Acquisition efficiency</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Paid)</td>
+<td>Leads</td>
+<td>Lead gen</td>
+<td>Ad leads</td>
+<td>Lead output</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>LinkedIn (Paid)</td>
+<td>Ads spend (total)</td>
+<td>N/A</td>
+<td>Total spend</td>
+<td>Cost control</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Impressions</td>
+<td>Awareness</td>
+<td>Impressions</td>
+<td>Reach scale</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Video views</td>
+<td>Awareness/Consideration</td>
+<td>Views</td>
+<td>Content appeal</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Avg. video duration / Watch time</td>
+<td>Consideration</td>
+<td>Avg watch time</td>
+<td>Content depth</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Subscribers</td>
+<td>Consideration</td>
+<td>Subscribers</td>
+<td>Brand retention</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>YouTube</td>
+<td>Traffic to Website / CTA clicks</td>
+<td>Consideration</td>
+<td>Site traffic / CTA clicks</td>
+<td>Conversion precursor</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>EDM</td>
+<td>Deliverability rate</td>
+<td>Awareness</td>
+<td>Deliverability</td>
+<td>Baseline reachability</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>EDM</td>
+<td>Open rate</td>
+<td>Awareness/Consideration</td>
+<td>Open rate</td>
+<td>Subject/content pull</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>EDM</td>
+<td>CTR</td>
+<td>Consideration</td>
+<td>Click-through rate</td>
+<td>Traffic driving ability</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>EDM</td>
+<td>Subscribers</td>
+<td>Consideration</td>
+<td>Subscribers</td>
+<td>Owned audience growth</td>
+<td>Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>EDM</td>
+<td>Conversion rate (email → goal)</td>
+<td>Lead gen</td>
+<td>Email-to-goal conversion</td>
+<td>Lead output</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>Total impressions</td>
+<td>Awareness</td>
+<td>Impressions</td>
+<td>Reach</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>Total clicks</td>
+<td>Consideration</td>
+<td>Clicks</td>
+<td>Traffic</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>CTR</td>
+<td>Consideration</td>
+<td>Click-through rate</td>
+<td>Creative quality</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>CPA</td>
+<td>Lead gen</td>
+<td>Cost per acquisition</td>
+<td>Efficiency</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>Leads</td>
+<td>Lead gen</td>
+<td>Leads</td>
+<td>Output</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>Conversion rate</td>
+<td>Lead gen</td>
+<td>Conversion rate</td>
+<td>Effectiveness</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Google Ads</td>
+<td>Ads spend (total)</td>
+<td>N/A</td>
+<td>Total spend</td>
+<td>Cost control</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Users</td>
+<td>Awareness</td>
+<td>Unique visitors</td>
+<td>Traffic baseline</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Sessions</td>
+<td>Awareness/Consideration</td>
+<td>Sessions</td>
+<td>Traffic volume</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Engagement Rate</td>
+<td>Consideration</td>
+<td>Engagement rate</td>
+<td>Content stickiness</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Pageviews</td>
+<td>Consideration</td>
+<td>Pageviews</td>
+<td>Content consumption</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Avg. session duration</td>
+<td>Consideration</td>
+<td>Avg session duration</td>
+<td>Content quality</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Bounce rate</td>
+<td>Consideration</td>
+<td>Bounce rate</td>
+<td>Page relevance</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>Conversion / Key Events</td>
+<td>Lead gen</td>
+<td>Form submits, inquiry clicks</td>
+<td>Lead output</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Website (GA4)</td>
+<td>By-source metrics</td>
+<td>N/A</td>
+<td>Source breakdown</td>
+<td>Channel attribution</td>
+<td>Weekly/Monthly</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Events</td>
+<td>Registration (Google Form)</td>
+<td>Lead gen</td>
+<td>Event registrations</td>
+<td>Event lead flow</td>
+<td>Per event</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<h3>Tracking Implementation Requirements</h3>
+<ul>
+<li>Unified URL Generation: Need to check in with Angela, Jessie, and Judy about the URL links generation and attribution parameter strategy (short links/UTM).</li>
+<li>Source Layering: Define Channel / Source / Medium / Campaign naming and write rules.</li>
+<li>Metric Landing: Align the above metrics into HubSpot reports or data warehouse dashboards with support for derived metrics.</li>
+</ul>
+<h2>Open Items</h2>
+<ul>
+<li>Breeze AI pricing, tiers, and add-on costs.</li>
+<li>Content Hub module scope and permissions for 6 Core Seats.</li>
+</ul>
+</body>
+</html>

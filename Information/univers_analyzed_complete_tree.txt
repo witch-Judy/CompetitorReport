@@ -1,0 +1,612 @@
+====================================================================================================
+univers 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Product
+
+│  ├─ 📄 Enos
+
+│  ├─ 📄 Enos Ark
+
+│  ├─ 📄 Enos Charge
+
+│  ├─ 📄 Enos Cloud
+
+│  ├─ 📄 Enos Edge
+
+│  ├─ 📄 Enos Microgrid
+
+│  ├─ 📄 Enos Microgrid Overview
+
+│  ├─ 📄 Enos Ppc
+
+│  ├─ 📄 Enos Renewables
+
+│  ├─ 📄 Enos Scada
+
+│  ├─ 📄 Enos Storage
+
+│  ├─ 📄 Hems
+
+│  ├─ 📄 Solar Ai Analytics
+
+│  └─ 📄 Wind Ai Analytics
+
+
+├─ 📁 Industries
+
+│  ├─ 📄 Industries
+
+│  ├─ 📄 Energy Utilities
+
+│  ├─ 📄 Financial Institutions
+
+│  ├─ 📄 Manufacturing
+
+│  ├─ 📄 Ports Transport Logistics
+
+│  ├─ 📄 Public Services
+
+│  ├─ 📄 Real Estate
+
+│  └─ 📄 Retail Consumer Goods
+
+
+├─ 📁 Resources
+
+│  └─ 📄 Resources
+
+
+├─ 📁 Partners
+
+│  └─ 📄 Partners
+
+
+├─ 📁 About Us
+
+│  └─ 📄 About Us
+
+
+├─ 📁 Articles
+
+│  ├─ 📄 Age Old Systems Smart New Solutions How Ai Is Transforming Buildings
+
+│  ├─ 📄 Ais Positive Impact On Energy Three Ways Its Already Making A Difference
+
+│  ├─ 📄 Battery Storage Is Booming But Are You Losing Money Without Knowing It
+
+│  ├─ 📄 Grids In Crisis A Wake Up Call For Europe
+
+│  ├─ 📄 How Is Univers Positioning Itself Uniquely In The Decarbonization Journey
+
+│  ├─ 📄 How Nvia Accelerates Microgrids In Europe
+
+│  ├─ 📄 Less Is More The Power Of Focus In Sustainability Strategies
+
+│  ├─ 📄 Make Sure Digital Transformation Successful
+
+│  ├─ 📄 Meet The Intelligent Microgrid
+
+│  ├─ 📄 Net Zero Emissions A Matter Of Trust
+
+│  ├─ 📄 Powering A Sustainable Future With Harmony Energy And Enos Storage
+
+│  ├─ 📄 Solar Power Shines Brighter Still
+
+│  ├─ 📄 Spains New Climate Plan Why Choosing The Best Carbon Accounting Software Matters Now
+
+│  ├─ 📄 Unlocking Renewable Energy With Ai And Iot
+
+│  ├─ 📄 What To Expect From The Eu Omnibus Sustainability Package
+
+│  ├─ 📄 When Your Ai Powered Energy Optimization Doesnt Work Whos Liable
+
+│  └─ 📄 Why We Need An Ai For Energy
+
+
+├─ 📁 Author
+
+│  ├─ 📄 Andy Cakebreadarchetype Co
+
+│  ├─ 📄 Arun Poojari
+
+│  ├─ 📄 Chandi Rayunivers Com
+
+│  ├─ 📄 Ian Delaneyarchetype Co
+
+│  ├─ 📄 Jacqui Chen
+
+│  ├─ 📄 Maher Chebbo
+
+│  ├─ 📄 Michaelding
+
+│  ├─ 📄 Tapeesh
+
+│  ├─ 📄 Ynse
+
+│  └─ 📄 Zhao
+
+
+├─ 📁 Blog
+
+│  └─ 📄 Blog
+
+
+├─ 📁 Careers
+
+│  └─ 📄 Careers
+
+
+├─ 📁 Category
+
+│  ├─ 📄 Announcements
+
+│  ├─ 📄 Articles
+
+│  └─ 📄 Events
+
+
+├─ 📁 Contact Us
+
+│  └─ 📄 Contact Us
+
+
+├─ 📁 Cookie Policy
+
+│  └─ 📄 Cookie Policy
+
+
+├─ 📁 Customer Stories
+
+│  ├─ 📄 Customer Stories
+
+│  ├─ 📄 Aet Cuts Reliance On Grid Electricity With Microgrid
+
+│  ├─ 📄 Cable Deploys Cloud Analytics And Remote Monitoring To Stay Ahead Of The Competition
+
+│  ├─ 📄 Certis Boosts Productivity With Ai Hvac Optimization
+
+│  ├─ 📄 Citadines Bali Adopts Smart Iot Devices For Carbon Tracking
+
+│  ├─ 📄 Cote Brasserie Cuts Energy Use With Ai Powered Solution
+
+│  ├─ 📄 Harmony Energy Unifies Its Battery Storage Fleet With Enos Storage
+
+│  ├─ 📄 Indorama Drives Sustainability With Smart Factory Solutions
+
+│  ├─ 📄 Orix Digitizes Solar Farms Across Japan
+
+│  ├─ 📄 Psa Decarbonizes Operations With Smart Grid Solutions
+
+│  ├─ 📄 Smart Tech Powers Microsofts Green Future
+
+│  ├─ 📄 Univers Enables Indonesias Groundbreaking Solar Plus Bess Project
+
+│  ├─ 📄 Univers Powers Cambodias First Utility Scale Pvbess Hybrid Project With Advanced Ppc And Scada Solutions
+
+│  └─ 📄 Ych Slashes Energy Consumption With Carbon And Resource Management Software
+
+
+├─ 📁 Event
+
+│  ├─ 📄 Events Energy Storage Summit 2025
+
+│  ├─ 📄 One Univers Sg
+
+│  ├─ 📄 One Univers Singapore
+
+│  ├─ 📄 Smart Energy Week 2025
+
+│  └─ 📄 Smarter Ees Europe 2025
+
+
+├─ 📁 Events
+
+│  └─ 📄 Events
+
+
+├─ 📁 Form Submission Thank You Page
+
+│  └─ 📄 Form Submission Thank You Page
+
+
+├─ 📁 Industry Customer Story
+
+│  └─ 📄 Technology
+
+
+├─ 📁 Job Role
+
+│  ├─ 📄 Associate
+
+│  ├─ 📄 Director Vice President
+
+│  ├─ 📄 Entry Level
+
+│  ├─ 📄 Internship
+
+│  └─ 📄 Mid Senior Level
+
+
+├─ 📁 Login
+
+│  └─ 📄 Login
+
+
+├─ 📁 Nan
+
+│  └─ 📄 Nan
+
+
+├─ 📁 News
+
+│  ├─ 📄 News
+
+│  ├─ 📄 Akaysha Energy Chooses Univers Baze%Ef%Ac%81Eld For Asset Performance Management Of The Worlds Most Powerful Bess And Portfolio Of Bess
+
+│  ├─ 📄 Apex Clean Energy Rolls Out Bazefield Across 2Gw Of Renewable Assets
+
+│  ├─ 📄 Bloomberg New Economy Climate Technology Coalition Launched Today In Singapore
+
+│  ├─ 📄 Brewing Innovation Univers And Starbucks China Redefine Green Retail From Store To Supplier
+
+│  ├─ 📄 Bureau Veritas Creates A Net Zero Centre Of Excellence In Collaboration With Envision Digital Now Univers
+
+│  ├─ 📄 Climate Change And The Food Industry
+
+│  ├─ 📄 Dbs And Univers Partner To Scale Digital Solutions For Net Zero Across Asia
+
+│  ├─ 📄 Esg Leaders Recognized At 2022 Seal Business Sustainability Awards
+
+│  ├─ 📄 Global Ai For Energy Leader Univers To Launch Malaysias First Net Zero Centre Of Excellence
+
+│  ├─ 📄 How Does Advanced Analytics Help You Take Corrective Actions And Increase Yield
+
+│  ├─ 📄 Interview Market Oriented Approaches Key To Unlocking Healthy Growth In Renewables
+
+│  ├─ 📄 Jtc Appoints Univers And Pacificlight To Develop Singapores First District Level Smart Grid In Punggol Digital District
+
+│  ├─ 📄 Ptt Group And Envision Digital Now Univers Partner To Achieve Net Zero Via Decarbonization Platform
+
+│  ├─ 📄 Singapore Budget 2025 Meeting The Nations Growing Energy Needs
+
+│  ├─ 📄 Sita And Envision Digital Now Univers Partner On Solutions That Help Airports Cut Fuel And Power Costs While Advancing Their Net Zero Ambitions
+
+│  ├─ 📄 Smrts Intelligent Facilities Management Initiative Saves Energy At Stations With Envision Digital Now Univers
+
+│  ├─ 📄 The Environmental Impact Of Energy Consumption In Food Manufacturing
+
+│  ├─ 📄 The Impact Of Refrigeration On Global Warming
+
+│  ├─ 📄 Univers Amcharge Partner To Drive Ai Powered Industrial Optimisation Across Malaysia And Thailand
+
+│  ├─ 📄 Univers And Citi Collaborate To Announce A New Innovative Voluntary Carbon Credit Digital Solution
+
+│  ├─ 📄 Univers And Onamba Corporation Concludes A Business Alliance Agreement
+
+│  ├─ 📄 Univers And Sbs Transit Launch Sbst Energy And Operations Ai Platform
+
+│  ├─ 📄 Univers And Sp Group Partner To Pilot Singapores Virtual Power Plant Under Ema Regulatory Sandbox
+
+│  ├─ 📄 Univers Commits To Science Based Climate Action
+
+│  ├─ 📄 Univers Launches Enos Ark 2 0 Smarter Faster And Scalable Ai For Energy Savings And Carbon Reduction
+
+│  ├─ 📄 Univers Launches World First Global Impact Ai Lab In Collaboration With Amd Microsoft And Nus To Accelerate Enterprise Ai And Iot Innovation
+
+│  ├─ 📄 Univers Named A Leader In 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms
+
+│  ├─ 📄 Univers Partners With Microsoft To Advance Ai For Energy Efficiency In Data Centers
+
+│  ├─ 📄 Univers Recognised With Momentum Award In Granite Asias Nextgen Tech 30
+
+│  ├─ 📄 Univers Selected By Albert Heijn To Accelerate Its Path To Net Zero
+
+│  ├─ 📄 Univers Software Enos Ark And Tuv Suds Carbon Accounting Verification Services Will Be Jointly Marketed Across Asia Pacific
+
+│  ├─ 📄 Univers Unveils Enos Ark The Award Winning End To End Ai Decarbonization Software For Global Enterprises
+
+│  └─ 📄 Voltalis And Univers Team Up To Expand Smart Energy Flexibility Solutions Targeting 10 15 Cost Savings For Commercial Buildings Across Europe And Asia
+
+
+├─ 📁 Page Header
+
+│  ├─ 📄 Black
+
+│  └─ 📄 White
+
+
+├─ 📁 Partner
+
+│  ├─ 📄 Capgemini
+
+│  ├─ 📄 Demo
+
+│  ├─ 📄 Eaton
+
+│  ├─ 📄 Ibm
+
+│  ├─ 📄 T Systems
+
+│  └─ 📄 Tridium
+
+
+├─ 📁 Partner Category
+
+│  ├─ 📄 Company
+
+│  ├─ 📄 Independent Software Vendors
+
+│  ├─ 📄 Industry Service
+
+│  └─ 📄 Management Consultants
+
+
+├─ 📁 Policies
+
+│  └─ 📄 Policies
+
+
+├─ 📁 Privacy Policy
+
+│  └─ 📄 Privacy Policy
+
+
+├─ 📁 Product Bazefield
+
+│  └─ 📄 Product Bazefield
+
+
+├─ 📁 Product Customer Story
+
+│  ├─ 📄 Enos Ark
+
+│  ├─ 📄 Enos Edge
+
+│  ├─ 📄 Enos Flex
+
+│  └─ 📄 Enpact
+
+
+├─ 📁 Report
+
+│  ├─ 📄 Supplier Code Of Conduct
+
+│  └─ 📄 Task Force On Climate Related Financial Disclosures 2024 Report
+
+
+├─ 📁 Report Type
+
+│  └─ 📄 Environment Social And Governance Reports
+
+
+├─ 📁 Request Demo Enos
+
+│  └─ 📄 Request Demo Enos
+
+
+├─ 📁 Request Demo Enos Ark
+
+│  └─ 📄 Request Demo Enos Ark
+
+
+├─ 📁 Request Demo Enos Charge
+
+│  └─ 📄 Request Demo Enos Charge
+
+
+├─ 📁 Request Demo Enos Cloud
+
+│  └─ 📄 Request Demo Enos Cloud
+
+
+├─ 📁 Request Demo Enos Edge
+
+│  └─ 📄 Request Demo Enos Edge
+
+
+├─ 📁 Request Demo Enos Microgrid
+
+│  └─ 📄 Request Demo Enos Microgrid
+
+
+├─ 📁 Request Demo Enos Microgrid Hems
+
+│  └─ 📄 Request Demo Enos Microgrid Hems
+
+
+├─ 📁 Request Demo Enos Microgrid Overview
+
+│  └─ 📄 Request Demo Enos Microgrid Overview
+
+
+├─ 📁 Request Demo Enos Ppc
+
+│  └─ 📄 Request Demo Enos Ppc
+
+
+├─ 📁 Request Demo Enos Renewables
+
+│  └─ 📄 Request Demo Enos Renewables
+
+
+├─ 📁 Request Demo Enos Renewables Bazefield
+
+│  └─ 📄 Request Demo Enos Renewables Bazefield
+
+
+├─ 📁 Request Demo Enos Scada
+
+│  └─ 📄 Request Demo Enos Scada
+
+
+├─ 📁 Request Demo Enos Storage
+
+│  └─ 📄 Request Demo Enos Storage
+
+
+├─ 📁 Request Demo Renewables Ai Analytics
+
+│  └─ 📄 Request Demo Renewables Ai Analytics
+
+
+├─ 📁 Request Demo Security Compliance
+
+│  └─ 📄 Request Demo Security Compliance
+
+
+├─ 📁 Request Demo Solar Ai Analytics
+
+│  └─ 📄 Request Demo Solar Ai Analytics
+
+
+├─ 📁 Request Demo Wind Ai Analytics
+
+│  └─ 📄 Request Demo Wind Ai Analytics
+
+
+├─ 📁 Resource
+
+│  ├─ 📄 2023 Strategic Roadmap For Greenhouse Gas Emissions Data And Analytics
+
+│  ├─ 📄 Australia Residential Energy Price Arbitrage Challenge Report
+
+│  ├─ 📄 Bazefield Product Demo
+
+│  ├─ 📄 Bazefield Product Overview
+
+│  ├─ 📄 Electric Vehicle Battery Carbon Footprint And Low Carbon Circular Development
+
+│  ├─ 📄 Enos Ark Product Brochure
+
+│  ├─ 📄 Enos Microgrid Featured In Verdantix Buyers Guide For Ai Driven Optimisation And Scalable Microgrid Control
+
+│  ├─ 📄 Enos Microgrid Product Brochure
+
+│  ├─ 📄 Enos Scada Ppc Product Brochure
+
+│  ├─ 📄 Enos Storage Product Brochure
+
+│  ├─ 📄 Gartner Report Predicts 2025 Converting Sustainability Pledges Actionable Insights And Strategic Recommendations
+
+│  ├─ 📄 Industrial Clusters Working Together To Achieve Net Zero
+
+│  ├─ 📄 Turn Data Into Value With Solar Ai Analytics
+
+│  ├─ 📄 Univers 2022 Sustainability Report
+
+│  ├─ 📄 Univers 2023 Sustainability Report
+
+│  ├─ 📄 Univers 2024 Sustainability Report
+
+│  ├─ 📄 Univers Named A Leader In The 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms
+
+│  ├─ 📄 Univers Trust Center
+
+│  └─ 📄 Wef Briefing Paper Accelerating Clean Industrial Electrification In The Eu
+
+
+├─ 📁 Resource Label
+
+│  ├─ 📄 Brochure
+
+│  ├─ 📄 Portal
+
+│  ├─ 📄 Report
+
+│  ├─ 📄 Video
+
+│  └─ 📄 Whitepaper
+
+
+├─ 📁 Security Compliance
+
+│  └─ 📄 Security Compliance
+
+
+├─ 📁 Sustainability
+
+│  └─ 📄 Sustainability
+
+
+├─ 📁 Tag
+
+│  ├─ 📄 Ai Energy Optimization
+
+│  ├─ 📄 Ai For Energy
+
+│  ├─ 📄 Carbon Management
+
+│  ├─ 📄 Commercial Energy Management
+
+│  ├─ 📄 Cross Industry Sustainability
+
+│  ├─ 📄 Csrd
+
+│  ├─ 📄 D4D
+
+│  ├─ 📄 Decarbonization Strategy
+
+│  ├─ 📄 Digital Decarbonization
+
+│  ├─ 📄 Digital Transformation
+
+│  ├─ 📄 Double Materiality
+
+│  ├─ 📄 Energy Security
+
+│  ├─ 📄 Energy Transition
+
+│  ├─ 📄 Enos Ark
+
+│  ├─ 📄 Environmental Management
+
+│  ├─ 📄 Esg
+
+│  ├─ 📄 Esg Compliance
+
+│  ├─ 📄 Eu Omnibus Package
+
+│  ├─ 📄 Eu Taxonomy
+
+│  ├─ 📄 European Energy Policy
+
+│  ├─ 📄 European Sustainability
+
+│  ├─ 📄 Grid Capacity Planning
+
+│  ├─ 📄 Grid Modernization
+
+│  ├─ 📄 Grid Stability Solutions
+
+│  ├─ 📄 Impact Measurement
+
+│  ├─ 📄 Iot Energy Management
+
+│  ├─ 📄 Microgrid Technology
+
+│  ├─ 📄 Net Zero Industry Act
+
+│  ├─ 📄 Renewable Energy Optimization
+
+│  ├─ 📄 Renewable Monitoring Control
+
+│  ├─ 📄 Renewables
+
+│  ├─ 📄 Solar Power
+
+│  └─ 📄 Sustainability Strategy
+
+
+└─ 📁 Terms Of Service
+
+   └─ 📄 Terms Of Service
+

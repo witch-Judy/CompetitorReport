@@ -1,0 +1,41 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1685
+
+Domains: www.aveva.com
+
+Languages:
+  en: 1685
+
+Sections:
+  perspectives: 930
+  products: 210
+  about: 204
+  our-industrial-life: 191
+  solutions: 56
+  industries: 34
+  legal: 27
+  connect-experience: 11
+  support-and-success: 7
+  info: 6
+  academia: 5
+  training: 2
+  : 1
+  contact: 1
+
+Content Types:
+  other: 969
+  blog: 376
+  product: 231
+  industry: 69
+  legal: 26
+  company: 9
+  resource: 4
+  webinar: 1
+
+Years:
+  2025: 1179
+  2024: 481
+  2023: 25

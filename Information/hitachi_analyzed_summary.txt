@@ -1,0 +1,75 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 3126
+
+Domains: www.hitachi.com
+
+Languages:
+  en-us: 862
+  ja-jp: 454
+  en: 380
+  en-eu: 341
+  en-in: 335
+  : 136
+  it-it: 93
+  th-th: 65
+  vi-vn: 63
+  id-id: 62
+  zh-cn: 57
+  pt-br: 47
+  en-ca: 45
+  zh-tw: 23
+  en-tw: 20
+  en-hk: 19
+  zh-hk: 19
+  fr-ca: 18
+  es-mx: 17
+  en-mx: 16
+  es-br: 14
+  en-za: 13
+  tr-tr: 8
+  en-ae: 6
+  pl-pl: 6
+  de-de: 1
+  en-mm: 1
+  en-my: 1
+  en-ph: 1
+  es-es: 1
+  fr-fr: 1
+  ro-ro: 1
+
+Sections:
+  insights: 1119
+  press: 960
+  ir: 444
+  about: 274
+  products: 76
+  sustainability: 44
+  : 31
+  privacy: 25
+  sitemap: 18
+  termsofuse: 16
+  rd: 16
+  information: 16
+  socialmedia: 13
+  careers: 12
+  support: 12
+  gdpr: 11
+  contact: 10
+  accessibility: 9
+  dsar: 4
+  ca-configuration: 3
+
+Content Types:
+  other: 2974
+  product: 94
+  industry: 20
+  customer_story: 16
+  resource: 15
+  company: 5
+  blog: 1
+  webinar: 1
+
+Years:

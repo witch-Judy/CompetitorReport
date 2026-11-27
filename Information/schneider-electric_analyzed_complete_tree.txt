@@ -1,0 +1,3173 @@
+====================================================================================================
+schneider-electric 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+└─ 📁 Ww
+
+   ├─ 📄 Ww
+
+   ├─ 📂 About Us
+   │  ├─ 📄 Accessibility
+   │  ├─ 📄 Alliances
+   │  ├─ 📂 Alliances
+   │  │  ├─ 📄 Accenture.Jsp
+   │  ├─ 📂 Alliances
+   │  │  ├─ 📄 Cisco.Jsp
+   │  ├─ 📂 Alliances
+   │  │  ├─ 📄 Microsoft.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Career Event.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Digital.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Executive Recruitment.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Overview.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Professionals.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Sales And Services.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Students Young Professionals.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Supply Chain.Jsp
+   │  ├─ 📂 Careers
+   │  │  ├─ 📄 Tech Recruitment Campaign.Jsp
+   │  ├─ 📄 Company Profile
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Awards.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Corporate Governance
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Board Of Directors.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Executive Committee.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Study Committees.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Merlin Gerin.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Schneider Electric History.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Telemecanique.Jsp
+   │  ├─ 📂 Company Profile
+   │  │  ├─ 📄 Terms And Conditions.Jsp
+   │  ├─ 📄 Company Purpose
+   │  ├─ 📄 Contact
+   │  ├─ 📄 Cybersecurity Data Protection
+   │  ├─ 📄 Diversity And Inclusion
+   │  ├─ 📄 Events
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Achema
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Davos.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Enlit Europe 2024.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Hannover Messe.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Innovation Experience Industry.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Innovation Hubs
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Customer Innovation Lab Europe
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Innovation Summit Copenhagen.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Innovation Summit World Tour.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Marathondeparis.Jsp
+   │  ├─ 📂 Events
+   │  │  ├─ 📄 Segreenrunners
+   │  ├─ 📄 Inclusion And Care
+   │  ├─ 📄 Innovation
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 R And D Projects
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 3S Cs.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Amass.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Beflexible.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Certifai.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Certmils.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Cps4Eu.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Cret.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Dais.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Dream.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Efort.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Electron.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Emc2.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Ferro Smart Grid.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Fitoptivis.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Flexitranstore.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Gan4Ap.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Growsmarter.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Ide4L.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Ideas.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Ielectrix.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Interconnect.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Life36Kv.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Lifesf6Free.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Microgridstudy.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Microtic.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Migrate.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Offshore2Grid.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Osmose.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Related Publications.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Sabina.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Sagra.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Sdn Microsense.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Secblured.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Shift2Dc.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Sinnogenes.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Spear.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Terminet.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Tigris.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Upgrid.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Vpp4Islands.Jsp
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Weforming.Jsp
+   │  ├─ 📄 Investor Relations
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Capital Markets Day.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Contact.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Disclaimer.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Financial Calendar And Events.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Financial Results.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Individual Shareholders
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Advisory Committee.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Annual General Meeting.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Becoming Shareholder.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Esg.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Key Figures.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Overview.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Annual Reports.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Bonds.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Overview.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Share Buyback.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Share Count Voting Rights.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Analyst Coverage And Consensus.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Dividend.Jsp
+   │  ├─ 📂 Investor Relations
+   │  │  ├─ 📄 Share Price.Jsp
+   │  ├─ 📂 Knowledge Center
+   │  │  ├─ 📄 Data Centers.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Arcfm Privacy.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 C Bus Manager Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Clipsal Silc Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Clipsal Wiser Room Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Cookie Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Data Privacy.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Ecostruxure Facility Expert Data Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Energy Hub Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Esetup For Electrician Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Event App Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Geo Scada Mobile Privacy Policy.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Ib To Diag Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Igss Mobile Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Insight Mobile.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Legal Information.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Pdl Wiser Room Mobile App Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Power Commission Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Power Device Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Smartviewerdata Privacy.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Terms Of Use.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Wiser Energy Privacy Notice.Jsp
+   │  ├─ 📂 Legal
+   │  │  ├─ 📄 Wiser To C Bus Privacy Notice.Jsp
+   │  ├─ 📄 Newsroom
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Contact Us
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Request.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Thank You Confirmation.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Events
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Experts
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Aamir Paul 626A624De50E2273Ed051A76
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Barbara Frei 5D809F351E576500Af7E5A19
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Caspar Herzberg 640995021Cc434Ce7A0Cf855
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Charise Le 5F3156C510B97E3B793E3C69
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Chris Leong 5D80A41612574A00Ac6439Dd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Gwenaelle Avice Huet 62178581F9C608446D2A9904
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Herv%C3%A9 Coureil 5D80B2F512574A0A97392246
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hilary Maxson 60015420Bcfde43Ecd0032Bd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Jean Pascal Tricoire 5D80D6051416Ef117F1128Bc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Laurent Bataille 5D80Deb41416Ef1C2020Cc3F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Manish Pant 5F521Bed8794De7874580E3D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mourad Tamoud 5D80E29A1416Ef215E749820
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nad%C3%A8Ge Petit 5F6975D4077389499173A688
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Olivier Blum 5Dd4174280564A0Fdb063900
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Peter Herweck 5D80E3621416Ef20Fc6Df5E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Peter Weckesser 5F6971492071A848165D9813
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Zheng Yin 600157Ffededfd2B2713B467
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Medias
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Files
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 2020 Annual General Meeting Approval Of All Resolutions Pdf Press Release 5Efb21B81416Ef4D364B63F3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 6 Reasons To Transition From Sf6 To Pure Air In Mv Switchgear Pdf White Paper 5F0Ecd9306A4A73E8508Ec36
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Air Liquide Groupe Psa Schneider Electric Valeo Rise To The Challenge Of Producing 10 000 Air Liquide Medical Systems Respirators In Response To The French Government Request Pdf 5Ef4B2748C56657A6D32A53C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Award Winning Green And Digital Switchgear Makes Commercial Debut Pdf 607043036Ca3F0083B14Cc1E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Coalition For The Energy Of The Future 11 Major International Companies Join Forces To Accelerate The Energy Transition In Transport And Logistics Pdf Press Release 5Eff348A8C56651D042902A7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Colombian Students Win Schneider Go Green 2020 With A Bold Idea For Sustainable Fishing Docx Press Release 5F5F96D9Db339F3F307A4608
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Colombian Students Win Schneider Go Green 2020 With A Bold Idea For Sustainable Fishing Pdf Press Release 5F5F2Bd7F751Fb2D583C2C49
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Creating The Room Of The Future With The Connected Room Solution Pdf Press Release 5D9398D680564A5C21306077
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Doris Group Aveva And Schneider Electric Join Forces To Create Digital Twin Alliance To Address Complex Digital Transformational Challenges For Upstream Oil Gas Sector Pdf 5F1Ab1Ce6429462Bd8665F1F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Enedis And Schneider Electric Are Launching An Innovative Solution For New Generation Substations Pdf 62179A5D94C8F0446E5A0550
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Energy For All Schneider Electric Enriches Its Portfolio Of Solutions For Off Grid Communities Pdf Press Release 5D939A571E5765457B6Bcef7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Ceo Alliance Advocates Ambitious Climate Strategy Pdf 6054Cbc370435764802E3Cf8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Ceo Alliance Emphasizes Cross Industry Collaboration To Fight Climate Change Pdf 5F771Fb6D749C512Ac17Bba1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Union Life Program Awards Schneider Electric For Sf6 Free Capacity Building Project Pdf Press Release 5Dcc2Abb80564A42B035A3E6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Following Emergency Pandemic Response The Tomorrow Rising Fund By The Schneider Electric Foundation Focuses Support On Recovery And Resiliency Pdf 5Ef4C3Bd8C56656Fbc2C612F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Government Of India Confers Honourable Mention On Schneider Electric At The Annual National Csr Award Ceremony Pdf Press Release 5Db861F180564A222212Bf30
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industrial Enterprises To Achieve Step Change Operational Improvements With New Category Of Software Centric Automation System Pdf 5F7Ef9F67B41124Bee159049
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industry Could Save 30Bn A Year With Universal Automation Report Finds Pdf Press Release 5Faa7B7E56E254578624D6C7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Jean Pascal Tricoire%27S Keynote At The Innovation Summit Barcelona 2019 Pdf Presentation 5D97268112574A4A8518Df32
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mcdermott Schneider Electric And Io Consulting Join Forces To Develop Net Zero Facilities%E2%80%94Upstream Pdf Press Release 5F7F2D446Cf926240D318D97
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mubadala And Schneider Electric To Explore Collaborative Opportunities In The Areas Of Clean Sustainable And Innovative Energy Solutions Pdf 6008A0310972C426D950Ecce
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New 451 Research Report Captures The Impact Of Efficiency And Sustainability On Cloud Service Provider Market Pdf Press Release 5F7F27Faebf9F551B877Fbc0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Services From Schneider Electric Pinpoint Operational Risks And Create Business Resilience With Condition Based Maintenance Pdf 6070402362F60951Db2Cde37
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nexans Partners With Schneider Electric On Digital Transformation Program To Bring Industrial 4 0 To Plant Operations And Amplify Sustainability Press Release Pdf 602D0D6A7D798113Ae5Adfbf
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Open Letter By The Ceo Initiative For Europe%27S Recovery Reform And Resilience To The European Commission European Council And European Parliament Pdf 5Efaf6A81416Ef311259D4Df
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Orange And Schneider Electric Run Industrial 5G Trials In French Factory Pdf Press Relase 5F71E66Fcf2156127E05Db86
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Preparing For One Planet Prosperity Is Necessary For Companies To Attain And Maintain Their Long Term Competitive Advantage Pdf Press Release 5F362994B3Ecac4Cf554Af27
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Re Inventing The New Electric World With Myschneider Partner Program Pdf News 5F7F1Ba4308Db50819697B57
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Re Inventing The New Electric World With The Myschneider Partner Program Pdf News 5F7F19B8F832Ec4Aac668D47
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Reduce Time To Modernization %E2%80%93 Schneider Electric Announces Two Fresh Ways To Strengthen Business Resilience Faster Pdf 6070415A13D5676A88317D6A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Boosts Next Generation Tesys Giga Offering With Digital Innovation Pdf 6077E8D93999Da41A2515Ff6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%27S Project With E On Wins Enertic Award For Green And Digital Smart Grid Technology Pdf 6006618A1819807Ac621D797
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S 565M Global Investment Fund Expands With New Hires And New Investments Pdf Press Release 5D91F8668217Ef36B4224340
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Acti9 Active Named Ces 2021 Innovation Awards Honoree Pdf 5Fdccc4Accc82622F0515B67
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Altivar Drives Recognized As %E2%80%9Cefficient Solution%E2%80%9D By Solar Impulse Pdf 5F6057064A94472D4A0Eeba8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Altivar Drives Recognized As %E2%80%9Cefficient Solution%E2%80%9D By Solar Impulse Pdf Press Release 5F5F29402C5Fb60Db6589184
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Global Security Labs Receive Crest Pen Test Accreditation Press Release Pdf 602E4D50D602304E153A6E47
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Lexington Smart Factory Earns Fourth Industrial Revolution Advanced Lighthouse Designation By World Economic Forum Pdf 5F627B3D1F321F7A5949A19B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Third Quarter Sustainability Progress Focuses On Urgent Climate Action And Meeting 2021 Full Year Commitments Pdf 6178Dd7A082Ade7C361F0Ddf
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Wins Global Award For Contribution To The Circular Economy Press Release Pdf 6024Fbb646C4A86Ae95B82Fc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric 2020 Corporate Energy Sustainability Progress Report Demonstrates That Flexibility And Resilience Are Critical For Energy And Sustainability Success Pdf 5Ef4Bd081416Ef04A36Cb40A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates Industries Of The Future Innovations Pdf 607530D6D83Ae0147678D65E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Achieves 10 Process Energy Usage Improvement By Unifying Power And Process At World%E2%80%99S Most Energy Intensive Sites Pdf 5F7F222D0Dc64E1825216184
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Corporate Climate Action With Global Supply Chain Decarbonization Service Press Release Pdf 60352B80D55Edc092248D9Cb
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Management Of Hybrid It Infrastructure With New Ecostruxure It Innovation Pdf Communique 5F7F23Aafca69C683C356811
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Management Of Hybrid It Infrastructure With New Ecostruxure It Innovation Pdf Press Release 5F7F24Eca44E7F064408E819
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advocates For Industry Transformation With Buildings Of The Future Vision Pdf 5F7F2A4Ddbee2C04E858692B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Again Named One Of The World%E2%80%99S Most Ethical Companies By The Ethisphere%C2%Ae Institute Press Release Pdf 6034C599Ac1F7631168006B1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aveva Extend Partnership To Deliver End To End Solution For Multi Site And Hyperscale Data Center Pdf 5Ef4Bd871416Ef784178C677
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Minesto Join Forces To Commercialize Marine Energy Press Release Pdf 604B51198290C04C0C4E2A35
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Semiotic Labs Announce Partnership To Expand Ecostruxure Asset Advisor Digital Service To Include Condition Based Monitoring And Predictive Maintenance Of Rotating Equipment Pdf 5F8855864Aea530Ea4308548
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Temasek Launch Greenext To Provide Sustainable And Resilient Energy As A Service Pdf 61B308C1E4881E23F80A1D07
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces 2021 List Of Master Level Ecoxpert%E2%84%A2 Partners In Critical Power Substation Automation Solutions Press Release Pdf 60385Dfe2Bee9F2Cf167B709
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Adoption Of Wiztopic%27S Blockchain Certification Platform Pdf Press Release 5Daf0B4812574A346650526D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Partnership With Avnet And Iceotope To Develop Liquid Cooled Data Center Solutions Pdf Press Release 5D975B6012574A6Faf3841E7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Significant Enhancements To Ecostruxure%E2%84%A2 Power Platform To Offer Customers The Best In Class Digital Electrical Distribution System Pdf Press Release 5D939F028217Ef5C8C466F42
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Sm Airset%E2%84%A2 The Green And Digital Switchgear With No Sf6 Greenhouse Gas Pdf 5F7Efae2B7Efe26Ca11Ccf30
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces The Creation Of Its Third Impact Fund %E2%80%9Cschneider Energy Access Asia%E2%80%9D Pdf Press Release 5D939Fc280564A5C1859D641
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Boosts Its Innovation Ecosystem With %E2%80%98Schneider Electric Ventures%E2%80%99 To Identify Nurture And Support Bold Ideas Pdf Press Release 5D91E0B78217Ef31391570B0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Brings Ai Assisted Advising And Implementation To Accelerate Corporate Clients%E2%80%99 Energy Sustainability And Climate Change Programs Pdf Press Release 5F6075Ebd001E0313F52C1Df
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls On Business Community To Work Together On Efficiency And Sustainability At Innovation Summit Barcelona Pdf Press Release 5D939Dd28217Ef5C8B0E8484
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Cancels The Capital Increase Reserved For Employees Pdf 5Ef4B78612574A21041Cc134
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Commits To Tackling Inequality By Joining G7 Business For Inclusive Growth B4Ig Coalition Powered By The Oecd Pdf Press Release 5D91F3538217Ef36Dc4Cb677
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Commits To Tackling Inequality By Joining G7 Business For Inclusive Growth B4Ig Coalition Powered By The Oecd Pdf Press Release 6502Bf43227Cb15F6F09Cee6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Completes Transaction For Voluntary Public Takeover Of Rib Software Pdf 5F08029712574A68A91E2E4A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Creates Global Standards In Refreshed Flexibility At Work Policy Pdf 5F7Bc6Be4B92C57041022B6F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Cuts Five Years From Its Carbon Neutrality Goal Establishing Roadmap For The Carbon Neutral World Pdf Press Release 5D91Fd318217Ef37076B7858
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Earns 2021 Energy Star%C2%Ae Partner Of The Year For Sustained Excellence Award Pdf 607713Bad514A525042A20Dd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Enel And The World Economic Forum Publish %E2%80%98Net Zero Carbon Cities An Integrated Approach%E2%80%99 Report Pdf 5Fff11F852D746170754Cece
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Enhances Ecostruxture%E2%84%A2 Triconextm Safety View Pdf 608C2C39E0933C0D6B23D548
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Energy Sustainability Services Operations In East Asia Japan Pdf 5Fa28Bb647B0A77901106Eec
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Extends 3 Phase Easy Ups 3L From 250 Kva To 600 Kva To Make Business Continuity Easy With Optimized Investment Press Release Pdf 60348C20Abe31D095476C7F5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Extends Strategic Partnerships With Aveva Lenovo And Stratus To Enable It Ot Convergence Pdf Press Release 5Efb242C8C566543Fb3B4Fad
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Further Strengthens Its Dedication To European Power Industry Evolution Pdf 5Ef4Bf1512574A210A796661
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Geared Up For Climate Week Nyc By Launching An Inspiring New Program For Un Sdgs And Reinforcing Accelerating Its Commitments For A Carbon Neutral World Sdg13 Pdf Press Release 5F7200Becc70471F3C428258
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Global Supply Chain Recognized With 2020 Power Of The Profession Award Pdf Press Release 5F046E4E12574A1E942A3643
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Important Information On The 2020 Annual Shareholders%E2%80%99 Meeting Organization Pdf 5Ef4B36312574A247C342B77
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In Bloomberg Gender Equality Index For Fourth Consecutive Year Press Release Pdf 601128F95299A47E1066C7A5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 50 For The Diversity Leaders 2021 Ranking Held By The Financial Times Pdf 5Fb66B5946D5230Fc705D3C7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 50 For World%E2%80%99S Most Attractive Employers Pdf Press Release 5F7590F4F136A246187Bde51
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Invests In Operation Technology Inc %E2%80%9Cetap%E2%80%9D To Spearhead Smart And Green Electrification Pdf 5Fb4107E3619533879777Cf8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Invests In Planon Beheer B V %E2%80%9Cplanon%E2%80%9D To Digitally Transform Buildings Into The Healthy And Sustainable Workplaces Of The Future Pdf 5Fb22442A47Fa40F9F1B11A1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Founding Member Of Isa Global Cybersecurity Alliance Docx Press Release 5D80C8778C566510A36C17Ce
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Founding Member Of Isa Global Cybersecurity Alliance Pdf Press Release 5D80D2E11416Ef126F00Ae44
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Recognized By European Women On Boards Gender Diversity Index Pdf 61Ead839702C57146C445Cb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Joins Infrastructure Masons Partner Program To Advance The Digital Infrastructure Industry Pdf Press Release 5Efb25D612574A71Fe4A82C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Kicks Off Its Innovation Summit World Tour 2020 With Call To Embrace Digital Technologies For A More Resilient And Sustainable Future Pdf 5F7Ef82Efbf4Bd2C274E515C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure%E2%84%A2 Plant Advisor To Increase Operational Profitability Through Edge And Data Analytics In The Cloud Pdf 5F7F261Fa0F1A821Fc3Fbd99
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure%E2%84%A2 Plant Performance Advisors Suite For Smart Operations Pdf Press Release 5D939Dba80564A5C08478Cf2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches New Digital Ecosystem To Drive Worldwide Economies Of Scale For Iot Solutions Pdf Press Release 5D91F0D480564A2Aab25Fd1D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches New Podcast Series Leaders Share Insights On Accelerating Digital Journeys During Pandemic Pdf 5F96E871E5C044762441C855
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Partnerships Of The Future Unleashing Simplified Open And Increasingly Digital Collaboration Pdf 60741C204626940B14308627
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Specific Actions In Response To The Covid 19 Crisis And Stays The Course Of Its 2020 Esg Agenda With Schneider Sustainability Impact Achieving 7 15 Out Of 10 Pdf 5Ef4B91612574A2A2A384F84
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric On Fortune%E2%80%99S 2021 World%27S Most Admired Companies List For Fourth Year In A Row Pdf 60181130630D5054D51Ed035
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Once Again On The 2021 Carbon Clean 200%E2%84%A2 List Showing The Way To A Clean Energy Future News Pdf 602E80D5A00E363B9A21Cda4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Opens Its First Smart Distribution Center In India Pdf Press Release 5Dcbe1A51E576504A541Df46
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Top 1 000 Suppliers To Help Reduce Their Operations%E2%80%99 Co2 Footprint 50 By 2025 Pdf 60771514868823708D716A47
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Paves The Way To Carbon Neutrality With Thirteen Of Its Buildings %E2%80%9Cnet Zero Carbon%E2%80%9D Pdf Press Release 5D93A05480564A5C35661658
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Products Win Six Prestigious If Design Awards 5Ef483Ac12574A7D28291730
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Propose Des Conseils Et Une Mise En %C5%93Uvre Assist%C3%A9S Par Ia Pour Acc%C3%A9L%C3%A9Rer Les Programmes D%E2%80%99%C3%A9Nergie De D%C3%A9Veloppement Durable Et De Changement Climatique Des Entreprises Clientes Pdf Communiqu%C3%A9 5F64C9730C71D010B1589C5E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Publishes The World%27S First End To End Biodiversity Footprint Pdf 5F7F3Ee981064275844E701D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1 In The 2020 Gartner Supply Chain Top 25 Europe Top 15 Pdf 5F28Fcabe76Cad7470165058
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1St In The Industrial Sector For Gender Equality According To Equileap Pdf Press Release 5D93707F8217Ef535F59B797
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 4Th In The Gartner Supply Chain Top 25 For 2020 Pdf Press Release 5Efb222A1416Ef495E3F648D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked World%E2%80%99S Most Sustainable Company By Corporate Knights Press Release Pdf 6013Cff73F42A82C2D602B0A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Rearchitects Its Executive Committee Pdf 5Ef4B0518C56652Da01854Cd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Receives The Solar Impulse Efficient Solution Label Award For Profitable Environmental Protection Pdf Press Release 5Efaff6D12574A62C70Cc2E9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized By The Climate Group%E2%80%99S Re100 As First Clean Energy Trailblazer Pdf Press Release 5F6B470E76B0F16Bca10Cb49
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized During Renewable Energy Markets%E2%84%A2 Asia Awards For Renewable Energy Leadership In Asia News Pdf 60423529Dde4Ab5F940Cd6A7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reinforces Its Sustainability Commitments As It Responds To The Covid 19 Crisis 5Ef4B50012574A2A2A384F4F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Galaxy Vl 3 Phase Ups For Efficient Resilient Industrial Power Protection Pdf 6070397F55A5E7055856A315
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Revolutionizes Switchboard And Breaker Market With Groundbreaking Innovations In Electrical Distribution Pdf 5F7Ef94A65Ad0F5F8A569090
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Shows They Are Acting To Build A Green And Inclusive Future For All Through H1 Extra Financial Results Pdf 5F2043F590634F0C230Da52E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Smart Distribution Center In Evreux France Leverages Ecostruxure To Improve Operational And Energy Efficiency Pdf Press Release 5Dc014Cf1416Ef5A575Af1Fe
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Solves Edge Computing Challenges With New 6U Wall Mount Ecostruxure Micro Data Center Pdf Press Release 5D939C5880564A5F3F06E300
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sponsors Cy Cergy Paris University%E2%80%99S Master Of Law And Business Ethics Pdf 5F0454171416Ef6A3910090A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Successful With Voluntary Takeover Offer For Rib Software Exceeding Minimum Acceptance Threshold Pdf 5Ef4Ba888C56656E2E629992
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Build Four Control Centers For Egypt%E2%80%99S National Energy Grid Pdf 5F0Eced603Fd4570E17136Af
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Showcase Its Pioneering Energy Management Innovations And Partner Programs Pdf News 5F7F2093F832Ec4Aac668D6F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Support The Development Of Sharjah%E2%80%99S First Waste To Energy Plant Pdf 6077017471F9Bc07Fa0228Bb
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils A New Generation Of Compact Molded Case Circuit Breakers Redesigned For Improved Efficiency For Panel Builders Pdf News 5F7F1F45361566553C0Ef253
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Update On Covid 19 Pdf 5Ef4B1Da1416Ef7845411B71
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Well On Its Way To Achieving Its Year End Sustainability Targets Pdf 5F904980A97Fc14947363E1C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins Industrial Energy Efficiency Award At Hannover Messe For Sf6 Free Medium Voltage Switchgear Docx Press Release 5F0Ec068C299D159Dc41Ed42
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Sf6 Free Mv Switchgear Using Pure Air Nominated For Top Awards Pdf Press Release 5Efb27101416Ef4D68369905
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Software Centric Automation Transforms Consumer Packaged Goods And Logistics Operations Pdf 6072C3B49F70D0772F3Aca14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Successful Issue Of A %E2%82%Ac500 Million Bond Pdf 5Ef4B5B31416Ef77B41A807E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Successful Issue Of A %E2%82%Ac800 Million Bond Pdf Press Release 5Efb4A181416Ef5Ebc5A2137
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Carlyle Group And Schneider Electric Extend Partnership To Develop Critical Infrastructure Projects Pdf Press Release 5D92010380564A2A815B9Aae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Connectivity Ecosystem Expands Offers New Solutions For The Modern Home In An Increasingly Digital World Pdf Press Release 5Efb43D31416Ef50D47026D6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Thoughtwire And Schneider Electric Announce Strategic Partnership And New Joint Offering For Healthcare Facilities Pdf Press Release 5D939E4B1E57654F571D6D56
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Top 10 Global Innovations Schneider Electric%E2%80%99S Sf6 Free Switchgear Wins Icef Recognition Pdf 5F85826F6Bbf4448983495E6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Top Students To Present Their Ideas For A Smarter And More Sustainable Future At Schneider Go Green Global Finals In September Pdf Press Release 5F315910B1606941F6408F41
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Walmart And Schneider Electric Announce Groundbreaking Collaboration To Help Suppliers Access Renewable Energy Pdf 5F59Fad1Ddde56246F400Df9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Folders
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Executive Committee 6390A506Bca83794B8058Ed3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Logo 63776620469Cf8D0Fd0Ec7A2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Photos
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 2022 Global Alliance Partner Program Excellence Award Winners 2 Jpg 634D219D8F1D04830F0A7B65
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Acti9 Active Png 5Fd839E0D4A88C0Dad422Ec7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ali Haj Fraj Png 614Db1B611A3D07F4E666Ad2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Astrid Poupart Lafarge Jpg 618A32846833643113079142
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Barbara Frei Executive Vice President Industrial Automation Jpg 60Ba2D8708Ca2810E35Cffad
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Barbara Frei Official Picture Jpg 5D809E521E5765443829B9Ba
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Chris Leong Official Picture Jpg 60462E1D73892803Fa0170D2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Christel Heydemman Official Picture Jpg 5D80A8B38C566500A73Aaba3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Cover Russia 6268Cdc1C3691A14B649Bcd3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Easy Ups 3L 250 400Kva Ups Image Jpg 6034841B1F18B7601A772F89
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ecostruxure Service Plan Jpg 60703F69B94D101D3639B69A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 First Meeting Of The European Ceo Alliance In Stuttgart Jpg 5F771Fc551B81872614B0De6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Fr%C3%A9D%C3%A9Ric Godemel Official Picture Jpg 5Fb24Ed355Badf34B233F6Fd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Galaxy Vl Jpg 607028Ec6D68C556330Aa41E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Gilles Vermot Desroches Official Picture Jpg 5D8E17321E57651224778176
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hannover Messe Key Visuals Png 60741E17Ee21714E47788913
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Herv%C3%A9 Coureil Official Picture Jpg 5D80B2D112574A0Ac0702B2F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hilary Maxson Headshot 2021 Jpg 60Af4F321Ce88B352E774687
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Isa Gca Founding Member Logo Jpg Image 5D80Cb0F8C566510E35Ca3Ed
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Jean Pascal Tricoire Official Picture Jpg 5D80D59D8C566510A36C180F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Luc Remont Official Picture Jpg 5D80E05B1416Ef20Fb1A5967
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mourad Tamoud Official Picture Jpg 5D80E2551416Ef211179A646
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nadege Petit Jpg 60794F738A4A40358934Cb2D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nathalie Marcotte Official Picture Jpg 5Da81D0612574A192B3Ec8Ab
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Official Photo 2020 Christel Heydemann Jpg 5Fdb5Ecf3Befe24C917F2318
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Olivier Blum Jpg 5F3392Ad45E5D71B227B3Ed3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Peter Herweck Ceo 5D80E2Ff1416Ef1Ee5340922
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Philippe Delorme Official Picture Jpg 5D80E4551416Ef210F3Df270
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Photo Nadege Petit Officiel Edited Square Jpg 60A522Ff644E447Ee964A12C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Roca Group Jpg Jpg 60A224Cec5Fc3D18Bd65A21A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Logo Jpg 615Aeb0184D20B323D58575E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Se Laurentbataille 24 Highres Edited Cropped Jpg 60B5Feac541Bbc2B534D9994
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Service And Modernization Plan Jpg 607040Dedacaef05Ca008Dae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Shonodeep Modak Jpg 6151E5Cf52Ab79651919235D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Signature Of The Agreement To Build Four Control Centers For Egypt%E2%80%99S National Energy Grid Jpg 5F0Edb6B129Ccf0F7E22D2Df
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Sm Airset Jpg 607041Dcabd18A69221A00Cc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Software Centric Automation Transforms Cpg And Logistics Jpg 6070254D717F5811E66Ca402
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Solar Panel 5Ecd0E5980564A4Ea9178E56
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Susan Uthayakumar Jpg 614Db1A52B16C72D9864D292
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Tesys 2 Jpg 6077E60902A2Fc27514B4235
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Tesys Png 60704396F7F50B42Cf1F040E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Tesys Schneider Electric Jpg 6070446C3994A5653D637B9C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Two Workers At The Lexington Plant Jpg 5F627B7401810610D274Eab7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Two Workers At The Lexington Plant Looking On A Screen The Aveva%E2%80%99S Discrete Lean Management Software Jpg 5F627Bc0Be6E57554C13Cd87
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Visit Of Olaf Scholz Chancellor Of Germany And Jonas Gahr St%C3%B8Re Prime Minister Of Norway 6626298Bf355507Aeb03Fe19
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Videos
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Details.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 A Totex Approach For Operational Resiliency 607Fe86954B91A2572680Fc0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Bloomberg New Economy Forum 2020 A %E2%80%9Cjust Transition%E2%80%9D Pathways To A Low Carbon Energy Future 5Fbe22876C9A2A48B56C88Cc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Boosting Business Agility With Smarter Machines 607Fea34F502C639Ef322E53
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Business Council For Sustainable Energy Climate Week Nyc Panel Check We Have The Technologies And Tools It Is Time To Raise Climate Ambition 619E08C1E267A502D2281B36
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ceraweek 2021 Session How Governments Businesses Align On Net Zero 605317B7953C207Bea5D80D6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Cnbc Iot Powering The Digital Economy %E2%80%93 Pathway To Achieving Green Goals 6051Db7F244Faf339A4Eb65E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Corporate Knights 2021 Global 100 Launch And Ceo Roundtable 6050Da3D1B40E05E38739Fb5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Cybersecurity  Solutions For Operational Resiliency 607Feaad433E8B1E4D2387D3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Davos Agenda 2021 Building Net Zero Cities Session 6051D6668223090A54403E3E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Digital Ingredients For A More Sustainable And Resilient Food Beverage Supply Chain 607Feae578B2D85Fdd16F26E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hannover Messe 2021 Smart Green Digital Electric 607Fe93F52E53A5D432650F9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hec Paris Esp%E2%80%99R And Hec D%C3%A9Bats Live Conference With Students 60E71C364680Ae4F7500Ebc0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Iefa Conference Of Montreal Fireside Chat %E2%80%9Cgreen For Growth%E2%80%9D 619E08F08808B6428D27A4C3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Iese Ecgi Corporate Governance Conference 619E092Ce267A502D2281B40
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industrial Sustainability A Roadmap To Decarbonization And Resource Conservation 607Fe8C58Ee5Ff691C75B956
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industries Of The Future Schneider Electric Press Conference 607Fe7Ff5E76226C0846C87B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Innovation Summit World Tour 2020 Media Analysts Conference 5F8478F5B8F97A72521C1B48
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Innovation Summit World Tour 2021 Schneider Electric Live Media Industry Analyst Conference 61669150196731328B28B146
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Innovation Summit World Tour Digital Solutions For Sustainability 6051Dd1C7Cfea1723A1B7209
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Not Business As Usual Industrial Automation 607Fea7309C5044C3320466B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 One Planet Summit For Biodiversity 6051Dc432Ca1Ae2065280Aae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Plugging In To Iiot With Altivar Process Variable Speed Drive 5F5F2A202C609B5Ef6203F69
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Right Reaction Insights For The Chemistry Of Everyday Life 5Da999F012574A054213A09C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Tm One Leap Summit  Reimagining A Digital Ready Future With Scenario Planning 60462F59C9A2A30F837E3364
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Un Global Compact Leaders Summit %E2%80%9Censuring Living Wages A Commitment To Advance Decent Work Globally%E2%80%9D 60E71C026Ee36558293E460A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 World Economic Forum Global Lighthouse Network %E2%80%9Clighthouses Live%E2%80%9D 619E0839Ba42391Aed5031Ef
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 News
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Press Releases.Jsp
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄  Iea Press Release At Iea Conference 45 Governments Endorse Goal Of Doubling Global Energy Efficiency Progress By 2030 6488608F0Adebc42Ed066B8C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 10 Global Pharmaceutical Companies Launch First Of Its Kind Supplier Program To Advance Climate Action 6182848Cf01Af478B619Ddd4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 2020 Annual General Meeting Approval Of All Resolutions 5Efb211E12574A71Fc023E3B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 9 Out Of 10 Consumers Make Direct Link Between Climate Change And Rising Energy Bills Schneider Electric Global Study Finds 630380714B56C941150A776C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Aalto University Receives 1 Million Euros For Software Centric Industrial Automation Program 617B8B41C3A7914A3652B8De
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ahead Of Cop28 Schneider Electric Calls For Greater Action On Decarbonization And Inclusion 655Dd32C26F80F7A9E0B30B3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Air Liquide Groupe Psa Schneider Electric Valeo Rise To The Challenge Of Producing 10 000 Air Liquide Medical Systems Respirators In Response To The French Government Request 5Ef4B2481416Ef78426A0F6F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 An Update On Ukraine Russia And Belarus 623333C931Dba0100D4F745F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 As Cop27 Approaches Schneider Electric Urges Collective Systemic Action For A Fair Energy Transition 635A3790E05050Cb9E05F2C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Award Winning Green And Digital Switchgear Makes Commercial Debut 607041B286A64D2Bd878435F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Batteries Using Aloe Vera Wins Schneider Electric%E2%80%99S 2019 Go Green In The City Student Competition 5D9F062B12574A2D153Cd3C2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Bp And Schneider Electric Collaborate On Low Carbon Energy Solutions To Help Customers To Decarbonize 61A472Fa488702379F272660
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Brilliant Planet To Scale Algae Based Carbon Capture Process With Universal Automation Solution From Schneider Electric And Platinum Electrical Engineering 64B4F7Fa8Bdd70595806Ed33
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Building Sustainability%E2%80%99S Digital Future With Ecostruxure%E2%84%A2 Resource Advisor Copilot Schneider Electric%E2%80%99S Latest Ai Advancement 64Eca1Cf6053E3D1D90Ab96E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Careful Policy Design Could Unlock Massive Rooftop Solar Market Around The World 6140Ccbe4225B649Ce26F604
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Cea Schneider Electric Extend R D Collaboration To Bring Secure And Resilient Digital Solutions To Energy Management And Industrial Automation 6345E1087C4Bd6E0C90946F3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ces 2021 Schneider Electric Brings Sustainable Energy Management Choices Directly To Homeowner 5Ffd1D8795Ee566E370Ec7D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Coalition For The Energy Of The Future 11 Major International Companies Join Forces To Accelerate The Energy Transition In Transport And Logistics 5Eff32F71416Ef4A0E1B4195
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Colombian Students Win Schneider Go Green 2020 With A Bold Idea For Sustainable Fishing 5F5F2B07033E776D881993B9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Compact And Exquisite Transferpact Watsn Transfer Switch Won 2021 Red Dot Design Award 60A28062C4C7950F1B725F17
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Companies Reduce Emissions By Up To 19 Through Digital Tools New Report From Schneider Electric And Cnbc Shows 61D58D6F2A947D2Df373Da54
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Consumer Packaged Goods Logistics Water And Wastewater Industrial Automation Improves It Integration With Schneider Electric Ecostruxure Automation Expert Version 22 0 6294Ae4977Bcea5360479Ee5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Coventry University To Create Digital Building Of The Future With Schneider Electric And Planon 6102B1D90798Cd03Ed46D1F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Creating The Room Of The Future With The Connected Room Solution 5D8Dd0D38217Ef1D29184146
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Cross Industry Ceo Alliance Backs Eu Plan To Cut Carbon Emissions By 55 By 2030 60E6C3626F4Fda6Ddc4Aa154
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Dawex Schneider Electric Valeo Cea And Prosyst Join Forces To Create Data4Industry X The Trusted Data Exchange Solution For Industry 65C216Bf48835490A80F7E63
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Digital Day 2021 Eu Countries Commit To Key Digital Initiatives For Europe%E2%80%99S Digital Decade 605383871C0D0B7C9A2E6F33
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Digital Realty And Schneider Electric Partner To Undertake Data Center Circular Economy Initiative 66088E4E55Fab620180287E3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Digitalization Is Creating New Technology Jobs In Industries New Schneider Electric Report Shows 6571Caa46264310E3B0170F3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Doris Group Aveva And Schneider Electric Join Forces To Create Digital Twin Alliance To Address Complex Digital Transformational Challenges For Upstream Oil Gas Sector 5F1A91Bbf820Bf77Fb17D07E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Doubling Global Pace Of Energy Efficiency Progress By 2030 Is Key Step In Efforts To Reach Net Zero Emissions 647F4Dd537Add41D85033932
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Easy Lock Mechanism For I Line%E2%84%A2 Track Plug In Unit Wins Red Dot Award Recognizing Schneider Electric%E2%80%99S Commitment To Simplicity And Efficiency 606497C34403F3130505B42E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ecostruxure It Modernizes The Monitoring And Management Of Complex Hybrid It Infrastructure 629F68A817670D44Fe62C464
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Enedis And Schneider Electric Are Launching An Innovative Solution For New Generation Substations 6217685627Ecf31A95392024
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Enel And Schneider Electric Join The World Economic Forum In Launching The Toolbox Of Solutions For Urban Transformation 200 Decarbonization Solutions For Cities 614B2Cbc74C4015191592E34
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Energy For All Schneider Electric Enriches Its Portfolio Of Solutions For Off Grid Communities 5D8Cc7938217Ef7D0411942F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Enhanced Integration In Ecostruxure%E2%84%A2 Solutions From Schneider Electric Responds To Rising Energy Costs And Escalating Urgency For Sustainable Net Zero Buildings 64005B758975Eba00E0854E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Ceo Alliance Advocates Ambitious Climate Strategy 6051Ddfaf63B7B3F272D2057
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Ceo Alliance Emphasizes Cross Industry Collaboration To Fight Climate Change 5F771E77Ccf05B586C3F6508
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 European Union Life Program Awards Schneider Electric For Sf6 Free Capacity Building Project 5Dcc2A048217Ef6B356185Ed
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Evolving Covid 19 Situation 5Ef4728412574A7D6460699A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 First Of Its Kind Sustainability Framework Empowers Data Center Industry To Take Control Of Sustainability Goals 61Af74338A21Fd46496F3Ea4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Following Emergency Pandemic Response The Tomorrow Rising Fund By The Schneider Electric Foundation Focuses Support On Recovery And Resiliency 5Ef4C3B48C5665553339C563
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Global Report Finds 1 In 3 Manufacturers On Track To Meet Sustainability Targets 635F2Bfdd7B28Ccf7600C31B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Government Of India Confers Honourable Mention On Schneider Electric At The Annual National Csr Award Ceremony 5Db860158217Ef21551Bd256
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Green Economy Bolstered As Schneider Electric Opens 2500 Green Jobs Worldwide 628E34D9Ba3E755Ff00B51E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Greenalp Pilots New Sf6 Free Medium Voltage Switching Technology From Schneider Electric 5Dcc28808217Ef65823Fba3A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Hospital Trust Deploys Schneider Electric%E2%80%99S Ecostruxure%E2%84%A2 It Expert To Ensure Data Center Resiliency And Always On It Operations 60E2Ea9055E3C600611C1804
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 How Signify Will Significantly Reduce Its Carbon Footprint With The First Ever Publicly Announced Corporate Vppa In Poland 5Dd40Ae380564A6Ecb7D6767
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ifa 2020 Schneider Electric Unveils Blueprint To Transform Homes From Smart To Sustainable 5F52172A34A3Af4942474Bc6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Ifa 2022 Schneider Electric Tackles Rising Energy Bills With New Home Energy Management Innovations 630De25Fd53Affdc1C072F23
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Independent Analyst Firm Positions Schneider Electric As Leader In Industry Advancements For Microgrid Technology And Sustainability 6319B936B26980F44F009468
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industrial Enterprises To Achieve Step Change Operational Improvements With New Category Of Software Centric Automation System 5F7Ef98E3976F54C3254987C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Industry Could Save 30Bn A Year With Universal Automation Report Finds 5Faa7A983C9Da245F702A20C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Innovative Energy Saving Solar Greenhouse Idea Wins Schneider Go Green Student Competition 62B3E4151844Be12Fd594A74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Johnson Johnson To Lower Carbon Footprint By Digitally Transforming French Manufacturing Site With Schneider Electric 626674E37Ab785637D21D514
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Latest Research From Schneider Electric Suggests Most Large Organizations Don%E2%80%99T Know How To Take Meaningful Climate Action 615C303Cda839D2F3B1A13D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Leading Edge Data Centres Announces Use Of Schneider Electric%E2%80%99S Prefabricated Certified Edge Data Centre Infrastructure 6308Acd1C81D3A851B0F947A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Local Social And Environmental Action Propels Schneider Electric Sustainability Impact Program Toward Year End Target 6538D2Db970E7C23760F3033
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Manufacturing Industry Undergoing Rapid Sustainability Transformation Says Schneider Electric And Mit Technology Review Report 628672Ccfd07Cd1Abf3D0De4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mcdermott Schneider Electric And Io Consulting Join Forces To Develop Net Zero Facilities%E2%80%94Upstream 5F7F2Bf7Dbee2C04E858693B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Meet Zeigo%E2%84%A2 Schneider Electric%E2%80%99S Innovative Suite Of Saas Sustainability Solutions To Drive Decarbonization 643507Bf3199Dde99407C91A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Milan To Power Fleet Of 1200 Ebuses Not Only With Clean Energy But Also Green Power Infrastructure 61481Aade129Fa794F19B734
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mining And Metals Companies Accelerate Focus On Sustainability 60Efc68Af2Cdc45Cfc7Ef17C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mondelez Bahrain Biscuits W L L Implements Ecostruxure Resource Advisor To Simplify Energy And Water Monitoring Across Its Manufacturing Facility In The Kingdom 606C1547728D2B15Dd69Ad45
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Mubadala And Schneider Electric To Explore Collaborative Opportunities In The Areas Of Clean Sustainable And Innovative Energy Solutions 60089Ea517Ddbc53723E9017
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nestl%C3%A9 Nescaf%C3%A9 Deploys Ecostruxure%E2%84%A2 Asset Advisor To Ensure Always On Operational Resiliency And Efficiency At The World%E2%80%99S Largest Soluble Coffee Facility 61Efc26Ea7E0116B113Cf414
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New 451 Research Report Captures The Impact Of Efficiency And Sustainability On Cloud Service Provider Market 5F7F26Ef0Ee0F2303A3690C0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Ecostruxure%E2%84%A2 Building Solutions From Schneider Electric Answer Today%E2%80%99S Imperative To Deliver Net Zero Carbon Buildings 6267F32E9484871Ce52Ee6B2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Green Grid Technology Honored At Climate Week Nyc 6329Bf40Dd9Ee1900D0D0Bda
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Harvard Business Review Research With Schneider Electric Captures Best Practices For Local Officials Planning Low Carbon Transportation Infrastructure 6344721Ed1F52Fc8D60Bd768
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Recognition For Schneider Electric From World Economic Forum 62441E75D32Cd17E7B1F0Ab4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Research Uncovers Edge Computing Challenges And Highlights Strategies For Future Proofing Edge Capabilities 62544582E8E64931407Fbaf4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Schneider Electric Easy Ups 3 Phase Modular Is At The Forefront Of Reliability Scalability And Simplicity 644Bccb2Fe8F09E3Af0C9B8C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 New Services From Schneider Electric Pinpoint Operational Risks And Create Business Resilience With Condition Based Maintenance 60703F33A7A07517B51E130C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nexans Partners With Schneider Electric On Digital Transformation Program To Bring Industrial 4 0 To Plant Operations And Amplify Sustainability 602D0C606Afc4279390Df580
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Nsg Group Introduces Renewable Electricity In Poland 61Dd684A7Da4B33A69083354
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Open Letter By The Ceo Initiative For Europe%27S Recovery Reform And Resilience To The European Commission European Council And European Parliament 5Efaf5F31416Ef39437Fa487
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Open Letter Ceo Climate Alliance To World Leaders We Support You In Taking Decisive Climate Steps At Cop26 617Ac6959Db46D1527341806
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Open Letter On Sustainability Reporting To The European Commission The Council Of The European Union And The European Parliament 6176Ca0E94A68A13B935F26E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Orange And Schneider Electric Run Industrial 5G Trials In French Factory 5F71E446F18A994Dc54478F7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Over Half Of Industrial Process Organizations Not Yet Prepared For Successful Digital Transformations 63103Aade0F703F09B0Cefb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Pepsico And Schneider Electric Accelerate Adoption Of Renewable Electricity Among Value Chain Partners 6242E7Cd1213D632F04364C4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Preparing For One Planet Prosperity Is Necessary For Companies To Attain And Maintain Their Long Term Competitive Advantage 5F32Aa4Fcc4C816B4516F83B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Product Transport Systems Now Up To 50 More Flexible With Next Generation Multi Carrier 615F04B04517D326C32F47C4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Re Inventing The New Electric World With Myschneider Partner Program 5F7F1B0530995E701937C8Ce
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Re Inventing The New Electric World With The Myschneider Partner Program 5F7F18Bc8701Fc0Ee362B51D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Reduce Time To Modernization %E2%80%93 Schneider Electric Announces Two Fresh Ways To Strengthen Business Resilience Faster 607040Afbb8F613E191Fae3B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Rio Tinto Partners With Schneider Electric To Drive Decarbonization Through Circular And Sustainable Market Ecosystem 60D2Eaf67906F628A965B56C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Royal Haskoningdhv And Schneider Electric Collaborate On Next Generation Process Control For Nereda Wastewater Treatment Plants 61Dd1066A7C651396723C0C0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Boosts Next Generation Tesys Giga Offering With Digital Innovation 6070435F984C725744374C5E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Boosts Next Generation Tesys Giga Offering With Digital Innovation 615F04B04517D326C32F47E0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Brings Unparalleled Data Center Flexibility And Scalability With Canalis Track 615F049Dd66De46D6D5A4C68
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%27S Project With E On Wins Enertic Award For Green And Digital Smart Grid Technology 6006607A87Bda037Fe208194
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S 2023 First Quarter Impact Results Highlight Unwavering Focus On Sustainability 6446609Aa0F7Bc200F00Cae4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S 565M Global Investment Fund Expands With New Hires And New Investments 5D91F66E1E57650346525209
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Acti9 Active Named Ces 2021 Innovation Awards Honoree 5Fd839E0D4A88C0Dad422Ec4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Altivar Drives Recognized As %E2%80%9Cefficient Solution%E2%80%9D By Solar Impulse 5F5F281Cf8E6E15C1A611D48
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Circular Economy Commitments And Progress Unveiled Today 6024F68Cedd56D109C37629D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Commitment To Dei Recognized By Bloomberg%E2%80%99S Gender Equality Index For Fifth Year In A Row 61F0Faf737333926253Dbfa4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Commitment To Sustainability Recognized In Two Leading Rankings 5Ef476B78C5665033A1B93Ff
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Ecostruxure%E2%84%A2 Foxboro%E2%84%A2 Distributed Control System Certified To Industry Leading Isasecure Ssa Level 1 Cybersecurity Standard 620Cd15Fa36E972Cbb4353Dd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Ecostruxure%E2%84%A2 Resource Advisor Software Featured By Microsoft%E2%80%99S Buildfor2030 Campaign 60812B5E38219E42Fa1783E2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Ecostruxure Building Advisor Wins Facilitiesnet Com Vision Award For Analytics Management Software 613605973Ceee92Efc532969
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Ecostruxure Platform Becomes One Of Wiredscore%E2%80%99S First Accredited Solutions 636E35D88B9D92Ed2C085524
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S First Sustainability School Opens For Enrolment 646B77Fd7854E9E9160Ca954
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Global Security Labs Receive Crest Pen Test Accreditation 6023Bf3Ba992Bd56227C8Fc0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Intelligent Enclosures Streamline Process Automation And Safety System Engineering 5Da9Aa6D12574A0B936Baa1E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Jean Pascal Tricoire Named A Glassdoor Top Ceo In 2021 60C97F152133F021C0014920
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Lexington Smart Factory Earns Fourth Industrial Revolution Advanced Lighthouse Designation By World Economic Forum 5F6279F2Efc109026110A847
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Net Zero Building Solutions Implemented At Intencity Recognized By Fast Company 6298Cd46307Dbc37Af23E004
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S New Research Shows That Digital And Electric Solutions Can Cut Carbon Emissions In Office Buildings By Up To 70 6507Fd2De234040A7C022613
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Next Generation Blokset%E2%84%A2 And Okken%E2%84%A2 Low Voltage Switchboards Enhances Safety Reliability And Connectivity For Innovative Power Distribution And Motor Control 605B29507891Ad55087E8Dc9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Next Generation Blokset Mb Low Voltage Switchboards Enhance The Safety Reliability And Connectivity Of Innovative Power Distribution And Motor Control 6176C872465664248212B264
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Next Generation Transferpact Automatic Transfer Switching Equipment Atse Enables Reliable Backup Power Access For Hospitals Airports Data Centers Industry And Critical Infrastructure 615F04B04517D326C32F47Dc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Peter Wexler Listed Among Top 20 In House Legal Leaders By The Financial Times 634939E2F34A4Fc39E03Ee5F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Sarel Site Invests In Industrial Performance And Carbon Reduction Improvements 64B939D641486C457202A3F3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Sustainability Leadership Recognized For The 11Th Year In A Row By Dow Jones Sustainability World Index 619E0Edc413Aeb18Bf3D9D54
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Third Quarter Sustainability Performance Buoyed By Continued Climate Action 6358E24Fd0F531Dd310Aeadf
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Third Quarter Sustainability Progress Focuses On Urgent Climate Action And Meeting 2021 Full Year Commitments 6176Cf98014C3864D563Fc4B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Tina Mylon Wins Wequal%E2%80%99S People And Culture Award 61F78032Edd88A0A881E5Cb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Wins Global Award For Contribution To The Circular Economy 6024Fadd4E9Cb81346456Af7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric%E2%80%99S Wiser Home Energy Management App Named 2023 Ces Innovation Award Honoree 63974098Bfb7Ce3D3704Bbf4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric 2020 Corporate Energy Sustainability Progress Report Demonstrates That Flexibility And Resilience Are Critical For Energy And Sustainability Success 5Ef4Bcff12574A1Df72F3Be5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates And Expands Global Sustainability Consulting Business 615F049Ed66De46D6D5A4C74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates Industries Of The Future Innovations 6070481153309E5Bc13770E0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates Its Ai At Scale Strategy With Solid Progress In The First Year 637354860Adc3A6541060214
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates Journey To Next Generation Sustainable Industry At Hannover Messe 2022 6270Fe4160D04538Db4C4C04
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Accelerates The Ev Transition With Faster Smarter More Reliable Charging Solutions 66089227D257Dac16D0795A3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Achieves 10 Process Energy Usage Improvement By Unifying Power And Process At World%E2%80%99S Most Energy Intensive Sites 5F7F198Fbc72Ae40656B533C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Achieves Its Highest Ever Score In 2023 Bloomberg Gender Equality Index 63Da4E4Cea2Dcead24091754
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Achieves Outstanding Performance In Four Corporate Sustainability Ratings 61Dc0C995F5Ee11E06775214
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Acquires Dc Systems B V To Advance Innovations In Electrical Distribution 5Ffc59Fffe178F7D21800D5E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Acquires Renewable Energy Platform Zeigo To Expand Digital Procurement Capabilities Globally 61E0036F1Fff6B18700B31A4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Corporate Climate Action With Global Supply Chain Decarbonization Service 60352B6Dd55Edc092248D9C6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Customer Wind And Solar Farm Operations With Complete Digital Continuity 63446Becbcd1180Db6064C54
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Industrial Customers%E2%80%99 Business Resilience With Ecostruxure%E2%84%A2 Service Plan For Variable Speed Drives 6294Ae4877Bcea5360479Eb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Its Artificial Intelligence Ai Strategy With Appointment Of Chief Ai Officer And Creation Of New Ai Hub 617Aa598B7359463Ac1F3144
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Management Of Hybrid It Infrastructure With New Ecostruxure It Innovation 5F7F222Fe83B5957Bc2Ecb61
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advances Partnerships Of The Future At Enlit Europe To Further A More Resilient Net Zero World 61A4E29F18410721Ee544Df5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Advocates For Industry Transformation With Buildings Of The Future Vision 5F7F298330995E701937C945
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Again Named One Of The World%E2%80%99S Most Ethical Companies By The Ethisphere%C2%Ae Institute 6034C42408F701034715B940
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Alfa Laval Extend Collaboration 614377Bc8C84Ce0649279Cf4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aramco To Collaborate On O Pas%E2%84%A2 Automation Test Bed 5F98D8C9028D38216669Bfab
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aveva Digitize Kunming Cge Water Supply To Improve Safety And Sustainability 6281Cc822E1A4C11Af04B644
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aveva Extend Partnership To Deliver End To End Solution For Multi Site And Hyperscale Data Center 5Ef4Bb1E1416Ef783D4E24F0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aveva Partner With Shell To Accelerate Net Zero Transition In Hard To Abate Sectors 632D94C611045601210F3534
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Aveva Unify Vale Mining Operations To Improve Safety And Sustainability 611B4E0Bdebda6437F2337C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Basf Increase Visibility Into Operations With The Implementation Of Ecostruxure%E2%84%A2 Asset Advisor For New Electrical Substation 5Da97Dd91416Ef69830F9855
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Bitsight Announce Partnership To Improve Detection Of Operational Technology Ot Cybersecurity Exposure 63B6A7392C67F64317079Aa4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Boston University Joint Study Reveals Over 2 Million New Jobs Can Be Created During The Transition To Net Zero Buildings 6520744Caa23215C000Db92B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Capgemini Collaborate To Accelerate 5G Industrial Automation Supported By Qualcomm 63Fc242A1B1Bb6F8B105D991
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Claroty Launch %27Cybersecurity Solutions For Buildings%27 Reducing Cyber And Asset Risks For Smart Buildings 62A32E83Abbdca1A52279Ba4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Compass Datacenters Expand Partnership With 3 Billion Multi Year Data Center Technology Agreement 654B5F241Ed6Be922F0F0563
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Etap Announce New Digital Twin Integration Enabling Operator Training And Simulations Greatly Reducing Risk To Operations 6294Ae4877Bcea5360479E84
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Greenyellow Join Forces To Provide Commercial And Industrial Microgrid Solutions Across Europe 64365A983Ada0314B90D20E2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Greenyellow Partner To Accelerate The Low Carbon Trajectory Of Large Companies Worldwide 61939314D5789E419A313604
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Hdi Collaborate To Transform Industrial Insurance 60082724C3Cf911Dd65Cb2C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Hitachi Energy Collaborate To Speed Up The Energy Transition 62A099Db7Ddb9C0C042C6964
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Minesto Join Forces To Commercialize Marine Energy 604B23D5Aa3Fa12A311C677A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Panasonic Partner To Make The Future Of Residential Heating Smart And Sustainable 62B1871Cbe0D265C12531Bd4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Phoenix Contact Deliver Plug And Produce Universal Automation 656456B3350Ea3D847094Dc3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Prisma Photonics Partner To Increase Integrity And Efficiency For Oil And Gas Pipeline Operators And Owners 61939Dedc9Ca474Ab220Edc0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Rib Back Industry Leading Embodied Carbon Calculator Technology 628B9D412F4264112731Cd74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Royal Haskoningdhv Transform Wastewater Treatment With Next Generation Automation Platform 638D80Fbcd6De5E3Fd04B319
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Sap Collaborate To Advance Industrial Digitalization With Seamless Shopfloor Ot It Integration 6369C54A0B5697Fae104Eb92
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Semiotic Labs Announce Partnership To Expand Ecostruxure Asset Advisor Digital Service To Include Condition Based Monitoring And Predictive Maintenance Of Rotating Equipment 5F8591156635Dd1B8F4Ec771
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And Temasek Launch Greenext To Provide Sustainable And Resilient Energy As A Service 61B0C7Aaa10B5D6B925Ff6C4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And The Global Footprint Network Partner On %E2%80%9C100 Days Of Possibility%E2%80%9D Initiative To Promote Solutions To Fight Climate Change 6101212406F76C48Bf1Cf784
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And The University Of Birmingham Dubai Build Green Energy Efficient Data Centre On Site At New Campus 6130560E2A268638F560C5D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric And W%C3%A4Rtsil%C3%A4 Launch World%E2%80%99S First Sustainable Lithium Mining Power Solution 60D01E91945C1E2D0755F2Fb
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces 2021 List Of Master Level Ecoxpert%E2%84%A2 Partners In Critical Power Substation Automation Solutions 6035C7196Cb500581E6D2114
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Adoption Of Wiztopic%27S Blockchain Certification Platform 5Daf058E12574A3467070Bc5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Exclusive Benefits And Proactive Management Of Electrical Systems Across Entire Lifecycle With Ecocare 634475447B52A9Dc4803208B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Finalists For Its Go Green Student Competition 62A0142825Fe0945F750A224
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Global Winners Of Second Edition Of Its Sustainability Impact Awards 66086B93A0655E1231086193
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Google Asm And Hp Have Joined The Catalyze Program For Semiconductor Supply Chain Decarbonization 656C5B99D5E28Eff4E0E18F3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Grid Operations Platform As A Service On Microsoft Azure 62879B0Be5Ae326D095812F7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Industry%E2%80%99S First Integrated Rack With Immersed Liquid Cooled It For Data Centers 5Def94361416Ef4F40297095
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Innovative Tax Credit Transfer Agreement With Engie To Accelerate Progress Toward Its 100 Renewable Energy Goal In North America 65D3097F5672Bf482305Abf3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Intention To Sell Its Schneider Electric Russia Operations To Local Management 6268Ca4923D4A02A8D5F84B3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Latest Climate Research And Renewed Partnerships At Cop28 656C5B9Ed5E28Eff4E0E1A2D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Partnership With Avnet And Iceotope To Develop Liquid Cooled Data Center Solutions 5D8Ce65A12574A00A52Baea6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Promising Start Of Its Sustainability Impact Program 620De7C09A20223Bb34D88E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Significant Enhancements To Ecostruxure%E2%84%A2 Power Platform To Offer Customers The Best In Class Digital Electrical Distribution System 5D8Dd3218217Ef1D1D078Cc5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Sm Airset%E2%84%A2 The Green And Digital Switchgear With No Sf6 Greenhouse Gas 5F7Efa6D9700Eb29C2576F15
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces The Creation Of Its Third Impact Fund %E2%80%9Cschneider Energy Access Asia%E2%80%9D 5D8Cc29280564A76234798F7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces The Global Winners Of Its Inaugural Sustainability Impact Awards 2023 642B0C38B1242D3Fc10A4B4D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Updates To Core Ecostruxure%E2%84%A2 Power Platform Improving Energy Operational Efficiency And System Reliability 634E60Bb07942E6B330D5D89
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Announces Winning Teams In Its Go Green 2023 Student Competition 651Eb31D9Fe785269B014Cc3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Gwenaelle Avice Huet As Chief Strategy And Sustainability Officer 62178309B0Fecf7278664485
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Gwenaelle Avice Huet As Executive Vice President Europe Operations 64F07F0C3027C733F508Ae83
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Nathalie Marcotte President Of Process Automation Business 5Da845A21416Ef26Ad02A555
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Olivier Blum As Executive Vice President Energy Management 62178357Bf2Df1011F5Ff716
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Pankaj Sharma Executive Vice President Of Secure Power Division 5Dfb40561416Ef44Eb7C1E89
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Pasha Ponomarev As Head Of Emea Sustainability Business 63737E2016Cfc2Ee0F0F847B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Appoints Philippe Delorme As Executive Vice President Europe Operations 6217837E197Ed0123301Bf75
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Backed Drive By Solar Impulse Foundation To Identify Climate Change Solutions Hits Key Milestone 6074408233F2Af424374226A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Becomes Founding Member Of Semiconductor Climate Consortium 63626Ba5Ebbb2261970Af035
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Begins Innovation Summit World Tour Unveiling Latest Innovations And Collaborations 6609314179Ef654Df406D363
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Boosts Its Innovation Ecosystem With %E2%80%98Schneider Electric Ventures%E2%80%99 To Identify Nurture And Support Bold Ideas 5D91Dd5680564A226033Cb19
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Brings Ai Assisted Advising And Implementation To Accelerate Corporate Clients%E2%80%99 Energy Sustainability And Climate Change Programs 5F6071E4C824452Ec13F0451
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Brings Net Zero Homes Closer With A Host Of Revolutionary Innovations 615F049Dd66De46D6D5A4C6C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Buckles Down On Its New Sustainability Targets 608155Ebbc910B46F928Dd51
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For A Rethink Of Investment Priorities To Break The Supply Vs Demand Deadlock And Accelerate Climate Action At The Wef In Davos 62865810Fea2B75E9B39Bc54
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For Greater Efforts To Accelerate The Energy Transition And Address The Energy Crisis Decarbonization And Efficiency Are Key 63C024B5A45F3B6Dd80Ae5B7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For Rapid Deployment Of Smart Grids To Accelerate Energy Transition 6565B2Edaa87B3E75A006265
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For Stronger Collaboration In Industries Of The Future 6023A3Defcacf213F8241585
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For Students To Share Their Passion For Bold And Sustainable Ideas 615Ab75F16A7924B9A1Bfdf8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls For Urgent Action In The Race To Decarbonize By Accelerating Net Zero Pathways 616479E442F5F31E421D8444
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Calls On Business Community To Work Together On Efficiency And Sustainability At Innovation Summit Barcelona 5D939B791E576510F078F847
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Cancels The Capital Increase Reserved For Employees 5Ef4B77C12574A2A823E2846
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Celebrates 10Th Anniversary As Title Sponsor Of The Marathon De Paris 641D393B0A534864690Da574
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ces 2022 Leading Sustainability And The Homes Of The Future 61D41F71D2F56E7Eef14Cba4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Closes 2022 With Strong Sustainability Impact Results 63Eb57E413F0D16Fb60800B4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Collaborates With Nvidia On Designs For Ai Data Centers 65F801C8595E3Ff8Cd0A80C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Commits To Tackling Inequality By Joining G7 Business For Inclusive Growth B4Ig Coalition Powered By The Oecd 5D91F2718217Ef36B64Eb6C3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Completes Investment In Operation Technology Inc %E2%80%9Cetap%E2%80%9D To Spearhead Smart And Green Electrification 60D9796Ab3D8Af4E085F0Fa9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Completes Its Investment In Planon Beheer B V %E2%80%9Cplanon%E2%80%9D To Digitally Transform Buildings Into The Healthy And Sustainable Workplaces Of The Future 5Fda48F08C729D54Da793677
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Completes Transaction For Voluntary Public Takeover Of Rib Software 5F06D12C12574A154A2102Df
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Completes Transaction To Combine Its Low Voltage And Industrial Automation Business In India With Larsen Toubro%E2%80%99S Electrical Automation Business 5F4Cb3890F095A7696599492
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Continues To Innovate For A Net Zero Future Free Of Fluorinated Gases 618530E6C2Af562Ae433Fc0E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Continues To Lead The Way In External Esg Ratings 13Th Year In A Row In Djsi And Global 100 65A6249241A94961A103F73F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Contributes To The Restoration Of Notre Dame Cathedral In Paris 64465647F45B6Ee95500C274
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Creates Global Standards In Refreshed Flexibility At Work Policy 5F7Bc62E002A18398274F2Db
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Creates Professional Education Platform To Address The Data Center Talent Shortage 62Cbd1Bd31D8D70Be01792A4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Cuts Five Years From Its Carbon Neutrality Goal Establishing Roadmap For The Carbon Neutral World 5D91F90E8217Ef36Ea671D33
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Danfoss And Somfy Join Forces To Create A Connectivity Ecosystem For Residential Mid Size Building And Hotel Markets 5Ffc77A7D538Db74A651Ecfb
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Delivers New Data Centre Cooling Infrastructure For University College Dublin 6329707D6Deef11E2A0B82C3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Delivers Next Generation Open Automation Infrastructure In Collaboration With Intel And Red Hat 65C0D493E6967Ff64100Af83
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Details Pledge To Fight Global Biodiversity Loss 60A296Bd010Cda30E62Ee2B8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Donates Electrical Equipment To Restore Essential Humanitarian Energy Supplies In Ukraine Responds To World Economic Forum Call To Action 6256B2F34Dae3A73A77516E9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Doubles Down On Sustainable Digital Industrial Transformation At Hannover Messe 643575D060E894Ea040738E8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Drives Data Center Sustainability With Uniflair Cooling Innovation 626819456C992D737C6B1D04
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Drives Generative Ai Productivity And Sustainability Solutions By Integrating Microsoft Azure Openai 6551D3Eacbbacd6Fa60F2B03
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Drives Sustainable Growth And Reinforces Strategic Supplier Partnerships At Global Supplier Day 2019 5D960A8B80564A353A4B9D24
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Earns 2021 Energy Star%C2%Ae Partner Of The Year For Sustained Excellence Award 60771325B3Ce106Bd3327995
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Earns Four Five Star Ratings In 2023 Crn Partner Program Guide 643E926Af1469Bd33C005947
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Earns Top Project Of The Year Award From Environment Energy Leader For Supply Chain Initiative 60F97111Ce816249A8727874
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Embarks On A %E2%80%98Connected By Default%E2%80%99 Future For Active Primary Switchgear 615F04B04517D326C32F47D7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Employees Worldwide Rally Around Givingtuesday2019 5De10B578217Ef65D3380087
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Empowers Building Owners And Operators To Achieve Net Zero Carbon Goals With Ecostruxure%E2%84%A2 Energy Hub 634469506426Cf211A058D66
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Enel And The World Economic Forum Publish %E2%80%98Net Zero Carbon Cities An Integrated Approach%E2%80%99 Report 5Fff0Fc5C65835444065Fff2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Enhances Ecostruxture%E2%84%A2 Triconex%E2%84%A2 Safety View 609023Dd22C289121E443Ab4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Enhances Next Generation Easypact Exe Vacuum Circuit Breaker With Thermal Monitoring 6215Ff42D22E13298727E0E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Evolves Myschneider It Partner Program Enabling Collaboration To Improve End Markets Experience 629F68A817670D44Fe62C475
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Apc Smart Ups Ultra Range %E2%80%93 Game Changing Innovation For Hybrid It 61605896D6753C5Eb921Cd14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Energy Sustainability Services Operations In East Asia Japan 5Fa21689De7F6661B1745D2D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Grids Of The Future Portfolio With Stepwise Journeys For Digital Transformation 63E268100F93322C0B00Cde4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Its Portfolio Of Sf6 Free Green And Digital Mv Switchgear With Gm Airset%E2%84%A2 629597B611E12072551Ef644
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Expands Support Of Liquid Cooled It With Chilldyne Partnership That Will Deliver The Next Evolution In Innovative Sustainable Liquid Cooling To The Data Center 6192B31Bba6C1A1E11219Dd4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Extends 3 Phase Easy Ups 3L From 250 Kva To 600 Kva To Make Business Continuity Easy With Optimized Investment 603484191F18B7601A772F74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Extends Award Winning Green And Digital Switchgear Range With Rm Airset%E2%84%A2 615F04B04517D326C32F47D2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Extends Strategic Partnerships With Aveva Lenovo And Stratus To Enable It Ot Convergence 5Efb241D1416Ef49873800Ee
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Fast Tracks Matter Compliant Smart Home Applications 613062428D5Ff81Fa043B354
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Finalizes Acquisition Of Ecoact 653F705Da3Af5554540614D3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Foundation Engaged At Cop27 In Support Of Young People And Local Communities 635A3418Ffd5383D4F0Fd15B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Foundation Joins Givingtuesdaynow A Global Day Of Giving In Response To Covid 19 5Ef46Df612574A7D65249B9A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Further Strengthens Its Dedication To European Power Industry Evolution 5Ef4Bede1416Ef784178C68E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Furthers Its Commitment To Infrastructure Mason%E2%80%99S Climate Accord Accelerating Advances In Data Center Sustainability 63638D4C2Accfe67A903D787
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Furthers Sf6 Free Airset Mv Ranges For Greener Electric Distribution 63446Fdc2953397996037130
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Gears Up For Climate Week Nyc By Launching An Inspiring New Program For Un Sdgs And Reinforcing Accelerating Its Commitments For A Carbon Neutral World Sdg13 5F64B6C639D17F46594937Ae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Global Supply Chain Recognized With 2020 Power Of The Profession Award 5F046D5212574A1E9011Ba66
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Grows Global Network Of Smart Distribution Centers With New Uae Facility 5Dd540628217Ef0472319639
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Helps Clients Reach Landmark Milestone Of 10 000 Mw Advised Renewable Energy Power Purchase Agreements 60D1C506E00Fb85B527Ab79D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Helps Landsec Create Flagship Net Zero Building In London%E2%80%99S Cultural Hub Of Bankside 632C12F3327E6D7158036954
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Highlights The Importance Of Software Automation And Electrification In Accelerating Industrial Competitiveness 6624E68D841B651769099073
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Honored With 5 Star Rating In The 2022 Crn%C2%Ae Partner Program Guide 62Ab270024641A437C39A884
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Implements Building Management System For Hyatt Centric Jumeirah Dubai 616Ffe6D321A605C850506F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Implements Predictive Maintenance For Nestl%C3%A9%E2%80%99S Dubai South Factory 60Ec1E5D9Da4A27B50547304
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Important Information On The 2020 Annual Shareholders%E2%80%99 Meeting Organization 5Ef4B35D8C56651A690B649D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric In Global 100 Most Sustainable Corporations For 12Th Year In A Row 63C13Cc51Fee39702E069F14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric In Universum%E2%80%99S Top 25 World%E2%80%99S Most Attractive Employers 615D2B714F57Ab1B526Dc24A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included Again On Fortune%E2%80%99S Annual Change The World List 6515267Cfb3F883598055E24
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In Bloomberg Gender Equality Index For Fourth Consecutive Year 60101623D45B2B7Ce30E276D
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Bloomberg Gender Equality Index For The Third Year In A Row 5Ef4797A1416Ef53683404Ed
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 25 Corporate Startup Stars In 2020 By Mind The Bridge And Icc 5Ff683De4B4Aef66162919A2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 50 For The Diversity Leaders 2020 Ranking Held By The Financial Times 5Dd40Ffa8217Ef38Bc5Ff78F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 50 For The Diversity Leaders 2021 Ranking Held By The Financial Times 5Fa2Bbb88D6Fac541B2866B0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included In The Top 50 For World%E2%80%99S Most Attractive Employers 5F758Fc1Be8D5E67Fb48E23B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Included On Fortune%E2%80%99S Annual Change The World List 61644B9425B3043F160B4C44
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Integrates Hailo Technologies Processors For Greater Ai Capabilities 6555Cfc2Bf7Eb468Be0Cd4B3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Intends To Offer Ai Consulting Services And Bespoke Ai Solutions On Top Of Ecostruxure 63E0F134A1A44F8103029B07
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces Advanced Energy Management Solutions At Innovation Summit World Tour 6345220985F329D2F90E0F88
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces Apc Smart Ups Ultra The Smallest Lightest Single Phase 3 Kw Ups On The Market 60C9D408Ea22C34B0F443D04
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces Easy Ups 24V Dc Din Rail Industrial Ups 62971D23C087883537115A54
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces Ecostruxure%E2%84%A2 Building Graph  Building Operating System Platform For Smart Building Applications 615F049Ed66De46D6D5A4C70
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces Infrastructure Of The Future 61E8348E0E06001F51261E14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Introduces The Most Sustainable Modular Single Phase Ups Of Its Kind 629F68A817670D44Fe62C46C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Investing %E2%82%Ac40 Million In New Smart Factory In Hungary 641Aca55C7Bfadd2A4088F64
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Invests In Operation Technology Inc %E2%80%9Cetap%E2%80%9D To Spearhead Smart And Green Electrification 5Fb224Cc8C11A759Eb3B4E16
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Invests In Planon Beheer B V %E2%80%9Cplanon%E2%80%9D To Digitally Transform Buildings Into The Healthy And Sustainable Workplaces Of The Future 5Fb22182B296Ca285600Eb41
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Founding Member Of Isa Global Cybersecurity Alliance 5D80C6B38C5665108F5874F0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is In The Top 50 Of The World%E2%80%99S Most Diverse And Inclusive Employers In Universum%E2%80%99S Diversity Inclusion Index 5De8Ecb48C566568Ad6A39Ce
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Named The Winner For Excellence In Operations At The Idc Industry Insights Innovation Awards Idciia 2020 5Ff67Ff715818C3Ef070Ebb7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Partnering In The Circulars Accelerator Program With Accenture 6023C37C4Ce2Ee1B0975D38F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Is Recognized By European Women On Boards Gender Diversity Index 61Ead565F25Ec07A9A6D6Ca1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Issues Industry First Blueprint For Optimizing Data Centers To Harness The Power Of Artificial Intelligence 65029E39Bbf2F67Dbb03D3E3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Joins Infrastructure Masons Partner Program To Advance The Digital Infrastructure Industry 5Efb25B11416Ef4Ca45E1795
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Joins Universalautomation Org To Create New Era Of Plug And Play Automation 618250096A2C95579A0Ea997
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Joins World Woman Hour To Inspire Future Generations Of Women To Work In Energy 621C9Eda2404362C1A2Ec4D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Kicks Off Its Innovation Summit World Tour 2020 With Call To Embrace Digital Technologies For A More Resilient And Sustainable Future 5F7Ef79D17Ed1A55081A798F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Kicks Off Its Innovation Summit World Tour With A Call To Keep Accelerating Sustainability Action 634465C177984149Ec010A4F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Lands On Fortune%E2%80%99S 2022 World%E2%80%99S Most Admired Companies List For The Fifth Year In A Row 61Fa74E44Ac63E0E52295224
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches A Capital Increase Reserved For Employees 5Ef496131416Ef647B12Fb94
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches All In One Battery Energy Storage System Bess For Microgrids 6628Bb7D6E36B7900206Fba3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Digital Twin Software Solution 629597B711E12072551Ef656
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure%E2%84%A2 Plant Advisor To Increase Operational Profitability Through Edge And Data Analytics In The Cloud 5F7F22D521269344643A273B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure%E2%84%A2 Plant Lean Management Boosting Productivity And Digitalization In Manufacturing 65D35C161C14C4C58E0A8D93
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure%E2%84%A2 Plant Performance Advisors Suite For Smart Operations 5D8Cf41112574A00Ac394Aae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Ecostruxure For Emobility In Buildings An End To End Ev Charging Solution For Sustainable All Electric Mobility 628Ae81Bd81A2B3C193Fdbd8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches First Matter Certified Home Energy Products 636386B5861C0Bd8D301Ca90
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches First Of Its Kind Climate Change Advisory Services 6011726Dd70C4E39314Ef19E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches First Smart Factory In The U S Demonstrating Quantifiable Real Time Benefits Of Innovative Ecostruxure Solutions 5F627Dfb07483225Ea4Fb77F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Free Online Energy Transition Course With The International Trade Centre And Atelier 21 646F420Da39E2Cccd4067Fa4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Global Communications Service Amidst Increasing Investor Stakeholder Pressure For Transparency In Esg Performance And Climate Risk 60Eff36F12435705812470B4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Grids Of The Future Lifecycle Management At Enlit Europe 61A4E103B5Eeb4168E6A1B4C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Inaugural Global Partner Recognition Program 6298C18Ad21646124A793Aba
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Industrial Digital Transformation Consulting And Deployment Service 63D107D6056166412F0109D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Managed Security Services For Operational Environments 649Aa83C365A160D00055Da7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Materialize Program For Scope 3 Decarbonization Of Natural Resources 660875B1Bcc539175808B603
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches New Digital Ecosystem To Drive Worldwide Economies Of Scale For Iot Solutions 5D91E26180564A2244110003
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches New Podcast Series Leaders Share Insights On Accelerating Digital Journeys During Pandemic 5F96E7E9D8A807641917172F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches New Scalable Iiot And Ai Solution For Mining And Cement Industries 6279C9A3Cd0C7B34F370A374
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Partnerships Of The Future Unleashing Simplified Open And Increasingly Digital Collaboration 6073F6B4588Aa34F0F2Bf4E0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Partnerships Of The Future Unleashing Simplified Open And Increasingly Digital Collaboration 615F04B14517D326C32F47E8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches Specific Actions In Response To The Covid 19 Crisis And Stays The Course Of Its 2020 Esg Agenda With Schneider Sustainability Impact Achieving 7 15 Out Of 10 5Ef4B84912574A2A2A384F7F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Launches World%E2%80%99S First Ev Charger To Keep Energy Bills And Co2 Emissions In Check 630Ddc414067D8Bb6C06A356
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Leadership To Participate In 2021 United Nations Climate Change Conference Cop26 Events 6183709Cb423504838335Dd3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Makes Econversion The Default Mode For Its Galaxy V Series Upss 634E56Fd506F12190506A124
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Makes Steady Progress Toward 2025 Sustainability Targets 62E0Ffcbd488Be13Dd07A294
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Marathon De Paris 2021 Renews Commitments To Green Running Diversity Inclusion And Local Communities 615Db15B5A3A867829559F14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Marathon De Paris Continues To Deliver Positive Societal Impact 6603A431Ff243A7000055269
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Marks Start Of Cop27 With New Plea And Pledge To Strengthen Public Private Collaboration 636933Ae7Fcb595E660031A4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Moves Forward With Its Sustainability Impact Targets Mobilizing Support From Employees Partners And Customers 6102Cd836D23856E0E70Bd04
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named A Top 25 Corporate Startup Star 61Bb719Eed3A3A3Aed0D37D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named Among 100 Of The World%E2%80%99S Most Ethical Companies By The Ethisphere%C2%Ae Institute For The 9Th Consecutive Year 6034Ddf08Ac1Fa36245C8004
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named As A %E2%80%98Lighthouse%E2%80%99 In Diversity Equity Inclusion By The World Economic Forum 63C01Fbac132860Abd0C0Ef4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named As Best Global Sustainable Supply Chain Organization Spearheading Climate Action Throughout Its Ecosystem 60C8994C244643554F295A44
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named As One Of The 2022 World%E2%80%99S Most Ethical Companies For The 11Th Time 6282091C78A53726631A449F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named One Of The 2018 World%E2%80%99S Most Ethical Companies%C2%Ae By The Ethisphere%C2%Ae Institute 6034Df608Fc1B569Af3Ab110
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named One Of The Fortune%E2%80%99S World%E2%80%99S Most Admired Companies For The Third Year In A Row 5Ef47C4A1416Ef5B227E78Be
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named The Most Honored Company In Europe By The Institutional Investor%E2%80%99S 2022 Awards 632417E7C869E4Fa47090193
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named To Fast Company World%E2%80%99S Most Innovative Companies List For 2022 62582A26C957C800E6114E4A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Named To Time%E2%80%99S List Of Best Inventions Of 2022 For Its Collaboration With Footprint Project To Deliver Microgrids For Disaster Relief 636D108227D1Ca488101D194
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric On Fortune%E2%80%99S 2021 World%27S Most Admired Companies List For Fourth Year In A Row 6018104Cd0A29864A556Ccfd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Once Again Awarded Top Scores In Esg Ratings 63971381322Cf85De9078Ac7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Once Again On The 2021 Carbon Clean 200%E2%84%A2 List Showing The Way To A Clean Energy Future 602E59F1E02Ffd4C700939F7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Opens Its First Smart Distribution Center In India 5Dcbca858217Ef1Dcc668470
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Optimizes Distributed Energy Resources Der Management With Grid To Prosumer End To End Approach 6287982E73311C7A0362E78F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Outperforms 2023 Sustainability Targets And Maintains Its Leadership In Esg Ratings 65Cc89B3Ade55370F80F3013
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Arcelormittal On Low Carbon Steel To Reduce The Environmental Impact Of Its Products 653662Cf3168E6Ec4F086A83
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Basf To Develop A New Product Prototype Using Recycled Plastics 6034E137B2F7A454Cb6B1Ab6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Intel And Applied Materials To Help Decarbonize The Semiconductor Value Chain With New Catalyze Program 64Ae3205A5De19549D01Ca0C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Roca Group To Accelerate Decarbonization 60A224C0Aca0670F6E7B75D1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Top 1 000 Suppliers To Help Reduce Their Operations%E2%80%99 Co2 Footprint 50 By 2025 607714954749685F6D5047A8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Partners With Web Summit To Reduce Carbon Footprint For One Of World%E2%80%99S Largest Tech Events 5Db8047D8217Ef5D914514E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Paves The Way To Carbon Neutrality With Thirteen Of Its Buildings %E2%80%9Cnet Zero Carbon%E2%80%9D 5D8Cd0908217Ef7Cac79Eee2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Presents Inclusive And Sustainable Energy Solutions At Energy Access Investment Forum In Africa 6418456F8844Ca6B4302Fac4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Presents Tomorrow Rising A Docuseries On How Vocational Training Can Change Lives Around The World 5Dd261Ca8217Ef59Eb2897D5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Products Win Six Prestigious If Design Awards 5Ef4839E12574A020F38B712
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Provides Grid Flexibility With The Release Of Ecostruxure Derms 5Dcc1D628217Ef65154Cb3C3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Publishes The World%27S First End To End Biodiversity Footprint 5F7F3D5C40A59942De772743
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Puts Sustainability Goals In Reach By Simplifying The Management Of Building Energy Systems With Ecostruxure%E2%84%A2 Energy Hub 6267F4Dc933C357656408148
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1 Adms Vendor By Guidehouse Insights 63E210C18Bfbee85E100142E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1 In Microgrid Integrator Leaderboard Report By Guidehouse Insights 64Acddf0A57F93794F09B9B7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1 In The 2020 Gartner Supply Chain Top 25 Europe Top 15 5F2808F8Edba5A655308795C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 1St In The Industrial Sector For Gender Equality According To Equileap 5D936F1F80564A541F33F148
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 20Th In The World%E2%80%99S Top 100 For Gender Equality By Equileap 6281Bed4034D371Dde243664
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked 4Th In The Gartner Supply Chain Top 25 For 2020 5Efb22201416Ef4D450A7A04
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranked World%E2%80%99S Most Sustainable Company By Corporate Knights 600A99142Da98A304F239Fbf
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranks 1 For Third Consecutive Year In The Gartner%C2%Ae Supply Chain Top 25 Europe Top 15 62Ea1Ff78B9Be8327B0D7814
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranks 2Nd In The Gartner Supply Chain Top 25 For 2022 62982444807F7B3867119464
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Ranks 4Th In Gartner%E2%80%99S Top 25 Supply Chain Award 60A60809734Ff73Ea56Ce9Da
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Re Ups Commitment To Livelihoods Carbon Funds Focused On Natural Resource Restoration 60E41E55Fc7Ed65Baa749635
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reaches Number 1 Spot For Sustainability In Its Sector By Esg Rating Agency Vigeo Eiris 611Ce5F33775D8282A7Ceae4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reaffirms Commitments To Push 1 5%C2%B0C Global Temperature Cap With Suppliers And Customers 5Dea527F12574A7B76531346
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Rearchitects Its Executive Committee 5Ef4Afcd12574A210A7965Be
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Receives The Solar Impulse Efficient Solution Label Award For Profitable Environmental Protection 5Ef4C3431416Ef04A51B2568
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Receives Top Rankings At The Institutional Investors 2020 Awards 5F57E1Bb1E04Cc29B565F73E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As 2021 Microsoft Sustainability Changemaker Partner Of The Year Award Winner 60E7243Acd4F550942019Cb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As A Diversity Leader By The Financial Times For Third Year In A Row 6194E057B201F14E5B456Ee6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As A Leader In Energy Management Software By Independent Research Firm 659791F2A1B0D5A9150E3393
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As A Leader In The Independent Research Firm Report Green Quadrant Iot Platforms For Smart Buildings 2022 620233B66F78817209378B84
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As The 2022 Microsoft Energy Sustainability Partner Of The Year 62B97225Bad1127Ae262D2F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized As Vendor Champion In Canalys Channel Leadership Matrix Emea For Third Year Running 61B7434B11E15E0F8E5606C4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized By The Climate Group%E2%80%99S Re100 As First Clean Energy Trailblazer 5F6B461397Cead7Eaf486038
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized During Renewable Energy Markets%E2%84%A2 Asia Awards For Renewable Energy Leadership In Asia 604234E5F68D9A759E5Eb2Bc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Recognized In Corporate Knights%E2%80%99 Global 100 For The 11Th Year In A Row 61E685277610392F04709A74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reinforces Its Sustainability Commitments As It Responds To The Covid 19 Crisis 5Ef4B4Eb1416Ef78163A2724
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Ecostruxure Micro Data Center C Series 43U With Intelligent Cooling Technology 60925A6C6D027F197951D0C8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Galaxy Vl 3 Phase Ups For Efficient Resilient Industrial Power Protection 6070288Bee38Ac7Aa04A03Af
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Independent Research Studies That Reveal Sustainability Action Gap 63493Ca3Ec0556620E08C19B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Key Report On Climate Change As Part Of Cop26 Engagement 617A768B47D21B32F43008F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases New White Paper And Tradeoff Tool Focused On How Dcim Addresses Hybrid It Management Challenges 63Db71Fadfe1Decc480E58F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases Solar Solutions That Provide Clean Power To Communities With Limited Access To Energy 62B9901Efc96Ec51C53Bd174
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Releases The Most Compact 3 Phase Ups In Its Class Galaxy Vl 6073F00528A2Cd0Bfa39A031
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Remains Focused On Sustainability Transformations In The First Quarter Of 2022 6267Dafb94761C12A10A1Cb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Retains Top Rankings At The Institutional Investor 2021 Awards 61486Cde33Ebee31D61C8304
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reveals 2022 Global Alliance Partner Program Excellence Award Winners 634D20A27Eefdd93Ee0E28Fc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Reveals First Home Energy Solutions Made From Recycled Ocean Plastics At Ces 2022 To Make Homes More Sustainable 61D41F71D2F56E7Eef14Cb94
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Revolutionizes Switchboard And Breaker Market With Groundbreaking Innovations In Electrical Distribution 5F7Ef882A1F9Ac6C7E59A751
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Revolutionizes Switchboard And Breaker Market With Groundbreaking Innovations In Electrical Distribution 615F04B14517D326C32F47E4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Scores Twice At Awards Presented During Climate Week Nyc 2022 63297548685B2F72Eb071C00
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sf6 Free Mv Switchgear Named Green Product Of The Year By Southern Weekly 615F04B04517D326C32F47Cd
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Shows They Are Acting To Build A Green And Inclusive Future For All Through H1 Extra Financial Results 5F203Ba55C67E422E17395De
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Signs Binding Agreement For The Divestment Of Schneider Electric Russia To Local Management 62C2588De90438105E497C94
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Signs Partnership With Nanjing Kisen To Deliver Next Generation Sustainable Cement Plants 6200B285E091B46D4B60A3C1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Signs To European Plastics Pact 5Ef46C768C566576Bb618A03
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Smart Distribution Center In Evreux France Leverages Ecostruxure To Improve Operational And Energy Efficiency 5Dbff36412574A4A912Aa40B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Solar And Qbera Capital Announce A Strategic Alliance To Provide Solar Energy In Sub Saharan Africa 5Ef469Fb1416Ef4B1A7D7285
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Solves Edge Computing Challenges With New 6U Wall Mount Ecostruxure Micro Data Center 5D8Cee1C12574A00A431224E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sponsors Cy Cergy Paris University%E2%80%99S Master Of Law And Business Ethics 5F0453Aa1416Ef6A1E2A7C03
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Square D%E2%84%A2 X Series Connected Wiring Devices Named Good Housekeeping%E2%80%99S 2022 Home Renovation Award Winner 637B4A93Fbc7898208107F28
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Stratus And Avnet Integrated Join Forces To Deliver The Next Evolution Of Innovation To The Network Edge Data Center At Hannover Messe 2022 6295E4766127B751Ba651A24
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Strengthens Partnerships For Sustainability At Hannover Messe 62972651E46A4432630078F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Successful With Voluntary Takeover Offer For Rib Software Exceeding Minimum Acceptance Threshold 5Ef4Ba801416Ef784B51C6B2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Supports Eqt As First Private Markets Firm To Set Science Based Targets 6169314F2C0Af86F4634B118
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Supports Hi Paris And Its Artificial Intelligence And Data Science Research 63A41Aa0Cba20C536B01F652
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Supports Iucn World Congress To Fight Biodiversity Loss And Protect The Natural World 612F992C9701Ba21C221C904
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Supports The World Economic Forum In Launching A Framework To Accelerate Investment In Building Decarbonization 61F3876Cd8F645462D354814
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Survey Reveals Energy Efficiency Top Priority In Homes 655B15Bc07A806742D007Dc3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sustainability Impact Awards Back For A Second Year And Nominations Now Open To Customers And Suppliers Too 64Ba50B9F6A66D4Dd00B5E33
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sustainability Impact Program Continues Progressing In Q1 2024 6628Bf8944A2018E600Ffc0E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sustainability Impact Program Reaches Midterm Milestone 64C0D4D3A511946F2305Bc73
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Sweeps Design Prizes This Awards Season 6294Cf4Faeb3846A2E3E7Fb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Build Four Control Centers For Egypt%E2%80%99S National Energy Grid 5F0Ece5929490D6702214D3A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Integrate New %E2%80%98Matter%E2%80%99 Standard Within Its Home Buildings Portfolio 609Aacced098De00Fc0Aa0Eb
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Launch Offer For Construction Software Provider Rib Software And Expand Capabilities In Building Life Cycle Digitization 5Ef47F2C1416Ef5535214558
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Modernize And Automate Serbia%E2%80%99S Entire Mv Electrical Distribution Network 64Abfa25144Df0Dca4073Cac
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Showcase Its Pioneering Energy Management Innovations And Partner Programs 5F7F2024A1F9Ac6C7E59A7D7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric To Support The Development Of Sharjah%E2%80%99S First Waste To Energy Plant 6077008302B4Bd1A9F4E5Bb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Triply Recognized For Promoting Diversity Equity And Inclusion 637Afb2Ceb1724Ecea0Cc1Fc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unleashes Ecostruxure%E2%84%A2 Power To Deliver Reliable %E2%80%9Calways On%E2%80%9D Electrical Power 615F04B14517D326C32F47Ec
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils A New Generation Of Compact Molded Case Circuit Breakers Redesigned For Improved Efficiency For Panel Builders 5F7F1E9C7Bec9C56774A9E42
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils First Of Its Kind Simple Smart Sustainable Home Energy Management Solution At Ces 2023 63B6C1398113869D010Be304
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils Growing Portfolio For Grid And Energy Industry Stakeholders Striving For Clean And Secure Energy 637Ba892Ff26Fd15280B45D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils Myschneider An All In One Personalized Digital Experience For Its Customers And Partners 60E5A065B4834821195C4Ce4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils New Research And Innovations To Prepare It Infrastructure For Net Zero Operations 629F68A917670D44Fe62C47C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils New Research And It Innovation To Meet The Demands Of A Digital First Future 60C9D409Ea22C34B0F443D08
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils Next Generation Industrial Technology To Empower Workers And Help Industries Grow Sustainably 634538Fc0F9543372B00Eb9F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Unveils Resi9 Energy Center Retrofit Innovation For Prosumer Homes 660888A643C880C3840051E3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Update On Covid 19 5Ef4B0F61416Ef783D4E2487
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Upgrades Motor Management Solutions 6295E46C004A81218D652Fb4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Welcomes European Union Proposal To Meet Environmental Targets Faster By Updating Sf6 Greenhouse Gas Policy 624D47278C6Ca941344A8C80
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Welcomes The European Commission%E2%80%99S Repowereu Plan 62865E5B1B9E8802E161De14
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Well On Its Way To Achieving Its Year End Sustainability Targets 5F90473C6230973602349D0F
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins %E2%80%98Outstanding Contribution To Sustainability And Efficiency%E2%80%99 At The Dcs Awards 2021 618B8F2Ab1D46B532B560D74
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins %E2%80%98Sustainable Infrastructure Vendor Of The Year%E2%80%99 At The Crn Uk Tech Impact Awards 614B1Bc31Ac77B3D9235A854
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins %E2%80%9Cmost Climate Positive Carbon Handprint Product Award%E2%80%9D At Climate Week 2022 6329Bf40Dd9Ee1900D0D0Bc4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins %E2%80%9Cwater Technology Company Of The Year%E2%80%9D In Global Water Awards 2022 6290487C5B2Bd8101A38Fc24
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins Energy Efficient Solution Of The Year As It Delivers Climate Friendly And Energy Saving Innovations To The Market 62D6A97C4Fae5E207A2675D4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins Four Ces 2022 Innovation Awards For Sustainability And Smart Home Leadership 61B87C6D101F06436A2F0Ba4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins If Design Award For Carbon Neutral Trade Fair Stand 646365B8Ca2C8E8Ca606D384
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins Industrial Energy Efficiency Award At Hannover Messe For Sf6 Free Medium Voltage Switchgear 5F0Ebee6Ba5C0F6D7F6D4152
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins The %E2%80%9Ccross Border Deal Of The Year Over 1B %E2%80%9D At The 19Th Annual M A Advisor Awards 5Fd8B71Ebabd686Bb76895F2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Electric Wins Ux Design Award Concept Category Underscoring Innovative User Centric Approach To Facility Management 6376079Aff29D7734906B644
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Employees Make Time For Their Communities At The Occasion Of Givingtuesday 5Fdc8563F2D5921B437257Ae
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Sustainability Impact 2018 2020 Achieves 2019 7 10 Target A Quarter In Advance With A 7 08 10 Score 5Db16F5380564A1F893A731E
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Schneider Sustainability Impact 2018 2020 The Group%E2%80%99S Extra Financial Performance Barometer Achieves 7 77 Out Of 10 On Track To Reach Its 9 Out Of 10 2020 Goal 5Ef480541416Ef532E3F9Aa1
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Se Ventures Announces %E2%82%Ac500 Million Fund Ii To Accelerate Climate And Industrial Tech Start Ups 63763C6D1Ec9843C8F08Db34
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Se Ventures Celebrates Fifth Anniversary Advancing Innovation In Climate And Industrial Technology 636B4115A2D153A556025Bef
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Sf6 Free Mv Switchgear Using Pure Air Nominated For Top Awards 5Efb270412574A776D5Ed005
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Software Centric Automation Transforms Consumer Packaged Goods And Logistics Operations 607024B122F0540D3B12A697
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Spanish Students Win Schneider Go Green With A Bold Idea For Sustainable Light Pills 60D1570D35Ebf54Dd570B5A2
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Start Ups From Schneider Electric And Microsoft%27S Joint Accelerator Are Transforming The Energy Sector In Europe With Artificial Intelligence 5Ef46B4812574A6Fa65E29B9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Stmicroelectronics And Schneider Electric Reveal Advanced People Counting Solution Using Artificial Intelligence On Stm32 Microcontroller 5Fbd06C958Aa7E7F38592C5A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Stmicroelectronics Partners With Schneider Electric On Carbon Neutrality And Co Development Of Energy Efficient Solutions 5Fd6766Aa42377522808B6A8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Storengy A Subsidiary Of Engie And Schneider Electric Sign A Framework Partnership Agreement About A Renewable And Low Carbon Renewable Hydrogen Storage Solution 61Fa9D884F20C54Ddb46A9De
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Successful Issue Of A %E2%82%Ac500 Million Bond 5Ef4B5Ac1416Ef784B51C680
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Successful Issue Of A %E2%82%Ac800 Million Bond 5Efb49731416Ef5Ca12C8357
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Suez And Schneider Electric Join Forces To Accelerate Digital Services For The Water Sector 64Be30A3E6698801Da03350C
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Suez And Schneider Electric Join Forces To Create A Joint Venture To Strengthen Their Major Role In The Development Of Innovative Digital Solutions In The Field Of Water 605C2Fe4100183197C339A2A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Supercharging Public Private Efforts In The Race To Net Zero And Climate Resilience 60C20B97478C0D605F72Fba6
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Sustainability Business Division Of Schneider Electric Responds To Cybersecurity Incident 65B8035Eb11Dced626091019
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Sustainability Trailblazers Renault Group And Schneider Electric Clean Up Mobility With Green Electric Technology 6389E62563Df89B3D702C7Df
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 T%C3%Bcv Rheinland Certifies Schneider Electric%E2%80%99S Secure Development Lifecycle Process To Isa Iec 62443 4 1 5Da9D78D8C5665197877D7C7
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Carlyle Group And Schneider Electric Extend Partnership To Develop Critical Infrastructure Projects 5D91Fdb38217Ef36B64Eb715
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Connectivity Ecosystem Expands Offers New Solutions For The Modern Home In An Increasingly Digital World 5Efb284B8C566543Fc137Df4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Velux Group And Schneider Electric Announce Extended Partnership To Accelerate Lifetime Carbon Neutral Commitment 6148986823098047Db36Eae4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 The Velux Group And Schneider Electric Partner To Pursue Renewable Energy 60103E178E9Bdf308C50D3B4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Thoughtwire And Schneider Electric Announce Strategic Partnership And New Joint Offering For Healthcare Facilities 5D8Dcfb780564A1Be438Ab50
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Time To Tackle The Demand Side Of The Energy Transition Schneider Electric Says 631F168E3522F054300Ce3C4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 To Accelerate Decarbonization Focus On The Power Of Electrification And Digitalization Schneider Electric Urges As Davos Meeting Kicks Off 65A14506C60807F62F096Cb3
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Top 10 Global Innovations Schneider Electric%E2%80%99S Sf6 Free Switchgear Wins Icef Recognition 5F8581F646Bcd47Cf66329A5
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Top Students To Present Their Ideas For A Smarter And More Sustainable Future At Schneider Go Green Global Finals In September 5F31552F8D34C828Fb21F8Ca
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Update We Are Monitoring Closely The Covid 19 Novel Coronavirus Situation And Our Task Force Is Continually Assessing And Responding To Changes 5Ef473111416Ef55352144E0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Verkor Europe%E2%80%99S New Battery Cell Producer Begins Its Industrial Journey Backed By Eit Innoenergy Schneider Electric And The Groupe Idec 5F21A3Dc07Fe1B08896Fcfd0
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Walmart And Schneider Electric Announce Groundbreaking Collaboration To Help Suppliers Access Renewable Energy 5F59Fa35Dc5B896C8A10A096
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Water And Wastewater Operations To Manage Full Automation Lifecycle With Ecostruxure Automation Expert Version 21 2 From Schneider Electric 615F04B04517D326C32F47C9
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Water Wastewater And District Energy Utilities To Increase Decarbonization And Operational Efficiency With Upgraded Digital Twin Tools From Schneider Electric 6385B4Cb0E5Be3E4990B4662
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Wequal Awards Recognizes Two Schneider Electric Women Leaders For Their Contributions To Business 61889Caf9C34A30A7E1Ceec8
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Wilo And Schneider Electric Intensify Collaboration With Strategic Partnership 615D4B835448E357Bf74F794
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Wilo And Schneider Electric Partner To Advance Wilo%E2%80%99S Climate Strategy 6189248B34Fa994Ed92E61F4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 World%E2%80%99S Most Sustainable Corporation 2021 60097A67785E6528940953A4
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 World Economic Forum Awards Schneider Electric Lexington Kentucky Sustainability Lighthouse Recognition And Wuxi China Smart Factory Advanced Lighthouse Status 6151686B639Def67051C6Abc
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 World Economic Forum Recognizes Schneider Electric%E2%80%99S Hyderabad Factory As A Sustainability Lighthouse 657Bc5E81E57755D7E06770B
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 World Economic Forum Recognizes Schneider Electric As A Circularity Lighthouse 65A5F6A129A9D1D1B5012C9A
+   │  ├─ 📂 Newsroom
+   │  │  ├─ 📄 Talk About Us
+   │  ├─ 📄 Open Source
+   │  ├─ 📂 Open Source
+   │  │  ├─ 📄 Manifesto.Jsp
+   │  ├─ 📂 Open Source
+   │  │  ├─ 📄 Projects.Jsp
+   │  ├─ 📂 Press
+   │  │  ├─ 📄 Update Covid 19.Jsp
+   │  ├─ 📄 Sitemap_Aboutus.Jsp
+   │  ├─ 📄 Suppliers
+   │  ├─ 📂 Suppliers
+   │  │  ├─ 📄 Become A Supplier.Jsp
+   │  ├─ 📂 Suppliers
+   │  │  ├─ 📄 Conflict Minerals.Jsp
+   │  ├─ 📂 Suppliers
+   │  │  ├─ 📄 Vision And Strategy.Jsp
+   │  ├─ 📄 Sustainability
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Climate Commitment.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Environmental Data Program
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Equal Commitment.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Foundation
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Generations Commitment.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Green And Circular.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Green It.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Green Premium Products
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Guide To Product Sustainability.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Impact Investing.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Local Commitment.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Resources Commitment.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Responsibility Ethics
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Trustline
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Restoring Notre Dame De Paris.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Sustainability Glossary
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Sustainability Reports
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Trust Commitment.Jsp
+   │  └─ 📂 Sustainability
+   │     └─ 📄 Zero Carbon Project.Jsp
+
+   ├─ 📂 Brands
+   │  ├─ 📄 Apc It Partner Locator Country Selector.Jsp
+   │  └─ 📄 Sitemap_Brand_B2B.Jsp
+
+   ├─ 📂 Insights
+   │  ├─ 📄 Electricity 4 0
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Buildings Decarbonization
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Decarbonizing Cities How To Harmonize Buildings Mobility And Infrastructure.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Energy Efficiency Time To Act.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Europe Energy Crisis.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Less Is More.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Rethinking Buildings Is A Climate Imperative.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 The Fastest Path To Net Zero Buildings.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Digital For Recovery
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Digital Economy And Climate Impact.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Digitalization
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 2021 And Beyond Top Predictions For Smart Building Technology.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Best Practices To Deploy Sustainable And Resilient Data Centers.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Can 2022 Accelerate Positive Change In The Energy Arena.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Cybersecurity Guidance For Data Center Power And Cooling Infrastructure Systems.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 How Modern Dcim Addresses Cio Management Challenges.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 How We Reach Zero Carbon Energy Independence.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Importance Of An Ecosystem.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Maintaining Energy Security And Resilience With Less Emissions.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Modeling Out Data Centre Energy Use Over The Next Two Decades.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 The Ai Disruption.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 The Future Of The United States Climate Policy Is Digital.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Three Steps To Calculate Total Enterprise It Energy Consumption Using Dcim.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Using Ai To Optimize Systems In Buildings.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Yes We Can Have Sustainable Cities.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Electrification
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Any City Can Be A Net Zero City This Is How To Start.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Better Energy Greater Prosperity.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Building A Better Decarbonized World Means Improving Energy Efficiency In All Buildings New And Old.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Building Net Zero Cities Davos Agenda 2021 World Economic Forum Schneider Electric.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Electricity 4 0 Our Fastest Route To Net Zero.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Electricity 4 0 Powering The New Electric World Schneider Electric 2.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Making Clean Electrification Possible.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Making Mission Possible Delivering A Net Zero Economy.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Making The Hydrogen Economy Possible Accelerating Clean Hydrogen In An Electrified Economy.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Net Zero Carbon Cities An Integrated Approach.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Opportunities In Sustainability 451 Paper Multi Tenant Datacenters Sustainability Ambitions And Reality.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 The Path To A Greener Future Begins In Our Cities.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 The Rise Of Home Energy Efficiency.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Why Energy Efficiency Is The Unsung Hero Of The Fight Against Climate Change.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 Why We Re Closer To Mainstreaming Evs Than You Think.Jsp
+   │  ├─ 📂 Electricity 4 0
+   │  │  ├─ 📄 How A Home Energy Management System Improves Sustainability And Resiliency.Jsp
+   │  ├─ 📄 Next Generation Automation
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 3 Key Points For Digital Trust In Supply Chains.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Data Privacy And Security
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Addressing Third Party Cyber Risk In Oil And Gas.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How Digital Thinking Is Unlocking The Fourth Industrial Revolution And Accelerating Growth Opportunities In Today S World.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Industrial Sustainability
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 6 Ways Business Can Align With Sustainable Development Goals.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 8 Innovations In Advanced Manufacturing That Support Enhanced Esg Reporting.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 A Question Of Balance For The Glass Industry Sustainability And Profitability.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Accelerating The Green Industrial Revolution.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Addressing The Urgency Of Sustainable Mining.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Are You Ready To Become Energy Efficient Sustainable And Even More Profitable Now.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Being Part Of The Climate Change Solution Means Going Beyond The Obvious Now.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Decarbonization Through Process Electrification And Digitalization.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Decoding The Role Of Hydrogen In Mining.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Ecostruxure Drives The Industries Of The Future For Food And Beverage Schneider Electric.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Establishing A Culture Of Innovation And Critical Thinking.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How Circular Business Models Drive Resilient Growth.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How Digital Tracing Can Reduce Industrial Carbon Emissions.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How To Overcome Metals And Minerals Processing Challenges.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Is Digitalization Key To A Sustainable Future.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Manufacturing Performance Intelligence.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Metrics That Matter.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Mission Possible Reaching Net Zero Carbon Emissions From Harder To Abate Sectors.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Moving Sustainability Forward In Manufacturing.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Net Zero Carbon Neutral Climate Positive Or Carbon Negative 6 Questions To Understand The Global Buzz.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Our Resilient And Sustainable Future A Call For Industrial Eco Efficiency.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Overcoming Challenges In The Biofuels Industry.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Renewable Energy Common Myths Debunked 2.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Sustainable Industries.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Industries Of The Future With Polypack.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 There S Nothing Fishy About Innovation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Three Reasons Why Industrial Automation Matters.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Transitioning To Sustainable Mining Minerals And Metals Practices.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 What Does Industries Of The Future Mean To Enexor Bioenergy.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Why Providing Alternatives To Sf6 And Other Greenhouse Gases Is Important For Carbon Reduction Initiatives.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Jean Pascale Tricoire Keynote At Hannover Messe 2021 Digital And Electric Smart And Green.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Software Centric Automation
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Are We Getting The Best Out Of Our Bots Co Intelligence Between Robots And Humans.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Digital Transformation Case Studies.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Digitizing The Steel Industry.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Diversity Better Serves Customers.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Embracing The Power Of Industrial Transformation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Getting Smart With Advanced Technologies.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Glossary.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How Large Language Models Can Be Useful In Industrial Automation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How To Pick Your Software Partners.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Information Is The New Currency.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Investing In Water For A Sustainable Future.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 It Is Time For Universal Automation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Next Generation Food And Beverage Industries.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Reduce Emissions Of An Offshore Compression Platform.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Rethink Mining.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Seizing The Digital Opportunity.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Software Robots And People.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Green Future Of Industrial Sustainability.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Industrial Digital Transformation Dilemma In China.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Three Birds One Digital Stone.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Transforming Manufacturing Supply Chains With Data.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 What Does Industries Of The Future Mean To Mhs Global.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Why We Must Learn To Trust Our Cobots.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Future Of Partnerships Innovation Meets Scale In A Digital And Electric World.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Universal Automation
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 5 Key Steps To Building A Better Industrial World.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Data Engineers Steer For Interoperability.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Energy Automation X Digital Sustainable Resiliency.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 How Industries Can Use Automation To Innovate.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Industry Must Transform Here S A Practical Recommendation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Industry Of The Future We Need To Talk.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Make It For Life With The Industries Of The Future Schneider Electric 2.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 New Ways Of Automation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Software Defined Industrial Automation.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Future Of Work In Industry.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 The Matrix Returns But Sleep Well Industrial Automation Is So Siloed The Dystopia Could Never Be Real.Jsp
+   │  ├─ 📂 Next Generation Automation
+   │  │  ├─ 📄 Universal Automation A Call For Change.Jsp
+   │  ├─ 📄 Sitemap_Insights.Jsp
+   │  ├─ 📄 Sustainability
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Climate And Planet
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 2021 Sustainability Trends Are Springing 10 Reasons To Be Hopeful This Season.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Bioresources Within A Net Zero Emissions Economy Making A Sustainable Approach Possible.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 China 2050 A Fully Developed Rich Zero Carbon Economy.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 China Zero Carbon Electricity Growth In The 2020S A Vital Step Toward Carbon Neutrality.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Climate Change National Security How To Build Energy Resilience In Federal Facilities.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Climate Change Wont Wait For Ai.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Databook How Covid 19 Affected Energy Sustainability Programs.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Infographic Funding Energy Sustainability In The New Normal.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Is Your Business Transforming For Climate Change.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Pieces That Need To Fall Into Place To Make Green Hydrogen Viable.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Renewable Natural Gas Markets Opportunities Limitations.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 State Of European Renewable Energy Market H2 2020.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Strategic Energy Sourcing An Opportunity Hiding In Plain Sight.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Decarbonization Challenge Part 1 Closing The Ambition To Action Gap.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Evolving Structure Of Power Purchase Agreements Ppas.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Importance Of Procurement In Sustainability Climate Strategies Schneider Electric.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Unleashing Climate Action For Profitable Business Growth.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 What Is The Difference Between Direct And Financial Virtual Power Purchase Agreements Ppas.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Impact Company
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Acceleration Pathways Post Cop28.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Balancing Priorities.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Bridging Digital And Environmental Goals A Framework For Business Action.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Climate Horizon.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Corporate Action On Climate Change Needed More Than Ever.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Corporate Sustainability C Level Pulse Check.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Gender Strategy In The Energy Transition.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Impact Company Video.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Energy Access Imperative.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Impact Imperative.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Unlocking Access To The Future.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Why Cop 27 Matters.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Next Generation Food And Beverage Industries.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Reduce Emissions Of An Offshore Compression Platform.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Sustainability Research Institute
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 2030 Scenario Paper.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 A Framework For The Future Of Real Estate.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Accelerating Global Investment In Building Decarbonization.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Assessing Biodiversity Footprint The Occasion To Accelerate Corporate Biodiversity Strategy.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Back To 2050 Executive Summary.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Back To 2050.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Better Than New Designing New Products For Many Lives.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Building A Green Future.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Building Heat Decaronization.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Databook How Covid 19 Affected Energy Sustainability Programs.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Digital With Impact.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Electric Vehicle Se Sustainable Research Institute.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Empowering Energy Consumers For A More Sustainable And Resilient Europe.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Financing The Circular Economy.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Fit For 55 Package.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Green Digital Solutions.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Horses For Courses One Size Does Not Fit All.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 How Schneider Electric Climate Risks Interact.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 India Addendum.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Mass Balance White Paper.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Mind The Gap.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Net Zero Buildings Intencity Case.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Path To Developed And Decarbonized India.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Raise Corporate Biodiversity Ambition Aim At No Net Loss.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Realizing The Potential Of Customer Sited Solar.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Road To A Rapid Transition To Sustainable Energy Security In Europe.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Ssr Ee Paper.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Sustainability Podcast Series Beyond The Scope.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Unexpected Disruption.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Time For Climate Impact Disclosure.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Towards Net Zero Buildings A Quantitative Study.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Towards Net Zero Buildings.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Urban Transformation Integrated Energy Solutions.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Why What How Of Corporate Biodiversity Action.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Technology And Innovation
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 3 Ways To Expand Eu Taxonomy And Accelerate Green Transition.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 6 Trends At The Renewable Energy Edge.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Comprehensive Data Center Sustainability Metrics Proposed.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Guide To Environmental Sustainability.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 How Modernizing Aging Data Center Infrastructure Improves Sustainability.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Metals Mining Ghg Emissions.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Recommended Inventory For Data Center Scope 3 Emissions Reporting.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Take Control Of Industrial Digital Transformation.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Power Of Purpose Why Ceos Are Buying In.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Role Of Artificial Intelligence In Energy Sustainability Schneider Electric.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 The Time For Net Zero Transition Is Now.Jsp
+   │  ├─ 📂 Sustainability
+   │  │  ├─ 📄 Unlocking A Sustainable Future Why Digital Solutions Are The Key To Sustainable Business Transformation.Jsp
+   │  └─ 📂 Sustainability
+   │     └─ 📄 Why Sustainability And Digitization Go Hand In Hand.Jsp
+
+   ├─ 📂 Partners
+   │  ├─ 📄 Alliance Partner Program
+   │  ├─ 📄 Best Online Partner Program
+   │  ├─ 📄 Consultant Engineers
+   │  ├─ 📂 Consultant Engineers
+   │  │  ├─ 📄 Digital Buildings Training.Jsp
+   │  ├─ 📄 Contractors
+   │  ├─ 📄 Distributors
+   │  ├─ 📂 Distributors
+   │  │  ├─ 📄 Industrial Automation
+   │  ├─ 📂 Distributors
+   │  │  ├─ 📄 Point Of Sale System.Jsp
+   │  ├─ 📄 Ecoxpert
+   │  ├─ 📂 Ecoxpert
+   │  │  ├─ 📄 Benefits For Customers.Jsp
+   │  ├─ 📂 Ecoxpert
+   │  │  ├─ 📄 Benefits For Partners.Jsp
+   │  ├─ 📂 Ecoxpert
+   │  │  ├─ 📄 Certifications And Specializations.Jsp
+   │  ├─ 📂 Ecoxpert
+   │  │  ├─ 📄 Success Stories.Jsp
+   │  ├─ 📄 Electricians
+   │  ├─ 📂 Electricians
+   │  │  ├─ 📄 Wiser Approved Installer.Jsp
+   │  ├─ 📄 Exchange
+   │  ├─ 📄 Home Builders
+   │  ├─ 📄 Industrial Services Partner
+   │  ├─ 📄 Interior Designers
+   │  ├─ 📄 It Solution Providers
+   │  ├─ 📂 It Solution Providers
+   │  │  ├─ 📄 It Partners Sustainability.Jsp
+   │  ├─ 📄 Oem
+   │  ├─ 📄 Panel Builders
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Control Panel.Jsp
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Easy Series Switchgear.Jsp
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Electrical Panels.Jsp
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Iec Standards.Jsp
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Medium Voltage Switchgear And Components
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Products.Jsp
+   │  ├─ 📂 Panel Builders
+   │  │  ├─ 📄 Program Benefits.Jsp
+   │  ├─ 📄 Partner Country Selector.Jsp
+   │  ├─ 📄 Partner Express
+   │  ├─ 📄 Retailers
+   │  ├─ 📄 Sitemap_Partners.Jsp
+   │  ├─ 📄 Strategic It Alliance
+   │  ├─ 📂 System Integrators
+   │  │  ├─ 📄 Industry
+   │  └─ 📄 Technology Partners
+
+   ├─ 📂 Residential
+   │  ├─ 📂 Inspirations
+   │  │  ├─ 📄 Safety
+   │  ├─ 📂 Inspirations
+   │  │  ├─ 📄 Save.Jsp
+   │  ├─ 📂 Inspirations
+   │  │  ├─ 📄 Smart Home.Jsp
+   │  ├─ 📂 Inspirations
+   │  │  ├─ 📄 Style.Jsp
+   │  ├─ 📂 Partners
+   │  │  ├─ 📄 Home Builders
+   │  ├─ 📄 Sitemap_Home_B2C.Jsp
+   │  └─ 📂 Smart Home
+   │     └─ 📄 Support
+
+   └─ 📂 Work
+      ├─ 📂 Campaign
+      │  ├─ 📄 100 Years Mcb
+      ├─ 📂 Campaign
+      │  ├─ 📄 A Beginners Guide To Understanding Industry 4.0.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 An Insight Into Three Strategies For Sustainable Development.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Everything You Need To Know About Electrification.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Multifarious Advantages Of Automated Production.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Paving The Way To A Sustainable Future 5 Examples Of Environmental Sustainability.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Social Sustainability Issues A Comprehensive Insight.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Pragmatic Approaches To Environment Development And Sustainability.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sustainable Business A Need Of The Hour.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Understanding Sustainable Wastewater Treatment Converting Waste To Resource.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Your Five Minute Read To Understanding The Automated Packaging Systems.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Be Energy Wise
+      ├─ 📂 Campaign
+      │  ├─ 📄 Buildings Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Healthy Buildings.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Retrofitting Buildings For Sustainability.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 California Climate Law
+      ├─ 📂 Campaign
+      │  ├─ 📄 Cdp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Data Center Design Overview
+      ├─ 📂 Campaign
+      │  ├─ 📄 Data Centers Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sustainable Energy Generation.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Grid Digital Twins Guide
+      ├─ 📂 Campaign
+      │  ├─ 📄 Grid Modernization
+      ├─ 📂 Campaign
+      │  ├─ 📄 Grids Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Homes Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Iiot
+      ├─ 📂 Campaign
+      │  ├─ 📄 Impact Makers
+      ├─ 📂 Campaign
+      │  ├─ 📄 Industries Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Infrastructure Of The Future
+      ├─ 📂 Campaign
+      │  ├─ 📄 Buildings.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Datacenters.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Energy.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Industries.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Overview.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Platform.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Power Digital Applications Design Guide.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Power Distribution.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 It Advisor Cfd
+      ├─ 📂 Campaign
+      │  ├─ 📄 150 Holborn London.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Aarhus Vand.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Abus.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Acma.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Animal Logic.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Aquapolo.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Arcelormittal Belval.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Arcelormittal.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Aspiria Campus.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Azalys Suez.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Bainbridge.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Baogang.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Basf.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Berto Coffee Roaster.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Blackstone.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Blue Ocean Technology.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Boer Power.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Capgemini.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Carrefour.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 China National Building Material.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 China Unicom.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Cvc Technologies.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Danone Evian.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Datahub Energy Efficient.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Digital Realty.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Digitalization Nexans.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Eastlink.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Ecodatacenter.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Enel.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Euref.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Faith Technologies Incorporated.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Fluckiger Electricite.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Geneva Airport.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Granado Pharmacias.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Green Mountain.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Guardianglass.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Henkel.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Hilton.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Hsbc.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Huashan Hospital.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Hyatt.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Internap.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Interxion.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Intidaya.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Jll.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Kunming Cge Water Supply.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Lavazza.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Leading Edge.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Lippulaiva.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Livetech.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Mainfreight.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Maison Manival.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Marriott Hotel China.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Mataura Valley Milk.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Moorfields Eye Hospital.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Mulino Marino.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Nemours Children Hospital.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Nestle Nescafe.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Nestle Waters.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Nit Korea.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Oxford Energy Solutions.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Padania Acque.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Qilianshan Cement.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Queensland Rail.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Rcl Foods.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Resorts World Las Vegas.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Roso Automation.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Rsa.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sa Power Networks.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Saint Gobain.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Samsung.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Samwoh Singapore.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sanning Chemical.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sanwa Group.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Schwarzman.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Drakenstein.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Ednetze.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Engie.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Eon.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Greenalp.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Renault.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sf6Free Romande.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Shanghai Metro.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Shedd Aquarium.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sinopec Hainan.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Smart Modular Technologies.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sodexo Apac House.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sofia Sea Of Galilee Hotel.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Somic.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sophim.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Swire Properties.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Takeda.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Tanishq.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Tekniska Verken.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Telefonica.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 The Edge.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Tuprag.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Ucb Farchim.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Unilogo.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 University Of Lausanne.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 University Rochester.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Ups.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Ust Global.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Veolia Water.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Waterforce.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Whirlpool.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Wilmar Sugar.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Wilo Indonesia.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Yili Group.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Yunzhibao Foodstuff.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Life Is On.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Paris 2024.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Private Equity Practice
+      ├─ 📂 Campaign
+      │  ├─ 📄 Prosumer Based Energy Management
+      ├─ 📂 Campaign
+      │  ├─ 📄 Robotics
+      ├─ 📂 Campaign
+      │  ├─ 📄 Smart Factory
+      ├─ 📂 Campaign
+      │  ├─ 📄 Digital.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Smart Ups Modular Ultra.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Sustainability Impact Awards
+      ├─ 📂 Campaign
+      │  ├─ 📄 Winners.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Zeigo Activate.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Zeigo Network.Jsp
+      ├─ 📂 Campaign
+      │  ├─ 📄 Zeigo Power.Jsp
+      ├─ 📄 Link Not Found.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Access To Energy
+      ├─ 📂 Products
+      │  ├─ 📄 Building Management
+      ├─ 📂 Products
+      │  ├─ 📄 Critical Power Cooling And Racks
+      ├─ 📂 Products
+      │  ├─ 📄 Industrial Automation Control
+      ├─ 📂 Products
+      │  ├─ 📄 Foxboro Dcs
+      ├─ 📂 Products
+      │  ├─ 📄 Annunciator Keyboard.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Monitors.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Automation Virtualization.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Workstations Servers.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Control Network Interface.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Control Network.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Netsight Console.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Fcp 280.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Fdc 280.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Simulated Control Processor.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Compact Io.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Enclosures.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Intelligent Enclosures.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Safe Io.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Standard Io.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Universal Io.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Field Device Manager.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Control Editor.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Modicon Configuration.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 System Auditor.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Triconex Configuration.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Virtualization.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Historian Client.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Historian.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Alarm Management Shelving.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Operator Hmi.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Situational Awareness Libraries.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Camswitch Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Ecostruxure Safety Advisor Calculator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Harmony Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Modicon Plc Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Motion Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Motor Control Configurator No.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Motor Control Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Pendant Station Configurator.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Triconex Safety Systems
+      ├─ 📂 Products
+      │  ├─ 📄 Tri Gp.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Tricon Cx.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Tricon.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Trident.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Universal Io Field Enclosures.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Low Voltage Products And Systems
+      ├─ 📂 Products
+      │  ├─ 📄 Master Ranges
+      ├─ 📂 Products
+      │  ├─ 📄 9 Series
+      ├─ 📂 Products
+      │  ├─ 📄 Actassi
+      ├─ 📂 Products
+      │  ├─ 📄 Altivar
+      ├─ 📂 Products
+      │  ├─ 📄 Back Ups
+      ├─ 📂 Products
+      │  ├─ 📄 Easy Series
+      ├─ 📂 Products
+      │  ├─ 📄 Ecostruxure Data Center Solutions
+      ├─ 📂 Products
+      │  ├─ 📄 Esmi
+      ├─ 📂 Products
+      │  ├─ 📄 Exiway
+      ├─ 📂 Products
+      │  ├─ 📄 Galaxy
+      ├─ 📂 Products
+      │  ├─ 📄 Harmony
+      ├─ 📂 Products
+      │  ├─ 📄 Lexium
+      ├─ 📂 Products
+      │  ├─ 📄 Line Series
+      ├─ 📂 Products
+      │  ├─ 📄 Modicon
+      ├─ 📂 Products
+      │  ├─ 📄 Netshelter
+      ├─ 📂 Products
+      │  ├─ 📄 Pact Series
+      ├─ 📂 Products
+      │  ├─ 📄 Powerlogic
+      ├─ 📂 Products
+      │  ├─ 📄 Set Series
+      ├─ 📂 Products
+      │  ├─ 📄 Smart Ups
+      ├─ 📂 Products
+      │  ├─ 📄 Spacelogic
+      ├─ 📂 Products
+      │  ├─ 📄 Tesys
+      ├─ 📂 Products
+      │  ├─ 📄 Uniflair
+      ├─ 📂 Products
+      │  ├─ 📄 Medium Voltage Switchgear And Energy Automation
+      ├─ 📂 Products
+      │  ├─ 📄 Ecodesign Regulations.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Icef Recognition.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Sf6Free Hannover Messe Awards.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Altivar Machine Drives
+      ├─ 📂 Products
+      │  ├─ 📄 Building Management System
+      ├─ 📂 Products
+      │  ├─ 📄 Easy Ups
+      ├─ 📂 Products
+      │  ├─ 📄 Econversion High Efficiency Ups Mode
+      ├─ 📂 Products
+      │  ├─ 📄 Ecoreal Mv
+      ├─ 📂 Products
+      │  ├─ 📄 Ecostruxure Industrial Advisor
+      ├─ 📂 Products
+      │  ├─ 📄 Electrical Installation Guide
+      ├─ 📂 Products
+      │  ├─ 📄 Emobility Buildings
+      ├─ 📂 Products
+      │  ├─ 📄 Evopact Hvx
+      ├─ 📂 Products
+      │  ├─ 📄 Galaxy Vs
+      ├─ 📂 Products
+      │  ├─ 📄 Galaxy Vx Ups
+      ├─ 📂 Products
+      │  ├─ 📄 Harmony Control Signaling
+      ├─ 📂 Products
+      │  ├─ 📄 Home Ev Charging
+      ├─ 📂 Products
+      │  ├─ 📄 Industrial Edge Software
+      ├─ 📂 Products
+      │  ├─ 📄 Innovative Offers
+      ├─ 📂 Products
+      │  ├─ 📄 Iot Mv Connected Equipment
+      ├─ 📂 Products
+      │  ├─ 📄 Magelis Hmi
+      ├─ 📂 Products
+      │  ├─ 📄 Medium Voltage Technical Guide
+      ├─ 📂 Products
+      │  ├─ 📄 Okken
+      ├─ 📂 Products
+      │  ├─ 📄 Sf6Free Mv Technology
+      ├─ 📂 Products
+      │  ├─ 📄 Sm6
+      ├─ 📂 Products
+      │  ├─ 📄 Overview.Jsp
+      ├─ 📂 Products
+      │  ├─ 📄 Smart Ring Main Unit
+      ├─ 📂 Products
+      │  ├─ 📄 Tesys
+      ├─ 📂 Products
+      │  ├─ 📄 Trihal Transformers
+      ├─ 📂 Products
+      │  ├─ 📄 Uniflair
+      ├─ 📂 Products
+      │  ├─ 📄 Universal Enclosures
+      ├─ 📂 Products
+      │  ├─ 📄 Zelio Relays
+      ├─ 📂 Products
+      │  ├─ 📄 Residential And Small Business
+      ├─ 📂 Products
+      │  ├─ 📄 Solar
+      ├─ 📄 Services
+      ├─ 📂 Services
+      │  ├─ 📄 Ecocare.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Ecoconsult.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Ecofit
+      ├─ 📂 Services
+      │  ├─ 📄 Data Center Modernization.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Switchgear Modernization.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Consulting
+      ├─ 📂 Services
+      │  ├─ 📄 Industrial Digital Transformation.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Cybersecurity Services
+      ├─ 📂 Services
+      │  ├─ 📄 Managed Security Services.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Digital Services
+      ├─ 📂 Services
+      │  ├─ 📄 Energy As A Service
+      ├─ 📂 Services
+      │  ├─ 📄 Field Services
+      ├─ 📂 Services
+      │  ├─ 📄 Industrial Automation
+      ├─ 📂 Services
+      │  ├─ 📄 Dcs Migration Upgrade.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Modernization Upgrades Services.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Plc Migration Upgrade.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Industrial Safety.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Training Services
+      ├─ 📂 Services
+      │  ├─ 📄 Plc Training.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Vfd Services
+      ├─ 📂 Services
+      │  ├─ 📄 Safety Services.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Maintenance Services
+      ├─ 📂 Services
+      │  ├─ 📄 Process Electrification Consulting
+      ├─ 📂 Services
+      │  ├─ 📄 Experts.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Ecostruxure Service Plan.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Spare Parts Management
+      ├─ 📂 Services
+      │  ├─ 📄 Energy And Sustainability Software
+      ├─ 📂 Services
+      │  ├─ 📄 Data Collection.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Energy Management Software Resource Advisor.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Utility Bill Management.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Energy Efficiency Projects
+      ├─ 📂 Services
+      │  ├─ 📄 Energy Efficiency Consulting.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Energy Management Sustainability Services.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Energy Procurement
+      ├─ 📂 Services
+      │  ├─ 📄 Procurement Services.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Sustainability Consulting
+      ├─ 📂 Services
+      │  ├─ 📄 Climate Change Compliance.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Climate Risk.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Esg Solutions.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Renewables And Cleantech.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Supply Chain Decarbonization.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Sustainability Reporting.Jsp
+      ├─ 📂 Services
+      │  ├─ 📄 Zeigo
+      ├─ 📂 Services
+      │  ├─ 📄 Training
+      ├─ 📂 Services
+      │  ├─ 📄 Transformers Monitoring Solutions
+      ├─ 📄 Sitemap_Work_B2B.Jsp
+      ├─ 📄 Solutions
+      ├─ 📂 Solutions
+      │  ├─ 📄 Artificial Intelligence
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hub.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Knowledge Base.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Solutions.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Room Control
+      ├─ 📂 Solutions
+      │  ├─ 📄 Critical Power
+      ├─ 📂 Solutions
+      │  ├─ 📄 Cybersecurity
+      ├─ 📂 Solutions
+      │  ├─ 📄 Grid Cybersecurity.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Industrial Cybersecurity.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Virtual Academy.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Edge Computing
+      ├─ 📂 Solutions
+      │  ├─ 📄 Sustainability At The Edge.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 What Is Edge Computing.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Access To Energy
+      ├─ 📂 Solutions
+      │  ├─ 📄 Automotive And Emobility
+      ├─ 📂 Solutions
+      │  ├─ 📄 Automotive.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Emobility.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Ev Battery Manufacturing.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Cloud And Service Providers
+      ├─ 📂 Solutions
+      │  ├─ 📄 Data Centers And Networks
+      ├─ 📂 Solutions
+      │  ├─ 📄 Ai Data Centers
+      ├─ 📂 Solutions
+      │  ├─ 📄 Dcim Software
+      ├─ 📂 Solutions
+      │  ├─ 📄 Dcim Solutions.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Partners.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 What Is Ecostruxure It.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hyperpod
+      ├─ 📂 Solutions
+      │  ├─ 📄 Life Cycle Services
+      ├─ 📂 Solutions
+      │  ├─ 📄 Liquid Cooling
+      ├─ 📂 Solutions
+      │  ├─ 📄 Micro
+      ├─ 📂 Solutions
+      │  ├─ 📄 Modular
+      ├─ 📂 Solutions
+      │  ├─ 📄 Reference Designs
+      ├─ 📂 Solutions
+      │  ├─ 📄 Row
+      ├─ 📂 Solutions
+      │  ├─ 📄 Trade Off Tools
+      ├─ 📂 Solutions
+      │  ├─ 📄 Data Center Power Sizing Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Dcim Planning And Modeling Value Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Econversion Vs Double Conversion Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Edge Ups Fleet Management Comparison Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Single Phase Ups Efficiency Comparison Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Three Phase Ups Efficiency Comparison Calculator.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Electric Utilities
+      ├─ 📂 Solutions
+      │  ├─ 📄 Advanced Distribution Management System Adms
+      ├─ 📂 Solutions
+      │  ├─ 📄 Distribution Management System Dms
+      ├─ 📂 Solutions
+      │  ├─ 📄 Energy Management System Ems
+      ├─ 📂 Solutions
+      │  ├─ 📄 Geographic Information Systems Gis Arcfm
+      ├─ 📂 Solutions
+      │  ├─ 📄 Outage Management System Oms
+      ├─ 📂 Solutions
+      │  ├─ 📄 Power Generation
+      ├─ 📂 Solutions
+      │  ├─ 📄 Solar Power.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Wind Power.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Smart Grid
+      ├─ 📂 Solutions
+      │  ├─ 📄 Feeder And Distribution Automation.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Software And Services.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Substation Automation.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Energies And Chemicals
+      ├─ 📂 Solutions
+      │  ├─ 📄 Green Hydrogen.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Food And Beverage
+      ├─ 📂 Solutions
+      │  ├─ 📄 Healthcare
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hospital Room Management.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hotels
+      ├─ 📂 Solutions
+      │  ├─ 📄 Guest Room Management.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Life Sciences
+      ├─ 📂 Solutions
+      │  ├─ 📄 Logistics Warehouse Automation Solutions
+      ├─ 📂 Solutions
+      │  ├─ 📄 Marine
+      ├─ 📂 Solutions
+      │  ├─ 📄 Mining Minerals Metals
+      ├─ 📂 Solutions
+      │  ├─ 📄 Material Handling.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Operations And Supply Chain.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Processing And Refining.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Safety And Security.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Real Estate
+      ├─ 📂 Solutions
+      │  ├─ 📄 Retail
+      ├─ 📂 Solutions
+      │  ├─ 📄 Semiconductor
+      ├─ 📂 Solutions
+      │  ├─ 📄 Transportation
+      ├─ 📂 Solutions
+      │  ├─ 📄 Rail Solutions.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Smart Airports.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Smart Ports.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Water
+      ├─ 📂 Solutions
+      │  ├─ 📄 Industrial Automation Solutions
+      ├─ 📂 Solutions
+      │  ├─ 📄 Power And Process
+      ├─ 📂 Solutions
+      │  ├─ 📄 Remote Scada
+      ├─ 📂 Solutions
+      │  ├─ 📄 Turbomachinery Control
+      ├─ 📂 Solutions
+      │  ├─ 📄 Machine Control
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hoisting
+      ├─ 📂 Solutions
+      │  ├─ 📄 Hvac
+      ├─ 📂 Solutions
+      │  ├─ 📄 Material Handling
+      ├─ 📂 Solutions
+      │  ├─ 📄 Material Working
+      ├─ 📂 Solutions
+      │  ├─ 📄 Packaging Machines
+      ├─ 📂 Solutions
+      │  ├─ 📄 Pumping
+      ├─ 📂 Solutions
+      │  ├─ 📄 Microgrids
+      ├─ 📂 Solutions
+      │  ├─ 📄 Motor Control Protection
+      ├─ 📂 Solutions
+      │  ├─ 📄 Motor Management
+      ├─ 📂 Solutions
+      │  ├─ 📄 Power Availability And Reliability
+      ├─ 📂 Solutions
+      │  ├─ 📄 Power Management
+      ├─ 📂 Solutions
+      │  ├─ 📄 Power Quality
+      ├─ 📂 Solutions
+      │  ├─ 📄 Safety
+      ├─ 📂 Solutions
+      │  ├─ 📄 Electrical Fire Prevention
+      ├─ 📂 Solutions
+      │  ├─ 📄 Electrical Safety.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Machine Safety.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Process Safety.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Software
+      ├─ 📂 Solutions
+      │  ├─ 📄 Esetup For Electricians.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Schneider Electric Events.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Aveva
+      ├─ 📂 Solutions
+      │  ├─ 📄 Connect Experience.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 Sustainability
+      ├─ 📂 Solutions
+      │  ├─ 📄 School Toolbox.Jsp
+      ├─ 📂 Solutions
+      │  ├─ 📄 School Training And Online Courses.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Building Information Modelling
+      ├─ 📂 Support
+      │  ├─ 📄 Counterfeit
+      ├─ 📂 Support
+      │  ├─ 📄 Contact Counterfeit.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Report Counterfeit.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Altivar Process Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Camswitch Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Modicon Plc Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Motion Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Motor Control Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Pendant Station Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Select Your Location.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Software Licence Configurator.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Notification Contact.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Pki For Firmware.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Privacy Notice Cert Cpcert.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Report A Vulnerability.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Report An Incident Suppliers Partners.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Report An Incident.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Resources.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Rfc2350.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Security Notifications Archive.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Security Notifications.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Vulnerability Policy.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Wall Of Thanks.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Apc Online Resellers.Jsp
+      ├─ 📂 Support
+      │  ├─ 📄 Myschneider
+      ├─ 📂 Support
+      │  ├─ 📄 Myschneider App
+      ├─ 📂 Support
+      │  ├─ 📄 Pelco
+      ├─ 📂 Support
+      │  ├─ 📄 Product Selector
+      ├─ 📂 Support
+      │  ├─ 📄 Country Selector.Jsp
+      └─ 📂 Support
+         └─ 📄 Software Registration
+

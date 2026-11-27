@@ -1,0 +1,56 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 5731
+
+Domains: www.samsara.com
+
+Languages:
+  ca: 1399
+  : 1240
+  uk: 684
+  blog: 504
+  mx: 462
+  de: 419
+  fr: 402
+  fr-ca: 324
+  nl: 283
+  legal: 10
+  fleet: 3
+  space: 1
+
+Sections:
+  resources: 1110
+  blog: 1031
+  products: 437
+  customers: 430
+  marketplace: 384
+  guides: 382
+  webinars: 191
+  company: 64
+  legal: 59
+  solutions: 59
+  support: 59
+  industries: 48
+  models: 40
+  events: 38
+  content: 38
+  : 25
+  referrals: 14
+  fleet: 11
+  topfleets: 10
+  tips: 9
+
+Content Types:
+  resource: 1550
+  blog: 1535
+  other: 1517
+  product: 515
+  webinar: 376
+  company: 102
+  legal: 69
+  industry: 66
+  home: 1
+
+Years:

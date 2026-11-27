@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>Marketing Automation – Full Requirements (2026 MarTech & Event Strategy)</title>
+<style>body{font-family:system-ui,sans-serif;max-width:900px;margin:2em auto;padding:0 1.5em;line-height:1.6;color:#222}
+table{border-collapse:collapse;width:100%;margin:1em 0;font-size:0.95em}
+th,td{border:1px solid #ddd;padding:10px 12px;text-align:left;vertical-align:top}
+th{background:#f5f5f5;font-weight:600}
+tr:nth-child(even){background:#fafafa}
+code{background:#f0f0f0;padding:2px 6px;border-radius:3px}
+a{color:#0066cc}
+h2{margin-top:1.5em;border-bottom:1px solid #eee;padding-bottom:0.3em}
+h3{margin-top:1.2em}
+</style></head><body><h1>Marketing Automation – Full Requirements (2026 MarTech &amp; Event Strategy)</h1>
+<p>This document consolidates MarTech / Marketing Automation requirements for <strong>2026 global events and campaigns</strong>, for vendor selection, implementation, and internal alignment. Requirements are aligned with the existing <strong>GTM data architecture</strong> (<a href="design.md">design.md</a>, <a href="assets/GTM_architecture.png">assets/GTM_architecture.png</a>) and <strong>Supabase + HubSpot + Teams</strong> stack, so implementation stays consistent with the event model, dimension tables, and Connectors.</p>
+<p><strong>Source</strong>: 2026 MarTech &amp; Event Strategy Requirements (internal brief); <strong>Architecture reference</strong>: This folder’s GTM diagram and Snowplow-style data structures.</p>
+<h3>Current stack (in place or committed)</h3>
+<table>
+<thead>
+<tr>
+<th>Layer / role</th>
+<th>Stack</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Database</strong></td>
+<td><strong>Supabase</strong> (Postgres, to be built)</td>
+<td>Single sink for event_log + dimensions (person, company, content, campaign, touchpoint_source) and derived tables (lead_score_daily, lifecycle_state, attribution_summary). See <a href="schema_v0.sql">schema_v0.sql</a>, <a href="schema_v0.md">schema_v0.md</a>.</td>
+</tr>
+<tr>
+<td><strong>CRM &amp; Marketing Automation</strong></td>
+<td><strong>HubSpot</strong> (Enterprise preferred)</td>
+<td>Primary CRM and MA; events/leads sync to Supabase or write via Connectors. Workflows, forms, email, Breeze AI (or equivalent) for scoring.</td>
+</tr>
+<tr>
+<td><strong>Content file storage</strong></td>
+<td><strong>Microsoft Teams</strong> (OneDrive / SharePoint)</td>
+<td>File bodies in Teams; only metadata and <strong>file_url</strong> (Teams share link) in Supabase <strong>content</strong> table. Supabase ↔ Teams integration already in use. See <a href="content_library_design.md">content_library_design.md</a>.</td>
+</tr>
+<tr>
+<td><strong>Event / behavior sources</strong></td>
+<td><strong>GA4</strong> (BigQuery or Reporting API), <strong>HubSpot</strong> (API / Webhook), <strong>LinkedIn</strong> (API / Insight Tag), <strong>event lead-capture</strong> (e.g. Zuant, Cvent), <strong>web forms</strong>, <strong>CSV / manual upload</strong></td>
+<td>All mapped into <strong>event_log</strong> via Connectors; see <a href="fact_layer_source_mapping.md">fact_layer_source_mapping.md</a>, <a href="supabase_integration_guide.md">supabase_integration_guide.md</a>.</td>
+</tr>
+</tbody>
+</table>
+<p>New tools (e.g. chatbot, CMS for content editing) must integrate with this stack; MA capabilities in §2.5 should align with HubSpot and the above data model.</p>
+<hr />
+<h2>1. Core Objective</h2>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Mapping to current architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Unified CRM + Marketing Automation</strong></td>
+<td>Single platform for 2026 global events and campaigns; <strong>HubSpot Enterprise preferred</strong>.</td>
+<td>Events and leads use <strong>event_log</strong> + <strong>person</strong> / <strong>company</strong> as single source of truth and dimensions; HubSpot as primary MA source, writing to Supabase or syncing with HubSpot objects.</td>
+</tr>
+<tr>
+<td><strong>Intercept leads from competitors</strong></td>
+<td>Enable interception of leads from legacy competitors (ABB, Honeywell, Emerson, etc.) and support <strong>displacement</strong> content and conversion paths.</td>
+<td><strong>Competitor Intelligence</strong> in person/company or Custom Object for “current installed base”; triggers automated displacement content and nurturing.</td>
+</tr>
+<tr>
+<td><strong>Closed-loop ROI reporting</strong></td>
+<td>Measurable ROI from acquisition to closed-won for key events (Hannover Messe, GasTech, ADIPEC).</td>
+<td><strong>Multi-touch attribution</strong> (first touch → closed-won) and <strong>event_log + derived tables</strong> (attribution_summary, lifecycle_state); see §4.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>2. Technical &amp; Data Requirements</h2>
+<h3>2.1 Competitor Intelligence Mapping</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Current Installed Base</strong></td>
+<td>Record which <strong>competitor system</strong> the lead/customer currently uses (e.g. ABB, Honeywell, Emerson) and trigger <strong>automated displacement content</strong>.</td>
+<td>Add fields to <strong>company</strong> or <strong>person</strong> (e.g. <code>current_competitor</code>, <code>installed_base</code>) or HubSpot Custom Object; workflows/nurturing rules push displacement content (content table + event_log content_id).</td>
+</tr>
+<tr>
+<td><strong>Displacement content automation</strong></td>
+<td>Match and send displacement whitepapers, case studies, and comparison assets by competitor tag.</td>
+<td>Tag content in Content Library or link campaign to “competitor displacement”; MA workflows use person/company competitor fields + event behavior to trigger content and campaign.</td>
+</tr>
+</tbody>
+</table>
+<h3>2.2 Regional Architecture</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Independent BUs</strong></td>
+<td>Support <strong>SEA, Europe, NA, Middle East</strong> with separate lead routing, language partitioning, and regional data privacy compliance.</td>
+<td><strong>person</strong> / <strong>company</strong> need <strong>region</strong> / <strong>business_unit</strong> (and country, language); routing and permissions by region; event_log <strong>properties</strong> or dimensions for language/region for reporting and compliance.</td>
+</tr>
+<tr>
+<td><strong>Localized lead routing</strong></td>
+<td>Route leads to the correct regional sales/marketing.</td>
+<td>Workflow and assignment rules based on person/company region/country; Hot leads pushed to Sales with region (aligned with §3.1 SLA).</td>
+</tr>
+<tr>
+<td><strong>Regional data privacy</strong></td>
+<td>Meet data residency and privacy requirements per region.</td>
+<td>Storage and access policies by region; Supabase and HubSpot configured for regional rules; event and person data partitionable and auditable.</td>
+</tr>
+</tbody>
+</table>
+<h3>2.3 High-Speed Lead Integration</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Event lead-capture integration</strong></td>
+<td>Seamless API integration with <strong>Zuant, Cvent</strong> (or similar) for <strong>Speed-to-Lead &lt; 4 hours</strong> (booth scan to sales outreach).</td>
+<td>Event tool → API/Webhook → <strong>Connector</strong> → write <strong>person</strong> / <strong>company</strong> + <strong>event_log</strong> (e.g. event_type=form_submitted or event_lead_captured); format see <a href="supabase_integration_guide.md#3-各来源数据以什么格式连进来">supabase_integration_guide.md §3</a>.</td>
+</tr>
+<tr>
+<td><strong>Single sink</strong></td>
+<td>Event leads and web forms, HubSpot, GA, etc. land in the same <strong>event_log + dimensions</strong> for attribution and scoring.</td>
+<td>All sources mapped into Supabase (or HubSpot as primary with sync to Supabase); external_ref for deduplication; see <a href="fact_layer_source_mapping.md">fact_layer_source_mapping.md</a>.</td>
+</tr>
+</tbody>
+</table>
+<h3>2.4 Lead Scoring &amp; AI</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Predictive lead scoring</strong></td>
+<td><strong>HubSpot Breeze AI</strong> (or equivalent) to rank and prioritize leads by event engagement and intent signals.</td>
+<td>Intent and engagement from <strong>event_log</strong> (event check-in, downloads, forms, email clicks); scores in <strong>lead_score_daily</strong> or HubSpot native; derivable and explainable (see <a href="design.md">design.md</a>).</td>
+</tr>
+<tr>
+<td><strong>Event-driven scoring</strong></td>
+<td>Scoring rules based on behavioral events; configurable and iterable.</td>
+<td>event_taxonomy and scoring rules (e.g. <a href="event_taxonomy.yaml">event_taxonomy.yaml</a> scoring_rules_v0) recomputed from event_log by MA or batch jobs; Breeze AI can use event features.</td>
+</tr>
+</tbody>
+</table>
+<h3>2.5 Marketing Automation – Concrete Capabilities</h3>
+<p>Under “unified CRM + MA”, vendors/implementation must support these <strong>concrete capabilities</strong>, aligned with event_log, dimensions, and workflows:</p>
+<table>
+<thead>
+<tr>
+<th>Capability</th>
+<th>Requirements</th>
+<th>Mapping to data architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Email Marketing</strong></td>
+<td>Sending, templates, A/B tests, open/click tracking, unsubscribe and compliance (e.g. regional consent); segment by region, competitor, score.</td>
+<td>Email actions (open, click, unsubscribe) as events in <strong>event_log</strong> (e.g. email_opened, email_clicked), source=hubspot; <strong>person</strong> for segmentation and dedup; see <a href="fact_layer_source_mapping.md">fact_layer_source_mapping.md</a>.</td>
+</tr>
+<tr>
+<td><strong>Lead Nurturing</strong></td>
+<td>Behavior- and attribute-based automation (e.g. whitepaper download → email series; event sign-up → welcome + displacement content); branching and cadence by lifecycle and score.</td>
+<td>Triggers from <strong>event_log</strong> (form_submitted, content_downloaded, email_clicked); <strong>lifecycle_state</strong>, <strong>lead_score_daily</strong> for branching; content from <strong>content</strong>; workflows as execution layer (HubSpot Workflows or equivalent).</td>
+</tr>
+<tr>
+<td><strong>Campaign Management</strong></td>
+<td>Cross-channel campaign create, schedule, audience and budget; unified naming and attribution for events, online, ABM; campaign-level reporting.</td>
+<td><strong>campaign</strong> table for metadata (name, dates, objective, channel_mix); <strong>event_log.campaign_id</strong> links behavior to campaign; attribution and reporting by campaign, see <strong>attribution_summary</strong> and §4.</td>
+</tr>
+<tr>
+<td><strong>Chatbot / Conversational marketing</strong></td>
+<td><strong>Chatbot</strong> on site or product: book meetings, qualify leads; trigger email sequence after conversation ends; personalize with CRM data; configurable flows without code; UI matches site/product theme.</td>
+<td>Chat actions (session start/end, meeting booked) in <strong>event_log</strong> (e.g. chat_started, chat_ended, meeting_booked); triggered sequences align with Lead Nurturing and Email Marketing; <strong>person</strong> for personalization and lead identification.</td>
+</tr>
+</tbody>
+</table>
+<p>These four are <strong>concrete requirements</strong>; confirm platform coverage at selection and Sprint 0, and align with this folder’s event model, dimensions, and derived tables.</p>
+<hr />
+<h2>3. Campaign &amp; Sales Alignment</h2>
+<h3>3.1 Automated SLAs &amp; Escalation</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Follow-up timing</strong></td>
+<td>Workflows track and enforce <strong>sales follow-up SLAs</strong>; <strong>escalation</strong> if Hot event leads are not contacted within agreed time.</td>
+<td>“Assigned time” from <strong>lifecycle_state</strong> or HubSpot state + <strong>event_log</strong> (e.g. event_lead_captured, form_submitted); timeout triggers alert/escalation; Hot aligned with lead_score_daily or Breeze AI.</td>
+</tr>
+<tr>
+<td><strong>Traceability</strong></td>
+<td>Escalations and SLA breaches traceable to specific lead and events.</td>
+<td><strong>lifecycle_state.reason</strong> stores event references for state changes; SLA logic from event timestamps and assignment delta.</td>
+</tr>
+</tbody>
+</table>
+<h3>3.2 Omnichannel intercepts &amp; ABM</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Geo-fencing &amp; ABM</strong></td>
+<td>Run <strong>geo-fenced digital ads</strong> and <strong>ABM</strong> targeting accounts attending specific 2026 global events.</td>
+<td><strong>campaign</strong> and event_log campaign_id/channel support “event + region + ABM list”; person/company with region and account tags for targeting and attribution; multi-source events (GA, LinkedIn, HubSpot) in event_log for attribution.</td>
+</tr>
+<tr>
+<td><strong>Event context</strong></td>
+<td>Tie to venues/dates (Hannover Messe, GasTech, ADIPEC).</td>
+<td>campaign or content linked to event/venue; event properties or dimensions for event_venue, event_date for reporting and attribution.</td>
+</tr>
+</tbody>
+</table>
+<h3>3.3 Sales Enablement</h3>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mobile-first CRM</strong></td>
+<td><strong>Mobile-first</strong> CRM for field teams to manage leads and view <strong>competitor Battlecards</strong> on the show floor.</td>
+<td>CRM (HubSpot or Supabase-synced UI) with mobile; Battlecards keyed by <strong>current_competitor</strong> / installed_base; content from Content Library or Teams.</td>
+</tr>
+<tr>
+<td><strong>Live leads &amp; Battlecards</strong></td>
+<td>After booth scan/sign-up, sales see lead summary and talking points immediately.</td>
+<td>Event Connector writes person/company + event_log; CRM/mobile shows in near real time; competitor field drives Battlecard recommendation.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>4. Reporting &amp; Analytics Requirements</h2>
+<p>Vendors must be able to build a <strong>2026 Command Center Dashboard</strong> with:</p>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Mapping to current architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Multi-touch attribution (W-shaped)</strong></td>
+<td>Revenue attribution from <strong>first touch</strong> to <strong>closed-won</strong> with W-shaped weights.</td>
+<td><strong>event_log</strong> as source; <strong>attribution_summary</strong> (or equivalent) for first_touch_channel, last_touch_channel, influencing_events; Dashboard queries event_log + dimensions; attribution model (incl. W) in semantic layer; see <a href="design.md">design.md</a>, <a href="schema_v0.md">schema_v0.md</a>.</td>
+</tr>
+<tr>
+<td><strong>Competitor displacement win-rate</strong></td>
+<td>Analytics on <strong>which competitor installed bases</strong> we convert successfully (Competitor Displacement Win-Rate).</td>
+<td><strong>company</strong> / <strong>person</strong> current_competitor / installed_base + <strong>lifecycle_state</strong> or closed-won; report by competitor with conversion and revenue.</td>
+</tr>
+<tr>
+<td><strong>Regional pipeline velocity</strong></td>
+<td><strong>Regional Pipeline Velocity</strong>: compare lead movement speed across regions/countries.</td>
+<td><strong>event_log</strong> occurred_at + <strong>lifecycle_state</strong> stage_updated_at by person/company region for “sign-up → MQL/SQL/closed” duration; Dashboard by region/BU.</td>
+</tr>
+<tr>
+<td><strong>Command Center</strong></td>
+<td>Single view: events, campaigns, lead quality, follow-up SLA, attribution, pipeline.</td>
+<td>Data = <strong>event_log</strong> + <strong>person</strong> / <strong>company</strong> / <strong>content</strong> / <strong>campaign</strong> + <strong>lead_score_daily</strong> / <strong>lifecycle_state</strong> / <strong>attribution_summary</strong>; via Supabase or HubSpot reporting.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>5. Implementation &amp; Sprint 0 Expectations</h2>
+<table>
+<thead>
+<tr>
+<th>Requirement</th>
+<th>Description</th>
+<th>Implementation notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Sprint 0 Discovery</strong></td>
+<td>Dedicated phase to align <strong>2026 event calendar</strong> with <strong>CRM data model</strong> (event types, attributes, reporting).</td>
+<td>Use this folder’s <strong>event_taxonomy.yaml</strong>, <strong>schema_v0</strong>, and <a href="fact_layer_source_mapping.md">fact_layer_source_mapping.md</a> as baseline; map 2026 events and campaigns to campaign table and event_type; define Zuant/Cvent input format and Connector spec.</td>
+</tr>
+<tr>
+<td><strong>Data migration</strong></td>
+<td>Strategy for <strong>cleaning and importing</strong> legacy lead data.</td>
+<td>See <a href="customer_dimension_guide.md">customer_dimension_guide.md</a>: person/company source, dedup (email, company_name), batch import source (e.g. import_202601); historical behavior into event_log if recoverable, else dimension backfill only.</td>
+</tr>
+<tr>
+<td><strong>Training</strong></td>
+<td><strong>Train-the-Trainer</strong> for regional marketing and sales leads.</td>
+<td>Cover: unified data model (events + dimensions), HubSpot and Supabase usage, event lead ingestion, SLA and Battlecards, Command Center and attribution; reference this folder for technical detail.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>6. Mapping to existing data architecture</h2>
+<ul>
+<li><strong>Facts &amp; dimensions</strong>: “Leads, behavior, competitor, region, event, campaign” map to <strong>event_log</strong> and <strong>person</strong> / <strong>company</strong> / <strong>content</strong> / <strong>campaign</strong> in <a href="design.md">design.md</a>; Custom Objects (e.g. competitor) extend dimensions or HubSpot and link to events.</li>
+<li><strong>Data landing</strong>: All Connectors write to <strong>Supabase</strong> (or HubSpot with sync to Supabase); files in <strong>Teams</strong>; see <a href="supabase_integration_guide.md">supabase_integration_guide.md</a>, <a href="content_library_design.md">content_library_design.md</a>.</li>
+<li><strong>Score, lifecycle, attribution</strong>: All <strong>derived</strong> from <strong>event_log</strong>; rules configurable and replaceable; see <a href="design.md#2-设计保证为什么不怕规则变、指标变、业务换说法">design.md §2 Design guarantees</a>.</li>
+<li><strong>Sales boundary</strong>: System owns nurturing and pushing Hot leads; Sales follow-up, SLA, Battlecards are joint capabilities; closed-won via feedback or CRM sync for attribution and competitor win-rate; see <a href="design.md#与-sales-的边界scope">design.md §1 Sales boundary</a>.</li>
+</ul>
+<hr />
+<h2>7. Existing database &amp; size (Database &amp; Size)</h2>
+<p>The <strong>existing data architecture</strong> for these requirements is this folder’s schema (<a href="schema_v0.sql">schema_v0.sql</a>, <a href="schema_v0.md">schema_v0.md</a>): fact table <strong>event_log</strong>, dimension tables <strong>person / company / content / campaign / touchpoint_source</strong>, derived <strong>lead_score_daily / lifecycle_state / attribution_summary</strong>, hosted on <strong>Supabase</strong> (Postgres).</p>
+<p><strong>Recommend documenting database size</strong> in the requirements for capacity, performance, and migration scope:</p>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Description</th>
+<th>Example / to be filled</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>DB type</strong></td>
+<td>Current prod/staging</td>
+<td>e.g. Supabase (Postgres 15)</td>
+</tr>
+<tr>
+<td><strong>Table count</strong></td>
+<td>Fact + dimensions + derived</td>
+<td>1 fact + 5 dimensions + 3 derived (see schema_v0)</td>
+</tr>
+<tr>
+<td><strong>event_log row count</strong></td>
+<td>Total events (current or annual)</td>
+<td>e.g. 10^6/year, 10^7 cumulative</td>
+</tr>
+<tr>
+<td><strong>person / company row count</strong></td>
+<td>Contact and company master data</td>
+<td>e.g. 10^5 person, 10^4 company</td>
+</tr>
+<tr>
+<td><strong>content row count</strong></td>
+<td>Content asset count</td>
+<td>e.g. order 10^3</td>
+</tr>
+<tr>
+<td><strong>Storage</strong></td>
+<td>Total DB size or by table</td>
+<td>e.g. xx GB (fill from Supabase if available)</td>
+</tr>
+<tr>
+<td><strong>Retention</strong></td>
+<td>event_log retention, partitioning/archival</td>
+<td>e.g. 2 years hot + archive</td>
+</tr>
+</tbody>
+</table>
+<p>Replace the examples with <strong>actual numbers</strong> when available; if not yet live, use “expected scale” and note it. Including database and size in the requirements helps Sprint 0 migration, Command Center, and Connector capacity planning.</p>
+<hr />
+<h2>8. Document index (this folder)</h2>
+<table>
+<thead>
+<tr>
+<th>Document</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="design.md">design.md</a></td>
+<td>Data architecture, two-layer model, three rules, event taxonomy</td>
+</tr>
+<tr>
+<td><a href="schema_v0.md">schema_v0.md</a> / <a href="schema_v0.sql">schema_v0.sql</a></td>
+<td>Table structures and DDL</td>
+</tr>
+<tr>
+<td><a href="event_taxonomy.yaml">event_taxonomy.yaml</a></td>
+<td>Event types and scoring rules</td>
+</tr>
+<tr>
+<td><a href="customer_dimension_guide.md">customer_dimension_guide.md</a></td>
+<td>Customer dimensions and import rules</td>
+</tr>
+<tr>
+<td><a href="content_library_design.md">content_library_design.md</a></td>
+<td>Content Library and Teams</td>
+</tr>
+<tr>
+<td><a href="fact_layer_source_mapping.md">fact_layer_source_mapping.md</a></td>
+<td>Multi-source events → event_log mapping</td>
+</tr>
+<tr>
+<td><a href="supabase_integration_guide.md">supabase_integration_guide.md</a></td>
+<td>Connecting all sources via Supabase and input formats</td>
+</tr>
+<tr>
+<td><a href="assets/GTM_architecture.png">assets/GTM_architecture.png</a></td>
+<td>GTM architecture diagram</td>
+</tr>
+</tbody>
+</table>
+<p>This document is the <strong>Marketing Automation – full requirements</strong> summary; use it with the above technical docs for selection, Sprint 0, and implementation. <strong>§7 Database &amp; size</strong> should be filled with actual or expected numbers before sharing with vendors or implementation teams.</p></body></html>

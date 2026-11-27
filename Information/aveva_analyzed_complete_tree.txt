@@ -1,0 +1,2660 @@
+====================================================================================================
+aveva 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Product
+
+│  ├─ 📄 3D Design Reduces Time To Retrofit An Industrial Plant
+
+│  ├─ 📄 3D Viewer For Omi App
+
+│  ├─ 📄 Aa Hawkvue Digital Screen Recorder And Playback System
+
+│  ├─ 📄 Advanced Document Management For Asset Heavy Industries
+
+│  ├─ 📄 Alarm Management Software Processvue
+
+│  ├─ 📄 Alarm Notification Software
+
+│  ├─ 📄 Alarm Omi App
+
+│  ├─ 📄 Andon Visual Display Management
+
+│  ├─ 📄 Apc
+
+│  ├─ 📄 Apex Expertise Services
+
+│  ├─ 📄 Apm Assessment
+
+│  ├─ 📄 Apollo Energy Analytics Renewable Energy Asset Management Solution
+
+│  ├─ 📄 Assembly Planning
+
+│  ├─ 📄 Asset Information Management
+
+│  ├─ 📄 Asset Library For System Platform
+
+│  ├─ 📄 Asset Strategy Optimization
+
+│  ├─ 📄 Automatic Car Parking Solution Practice
+
+│  ├─ 📄 Automation As A Service Assessment
+
+│  ├─ 📄 Automation Check Up Obsolescence Planning Service
+
+│  ├─ 📄 Autoware Srl Expertise Services
+
+│  ├─ 📄 Aveva Edge Data Store
+
+│  ├─ 📄 Aveva Engineering
+
+│  ├─ 📄 Aveva Experience Training
+
+│  ├─ 📄 Aveva Insight Omi App
+
+│  ├─ 📄 Aveva Intouch Access Anywhere
+
+│  ├─ 📄 Aveva Intouch Hmi Conversion Service
+
+│  ├─ 📄 Aveva Map Omi App
+
+│  ├─ 📄 Aveva Measurement Advisor
+
+│  ├─ 📄 Aveva Net Dataviewer Omi App
+
+│  ├─ 📄 Aveva Net Documentviewer Omi App
+
+│  ├─ 📄 Aveva Operations Control
+
+│  ├─ 📄 Aveva Pdms
+
+│  ├─ 📄 Aveva Pi Datalink
+
+│  ├─ 📄 Aveva Pi Integrator For Business Analytics
+
+│  ├─ 📄 Aveva Pi Server
+
+│  ├─ 📄 Aveva Pi System
+
+│  ├─ 📄 Aveva Pi System Developer Technologies
+
+│  ├─ 📄 Aveva Pi Vision
+
+│  ├─ 📄 Aveva Pipeline Integrity Monitor
+
+│  ├─ 📄 Aveva Plc Simulation
+
+│  ├─ 📄 Aveva Plc Viewer Omi App
+
+│  ├─ 📄 Aveva Reactor Models
+
+│  ├─ 📄 Aveva Scheduler Omi App
+
+│  ├─ 📄 Aveva Screencaptureandprint Omi App
+
+│  ├─ 📄 Aveva System Monitor
+
+│  ├─ 📄 Aveva Teamwork
+
+│  ├─ 📄 Aveva Thermodynamics
+
+│  ├─ 📄 Aveva Xr For Operations And Maintenance
+
+│  ├─ 📄 Axcend Automation Software Solutions Expertise Services
+
+│  ├─ 📄 Base Automacao Expertise Services
+
+│  ├─ 📄 Batch Management
+
+│  ├─ 📄 Batch Management View Omi App
+
+│  ├─ 📄 Braincube The Leading Industrial Analytics For Process Health
+
+│  ├─ 📄 Business Care
+
+│  ├─ 📄 Business Intelligence Gateway
+
+│  ├─ 📄 Cadenas
+
+│  ├─ 📄 Citect Historian Conversion
+
+│  ├─ 📄 Cogent Datahub
+
+│  ├─ 📄 Cogent Datahub Historians And Analytics
+
+│  ├─ 📄 Communication Drivers
+
+│  ├─ 📄 Content Presenter Omi App
+
+│  ├─ 📄 Continuous Improvement Methodology Training
+
+│  ├─ 📄 Contract Risk Management
+
+│  ├─ 📄 Control System Simulation
+
+│  ├─ 📄 Control Systems And Simulators
+
+│  ├─ 📄 Cost Efficiency In Power Generation
+
+│  ├─ 📄 Cougar Automation Expertise Services
+
+│  ├─ 📄 Crossmuller Expertise Services
+
+│  ├─ 📄 Crude Assay Management
+
+│  ├─ 📄 Datahub Iot Gateway
+
+│  ├─ 📄 Datahub Mqtt Broker
+
+│  ├─ 📄 Datahub Opc Bridge
+
+│  ├─ 📄 Datahub Opc Gateway
+
+│  ├─ 📄 Datahub Opc Logger
+
+│  ├─ 📄 Datahub Tunneller For Opc
+
+│  ├─ 📄 Development Studio
+
+│  ├─ 📄 Distribution And Network Optimization
+
+│  ├─ 📄 Dynamic Simulation
+
+│  ├─ 📄 E3D Design
+
+│  ├─ 📄 Ecostruxure Micro Data Center
+
+│  ├─ 📄 Edge
+
+│  ├─ 📄 Empowerment Of Workforce For Increased Productivity
+
+│  ├─ 📄 Energy Transition
+
+│  ├─ 📄 Enterprise Automation Citect Expertise Services
+
+│  ├─ 📄 Enterprise Resource Management
+
+│  ├─ 📄 Enterprise Scada
+
+│  ├─ 📄 Evans Control Room Expertise Services
+
+│  ├─ 📄 Excel Simulation Interface
+
+│  ├─ 📄 File Viewer Omi App
+
+│  ├─ 📄 G O Expertise Services
+
+│  ├─ 📄 Gas Applications
+
+│  ├─ 📄 Gisize Geospatial
+
+│  ├─ 📄 Gisize Geospatial Omi App
+
+│  ├─ 📄 Gisize Infrastructure Framework Suite
+
+│  ├─ 📄 Gisize Scheduler And Sequencer Module
+
+│  ├─ 📄 Graphic Repeater Omi App
+
+│  ├─ 📄 Historian
+
+│  ├─ 📄 Historical Trend Omi App
+
+│  ├─ 📄 Hull And Outfitting
+
+│  ├─ 📄 Indeff Expertise Services
+
+│  ├─ 📄 Industrial Automated Messaging
+
+│  ├─ 📄 Industrial Wi Fi Sms Messaging
+
+│  ├─ 📄 Information Standards Manager
+
+│  ├─ 📄 Initial Design
+
+│  ├─ 📄 Insight
+
+│  ├─ 📄 Integrated Engineering Design Expertise Services
+
+│  ├─ 📄 Intouch Hmi
+
+│  ├─ 📄 Lean Manufacturing And Production Optimization
+
+│  ├─ 📄 Learning Training One Point Lesson Course Development
+
+│  ├─ 📄 Liquid Applications
+
+│  ├─ 📄 Logic Validator
+
+│  ├─ 📄 Manage Product Quality And Consistency
+
+│  ├─ 📄 Manufacturing Assessment Analysis
+
+│  ├─ 📄 Manufacturing Execution System
+
+│  ├─ 📄 Matrix Technologies Expertise Services
+
+│  ├─ 📄 Maximize Electrical Asset Availability And Reliability
+
+│  ├─ 📄 Maximize Oil And Gas Asset Availability And Reliability
+
+│  ├─ 📄 Maximize Operational Continuity And Manage Risk
+
+│  ├─ 📄 Mes For Food Producers Solution Practice
+
+│  ├─ 📄 Mes Systems Services
+
+│  ├─ 📄 Mesa 3 Rugged Tablet
+
+│  ├─ 📄 Mining Material Inventory And Stockpile Management
+
+│  ├─ 📄 Mobile Operator
+
+│  ├─ 📄 Monitoring And Diagnostic Services
+
+│  ├─ 📄 Multi Stage Service Cycle In Control And Automation Industry
+
+│  ├─ 📄 Network
+
+│  ├─ 📄 Off Sites Management
+
+│  ├─ 📄 Oil And Gas Pipeline Leak Detection And Resolution
+
+│  ├─ 📄 Operational Safety Management
+
+│  ├─ 📄 Operator Training Simulator
+
+│  ├─ 📄 Ox Dashboard Datamanagment Power Bi Solutions 3
+
+│  ├─ 📄 Panacea Update Manager
+
+│  ├─ 📄 Pi Data Infrastructure
+
+│  ├─ 📄 Pipeline Training Simulator
+
+│  ├─ 📄 Plan
+
+│  ├─ 📄 Planettogether Aps
+
+│  ├─ 📄 Plant Scada
+
+│  ├─ 📄 Plant Werx Expertise Services
+
+│  ├─ 📄 Point Cloud Manager
+
+│  ├─ 📄 Predictive Analytics
+
+│  ├─ 📄 Pro Ii Simulation
+
+│  ├─ 📄 Process Optimization
+
+│  ├─ 📄 Process Simulation
+
+│  ├─ 📄 Product Listing
+
+│  ├─ 📄 Production Accounting
+
+│  ├─ 📄 Production Management
+
+│  ├─ 📄 Production Scheduling Software
+
+│  ├─ 📄 Professional Services For Value Realization Mining
+
+│  ├─ 📄 Rbi Corrosion And Iow Management Software
+
+│  ├─ 📄 Recipe Management
+
+│  ├─ 📄 Recipe Management Omi App
+
+│  ├─ 📄 Refining Process Value Chain Optimization
+
+│  ├─ 📄 Remote Response Objects
+
+│  ├─ 📄 Reports For Operations
+
+│  ├─ 📄 Requirements Definition Mes Or Automation With Roi
+
+│  ├─ 📄 Roima Intelligence Expertise Services
+
+│  ├─ 📄 Romeo Material Balance
+
+│  ├─ 📄 S And C Docmanager
+
+│  ├─ 📄 S And C Equipment Template
+
+│  ├─ 📄 S And C Net
+
+│  ├─ 📄 Scada Health Audit
+
+│  ├─ 📄 Scada It Ot Platform Services
+
+│  ├─ 📄 Schedule
+
+│  ├─ 📄 Services For Omniserver
+
+│  ├─ 📄 Small Business Mom Solution Practice
+
+│  ├─ 📄 Source Control Change Control
+
+│  ├─ 📄 Spray Dryer Optimization
+
+│  ├─ 📄 Stone Expertise Services For Batching Management Systems
+
+│  ├─ 📄 Stratus Everrun Software For Custom Redundant Industrial Computing Solutions
+
+│  ├─ 📄 Stratus Ftserver Fault Tolerant Server For Control Room Applications
+
+│  ├─ 📄 Stratus Ztc Edge Virtualized Zero Touch Computer For The Plant Floor
+
+│  ├─ 📄 Symbol Factory Archestra For Wonderware
+
+│  ├─ 📄 System Platform
+
+│  ├─ 📄 Top Server Manufacturing Communications Suite
+
+│  ├─ 📄 Top Server Oil Gas Solutions
+
+│  ├─ 📄 Top Server Packaged Services
+
+│  ├─ 📄 Track And Trace Food Traceability
+
+│  ├─ 📄 Triconex Simulation
+
+│  ├─ 📄 Ultimo Enterprise Asset Management Platform
+
+│  ├─ 📄 Ultimo Enterprise For Large Organizations
+
+│  ├─ 📄 Ultimo Premium For Midsized And Large Organizations
+
+│  ├─ 📄 Ultimo Professional For Midsized Organizations
+
+│  ├─ 📄 Unified Engineering
+
+│  ├─ 📄 Unified Engineering Implementation
+
+│  ├─ 📄 Unified Learning
+
+│  ├─ 📄 Unified Operations Center
+
+│  ├─ 📄 Unified Operations Center For Data Centers
+
+│  ├─ 📄 Unified Operations Center For Marine
+
+│  ├─ 📄 Unified Operations Center For Midstream
+
+│  ├─ 📄 Unified Operations Center For Mining
+
+│  ├─ 📄 Unified Operations Center For Renewables
+
+│  ├─ 📄 Unified Operations Center For Smart Cities
+
+│  ├─ 📄 Unified Operations Center For Water
+
+│  ├─ 📄 Unified Supply Chain
+
+│  ├─ 📄 Universal Device Connectivity Omniserver
+
+│  ├─ 📄 Video Viewer Omi App
+
+│  ├─ 📄 Vision Ai Assistant
+
+│  ├─ 📄 Warehouse Execution Solution Practice
+
+│  ├─ 📄 Win 911
+
+│  ├─ 📄 Win 911 Advanced Edition
+
+│  ├─ 📄 Win 911 For Food And Beverage
+
+│  ├─ 📄 Win 911 For Infrastructure
+
+│  ├─ 📄 Win 911 For Life Sciences
+
+│  ├─ 📄 Win 911 For Oil And Gas
+
+│  ├─ 📄 Win 911 For Water And Wastewater Treatment
+
+│  ├─ 📄 Win 911 Interactive Edition
+
+│  ├─ 📄 Win 911 Standard Edition
+
+│  ├─ 📄 Work Tasks
+
+│  ├─ 📄 Workpacks
+
+│  └─ 📄 Xr For Training
+
+
+├─ 📁 Industries
+
+│  ├─ 📄 Industries
+
+│  ├─ 📂 Chemicals
+│  │  ├─ 📄 Basic Chemicals
+│  │  └─ 📄 Specialty Chemicals
+
+│  ├─ 📄 Epc
+
+│  ├─ 📂 Infrastructure
+│  │  ├─ 📄 Cities And Facility Management
+│  │  ├─ 📄 Data Centers
+│  │  ├─ 📄 Federal
+│  │  └─ 📄 Water Wastewater
+
+│  ├─ 📂 Manufacturing
+│  │  ├─ 📄 Consumer Products
+│  │  ├─ 📄 Discrete Manufacturing
+│  │  ├─ 📄 Life Sciences
+│  │  ├─ 📄 Pulp Paper
+│  │  └─ 📄 Ship Building
+
+│  ├─ 📂 Marine
+│  │  ├─ 📄 Ports
+│  │  └─ 📄 Ship Operations
+
+│  ├─ 📂 Mining Metal Minerals
+│  │  ├─ 📄 Metals
+│  │  └─ 📄 Mining
+
+│  ├─ 📂 Oil Gas
+│  │  ├─ 📄 Downstream
+│  │  ├─ 📄 Gas Processing
+│  │  ├─ 📄 Hydrogen
+│  │  ├─ 📄 Lng
+│  │  ├─ 📄 Pipeline
+│  │  └─ 📄 Upstream
+
+│  ├─ 📂 Power Utilities
+│  │  ├─ 📄 Power Generation
+│  │  ├─ 📄 Renewables
+│  │  └─ 📄 Transmission Distribution
+
+│  └─ 📄 Transportation
+
+
+├─ 📁 Solutions
+
+│  ├─ 📄 Solutions
+
+│  ├─ 📂 Connect
+│  │  └─ 📄 Join The Ecosystem
+
+│  ├─ 📂 Data Management
+│  │  ├─ 📄 Data Enrichment And Analysis
+│  │  ├─ 📄 Data Sharing
+│  │  ├─ 📄 Engineering Data Management
+│  │  └─ 📄 Operations Data Management
+
+│  ├─ 📂 Data Visualization
+│  │  ├─ 📄 Engineering Data Visualization
+│  │  ├─ 📄 Enterprise Visualization
+│  │  └─ 📄 Operations Data Visualization
+
+│  ├─ 📂 Digital Transformation
+│  │  ├─ 📄 Artificial Intelligence
+│  │  ├─ 📄 Connected Worker
+│  │  ├─ 📄 Digital Twin
+│  │  ├─ 📂 Digital Twin
+│  │  │  ├─ 📄 What Is A Digital Twin
+│  │  ├─ 📄 Edge Management
+│  │  ├─ 📄 Industrial Cloud Platform
+│  │  ├─ 📄 Industrial Internet Of Things
+│  │  ├─ 📂 Industrial Internet Of Things
+│  │  │  ├─ 📄 Closing The Loop
+│  │  ├─ 📂 Industrial Internet Of Things
+│  │  │  ├─ 📄 Megatrends
+│  │  ├─ 📄 What Is Unified Namespace
+│  │  └─ 📄 Xr
+
+│  ├─ 📂 Engineering
+│  │  ├─ 📄 Asset Lifecycle Management
+│  │  ├─ 📄 Construction Project Management
+│  │  ├─ 📄 Engineering And Design
+│  │  ├─ 📄 Industrial Training
+│  │  └─ 📄 Simulation
+
+│  ├─ 📄 Flex Subscription
+
+│  └─ 📂 Operations
+│     ├─ 📄 Asset Analytics
+│     ├─ 📄 Asset Management
+│     ├─ 📄 Asset Performance Management
+│     ├─ 📄 Asset Strategy Management
+│     ├─ 📄 Augmented Reality
+│     ├─ 📄 Hmi
+│     ├─ 📄 Mom
+│     ├─ 📄 Oee
+│     ├─ 📂 Oee
+│     │  ├─ 📄 What Is Oee
+│     ├─ 📄 Operations Control Hmi
+│     ├─ 📄 Operations Execution Management
+│     ├─ 📄 Production Optimization
+│     ├─ 📄 Refinery Planning Scheduling
+│     ├─ 📄 Scada
+│     ├─ 📂 Scada
+│     │  ├─ 📄 Scada Security
+│     ├─ 📂 Scada
+│     │  ├─ 📄 What Is Scada
+│     ├─ 📄 Situational Awareness
+│     ├─ 📄 Supply Chain Performance
+│     ├─ 📂 Supply Chain Performance
+│     │  ├─ 📄 Supply Chain Planning
+│     ├─ 📂 Supply Chain Performance
+│     │  ├─ 📄 Supply Chain Scheduling
+│     ├─ 📄 Value Chain Optimization
+│     ├─ 📂 Value Chain Optimization
+│     │  ├─ 📄 Romeo Reactor Models
+│     ├─ 📄 What Is A Mes
+│     └─ 📄 Wonderware
+
+
+├─ 📁 Contact
+
+│  └─ 📄 Contact
+
+
+├─ 📁 About
+
+│  ├─ 📄 About
+
+│  ├─ 📂 About Aveva
+│  │  ├─ 📄 Awards
+│  │  ├─ 📄 Inclusive Culture
+│  │  ├─ 📄 Leadership
+│  │  ├─ 📄 Locations
+│  │  └─ 📄 Mission And Values
+
+│  ├─ 📂 Careers
+│  │  ├─ 📄 Action For Good
+│  │  ├─ 📄 Aveva Empowher
+│  │  ├─ 📄 Benefits
+│  │  ├─ 📄 Early Careers
+│  │  ├─ 📄 Hiring Process
+│  │  └─ 📄 R And D Careers
+
+│  ├─ 📄 Events
+
+│  ├─ 📂 Generationi
+│  │  └─ 📄 Industrialintelligenceindex
+
+│  ├─ 📄 Investors
+
+│  ├─ 📂 News
+│  │  ├─ 📄 Press Contacts
+│  │  ├─ 📄 Press Releases
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 2021
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aker Solutions And Aveva Extend Strategic Partnership Deploying Engineering Solutions In The Cloud
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Accelerates Commitment To Invest In People And Sustainability
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Accelerates Sustainability Leadership With Emissions Reduction
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Adnoc And Arc Conclude That Digital Transformation Will Increasingly Drive Sustainable Business Practices In A Post Pandemic World
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Abs Join Forces To Unlock Real Time Digitalization And Decarbonization Insights For Shipping Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Aramco Plan To Partner To Realize Key Sustainability Goals Through Digitalization
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Helios Iot Systems Partner To Empower The Solar Energy Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Imi Extend Their Collaboration With New Partnership To Accelerate Marine Sector Digital Transformation In The Middle East And Africa
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Maire Tecnimont Group Strategically Partner To Take Industrial Digital Transformation To The Next Level
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Osisoft Combine To Unlock The Potential Of Data To Drive Increased Performance For Industrial Organizations
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Planettogether Announce Strategic Partnership To Optimize Food And Beverage And Consumer Packaged Goods Manufacturing Operations
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Rib Announce Strategic Partnership
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Shell Provide Perspective On How Industry 5 0 Will Connect Human Elements To Smart Production
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Wood Launch New Industrial Solution
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces 2021 Winners Of Global Academic Program Competition For Chemical Engineering Students
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces 4Th Process Simulation Competition Targeting Chemical Engineering Students In North America And Europe
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Appointments Of Caspar Herzberg And Helen Lamprell
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Is3 As The First Aveva Select Partner In The Emea Region
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Becomes The 47Th Ftse 100
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Charts Course For Digital Future For Ships And Shipbuilding Confirming That New Technologies Will Drive Success In The Marine Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Empowers Petroleum Leader Idemitsu Kosan With Ai Infused Cloud Solution
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Helps Customers Upskill The Industrial Workforce With Launch Of Cloud Based Aveva Unified Learning Solution
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Introduces Upgraded Design And Process Simulation Tools
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Joins Un Global Compact Network
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches Comprehensive Operations Control Software Through Game Changing User Centric Flexible Model
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Named A Leader In Mining Manufacturing And Oil Gas Idc Apm Marketscape Reports
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Named A Leader In The 2021 Gartner Magic Quadrant For Manufacturing Execution Systems
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Named Best Global Industrial Software Solutions Provider
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Partners With Bhp To Accelerate Digitalization
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Paves The Way For Henkel To Drive Sustainability Throughout Its Global Supply Chain
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognized As One Of Britains Most Admired Companies
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognized As One Of The Top Channel Influencers Of The Year
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognized As The Winner Of 2021 Microsoft Energy Partner Of The Year
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognized With Frost And Sullivan 2020 Product Leadership Award
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Releases First Sustainability Report Charting Progress To Net Zero And Gender Equality
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Reports Progress On Gender Diversity And Publishes Ethnicity Pay Gap Data
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Signs Long Term Strategic Deal To Transform Edfs Nuclear Engineering Capabilities
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Supports The Power And Utility Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva To Unveil New Product Roadmap Following Osisoft Integration
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Avevas Academic Program Competition Targets Chemical Engineering Students In North America And Europe
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Avevas Fourth Global Digital Conference To Focus On Operational Agility Resiliency And Innovation And Introduce Pi System
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Avevas New Vision Ai Assistant Dynamically Transforms Existing Image Feeds Into Actionable Industrial Insights
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Avevas Third Digital Conference Assembles Environmental Sustainability Experts
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Business Leaders Underscore Technology As A Key Driver For Delivring Organizational Sustainability Goals
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Data Helps Accelerate Innovation On Path To Net Zero
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Digital Transformation Is Accelerating Growth In The Energy Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Employee Driven Initiatives Underscore Avevas Commitment To Sustainability
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Fiscal Year 2020 2021 Proves Transformational For Aveva Despite Pandemic Challenges
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Frost And Sullivan Awards Top Water Management Solution Recognition To The Pi System
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Industrial Businesses To Increase Investment In Digital Transformation And Sustainability Aveva Survey
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Industrial Enterprises To Gain Secure Cloud Based Operational Data Sharing With Announcement Of Aveva Data Hub
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Lifecraft And Aveva Join Forces To Support Mental Health In Cambridgeshire
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Mining And Metals Companies Accelerate Focus On Sustainability
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Petronas Selects Avevas Unified Cloud Solution To Drive Productivity And Redefine Processes
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schlumberger And Aveva Announce Agreement To Advance Digital Solutions For Oil And Gas Production Operations
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schneider Electric And Aveva Partner With Obeikan Digital Solutions To Deliver Industry 4 0 Technologies
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schneider Electric And Aveva Unify Vale Mining Operations To Improve Safety And Sustainability
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 2022
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Alizent Partner To Accelerate Digital Transformation For Asset Intensive Industries
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Kent Partner To Drive Digital Acceleration Across Energy Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Limble Cmms Sign Partnership
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And West Virginia University Create Next Generation Simulation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces A Strategic Licensing Partnership With Aras
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces European And North America Winners Of Its Chemical Engineering Student Focused Annual Process Simulation Competition
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Connect Strengthened With Data Sharing Capabilities
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Deepens Commitment To Support Industrial Customers On Decarbonization With New 2025 Goals
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Delivers More Flexibility To Customers Of Aveva Pi System
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Demonstrates Industrial Information Key Role In Sustainable Industrial Growth
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Hosts Utility Executive Summit On How To Leverage U S Infrastructure Bill
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva In World S First 50 Companies To Have Net Zero Target Validated By Science Based Targets Initiative
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches 2023 Operations Control Software To Strengthen Workforce Efficiency For Industrial Enterprises
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches Enhanced Digital Twin With Wearable Scanning And Robust Document Control
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Makes Fast Companys List Of The Worlds Most Innovative Companies In 2022
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Pi World 2022 Showcases Transformative Role Of Data In Industrial Innovation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Positioned As A Leader In The Gartner Magic Quadrant For Manufacturing Execution Systems
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Showcases Role Of Digital Technologies In Achieving Zero Carbon Economy At Cop27
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Software Helps Airbridge Transform Carbon Emissions Into High Value Commodities
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unified Supply Chain Infuses Refinery Scheduling With Artificial Intelligence Capability
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Avevas Enterprise Visualization Drives Sustainability Initiatives For Water And Renewable Power Customers
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Global Green Energy Company Fortescue Future Industries Chooses Aveva For Renewables Design Projects
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Japan S Eneos Deploys Aveva As The Foundation Solution For Refinery Digital Twin Project
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 New Aveva Study Finds 8 Out Of 10 Industrial Multinationals Make Key Decisions Without Vital Data
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Record Number Of Customer Led Sessions To Be Delivered At Aveva World In San Francisco
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schneider Electric And Aveva Partner With Shell To Accelerate Net Zero Transition In Hard To Abate Sectors
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Toyo Engineering Corporation Drives Data Centric Engineering With Aveva Solutions
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Vision For Connected Industrial Ecosystems Revealed At Aveva World In San Francisco
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 2023
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Accelerates Progress On Decarbonizing Operations And Delivering Software That Advances Net Zero According To New Sustainability Report
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Achieves Aws Energy Competency Status
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Advances Predictive Analytics Market With New Powered Software Release
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Aras Sign Lighthouse Agreement With Mcdermott In Energy Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Petrofac Enter Mou To Accelerate Digital Initiatives For The Energy Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces 2023 Process Simulation Competition For Chemical Engineering Students In North America And Europe
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces New Ceo And Vision For Connected Industries Of The Future
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Strategic Partnership With Work Packs To Boost Construction Industry Productivity
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces The Completion Of Its Acquisition By Schneider Electric
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Two New Non Executive Directors To Join Its Board
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Commits To Subscription Transition To Foster Flexible Industrial Innovation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Connect And Microsoft Fabric Drive Deeper Operational Transformation And Sustainability For Industrial Customers Worldwide
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Enhances Mes With Multi Site Support In 2023
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Extends Data Capabilities From Edge To Plant To Community With Aveva Pi Data Infrastructure
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Further Strengthens Executive Leadership Team With Four New Senior Roles
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Partners With Azule Energy To Enable World Class Operations Through Digital Transformation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Partners With Yinson To Build World S First Autonomous Floating Vessels For Oil And Gas Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognized As A Leader In The Idc Marketscape Worldwide Process Manufacturing Execution System 2023 Vendor Assessment
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva S Ceo Caspar Herzberg And Chief Product Officer Rob Mcgreevy Reveal Connected Roadmap For More Sustainable Industries Of The Future
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva S Industrial Data Platform Empowers Mitsubishi Chemical S Digital Transformation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 New Aveva Advanced Analytics To Boost Process Efficiency And Green Agenda Using Artificial Intelligence
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Topsoe Accelerates Global Green Hydrogen Economy With Aveva Software
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 2024
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Accelerates Marine And Offshore Digitization With Dnv Verification Of Digital Infrastructure
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Databricks Forge Strategic Collaboration To Accelerate Industrial Ai Outcomes And Enable A Connected Industrial Ecosystem
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Meridian Energy Group Inc Forge Partnership For World S Cleanest And Most Advanced Crude Oil Refineries
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Newpoint Trillium Management Llc Announce Partnership For Clean Hydrogen Project
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces At Achema A Strategic Collaboration Agreement With Aws To Drive Sustainable Industrial Transformation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces European And North America Winners Of Its 6Th Chemical Engineering Student Focused Annual Process Simulation Competition
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces First Aveva E3D Design Competition For Users
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Two New Strategic Partnerships At Its Biggest Ever Aveva World Conference
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Highlights India S Digital Transformation With Opening Of New Hyderabad Customer Experience Center
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches Connect The World S Leading Industrial Intelligence Platform At Hannover Messe
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches Enhanced Strategy With New Hybrid Cloud Manufacturing Execution System
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches The Managed Solution Provider Partner Program
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Previews Industrial Ai Assistant In Collaboration With Microsoft At Hannover Messe
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva To Expand Its Northern Ireland Operations As It Invests 1 4 Million In Derry Site
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unveils Its Connected Roadmap For The Future Of Industrial Intelligence At Aveva World Paris
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unveils Key Learnings From Aveva 2023 Sustainability Progress Report And First Aveva Industrial Intelligence Index At London Tech Week 2024
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unveils New Intouch Unlimited Hmi Scada Capabilities And Pricing Structure
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Petronas And Aveva Sign Mou To Accelerate Industrial Sustainability Efforts
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Saipem And Aveva Sign A Mou To Develop Ai Solutions For Engineering In The Energy And Infrastructure Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schneider Electric And Nvidia To Collaborate On Designs For Ai Data Centers
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Schneider Electric Begins Innovation Summit World Tour Unveiling Latest Innovations And Collaborations
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Tech Mahindra And Aveva Establish Global Center Of Excellence To Accelerate Digital Adoption
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 2025
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Advanced Analytics On Connect Drives Operational Excellence Across Manufacturing And Consumer Goods Industries
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Government Of Maharashtra Sign Mou To Accelerate Maharashtra Vision 2030
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Hmel Sign Mou To Drive Ai Powered Digitalisation In India S Refining Sector
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva And Protium Join Forces To Accelerate Innovation In The Green Hydrogen Industry
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Arti Garg In New Chief Technologist Role To Support Its Vision For Connected Industries Of The Future
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Partnership With Servicenow To Drive Industrial Transformation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Announces Strategic Partnerships At Flagship Event Aveva World In San Francisco
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Awarded 2025 Databricks Manufacturing Isv Partner Of The Year At Data Ai Summit
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Expands Its Offerings For Aveva Pi Data Infrastructure With Amazon Rds
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Is Announced As The New Technology Partner For Porsche Motorsport And Porsche Formula E Team
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Is Providing Data Management Support For Renewable Natural Gas Projects
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Is Recognised As A Leader In The 2024 2025 Idc Marketscape For Worldwide Manufacturing Execution Systems
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Launches Radical Collaboration Documentary In Partnership With Cnbc Highlighting The Need For Systemic Change
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Recognised As The Winner Of 2025 Microsoft Manufacturing Partner Of The Year
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unveils Key Industrial Digital Twin Solutions At Schneider Innovation Summit Copenhagen
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Unveils Key Learnings From Aveva 2024 Sustainability Report At London Climate Action Week
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Aveva Was Recognised In 2025 Gartner Magic Quadrant For Global Industrial Iot Platforms
+│  │  └─ 📂 Press Releases
+│  │     └─ 📄 Schneider Electric Aveva And Etap Join Alliance For Openusd To Advance Digital Twins And 3D Modeling For Industries
+
+│  ├─ 📂 Partners
+│  │  ├─ 📄 Aveva Select
+│  │  ├─ 📄 Become A Partner
+│  │  ├─ 📄 Embedded Solutions
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Industrial Automation
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Aveva And Rockwell Automation
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Emerson
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Icp Das Usa And Aveva
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Pxise Energy Solutions And Aveva
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Integrated Software Providers
+│  │  ├─ 📂 Embedded Solutions
+│  │  │  ├─ 📄 Machine Builders
+│  │  ├─ 📄 Global Alliances
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Accenture
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Aws Energy
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Capgemini
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Cognizant
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Microsoft
+│  │  ├─ 📂 Global Alliances
+│  │  │  ├─ 📄 Schneider Electric
+│  │  ├─ 📄 Integration And Service
+│  │  ├─ 📂 Integration And Service
+│  │  │  ├─ 📄 Partnertalk
+│  │  ├─ 📄 Managed Solution Providers
+│  │  ├─ 📄 Sales And Support
+│  │  ├─ 📄 Solution Providers
+│  │  ├─ 📄 System Integrators
+│  │  └─ 📄 Work With A Partner
+
+│  ├─ 📄 Supplier Portal
+
+│  └─ 📂 Sustainability
+│     ├─ 📄 Esg Reporting
+│     ├─ 📄 Global Collaboration
+│     ├─ 📂 Global Collaboration
+│     │  ├─ 📄 Cop 27
+│     ├─ 📂 Global Collaboration
+│     │  ├─ 📄 Davos
+│     └─ 📄 Impact Stories
+
+
+├─ 📁 Academia
+
+│  ├─ 📄 Academia
+
+│  ├─ 📄 Academic Competition
+
+│  ├─ 📂 Engineering Solutions
+│  │  └─ 📄 Engineering Simulation For Education
+
+│  └─ 📄 Operations Solutions
+
+
+├─ 📁 Connect Experience
+
+│  ├─ 📄 Connect Experience
+
+│  ├─ 📂 About Connect
+│  │  ├─ 📄 Advanced Analytics
+│  │  ├─ 📄 Data Management
+│  │  ├─ 📄 Industrial Ai Assistant
+│  │  ├─ 📄 Use Cases
+│  │  └─ 📄 Visualization
+
+│  ├─ 📂 Connect Ecosystem
+│  │  └─ 📄 Industry Accelerator For Water
+
+│  ├─ 📄 Contact
+
+│  └─ 📄 Getting Started
+
+
+├─ 📁 Info
+
+│  ├─ 📄 Aveva Porsche Formula E Partnership
+
+│  ├─ 📄 E3D Design Releases
+
+│  ├─ 📄 Edge Resources
+
+│  ├─ 📄 Industrial Intelligence Report
+
+│  ├─ 📄 Intouch Hmi Pricing
+
+│  └─ 📄 User Experience
+
+
+├─ 📁 Legal
+
+│  ├─ 📄 Legal
+
+│  ├─ 📄 Anti Slavery Human Trafficking
+
+│  ├─ 📄 Aveva General Terms And Conditions Eula
+
+│  ├─ 📄 Cookie Policy
+
+│  ├─ 📄 Enterprise Agreement Software Services
+
+│  ├─ 📄 Hosting Product Schedule
+
+│  ├─ 📂 Osisoft Terms And Conditions
+│  │  ├─ 📄 Osisoft Copyright
+│  │  ├─ 📄 Osisoft Ethical Disclosure
+│  │  ├─ 📄 Osisoft Terms Of Services
+│  │  └─ 📄 Report Security
+
+│  ├─ 📂 Policies Compliance
+│  │  ├─ 📄 Eu Cyber Resilience Act
+│  │  └─ 📄 Gdpr Statement
+
+│  ├─ 📄 Privacy Policy
+
+│  ├─ 📄 Privacy Policy Indonesian
+
+│  ├─ 📄 Service Description
+
+│  ├─ 📄 Speak Up
+
+│  ├─ 📄 Terms Of Use
+
+│  ├─ 📄 Third Party Software License
+
+│  ├─ 📄 Trade Compliance
+
+│  ├─ 📄 Trademarks
+
+│  ├─ 📂 Trust
+│  │  ├─ 📄 Data Processing
+│  │  ├─ 📄 Security
+│  │  └─ 📄 Servicelevel
+
+│  └─ 📄 Usage Policy
+
+
+├─ 📁 Our Industrial Life
+
+│  ├─ 📄 Our Industrial Life
+
+│  ├─ 📄 About
+
+│  └─ 📂 Type
+│     ├─ 📄 Article
+│     ├─ 📂 Article
+│     │  ├─ 📄 A Country Without Land The First Digital Nation
+│     ├─ 📂 Article
+│     │  ├─ 📄 A Step By Step Guide For Utilities Managing Physical Climate Risk
+│     ├─ 📂 Article
+│     │  ├─ 📄 Addressing The Plastics Problem With Infinite Recycling
+│     ├─ 📂 Article
+│     │  ├─ 📄 Ai And The Second Generation Of Smart Cities
+│     ├─ 📂 Article
+│     │  ├─ 📄 Ai Boom Fuels Efforts To Make Data Centers More Sustainable
+│     ├─ 📂 Article
+│     │  ├─ 📄 Ai Powered Smart Grids Can Optimize Energy Management In Manufacturing
+│     ├─ 📂 Article
+│     │  ├─ 📄 Ai Promises To Supercharge Weather Forecasts
+│     ├─ 📂 Article
+│     │  ├─ 📄 Ai Washing Avoid The Hype And Deception
+│     ├─ 📂 Article
+│     │  ├─ 📄 Air Conditioning The Climate Change Dilemma
+│     ├─ 📂 Article
+│     │  ├─ 📄 An Ai By Any Other Name What Counts As Ai
+│     ├─ 📂 Article
+│     │  ├─ 📄 An Illustrated Guide To Carbon Removal
+│     ├─ 📂 Article
+│     │  ├─ 📄 Are Artificial Islands The Future Of Wind Power
+│     ├─ 📂 Article
+│     │  ├─ 📄 Are Evs Using Too Much Water
+│     ├─ 📂 Article
+│     │  ├─ 📄 Australias Green Iron Ambitions Rely On Hydrogen
+│     ├─ 📂 Article
+│     │  ├─ 📄 Basf New Weapon Against Insecticide Resistant Malaria Carrying Mosquitoes
+│     ├─ 📂 Article
+│     │  ├─ 📄 Benign By Design Pharmaceuticals
+│     ├─ 📂 Article
+│     │  ├─ 📄 Biobatteries That Need To Be Fed Not Charged
+│     ├─ 📂 Article
+│     │  ├─ 📄 Biosurfactants The Future Of Personal Care And Cleaning Products
+│     ├─ 📂 Article
+│     │  ├─ 📄 Building A More Resilient Lithium Supply Chain With Direct Lithium Extraction
+│     ├─ 📂 Article
+│     │  ├─ 📄 Building An Economy In Space With Asteroid Mining
+│     ├─ 📂 Article
+│     │  ├─ 📄 Can Undergrounding Help Fix Grid Transmission
+│     ├─ 📂 Article
+│     │  ├─ 📄 Carbon Removal Slippery Slope Or Climate Cure All
+│     ├─ 📂 Article
+│     │  ├─ 📄 Cement The Foundation Of Industrialized Societies
+│     ├─ 📂 Article
+│     │  ├─ 📄 Chemical Looping A Decarbonization Landmark
+│     ├─ 📂 Article
+│     │  ├─ 📄 Chemistry In Space
+│     ├─ 📂 Article
+│     │  ├─ 📄 China S Nuclear Know How
+│     ├─ 📂 Article
+│     │  ├─ 📄 China Us Antipathy Highlights Strategic Importance Of Antimony
+│     ├─ 📂 Article
+│     │  ├─ 📄 Chocolate Production And The Challenge Of Supply Chain Optimization
+│     ├─ 📂 Article
+│     │  ├─ 📄 Commercial Farm Extracts Battery Grade Nickel
+│     ├─ 📂 Article
+│     │  ├─ 📄 Construction Sudden Digital Renaissance
+│     ├─ 📂 Article
+│     │  ├─ 📄 Crafting Green Beer Is Harder Than You Think
+│     ├─ 📂 Article
+│     │  ├─ 📄 Decarbonizing Shipping Net Zero By 2050
+│     ├─ 📂 Article
+│     │  ├─ 📄 Did Miners Invent The First Wheel Computer Models Suggest Yes
+│     ├─ 📂 Article
+│     │  ├─ 📄 Digging Deep To Dig Better Smart Mining S Digital Tools
+│     ├─ 📂 Article
+│     │  ├─ 📄 Dot Dot Dash 35 Years That Shrunk The World
+│     ├─ 📂 Article
+│     │  ├─ 📄 Drilling For Oil And Gas Offshore Past Present Future
+│     ├─ 📂 Article
+│     │  ├─ 📄 Drive Through Ore Sorting And Other Mining Automations
+│     ├─ 📂 Article
+│     │  ├─ 📄 Drones Connect Epcs And Owner Operators
+│     ├─ 📂 Article
+│     │  ├─ 📄 Energy Efficient Windows Made With Smartphone Glass
+│     ├─ 📂 Article
+│     │  ├─ 📄 Energy Generation On Every Surface
+│     ├─ 📂 Article
+│     │  ├─ 📄 Energy Not Technology Defines Modern Life
+│     ├─ 📂 Article
+│     │  ├─ 📄 Flexing Their Mussels
+│     ├─ 📂 Article
+│     │  ├─ 📄 Forever Chemicals Are Plasma And Bubbles The Solution To Our Problem
+│     ├─ 📂 Article
+│     │  ├─ 📄 From Deserts And Soil To Oceans And Skies
+│     ├─ 📂 Article
+│     │  ├─ 📄 From Food Scraps To Face Cream
+│     ├─ 📂 Article
+│     │  ├─ 📄 From Seeds And Sprays To Data And Digitization The New Agrochemical Landscape
+│     ├─ 📂 Article
+│     │  ├─ 📄 From The Spinning Jenny To The Smart Factory
+│     ├─ 📂 Article
+│     │  ├─ 📄 Generative Ai Is Reshaping Material Science
+│     ├─ 📂 Article
+│     │  ├─ 📄 Geothermal Networks The Next Business For Natural Gas Firms
+│     ├─ 📂 Article
+│     │  ├─ 📄 Government And Industry Promises And Perils
+│     ├─ 📂 Article
+│     │  ├─ 📄 Governments Are Jump Starting The Green Hydrogen Economy
+│     ├─ 📂 Article
+│     │  ├─ 📄 Green Ammonia Underappreciated
+│     ├─ 📂 Article
+│     │  ├─ 📄 Green Energy Doesnt Have To Mean Blackouts
+│     ├─ 📂 Article
+│     │  ├─ 📄 History Of Ball Bearings From Logs To Bicycles
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Are Renewables And Ai Reshaping Power Markets
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Biomanufacturing Creates Sustainable Solutions
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Can Diamonds Help Us Make Sense Of The World
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Cities Are Heat Proofing For Climate Change
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Close Is Nuclear Fusion Power
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Data Centers Get Built
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Extended Reality Can Bolster Training For Oil And Gas
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Hydrogen Can Help Decarbonize Global Industry
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Hydrogen Is Changing Whisky Production
+│     ├─ 📂 Article
+│     │  ├─ 📄 How London Brought Its Victorian Sewers Into The Future
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Process Simulation Software Will Help Build A New Green Ammonia Economy
+│     ├─ 📂 Article
+│     │  ├─ 📄 How Smart Cities Can Improve Water Management
+│     ├─ 📂 Article
+│     │  ├─ 📄 How The European Chemical Industry Can Make Its Comeback
+│     ├─ 📂 Article
+│     │  ├─ 📄 How The Netherlands Became The Global Leader In Flood Defense
+│     ├─ 📂 Article
+│     │  ├─ 📄 How The Netherlands Learned To Live With The Water
+│     ├─ 📂 Article
+│     │  ├─ 📄 How The Romans Built The Aqueducts
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Build A Power Transformer
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Cool Down In A Warming World
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Increase Solar Energy Efficiency With Giant Clams
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Make Green Steel
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Make Seeds More Drought Resistant
+│     ├─ 📂 Article
+│     │  ├─ 📄 How To Tackle The Power Storage Problem
+│     ├─ 📂 Article
+│     │  ├─ 📄 Hurricane Helene Threatens Global Semiconductor Supply Chain
+│     ├─ 📂 Article
+│     │  ├─ 📄 Hydrogen Powered Trucks The Future Of Haulage
+│     ├─ 📂 Article
+│     │  ├─ 📄 Industrial Ai Increasing Or Decreasing Carbon Emissions
+│     ├─ 📂 Article
+│     │  ├─ 📄 Is It Lift Off For Sustainable Aviation Fuel
+│     ├─ 📂 Article
+│     │  ├─ 📄 Is The Uk Finally Reversing Its Nuclear Decline
+│     ├─ 📂 Article
+│     │  ├─ 📄 Machine Learning And The Art Of Forgery Detection
+│     ├─ 📂 Article
+│     │  ├─ 📄 Making New Factories A Truly Global Enterprise
+│     ├─ 📂 Article
+│     │  ├─ 📄 Memories Of Britains Last Coalminers
+│     ├─ 📂 Article
+│     │  ├─ 📄 Modular Construction A Storied Alternative For Epc Firms
+│     ├─ 📂 Article
+│     │  ├─ 📄 Modular Construction The Background To The Boom
+│     ├─ 📂 Article
+│     │  ├─ 📄 Next Gen Airports Revolutionize Air Travel
+│     ├─ 📂 Article
+│     │  ├─ 📄 Nobel Prize Physics Relies On Industrial Data
+│     ├─ 📂 Article
+│     │  ├─ 📄 Nobel Winning Chemicals Changing The Chemicals Industry
+│     ├─ 📂 Article
+│     │  ├─ 📄 Our Industrial Year In Review 2024
+│     ├─ 📂 Article
+│     │  ├─ 📄 Packing In Plastics How The Eu Packaging Regulation Impacts Business
+│     ├─ 📂 Article
+│     │  ├─ 📄 Paper Circuits The Future Of Electronics
+│     ├─ 📂 Article
+│     │  ├─ 📄 Paw Patrol How Robots Are Changing Oil And Gas Operations
+│     ├─ 📂 Article
+│     │  ├─ 📄 Phytoremediations Potential In Mine Cleanup
+│     ├─ 📂 Article
+│     │  ├─ 📄 Pickled Wood Chemistry Transforms Sustainably Grown Pine Into Durable Lumber
+│     ├─ 📂 Article
+│     │  ├─ 📄 Plugging The Oil And Gas Industrys Methane Gap
+│     ├─ 📂 Article
+│     │  ├─ 📄 Powering Through Cyber Threats Securing The Grid In The Digital Age
+│     ├─ 📂 Article
+│     │  ├─ 📄 Predicting Earthquakes With Ai
+│     ├─ 📂 Article
+│     │  ├─ 📄 Profiting From Electric Vehicle Battery Recycling
+│     ├─ 📂 Article
+│     │  ├─ 📄 Race To The Bottom Deep Sea Mining Explained
+│     ├─ 📂 Article
+│     │  ├─ 📄 Raising A New Manhattan Neighborhood Out Of Thin Air
+│     ├─ 📂 Article
+│     │  ├─ 📄 Recycled Concrete For Construction
+│     ├─ 📂 Article
+│     │  ├─ 📄 Recycling Ev Batteries Is Easy
+│     ├─ 📂 Article
+│     │  ├─ 📄 Rethinking Transit In A New World Of Work
+│     ├─ 📂 Article
+│     │  ├─ 📄 Rewiring The Power Grid
+│     ├─ 📂 Article
+│     │  ├─ 📄 Robots On The Line Automotive Manufacturing Gets Smarter
+│     ├─ 📂 Article
+│     │  ├─ 📄 Salmon Cannons And Dancing Rods The Wild World Of Hydropower Fish Management
+│     ├─ 📂 Article
+│     │  ├─ 📄 Scaling Geothermal Energy With Horizontal Drilling
+│     ├─ 📂 Article
+│     │  ├─ 📄 Sharing Data From Tire Sensors Could Make Commutes Safer Shorter And Greener
+│     ├─ 📂 Article
+│     │  ├─ 📄 Sharing Land Can Photovoltaic Energy And Agriculture Coexist
+│     ├─ 📂 Article
+│     │  ├─ 📄 Shipbreakings Long Voyage Into The 21St Century Is Just Beginning
+│     ├─ 📂 Article
+│     │  ├─ 📄 Space Debris Is Getting Sspicy
+│     ├─ 📂 Article
+│     │  ├─ 📄 Starting The New Year With New Energy
+│     ├─ 📂 Article
+│     │  ├─ 📄 Street Smart Is The Highway Of The Future Here
+│     ├─ 📂 Article
+│     │  ├─ 📄 Tech Blanket To Keep Your Ev Warm In Winter
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Challenge Of Transporting Hydrogen
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Future Of Customized Tissues And Organ Replacement
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Future Of Energy A Roundup
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Future Of Shipping Hydrogen Powers A Zero Emission Maritime Industry
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Future Of The Power Grid
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Hydrogen Hype Moves Underground
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Illustrated Guide To Sixteenth Century Mining
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Minerals And The Microwave A Cautionary Supply Chain Tale
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Mining Industry Levels Up
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Past Present And Future Of Oil And Gas Pipelines
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Past Present And Future Of The Assembly Line
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Potential Of The Chemicals Bioeconomy
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Precarious Uranium Supply Chain Visualized
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Rise And Fall Of Coal
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Rise Of Reshoring
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Source Of The Skills Gap Is Not Always A Lack Of Skills
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Struggle To Curb Hfc 23 Emissions
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Tiny Microbe That Changed Molecular Biology Forever
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Virtual Patients Revolutionizing Drug Manufacturing
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Water Energy Nexus
+│     ├─ 📂 Article
+│     │  ├─ 📄 The Whale Inspired Secret To Better Wind Turbines
+│     ├─ 📂 Article
+│     │  ├─ 📄 Toilet To Tap Water Making The Case For Recycled Water With Data
+│     ├─ 📂 Article
+│     │  ├─ 📄 Tomorrows Phantom Ships
+│     ├─ 📂 Article
+│     │  ├─ 📄 Transformative Next Gen Battery Chemistries
+│     ├─ 📂 Article
+│     │  ├─ 📄 Turning Abandoned Oil Wells Into Energy Storage
+│     ├─ 📂 Article
+│     │  ├─ 📄 Turning Mine Waste Into Profit
+│     ├─ 📂 Article
+│     │  ├─ 📄 Turning Nox Emissions Into Profit
+│     ├─ 📂 Article
+│     │  ├─ 📄 Turning The Earth Into A Thermal Battery For Data Center Cooling
+│     ├─ 📂 Article
+│     │  ├─ 📄 Undersea Cables The Thread Holding Our World Together
+│     ├─ 📂 Article
+│     │  ├─ 📄 Understanding The Hydrogen Spectrum
+│     ├─ 📂 Article
+│     │  ├─ 📄 Using Bacteria To Turn Post Consumer Plastic Into Silk
+│     ├─ 📂 Article
+│     │  ├─ 📄 Water To The Desert The History Of The Hoover Dam
+│     ├─ 📂 Article
+│     │  ├─ 📄 Weather Proofing Skyscrapers In The Age Of Climate Change
+│     ├─ 📂 Article
+│     │  ├─ 📄 What Can You Do With Wind Turbine Waste
+│     ├─ 📂 Article
+│     │  ├─ 📄 Whats Causing The Growth In Drug Shortages
+│     ├─ 📂 Article
+│     │  ├─ 📄 When Will Ai Be Creating All New Drugs
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Agentic Ai Is The Biggest Story In Manufacturing
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Geothermal Energy Is Heating Up
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Norway Is Pumping Carbon Deep Beneath The Sea
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Nuclear Batteries Are Making A Comeback
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Predictive Maintenance Is Key To A Renewables Reliant Grid
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Recycling Is The Hottest Trend In Nuclear Waste Management
+│     ├─ 📂 Article
+│     │  ├─ 📄 Why Virtual Power Plants Are Struggling To Scale
+│     ├─ 📂 Article
+│     │  ├─ 📄 Will 3D Printing Revolutionize The Construction Industry
+│     ├─ 📂 Article
+│     │  ├─ 📄 Will Artificial Intelligence Amplify The Case For Integrated Digital Assets
+│     ├─ 📂 Article
+│     │  ├─ 📄 Your Life Is Manufactured
+│     ├─ 📄 Opinion
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 Demand Response How Grids And Governments Can Deliver
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 Four Business Tips For Every Manufacturer
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 Four Lessons From 40 Factories
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 Preventing Accidents In The Chemicals Industry With Ai
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 The Social Potential Of Digital Twins
+│     ├─ 📂 Opinion
+│     │  ├─ 📄 Why Tackling Water Scarcity Requires A Rethink On Technology Investment
+│     ├─ 📄 Podcast
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Aging Infrastructure
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Ai A Sustainability Friend Or An Environmental Foe
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Challenge Of Ders
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Connected Worker
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Connected Worker 2
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Dark Matter And Ghost Particles
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Green Ammonia
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 How Digitization Is Decarbonizing Industry
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 How To Handle The Coming E Waste Avalanche
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Industrial Data Will Matter More Than Ever In The Wake Of Cop28
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Re Engineering Renewables
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Smart Water For A Changing Environment
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 The Victorian Internet
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Welcome To The Mining Metaverse
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 What The Energy Transition Looks Like From Inside The Grid
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Why Should Businesses Care About Cop26
+│     ├─ 📂 Podcast
+│     │  ├─ 📄 Xr Training And The Future Of Industrial Work
+│     └─ 📂 Podcast
+│        └─ 📄 Your Life Is Manufactured
+
+
+├─ 📁 Perspectives
+
+│  ├─ 📄 Perspectives
+
+│  ├─ 📄 Articles
+
+│  ├─ 📂 Blog
+│  │  ├─ 📄 3 Ways Partnerships Help Advance Industrial Sustainability Goals
+│  │  ├─ 📄 5 Reasons Why You Should Upgrade To Aveva Plant Scada 2023
+│  │  ├─ 📄 5 Use Cases For The Emerging Industrial Metaverse
+│  │  ├─ 📄 A Bigger Better Aveva System Platform
+│  │  ├─ 📄 A Digital Thread What It Is And Why You Need It
+│  │  ├─ 📄 A Journey Of Innovation And Inspiration At Aveva World Paris 2024
+│  │  ├─ 📄 A Three Pronged Approach To Successful Capital Project Execution
+│  │  ├─ 📄 Accelerating The Energy Transition Through Digital Transformation
+│  │  ├─ 📄 Accentures Trial Of Aveva Unified Engineering Delivers Significant Results
+│  │  ├─ 📄 Addressing The Infamy Of Capital Project Delays
+│  │  ├─ 📄 Adopt Hybrid Cloud Architecture For Sustainable Industrial Growth
+│  │  ├─ 📄 Advanced Planning And Scheduling For Aveva Mes
+│  │  ├─ 📄 Advanced Work Packaging
+│  │  ├─ 📄 Ai And Simulation Better Together
+│  │  ├─ 📄 Aim On Cloud
+│  │  ├─ 📄 An Integrated Approach To Cost Optioneering On Capital Projects
+│  │  ├─ 📄 Analyst Discusses Key Requirements For Operations Data Infrastru
+│  │  ├─ 📄 Artificial Intelligence The New Lens With Which To Optimize Chemicals Processes
+│  │  ├─ 📄 Automatic Hmi Tag Creation Through Opc Ua Servers
+│  │  ├─ 📄 Autonomous Operations In Refineries
+│  │  ├─ 📄 Aveva Accelerates Its Portfolio Wide Commitment To Subscription Through Aveva Flex
+│  │  ├─ 📄 Aveva Advanced Process Control Re Engineered
+│  │  ├─ 📄 Aveva And The Pi System Together Seven Things To Expect
+│  │  ├─ 📄 Aveva Connect Quarterly Updates
+│  │  ├─ 📄 Aveva Data Hub In The Power Generation Industry
+│  │  ├─ 📄 Aveva Data Hub Is Becoming Connect Data Services
+│  │  ├─ 📄 Aveva Data Hub Is Now Available As A Subscription Based Service
+│  │  ├─ 📄 Aveva Data Hub Keeps The City Of Salem A Step Ahead Of Environmental Disaster
+│  │  ├─ 📄 Aveva Data Hub Now Lets Data Owners Create And Manage Data Sharing Ecosystems
+│  │  ├─ 📄 Aveva Edge 2020 R2 Plays A Key Role In Unified Operations
+│  │  ├─ 📄 Aveva Fy22 Results
+│  │  ├─ 📄 Aveva Insight Summer 2023 Feature Update
+│  │  ├─ 📄 Aveva Intouch 2023 Modernization Is A Compelling Reason To Upgrade To The Latest Version
+│  │  ├─ 📄 Aveva Intouch Hmi 2023 A Fresh User Experience And Unlimited Tags
+│  │  ├─ 📄 Aveva Introduces An Operations Control Reporting Software
+│  │  ├─ 📄 Aveva Manufacturing Execution System 2023 Introduces An Enterprise Mes Architecture That Helps Standardize Multi Site Operations
+│  │  ├─ 📄 Aveva Operations Control Blog
+│  │  ├─ 📄 Aveva Operations Control Five Reasons Why Our Customer First Clients Need
+│  │  ├─ 📄 Aveva Pi Vision 2021 Whats New
+│  │  ├─ 📄 Aveva Plant Scada 2020 R2 Realizes The Potential Of The Aveva Portfolio
+│  │  ├─ 📄 Aveva Plant Scada Is Even Better 2023
+│  │  ├─ 📄 Aveva Process Simulation On Azure Why Move Now
+│  │  ├─ 📄 Aveva Production Accounting Improves Business Performance With Enhanced Insights From Data
+│  │  ├─ 📄 Aveva Production Accounting Is Now Available On Aveva Connect
+│  │  ├─ 📄 Aveva Production Management 2020 Formerly Ampla
+│  │  ├─ 📄 Aveva Puts Cybersecurity At The Forefront Of Your Digital Journey
+│  │  ├─ 📄 Aveva Receives Anssi Cybersecurity Certification For Aveva System Platform And Aveva Historian Software
+│  │  ├─ 📄 Aveva Reports For Operations 2023
+│  │  ├─ 📄 Aveva S Digital Twin Now With Assai Document Management
+│  │  ├─ 📄 Aveva S New Hybrid Data Infrastructure Has The Flexibility Industrial Enterprises Need To Thrive In Increasingly Connected Data Driven Environments
+│  │  ├─ 📄 Aveva Schedule Assistant
+│  │  ├─ 📄 Aveva Successfully Validates Its Scada And Mes Software On Aws Infrastructure
+│  │  ├─ 📄 Aveva To Release A Cloud Native Platform For Industrial Operations Data
+│  │  ├─ 📄 Aveva Unveils Plate And Bar Nesting 15 3 0 0 With Advanced Mplate Editing And Automatic Bridges Features
+│  │  ├─ 📄 Aveva Utility Executive Summit Grid Transformation And The Energy Transition
+│  │  ├─ 📄 Beyond The Hardware How Leading Oems Are Embracing The Solutions Revolution
+│  │  ├─ 📄 Black History Month Is An Important Celebration At Aveva
+│  │  ├─ 📄 Boosting Collaboration With Holistic Operations Control
+│  │  ├─ 📄 Boosting Engineering Performance And Enhancing Productivity
+│  │  ├─ 📄 Boosting Operational Data Management Maturity By 10X To Drive Efficiency
+│  │  ├─ 📄 Breaking Barriers For Miners Building A Connected Data Ecosystem With Aveva Data Hub
+│  │  ├─ 📄 Breaking Down Barriers To The Sustainable Grid Of The Future
+│  │  ├─ 📄 Building Information Modeling With Aveva Solutions
+│  │  ├─ 📄 Building Scalable Reliable And Resilient Cloud Applications
+│  │  ├─ 📄 Building Smarter Scada Systems With Aveva Intouch Hmis User Defined Types Udts
+│  │  ├─ 📄 Can Cloud Simulation Help Smaller Firms Leapfrog Their Larger Competitors
+│  │  ├─ 📄 Cere Bulbs Winning Partner Games Solution
+│  │  ├─ 📄 Challenges And Opportunities Insights From Distributech 2025
+│  │  ├─ 📄 Challenges Of Industrial Data Literacy
+│  │  ├─ 📄 Chemical Operators During Aveva World 2023
+│  │  ├─ 📄 Citect Scada Becomes Aveva Plant Scada
+│  │  ├─ 📄 Cloud Collaboration Innovation And More
+│  │  ├─ 📄 Connect And Databricks Integration Is Here
+│  │  ├─ 📄 Connect And Databricks Unified Data For A Smarter Sustainable Future
+│  │  ├─ 📄 Connect Quarterly Updates See What S New In July 2024
+│  │  ├─ 📄 Connected For Change Driving Emissions Reductions Through Digital First Collaboration
+│  │  ├─ 📄 Connected World Aveva S Blueprint For Industry Transformation
+│  │  ├─ 📄 Connecting The Future How Industrial Data Communities Will Create A Sustainable World
+│  │  ├─ 📄 Critical Operations Why Do I Need A Pi System If I Have A Data Lake
+│  │  ├─ 📄 Customers Share The Value Of Real Time Data Visualization At Aveva World 2023
+│  │  ├─ 📄 Cybersecurity Best Practices From Aveva
+│  │  ├─ 📄 Data Center Liquid Cooling Aveva And Schneider Electric S Joint Innovation
+│  │  ├─ 📄 Data Driven Innovations In The Mining Industry An Interview With Solutions Expert Glenn Kerkhoff
+│  │  ├─ 📄 Data Driven Solutions To Cut Industrial Water Use
+│  │  ├─ 📄 Data Driven Strategies To Reduce Industrial Material Waste
+│  │  ├─ 📄 Data Led Manufacturing For Supply Chain Resilience
+│  │  ├─ 📄 Data Sharing Redefined Aveva Data Hub Fuels A Connected Era In Oil And Gas
+│  │  ├─ 📄 Detailed Engineering Design
+│  │  ├─ 📄 Determining What S Next For Your Data Landscape In A Data Rich World
+│  │  ├─ 📄 Digital Accessibility Three Ways Its Driving Business Growth
+│  │  ├─ 📄 Digital Engineering And Design Tools For Industry 4 0
+│  │  ├─ 📄 Digital Maturity For Refineries
+│  │  ├─ 📄 Digital Shipbuilding Cutting Costs And Lead Times
+│  │  ├─ 📄 Digital Technologies Are Key To Maximizing The Sustainable Opportunities Ahead
+│  │  ├─ 📄 Digital Thinking Enabling The Energy Industry To Connect The Networks Of The Future
+│  │  ├─ 📄 Digital Transformation For Cities And Infrastructure
+│  │  ├─ 📄 Digital Transformation In Manufacturing
+│  │  ├─ 📄 Digitizing The Energy Transition How Are Digital Technologies Accelerating Decarbonization
+│  │  ├─ 📄 Do Governments And Policymakers Hold The Key To Fast Tracking A Net Zero Economy
+│  │  ├─ 📄 Driving Sustainability In Mining Metals And Materials
+│  │  ├─ 📄 Easy As Pi Asset Framework
+│  │  ├─ 📄 Easy As Pi Aveva Pi Vision
+│  │  ├─ 📄 Easy As Pi Eds
+│  │  ├─ 📄 Easy As Pi Integrators
+│  │  ├─ 📄 Easy As Pi Orca And The Layers Of Notification
+│  │  ├─ 📄 Edna Enterprise Data Management Whats New In The 2019 Release
+│  │  ├─ 📄 Embracing Gen Ai A New Era For Industrial Efficiency
+│  │  ├─ 📄 Empowher Social Campaign
+│  │  ├─ 📄 Enabling Data Insights For The Power Generation Industry
+│  │  ├─ 📄 Enabling The Digital Twin Through Unified Engineering
+│  │  ├─ 📄 End Unplanned Downtime Best Practices For Asset Failure Mitigation
+│  │  ├─ 📄 Enriching Your Digital Twin With Connected Asset Intelligence
+│  │  ├─ 📄 Ensuring Efficiency Safeguarding Quality
+│  │  ├─ 📄 Enterprise Visualization And Where It Fits Within Operations Technology
+│  │  ├─ 📄 Essential Features For Rapid Hmi Scada Development
+│  │  ├─ 📄 Evolving Energy Sparking Innovation At Enlit
+│  │  ├─ 📄 Evolving Operations Require Evolving Architectures
+│  │  ├─ 📄 Excellence Is Everyones Business How A Focus On Building Quality Software Keeps Employees Leaders And Customers Satisfied
+│  │  ├─ 📄 Expanding Value Of Pi System
+│  │  ├─ 📄 Experience The New Look Of Aveva Insight
+│  │  ├─ 📄 Faqs On The Release Of Aveva Pi Vision 2020
+│  │  ├─ 📄 Fattening Margins In The Refinery With Aveva Offsites Management Amadas
+│  │  ├─ 📄 Federal Funding For Sustainable And Resilient Infrastructure
+│  │  ├─ 📄 Feeling The Burn How Power And Utilities Are Decarbonizing Faster With Digitalization
+│  │  ├─ 📄 Firing On All Cylinders
+│  │  ├─ 📄 Five Challenges Renewables Must Overcome To Surpass Fossil Fuels
+│  │  ├─ 📄 Five Common Myths About Ai
+│  │  ├─ 📄 Five Steps For Defining An Operational Excellence Plan
+│  │  ├─ 📄 Five Things To Know About Enterprise Visualization
+│  │  ├─ 📄 Five Ways Aveva Helps Steel Industry Customers Lower Costs And Increase Returns On Investment
+│  │  ├─ 📄 Five Ways Intouch Unlimited Is Not Your Grandpas Hmi
+│  │  ├─ 📄 Five Ways To Improve Scada Security For Critical Infrastructure
+│  │  ├─ 📄 Four Meta Steps To Net Zero
+│  │  ├─ 📄 Four Questions About Data Sharing In Mining And Minerals And The Value Of Connected Data Ecosystems
+│  │  ├─ 📄 From Data To Dollars Bpx Energy Jumpstarts Its Digital Transformation
+│  │  ├─ 📄 From Dots To Decisions How Ai Changes The Point Cloud Data Game
+│  │  ├─ 📄 From Hazard Recognition To Circularity
+│  │  ├─ 📄 From Pilot To Profit In Green Hydrogen
+│  │  ├─ 📄 From Reactive To Proactive Use Anomalies In Your Operations To Feed Ai And Ml Based Analytics
+│  │  ├─ 📄 From Siloed To Streamlined The Future Of Data Centers
+│  │  ├─ 📄 Front End Loading Process For A Successful Capital Project
+│  │  ├─ 📄 Fueling Tomorrow Fusing Technology And Green Power In Oil And Gas
+│  │  ├─ 📄 Gain Greater Efficiency With Enhanced Industrial Data Connectivity
+│  │  ├─ 📄 Gas Value Chain Optimization The Sustainable Future Of Energy
+│  │  ├─ 📄 Generative Ai In Connect With Industrial Ai Assistant
+│  │  ├─ 📄 Getting Smart On Industrial Asset Reliability Future Proofing With Artificial Intelligence
+│  │  ├─ 📄 Growing Together Honoring Our Employees And The Planet With The Aveva Forest
+│  │  ├─ 📄 Hmi Scada In The Cloud
+│  │  ├─ 📄 How Ai Is Accelerating Digital Initiatives For Water Utilities
+│  │  ├─ 📄 How Automation And Integration Drive Success
+│  │  ├─ 📄 How Aveva Is Investing In Our Planet And Shared Future
+│  │  ├─ 📄 How Can You Achieve Zero Routine Flaring Predictive Asset Optimization
+│  │  ├─ 📄 How Can You Trust Your Operations Data Visualization
+│  │  ├─ 📄 How Companies Are Gaining More Output From Their Renewable Assets With Ai Powered Analytics
+│  │  ├─ 📄 How Connected Data Ecosystems Are Unlocking New Business Growth
+│  │  ├─ 📄 How Connected Ecosystems Drive Business Growth And Innovation
+│  │  ├─ 📄 How Digitalization Is Changing The Way Power And Utility Companies Are Driving Efficiency
+│  │  ├─ 📄 How Does Electrolyzer Work
+│  │  ├─ 📄 How Epcs Can Navigate Market Volatility
+│  │  ├─ 📄 How Industrial Service Providers Are Increasing Operational Efficiency With Remote Monitoring
+│  │  ├─ 📄 How Industrial Service Providers Are Leveling Up Efficiency With Next Gen Remote Monitoring
+│  │  ├─ 📄 How Industry 4 0 And Digital Transformation Accelerate The Growth Of India S Chemicals Industry
+│  │  ├─ 📄 How Next Generation Hmi Scada Solutions Are Enabling Monitoring And Control Of Operations Anytime Anywhere
+│  │  ├─ 📄 How Oil Companies Can Lead In The Energy Transition Greener Today And Sustainable Tomorrow
+│  │  ├─ 📄 How Operational Data Analytics And Visualization Is Transforming The Way Industries Work
+│  │  ├─ 📄 How Pharma Is Speeding Up Drug R And D With Data
+│  │  ├─ 📄 How The Global Trends Are Driving A Sustainable Supply Chain In Chemicals
+│  │  ├─ 📄 How To Achieve Operational Agility Without Disrupting Product Quality And Plant Productivity
+│  │  ├─ 📄 How To Get Data From The Edge In A Way Thats Scalable
+│  │  ├─ 📄 How To Integrate Sustainability Into Every Aspect Of Your Business
+│  │  ├─ 📄 How To Survive A Volatile Oil And Gas Market
+│  │  ├─ 📄 How Upstream Operators Can Get More Out Of Their Existing Assets
+│  │  ├─ 📄 Hydrogen S Great Potential For The Renewable Energy Transition
+│  │  ├─ 📄 In Mining Industry 4 0 Translates To Apm 4 0
+│  │  ├─ 📄 Increasing Operational Efficiency An Old But Newly Urgent Imperative
+│  │  ├─ 📄 India 2050 Energizing The Future With Digital Transformation
+│  │  ├─ 📄 Indusoft Web Studio Is Now Aveva Edge
+│  │  ├─ 📄 Industrial Ai Assistant In Connect Is Now Available Here Is How You Can Get Started
+│  │  ├─ 📄 Industrial Ai Is The Future Of Sustainable Operations
+│  │  ├─ 📄 Industrial Artificial Intelligence Revolutionizing Industries
+│  │  ├─ 📄 Industrial Data For Scalability In A Low Carbon World
+│  │  ├─ 📄 Industry Challenges To Material Allocation
+│  │  ├─ 📄 Information Needs Know How Make Operational Learning Part Of Your Digital Infrastructure
+│  │  ├─ 📄 Innovating For Inclusivity Accessibility Goes Beyond Product Functionality
+│  │  ├─ 📄 Innovation After The End Of History Why Industrial Intelligence Is Key To Success In Our Connected Future
+│  │  ├─ 📄 Innovation And The People Behind It The Key To Our Sustainable Future
+│  │  ├─ 📄 Insight Bi Gateway
+│  │  ├─ 📄 Insight Dmz Securelink
+│  │  ├─ 📄 Inspiring Change The Clean Energy Revolution Is Driving Digitalization
+│  │  ├─ 📄 Integrated Data Infrastructure The Bedrock Foundation Of Industrial Ai
+│  │  ├─ 📄 Introducing Aveva Intouch Hmi Unlimited
+│  │  ├─ 📄 Is Today The Day You Upgrade To Aveva System Platform
+│  │  ├─ 📄 Is Your Hmi Built For The Future
+│  │  ├─ 📄 Is Your Industrial Data Foundation Built To Optimize Digital Transformation
+│  │  ├─ 📄 Is Your Plant A Puppy
+│  │  ├─ 📄 It Ot Et Convergence Enables Enterprise Visualization
+│  │  ├─ 📄 Level Up Your Aveva Product Skills With Aveva Learning Bytes
+│  │  ├─ 📄 Leveraging An Epc 4 0 Strategy To Shape Your Future
+│  │  ├─ 📄 Leveraging The Power Of Generative Ai In Aveva Operations Control
+│  │  ├─ 📄 Life After Pdms Aveva E3D Design
+│  │  ├─ 📄 Make The Most Of Advanced Work Packaging As An Epc
+│  │  ├─ 📄 Making Pressure Swing Adsorption Psa Technology Evaluation Easier And Faster
+│  │  ├─ 📄 Making Risk Based Maintenance Quick And Easy
+│  │  ├─ 📄 Making The First Moves Towards Our Net Zero Future
+│  │  ├─ 📄 Manufacturing A Data Driven Future Through Shared Operations Data Visualization
+│  │  ├─ 📄 Maximize Hmi Uptime
+│  │  ├─ 📄 Maximize Your Impact Eight Key Connect Updates From 2025
+│  │  ├─ 📄 Meet The Industry Principal From Steel Toe Boots To Digital Twins
+│  │  ├─ 📄 Meet The Principal Training Is More Than A Free Lunch
+│  │  ├─ 📄 Meeting Sustainability Goals With Industrial Software Real World Wins
+│  │  ├─ 📄 Monitoring Water And Wastewater Systems With Scada
+│  │  ├─ 📄 More Secure Operations Data Visualization With Aveva Pi Vision
+│  │  ├─ 📄 My Apprenticeship Journey At Aveva
+│  │  ├─ 📄 Natural Gas Reforming And The Future Of Hydrogen Production
+│  │  ├─ 📄 Natural Hydrogen Clean Energy
+│  │  ├─ 📄 Navigating 2025 With Industrial Intelligence
+│  │  ├─ 📄 Navigating The Complexities Of Energy Transition Balancing Pragmatism And Progress
+│  │  ├─ 📄 Navvis Partner
+│  │  ├─ 📄 New Add Ons Offer Greater Engineering Efficiency
+│  │  ├─ 📄 New More Powerful Aveva Historian And Historian Client
+│  │  ├─ 📄 New Ways To Connect With Aveva Communication Drivers 2023
+│  │  ├─ 📄 Not Now No Excuses For Digital Transformation
+│  │  ├─ 📄 Ocs Power Bi Connector
+│  │  ├─ 📄 Oil And Gas Technology Trends In 2024
+│  │  ├─ 📄 Open Your Eyes To The Power Of Environmentally Sustainable Digital Ecosystems
+│  │  ├─ 📄 Optimizing Power To X Processes With Aveva Process Simulation
+│  │  ├─ 📄 Our Connected Future How Industrial Data Sharing Can Unite A Fragmented World
+│  │  ├─ 📄 Our Next Generation Holistic Approach To Engineering And Design Schematic Tools
+│  │  ├─ 📄 Overcoming Industrial Ai Myths For A Sustainable And Profitable Future
+│  │  ├─ 📄 Partnership With Ingeloop Brings New Bim Capabilities To Aveva E3D Design
+│  │  ├─ 📄 Partnertalk Industrial Data Has Commitment Issues Here Is How Aveva And Microsoft Fix It
+│  │  ├─ 📄 Partnertalk Radical Collaboration In Action
+│  │  ├─ 📄 Pharma 4 0 Smarter Asset Management In Pharma Manufacturing
+│  │  ├─ 📄 Pharmaceutical Manufacturing The Process Behind The Pill
+│  │  ├─ 📄 Pid Controllers Ready To Talk If You Re Listening
+│  │  ├─ 📄 Power Generation
+│  │  ├─ 📄 Power Industry Trends In The Middle East And North Africa Mena Region
+│  │  ├─ 📄 Powered By Collaboration How Real Time Data Sharing Energizes The Power Industry
+│  │  ├─ 📄 Powerful Partnerships In The Cloud
+│  │  ├─ 📄 Powering A New Era Of Sustainable Shipping
+│  │  ├─ 📄 Powering Innovation Insights From The Aveva Utility Executive Summit
+│  │  ├─ 📄 Powering The Future Advances And Applications Of Ai In Power Systems
+│  │  ├─ 📄 Powering The Industrial Evolution How A Hybrid Data Infrastructure Drives Digital Transformation
+│  │  ├─ 📄 Powering Tomorrow The Human Spark Behind Utility Partnerships
+│  │  ├─ 📄 Powerrunner Ensuring Resilience Of The Low Voltage Grid With Data From Aveva Pi System
+│  │  ├─ 📄 Precise Reliability Management
+│  │  ├─ 📄 Predict Future Performance To Make Better Decisions Today
+│  │  ├─ 📄 Predictive Analytics
+│  │  ├─ 📄 Predictive Asset Optimization Improving Asset Performance Through Simulation
+│  │  ├─ 📄 Predictive Maintenance Using Ai To Prevent Equipment Failures
+│  │  ├─ 📄 Preparing For The Solar Boom Four Strategies For Industrial Organizations
+│  │  ├─ 📄 Prescriptive Ai And Asset Performance Management Unlocking Peak Performance And Efficiency
+│  │  ├─ 📄 Prorail Optimizes Operations In One Of The Worlds Busiest Railways
+│  │  ├─ 📄 Proving The Business Case For Predictive Analytics
+│  │  ├─ 📄 Pulp And Paper Companies That Use New Digital Technology Are Beating The Industry Productivity Slump
+│  │  ├─ 📄 Putting An End To Permacrisis Why I M Not Ready To Go Goblin Mode On Decarbonization Just Yet
+│  │  ├─ 📄 Putting Human Expertise At The Heart Of Industrial Intelligence
+│  │  ├─ 📄 Putting Smart Manufacturing To Work
+│  │  ├─ 📄 Reactors The Heart Of A Refinery
+│  │  ├─ 📄 Real Time Energy Trading For A Greener Tomorrow
+│  │  ├─ 📄 Reducing Emissions With Carbon Capture And Storage
+│  │  ├─ 📄 Reimagining Digital Insight For 2024 How Ai And The Digital Twin Will Accelerate Industry 5 0 Driving Deeper Sustainability And Innovation
+│  │  ├─ 📄 Reshaping The Power Industry With Cloud Based Solutions
+│  │  ├─ 📄 Resource Wise Data Driven Energy Efficiency Strategies
+│  │  ├─ 📄 Revolutionizing Asset Information Management
+│  │  ├─ 📄 Revolutionizing Industrial Procurement
+│  │  ├─ 📄 Scaling For Success Integrating Ai Across The Asset Lifecycle For Maximum Roi
+│  │  ├─ 📄 Schedule Ai Assistant
+│  │  ├─ 📄 Self Service Data Analytics With Aveva Connect Visualization Services
+│  │  ├─ 📄 Seven Reasons To Switch To Aveva Process Simulation
+│  │  ├─ 📄 Sharing Data The Key To Building A Connected Data Ecosystem In Oil And Gas
+│  │  ├─ 📄 Sigmafine Express Scalable Data Reconciliation As A Service On Connect
+│  │  ├─ 📄 Simplifying Operations Control Software
+│  │  ├─ 📄 Simulate To Scale Process Simulation Helps Scale Sustainable Industry
+│  │  ├─ 📄 Simulation Of Amine Units For Carbon Capture And Gas Treating In Aveva Process Simulation
+│  │  ├─ 📄 Situational Awareness For Grid Resilience
+│  │  ├─ 📄 Smart Data Solutions For Smart Energy Efficient Buildings
+│  │  ├─ 📄 Smart Fab Resource Optimization In Semiconductor Plants
+│  │  ├─ 📄 Smart Water Management With Iiot And Data Analytics
+│  │  ├─ 📄 Smarter Chemicals Ai Applications In The Chemicals Sector
+│  │  ├─ 📄 Smarter Infrastructure More Sustainable Use
+│  │  ├─ 📄 Smarter Ports For A More Resilient Supply Chain
+│  │  ├─ 📄 Start To Finish Materials Management
+│  │  ├─ 📄 Stronger Together With Data Leveraging The Power Of Industrial Data For Sustainable Growth
+│  │  ├─ 📄 Sustainable Mining A Conversation With Greenbox Advisory
+│  │  ├─ 📄 Take Control Of Your Operations With A Flexible Cloud Approach
+│  │  ├─ 📄 Taking Engineering From Document Centric To Data Centric
+│  │  ├─ 📄 Tap Into The Power Of Technology Partnerships To Drive Sustainability Gains
+│  │  ├─ 📄 Tech Trends And Traceability Inside The Transformation Of Consumer Products With Ted Combs
+│  │  ├─ 📄 The Blue Hydrogen Debate
+│  │  ├─ 📄 The Case For And Against Legacy Scada And Hmi Systems
+│  │  ├─ 📄 The Connected Factory Network Is The Future Of Manufacturing Operations
+│  │  ├─ 📄 The Crucial Role Of Visualization In An Industrial Digital Twin
+│  │  ├─ 📄 The Difference Between Scada And Hmi
+│  │  ├─ 📄 The Four Key Data Attributes That Drive The Bottoms Up Connected Industrial Economy
+│  │  ├─ 📄 The Four Pillars Of A Trusted Information Infrastructure
+│  │  ├─ 📄 The Future Of Industrial Information Management
+│  │  ├─ 📄 The Future Of Reality Capture Whats Next For Laser Scanning
+│  │  ├─ 📄 The Great Industrial Brain Drain Can Chemicals Capture Knowledge Before It Is Gone
+│  │  ├─ 📄 The Green Hydrogen Marvel
+│  │  ├─ 📄 The Importance Of Agility In O And G
+│  │  ├─ 📄 The Importance Of Industrial Visual Design
+│  │  ├─ 📄 The Industrial Data Scientist S Path To Faster Data Access
+│  │  ├─ 📄 The Industrial Intelligence Platform With Everything You Need Experience The Connect Effect
+│  │  ├─ 📄 The Meaningful Digital Twin
+│  │  ├─ 📄 The Narrow Path To Net Zero Why Achieving Sustainable Impact Demands Focus And Data Led Insights
+│  │  ├─ 📄 The Pi System Improves The Pharmaceutical Industry
+│  │  ├─ 📄 The Power Of Community How Real Time Data Sharing Will Transform Power Operations
+│  │  ├─ 📄 The Power Of Connected Data Ecosystems In The Oil And Gas Industry
+│  │  ├─ 📄 The Promise Of Digital Twins What Makes A Digital Twin Effective
+│  │  ├─ 📄 The Renewable Energy Transition Is Powered By Industrial Intelligence
+│  │  ├─ 📄 The Road To Becoming Fully Circular A Tale Of Two Companies
+│  │  ├─ 📄 The Role Of Critical Minerals In Clean Energy Transitions
+│  │  ├─ 📄 The Si Growth Blueprint Scalable Services And Recurring Revenue
+│  │  ├─ 📄 The Sky S The Limit 13 Years And Counting Of Smarter Manufacturing
+│  │  ├─ 📄 The Value Of A Connected Data Ecosystem Why Data Sharing Will Transform The Power Industry
+│  │  ├─ 📄 The Year Ahead  How Industrial Technology Will Evolve In 2023
+│  │  ├─ 📄 Three Impacts Digital Work Can Have On The Transmission And Distribution Industry
+│  │  ├─ 📄 Three Keys To Achieving Operational Efficiency In The Power Industry
+│  │  ├─ 📄 Three Reasons You Should Upgrade To Aveva Operations Control
+│  │  ├─ 📄 Three Things You Can Do To Get Value From Your Smart Factory
+│  │  ├─ 📄 Three Ways The Industrial Cloud Can Help You Meet Your Sustainability Goals
+│  │  ├─ 📄 Top 3 Tips To Choose Right Oil And Gas Pipeline Scada
+│  │  ├─ 📄 Top Digital Approaches For Chemical Companies To Be Ready For The Next Downturn
+│  │  ├─ 📄 Total Energies Taking The Next Step For Scope 1 Ghg Emissions Reporting
+│  │  ├─ 📄 Transforming Desktop Product Builds
+│  │  ├─ 📄 Transitioning To A Holistic Approach For Operational Control And Visibility
+│  │  ├─ 📄 Understanding The Refining And Petrochemical Value Chains
+│  │  ├─ 📄 Unleashing Energy Efficiency At Scale Why Industrial Intelligence Is The Key To A Low Carbon Future
+│  │  ├─ 📄 Unlimited Operational Visibility Is Transforming Industry
+│  │  ├─ 📄 Unlock Potential With Real Time Data
+│  │  ├─ 📄 Unlock The Future Of Asset Management
+│  │  ├─ 📄 Unlock The Power Of The Most Advanced Hmi With Aveva Intouch Hmi
+│  │  ├─ 📄 Unlocking Green Hydrogen Potential With Aveva Process Simulation
+│  │  ├─ 📄 Unlocking Iiot Connectivity In Aveva Intouch Hmi With Mqtt
+│  │  ├─ 📄 Unlocking Operational Excellence
+│  │  ├─ 📄 Unlocking Pipeline Operations Value Through Digital Transformation
+│  │  ├─ 📄 Unlocking The Next Frontier In Mobile Fleet Performance
+│  │  ├─ 📄 Unlocking The Spectrum A Guide To Hydrogen Colors
+│  │  ├─ 📄 Unlocking The Value Of Partner Ecosystems In The Ai Era
+│  │  ├─ 📄 Upgrade From Pipephase To Aveva Process Simulation
+│  │  ├─ 📄 Upskilling At Speed Building An Epc Workforce That Delivers From Day One
+│  │  ├─ 📄 Use Our New Ai Driven Solutions To Realize Process Efficiency Gains
+│  │  ├─ 📄 Visualize Analyze Act
+│  │  ├─ 📄 Visualize Your Operations Outside Control Room
+│  │  ├─ 📄 We Must Work Together To Tackle The Biggest Problems Of Our Time
+│  │  ├─ 📄 What A Hybrid Cloud Manufacturing Execution System Means For Manufacturing
+│  │  ├─ 📄 What Hybrid Deployment Means For The Engineering And Design Of Capital Projects
+│  │  ├─ 📄 What Kind Of Connect Visualization Do You Want
+│  │  ├─ 📄 What S In A Named User The Named User And Operations Control
+│  │  ├─ 📄 What S New In Aveva Communication Drivers 2023 R2
+│  │  ├─ 📄 What S New In Aveva System Platform 2023 R2
+│  │  ├─ 📄 What S New In The Operations Control Software Portfolio 2023 R2 Release
+│  │  ├─ 📄 Whats New In Aveva Development Studio
+│  │  ├─ 📄 Whats New In Aveva Historian 2023 R2
+│  │  ├─ 📄 Whats New In Aveva Integration Studio
+│  │  ├─ 📄 Whats New In Aveva Intouch Hmi 2023 R2
+│  │  ├─ 📄 Whats New In Aveva Plant Scada 2023 R2
+│  │  ├─ 📄 Whats New In Aveva Reports For Operations
+│  │  ├─ 📄 Whats New In Aveva System Monitor
+│  │  ├─ 📄 Whats New In Aveva System Platform 2020 R2
+│  │  ├─ 📄 Whats New In The Operations Control Software Portfolio 2023 Release
+│  │  ├─ 📄 Whats New In Vision Ai Assistant 2023
+│  │  ├─ 📄 Which Plant Data Of Yours Is Accurate
+│  │  ├─ 📄 Why Choose Aveva
+│  │  ├─ 📄 Why Collaboration And Data Sharing Are Key To The Energy Transition
+│  │  ├─ 📄 Why Connected Industrial Intelligence Is Rewriting Energy Industry Rules
+│  │  ├─ 📄 Why Engineers Need Integrated Simplified Process Simulation Tools
+│  │  ├─ 📄 Why Mining Uses Real Time Data Sharing To Create Cloud Data Ecosystems
+│  │  ├─ 📄 Why Utilities Need Structured Intelligence Not Just Data
+│  │  ├─ 📄 Why We Are Retiring Aveva Pi Systems Pi Processbook
+│  │  ├─ 📄 With Ai Asset Reliability Solutions Are More Powerful Than Ever
+│  │  ├─ 📄 With Experiences You Can Now Create Advanced Data Visualizations In Connect
+│  │  ├─ 📄 Your Digital Transformation Begins With Proper Supply Chain Management
+│  │  └─ 📄 Your Sustainability Efforts Require A Baseline
+
+│  ├─ 📄 Brochures
+
+│  ├─ 📂 Campaigns
+│  │  ├─ 📄 Connect Effect
+│  │  └─ 📄 Operational Reliability
+
+│  ├─ 📄 Datasheets
+
+│  ├─ 📄 Demos
+
+│  ├─ 📄 Ebooks
+
+│  ├─ 📄 Infographics
+
+│  ├─ 📂 Presentations
+│  │  ├─ 📄 2023
+│  │  ├─ 📄 2024
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 A2A Spa   Virtual Control Room
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Abbott Laboratories   Digital Excellence Journey In A Smart Factory Using The Vertical Data Integration
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Abs Cbn Foundation Inc  Afi  And Calibr8  Smart Iot For Coral Reef And Mangrove Monitoring
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Accelerating Digital Transformation  Fermenting Innovation At Lesaffre
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Accenture  Revolutionizing Manufacturing With Accenture  The New Era Of Industrial Iot
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Acciona   The Great Collaboration
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Achieving Operational Excellence  Iocl S Integrated Network Planning Success
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Actemium  De Risk Digital Transformation With The Right Partner
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Adani Power Limited  Advanced Monitoring And Optimization Strategies For Enhancing Efficiency And Reliability
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Agnico Eagle   How Connect Data Services Enables Analytics In Mining
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Ajinimoto   Machine Learning For Process Monitoring And Predictive Maintenance With Samguard
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Amcor    Enterprise Analytics And Visualization Of Mes Process Data
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Andritz   Enhancing Quality And Performance Through Ai Driven Historical Database Analysis
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Approach To Schedule Automation Utilizing Saia By Idemitsu
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aras  Rethinking Digital Thread For Product And Asset Lifecycle Management
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Atkinsr Alis   Real Time Operational Efficiency Savings   An Lng Case Study
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Accelerating Remote Assets Insights With Connect
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Ai Use Cases For Hmi Scada
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Cloud Scale Ai With Connect   From Point And Click Simplicity To Databricks Integration
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Connect Industrial Intelligence Platform Vision And Roadmap
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Easily Deploy Aveva  Adapters To Remotely Collect Operations Data At Scale
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Engineering Portfolio Panel Discussion
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Hosting Pi Asset Framework S Sql Database In The Cloud With Azure Sql Db
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Increasing Industrial Information Effectiveness  Through Enterprise Visualization
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Integrating Hmi Scada Into A Uns  Unified Namespace  Architecture
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Introduction To Digital Twin
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Leveraging Industrial Events In Connect To Maximize Visibility Across The Enterprise
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Nvidia   Ai Driven Autonomous Operations
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Operations Data Analytics At Cloud Scale  Seamless Integration Of Pi Server Data With Connect
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Operations On Ramp To Ai And Advanced Industrial Analytics
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Security Architecture Of Connect Data Services
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Support Expanding Needs With Aveva Pi Vision 2024
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Transforming To An Integrated Approach To Asset Lifecycle Management
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva   Visualizing Your Operations Data With Aveva Pi Vision
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva  Building Your Data Infrastructure With Aveva  Pi Server
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva  Fueling Your Data Infrastructure With Aveva Connectivity
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva  Pi System  And Aveva  Pi Data Infrastructure Roadmap
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva  Unlocking Your Industrial Digital Twin
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Hybrid Mes And Connect Data And Visualization Services
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Intouch Hmi   Deep Dive Into Latest Enhancements
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Mes   Advanced Insights And Guidance  Optimized With Ai
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Partner Games   Winning Solution Presentation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Roadmap   Common Hmi Scada Portfolio Components
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Roadmap   Edge Software Driving Efficiency For Plant Floor Monitoring And Control
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Roadmap   Engineering Information Management
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Roadmap   Scada And Supervisory Level Operations Control
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Roadmap  Aveva Operations Control  An Evolution In Hmi Scada
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva S Industrial Ai  Generate Impact To Achieve Greater Goals
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva System Platform   Deep Dive Into Latest Enhancements
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Unified Engineering 3 0 Demo
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aveva Unified Engineering Portfolio Roadmap
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Aws  Empowering Smarter Development With Data Driven Engineering
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Basf Antwerp S Mobile Platform Improves Safety And Productivity Throughout The Site
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Br El   Kjaer Vibro  Unlocking The Potential Of Predictive Maintenance With Aveva Pi System  Why Programs Fail And How To Succeed
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Braincube  How To Easily Generate Massive Savings Using Data And Ai In Manufacturing
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Brewing Innovation   Inside New Belgium S Use Of Aveva Operations Control
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Bruce Power   Powering The Future Together With Aveva
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Cbmm  Energy Efficiency Gain In The Electric Arc Furnace  The World S Largest Niobium Producer 
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Closing Keynote  R D Showcase  What Happens After Next
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Closing Keynote  Sustainability Impact Award 2024 Presentation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Closing Keynote For Aveva World 2024
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Communities For Aveva Unified Engineering   Unparalleled Collaboration In Engineering And Design Enabled With Connect
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Connect Data Services For A Data Analytics Platform At F  Hoffmann La Roche
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Connect In    Unlocking New Capabilities With Axens Digital Services In View Of Boosting Your Performances
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Covestro S Path Towards Sustainable Polymer Materials Production Supported By Aveva Process Simulation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Cs Energy   Meeting The Challenges Of A Shifting Energy Market Through Data Analytics
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Csl Group   Path To Net Zero Carbon Of Our Vessel Operations
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Deme   Enhancing Dredging Operations With Aveva Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Dianomic   Rte   Rte S Open Collaboration Platform   Building  Deploying And Operating Tomorrow S Grid
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Drax  Maintaining Reliable  Low Carbon Power Generation With Aveva Predictive Analytics
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Driving Green Hydrogen Innovation Through Digital Transformation   Protium S Journey With Aveva
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Driving Industrial Scale Sustainability
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Driving Manufacturing Excellence At Dsm Firmenich With Ai And Standardized Pi Server Data
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Edf   What Is Nuclear Hybrid Digital Model 
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Edf Hydro   Improving Operational Efficiency With An Innovative Approach To Data Utilization
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Elevating Operational Excellence At Bayer  Learn How Bayer Increased Capacity And Efficiency With Industrial Analytics
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Empowering Innovation  Atkinsr Alis Maximizes Efficiency With Rib Costx
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Empowering The Global Industrial Community
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Ence  Sustainability Priorities Accelerated By Industrial Platform Resulting In Environmental And Economic Improvements
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Enel Green Power   Minimizing Equipment Downtime And Performance Enhancement Through Data Monitoring On A Solar Power Plant Using Aveva Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Engie   Introduction To Robin   The Aveva Pi System For Asset Monitoring And A Use Case On Vibration Monitoring
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Enhanced Upstream Surveillance And  Optimization With Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Eramet   Innovative Lithium Extraction With Aveva Pi System And Aveva Production Management
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Etap   Advancing Sustainability Through Continuous Intelligence  An Interview With Drakenstein  Utility Project In South Africa
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Evonik  Ai   Another Digital Twin 
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Gb Foods   Edge Platform With Pi System Combined With Pme From Schneider Electric To Drive Sustainability And Efficiency
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Genabyte  How To Deliver Value At Scale   9 Practical Takeaways
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Harnessing Aveva Advanced Analytics For Enhanced Quality Control Powered By Connect At Coromandel International Limited
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Henkel   The Digital Backbone   Heart Of Sustainable Transformation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Hindalco   Optimizing Alumina Refinery Operations Through Ai Ml Driven Insights Using Aveva Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 How Ammpower Designs And Validates Scalable Green Ammonia Solutions Using Aveva Process Simulation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 How Devon Energy Is Improving Sustainability By Using Aveva Pi System Data For Enhanced Business Intelligence
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Indeff  Digital Factory In 50 Days  
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Intelligent Data Driven Energy Management  Data Usage In Michelin S Energy Project
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Interactive Panel I  Process Industries  Optimization And Visualization Across The Value Chain
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Intercos Mes From Execution System To Data Management Tool   Ensuring High Quality Processes And Promoting Sustainability
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Limble  Art Of The Possible   Leveraging Connect To Combine The Power Of Pi And Limble
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Microsoft   Unlocking Esg Value With Ai   A Data Driven Approach
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Microsoft  Leveraging Microsoft S Ai Capabilities In Aveva S Industrial Ai Assistant
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Nexan S Blueprint For Industry 4 0 Transformation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Nlwa  North London Waste Authority  Ecopark South Unified Operational Centre In Action
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Novartis Manufacturing Cockpit For Equipment Performance Using Aveva Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Omv S Crude Assay Management Program
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Omya  From Independent Reliability Management To Centralized Success  A Global Predictive Maintenance Evolution With Ai And Machine Learning
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Owl Cyber Defense  Balancing Access And Security  Best Practices For Pi Data Replication In Ot Environments
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Panel   Driving Sustainable Innovation   Collaborative Strategies For Energy Transition
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Parkland  Accelerating The Transition To Low Carbon Fuels With Advanced Visualization And Layers Of Analytics With Integrated Ai
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Petrobras   Connecting Design Stages Through The 3D Model   From Basic To Execution With Aveva E3D
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Qair Energy France  Vision On Renewable Energies For Industry And Digital Strategy With Aveva
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Radix  The Future Of Data Intelligence In 2025
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Redefining Bp S Refining Information Platform
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Reimagining The Aveva Mes Portfolio To Support The Transformation Objectives Of Modern Enterprises
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Roche   Open Dcp Ai   Bridging Innovation And Compliance In Pharma 4 0   Advancing Gxp With An Open Sourced Data Computation Platform
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Roslagsvatten  Revolutionizing Water And Wastewater Next Gen Digitalization
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Rystad   Using Aveva Usc Plan To Derive Refinery Margin Signals For Profitable Decision Making In Oil Trading
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Saipem   Epc Digital Platform Project
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Sasref Smart Operator Rounds Automation Solution
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Schmidt Group   Decision Support At The Heart Of Manufacturing
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Schneider Electric  Ecostruxure Plant Predictive Energy   Ai Powered Energy Monitoring On Connect Data Services
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Schneider Electric  It  Ot Analytics  Scale For Manufacturing Performance   Sustainability
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Sibelco  Data Management Collaboration Platform  People  Operations And Analytics For Sustainability
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 St  Lawrence Seaway S Journey Into Pi System With Advanced Analytics For Vessel Eta Forecasting At Bridges And Locks
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Sumitomo   Efforts To Improve Design And Manufacturing Process Efficiency Using Aveva And Aveva Engineering Trial
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Syensqo Structures Its Manufacturing Data To Support Its 2030 Vision
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 T Cnicas Reunidas Journey To Saas
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Technip Energies   Capturing Co2 From Air   An Unusual Dynamic Simulation
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Tecnimont   A Key Player For The Digital Transformation Of Engineering Processes
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Tereos Centralizes Data To Drive Innovation And A Data Driven Culture
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Thames Water  Moving To A Standardized Modular Approach For Their Site Scada Applications With Aveva System Platform
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 The Kickstart Of A Successful Digital Journey  Innovate To Improve
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 The Roca Groups Industry 4 0 Roadmap  Improving Oee And Energy Efficiency And Digitalizing Processes In Our Factories
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Totalenergies   Reallocation Of The Co2 Emitted By Steam Producers To The Steam Consumers   Management Of The Steam Networks With Pi Af
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Toyo Engineering Corporation   Engineering Integration Platform
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Transforming The Fossil Industry  Neste S Sustainable Refinery
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Uk Power Networks   Digitalization Of The Smart Grid
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Ukrenergo   Ensuring Secure And Reliable Power With Aveva Pi System
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Unlocking Efficiency   Enhancing Operations And Collaboration With Adnoc Gas Tumuh Digital Platform
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Utilizing Pi For Enhanced Methane Detection The Bridger Project
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Vattenfall Vattenkraft Ab   Create And Monitor Standardized Data Structures With Aveva Pi System Sdk
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Veolia   Smart Engineering Thinking In The Box
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Verkor   Connecting The Digital Thread Across Ev Battery Manufacturing
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Vianode   From Automation To Industrial Ai
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Wacker Chemie Ag Increases Efficiency With Cloud Hosted Engineering Environment
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Welcome To Aveva World 2024
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Why Industries  Next Leap Forward Will Be Founded On Radical Collaboration
+│  │  ├─ 📂 2024
+│  │  │  ├─ 📄 Yinson   How To Get The Value From Real Time Operational Data In Fpso For Maintenance  Safety And Carbon Footprint
+│  │  ├─ 📄 2025
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄  Olakoglu Metalurji A S   Predictive Maintenance For Industrial Cranes   Implementing Event Driven Analytics To Reduce Downtime
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 A Deep Dive Into Pi Governance  The Standard Data Model
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Accelerate Your Industrial Intelligence  A Practitioner S View
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Accelerating Corporate Decision Making With The Process Simulation Twin
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Adani Energy Solutions Limited  Aesl   Driving Digital Transformation And Sustainability In Electrical Utilities  Our Innovative Approach To Asset Management 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Agropur S Digital Journey  Leveraging Mes Capabilities With Connect
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Albemarle  Top 10 Reasons Why You Re Stuck In Pilot Purgatory  Preventing Roai   Economies Of Scale
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Amcor  Enterprise Analytics And Visualization Of Mes Process Data
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Amping Up Unified Engineering With The Power Of Connect
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Ap Consultoria  Digital Transformation In Engineering   Aveva Ue And Ai For Multidisciplinary Projects
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apex  Replacing An Aging Scada System   The Power Of System Platform And Omi
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apm   Data Intelligence And Generative Ai  Unlocking Productivity  Performance And Profitability
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apm   Omya  From Independent Reliability Management To Centralized Success With Global Predictive Maintenance
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apm   Panel Discussion   The Future Of Reliability
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apm   Saudi Aramco  Unlocking Operational Excellence With Advanced Process Solutions And Predictive Analytics
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Apm   Scg Chemicals  Comprehensive Condition Based And Predictive Based Maintenance With A Digital Reliability Platform
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aps  Sustainable Synergy   Harnessing New Technology For Reliability
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva  Digital Project Execution Solutions For Maximizing Capital Project Success
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva  Pi System  And Aveva  Pi Data Infrastructure Roadmap
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva  Seamlessly Migrating Your Legacy E I And P Id Data To Aveva Unified Engineering
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva  Supporting Advanced Ie C And Sustainability Projects Execution In Maire Group
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva  Transforming To An Integrated Approach To Asset Lifecycle Management
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva And Petronas Leveraging Each Other Strength  Building Sustainable Solutions For Customers In Energy Industry By Combining Technology With Domain Expertise Through Petronas Commercialization Business
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Hybrid Mes With Connect Data And Visualization Services
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Intouch Hmi  Deep Dive Into Latest Enhancements
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Roadmap  Engineering Information Management
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Sustainable Impact Awards 2025
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva System Platform  Deep Dive Into Latest Enhancements
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Unified Engineering 3 0 Demo
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Unified Engineering Roadmap
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Aveva Xlm  Connect As A Platform For Continuous Intelligent Validation
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Avista  Utility Fire Risk Awareness
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Bausch   Str Bel  Condition Monitoring As A Service
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Bayer  Driving Manufacturing Excellence With Standardized Aveva  Pi System  Data And Ai
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Boliden  Insights Of A Conveyor
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Building And Evolving A Digital Twin Leveraging Your Existing Investments
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Caiso  Navigating The Energy Transition   Caiso S Challenges And Solutions
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Challenges  Opportunities And Best Practices In  Digital Lng 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Common Hmi Scada Portfolio Components Roadmap
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Connect   Databricks  Unifying It   Ot Data For Smarter  Sustainable Operations
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Connect Data Services For A Data Analytics Platform At F  Hoffmann La Roche
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Connect Industrial Intelligence Platform Vision And Roadmap
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Cytiva   Q Mation  Enhancing Biomanufacturing Efficiency With Flexfactory  Historian   A Case Study From Syvento Biotech
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Data Is The Foundation Of Your Digital Transformation
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Data Modernization At The University Of Iowa S Water Plant
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Day 2 Keynote   Innovation Showcase
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Day 2 Keynote   Sustainable Impact Award Winner
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Deep Digital  Enabling Aveva Pi Connection To Mes Systems Through A Unified Namespace  Uns 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Digital Transformation At Hpcl Visakh Refinery  Implementation Of Epddms
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Dominion Energy  Aveva Pi System Automation   From Pi Tags To Af Models
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Dr  Reddy S Labs  Journey With Industry 4 0  World Economic Forum  And Global Lighthouse Network
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Easily Deploy Aveva  Adapters To Remotely Collect Operations Data At Scale
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Eli Lilly  Innovative Environmental Monitoring  Scalable Solutions With Pi System And Remote I O
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Empowering The Workforce Of The Future With Industrial Intelligence
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Enhancing Situational Awareness In Power Utilities  Our Journey With Aveva Pi Vision
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Establishing Your Modern Data Infrastructure With Aveva Pi Server
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Flint Hills Resources  Aveva  Pi System  And Graph Databases
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 From Data To Decisions  How Aveva Ai Is Shaping The Future Of Industry
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 From Tradition To Transformation  Redefining The Paper Mill For The Future
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Fuel Optimization And Sustainability  Newmont S  1 5M Diesel Savings And 3  Uptime Improvement
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Fueling Efficiency  Nalco S Ai Driven Solutions For Smarter Boiler Operations
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Fueling Your Data Infrastructure With Aveva Connectivity
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Grafcet  How Food And Beverage Companies Benefit From Real Time Data In The Cloud
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Hemlock Semiconductor  There Is Life After Processbook
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Hindustan Zinc  Transforming Operational Efficiency  Asset Management  And Dispatch Planning
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 How Bayer Created A Future Proof Blueprint For Industrial Excellence Through Data And Analytics
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Imerys  Transform To Perform With Aveva Operations Control
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Interactive Community Session   Power And Utilities  The Role Of Ai And Advanced Analytics 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Invista  A Global Mes Deployment Journey
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Jal Jeevan Mission  Revolutionizing Water Management With Pi System   Arc Gis  Real Time Data Monitoring
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 La County Sanitation District  Centralizing  Visualizing And Sharing Real Time Data Using Pi  Asset Framework And Connect
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Methanex  Unlocking Ai S Potential With Pi System Data   Connect  A Simplified  Scalable Approach
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Mol Petrochemicals  Poliol Production Batch Tracking With Pi Vision
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Mpc  Advanced Emissions Monitoring And Reporting
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Novo Nordisk   Deep Digital  The Crucial Role Of Nomenclature And Taxonomy In Data Exchange And Integration
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Nrel  Aveva Pi System And Ai  Advances In Future Grid Control Rooms 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Offloading Admin Overhead With Cloud Managed Sql For Aveva Pi Server
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Omc Thermochemistry  Precise Heat And Material Balance Modeling Using Simulation
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Ons Brazil  Maximizing Renewable Energy Utilization  The Impact Of Pi System On Grid Efficiency
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Opening Keynote  Welcome To Aveva World 2025
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Operations On Ramp To Ai And Advanced Industrial Analytics
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Ormat  Equipment Monitoring Improvements With The Aveva Pi System And Standardization Of Complex Analytics
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Panel  Advanced Analytics  Ai   Generative Ai
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Panel  From Mines To Mills   Business Transformation With Aveva Pi System
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Panel  Industrial Data Management Digital Twin
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Pg E  Enhancing Aveva Pi System Health Monitoring With Centralized Log Management
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Pge  Empowering Operational Excellence   Our Journey With Aveva Pi System
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Powerrunner On Aveva  Pi System   Lessons Learned On Distribution Utility Deployments For Power And Water
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Prasarana Railway  Predictive Maintenance For Metro Rail
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Quick Time To Value For Water Organizations With Connect  Using Industry Accelerators
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Reimagining The Aveva Mes Portfolio To Support The Transformation Objectives Of Modern Enterprises
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Roadmap  Aveva Operations Control  An Evolution In Hmi Scada
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Roadmap  Edge Software Driving Efficiency For Plant Floor Monitoring And Control
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Roadmap  Scada And Supervisory Level Operations Control
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Sabesp  Enhancements In Water Resource Management With Aveva Pi System
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Salt River Project  Srp   Optimizing Energy Trading With Aveva Pi System  Our Journey In The Western Energy Imbalance Market  Weim 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Saudi Aramco  Accelerating Sustainability   Digital Advisory Platform For Power Optimization And Cogeneration Efficiency
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Smurfitwestrock  Fleetwide Asset Monitoring And Benchmarking
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Stanford University  Improving Stanford Energy System Innovations Overall Reliability And Sustainability With Pi System
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Striking Copper And Gold  How Data Increased Ok Tedi S Recovery Rates
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Supporting Expanding Needs With Aveva  Pi Vision 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Supporting Kaiser Permanente S Energy Transition And Decarbonization Through A Platform Approach
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Taqa Morocco  On Line Steam Network Balance In Taqa Morocco With Connect And Sigmafine
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Tas Online  How A South African Mining Company Uses Connect To Enhance Operational Efficiency And Reduce Energy
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Tc Energy   Fuel Optimization Platform Built On Af  Ml   Combinatorics
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Tennessee Valley Authority  Building A Digital Core For Operational Technology Data In Power Generation
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 The Road To A Smart Factory  Bakoma Transformation Story
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Transforming Data Into Results  The Forzy Aim Experience
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Turning Uncertainty Into Opportunity  Delivering Results With Industrial Intelligence
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 University Of Iowa  Cloud Based Machine Learning To Increase Heterogenous Feedstock Conversion To Renewable Natural Gas
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Unlocking Roi  How B W Achieved Efficiency With Aveva Unified Engineering
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Unlocking The Power Of Industrial Data With Real World Use Cases For Connect And Databricks
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Using The Aveva Portfolio To Support  Plains Midstream S Business Transformation    One Plains 
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Using The Pi System   Asset Intellect To Monitor Blowout Preventers
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Vir Biotechnology   Cognizant  Rapid Lab   Timeseries Data   Connect Data Services Implementation
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Visualizing Industrial Data With Connect
+│  │  ├─ 📂 2025
+│  │  │  ├─ 📄 Visualizing Your Operations Data With Aveva  Pi Vision 
+
+│  ├─ 📄 Reports
+
+│  ├─ 📄 Solution Briefs
+
+│  ├─ 📂 Success Stories
+│  │  ├─ 📄 9Ren
+│  │  ├─ 📄 Abs Cbn Foundation And Calibr8
+│  │  ├─ 📄 Accenture
+│  │  ├─ 📄 Acciona
+│  │  ├─ 📄 Adani Power
+│  │  ├─ 📄 Adnoc
+│  │  ├─ 📄 Aes Tiete
+│  │  ├─ 📄 Agl Energy
+│  │  ├─ 📄 Agtech
+│  │  ├─ 📄 Aibel
+│  │  ├─ 📄 Albemarle
+│  │  ├─ 📄 Alcoa Transforms Its Approach To Maintenance
+│  │  ├─ 📄 Alectra Utilities
+│  │  ├─ 📄 Amcor
+│  │  ├─ 📄 Amec
+│  │  ├─ 📄 Ansaldo Energia Remote Monitoring
+│  │  ├─ 📄 Ap Consultoria E Projetos
+│  │  ├─ 📄 Apply Sorco Embraced New Technologies To Win Contracts
+│  │  ├─ 📄 Arcelormittal S Integrated Remote Operations
+│  │  ├─ 📄 Arizona Public Service
+│  │  ├─ 📄 Armstrong World Industries
+│  │  ├─ 📄 Ascend
+│  │  ├─ 📄 Ashghal
+│  │  ├─ 📄 Astron Energy
+│  │  ├─ 📄 Atkins Maintains A Competitive Edge With Aveva E3D Design
+│  │  ├─ 📄 Automated Bartender Company
+│  │  ├─ 📄 Aveva Pi System Helps Virtually Train Maritime Crews
+│  │  ├─ 📄 Aveva Pi System Helps White House Utility District Build Resilience
+│  │  ├─ 📄 Avic International
+│  │  ├─ 📄 Avista
+│  │  ├─ 📄 Babcock And Wilcox
+│  │  ├─ 📄 Bae System
+│  │  ├─ 📄 Barghest Building Performance
+│  │  ├─ 📄 Barrick Goldstrike
+│  │  ├─ 📄 Barry Callebaut
+│  │  ├─ 📄 Basf
+│  │  ├─ 📄 Bausch Strobel
+│  │  ├─ 📄 Baxter Sa
+│  │  ├─ 📄 Bermuda Electric Light Company Limited
+│  │  ├─ 📄 Biogen
+│  │  ├─ 📄 Biosana Pharma
+│  │  ├─ 📄 Blind North America Energy
+│  │  ├─ 📄 Blom Maritime As
+│  │  ├─ 📄 Boehringer Ingelheim
+│  │  ├─ 📄 Borg Manufacturing
+│  │  ├─ 📄 Bp
+│  │  ├─ 📄 Bp Ace Digital Twin
+│  │  ├─ 📄 Bp Carbon Emissions Modeling
+│  │  ├─ 📄 Bp Norway
+│  │  ├─ 📄 Bristol Myers Squibb
+│  │  ├─ 📄 Brk Ambiental
+│  │  ├─ 📄 Brmo
+│  │  ├─ 📄 Bruce Power
+│  │  ├─ 📄 Burns And Mcdonnell
+│  │  ├─ 📄 Cargill
+│  │  ├─ 📄 Carson City Public Works
+│  │  ├─ 📄 Cbmm And Ihm Stefanini
+│  │  ├─ 📄 Cemex
+│  │  ├─ 📄 Cemex Energia
+│  │  ├─ 📄 Cfe Mexico
+│  │  ├─ 📄 Cfs
+│  │  ├─ 📄 Chantier Davie
+│  │  ├─ 📄 China Ministry Of Railways
+│  │  ├─ 📄 Citect Scada At The Heart Of Europes First Double Decker Tunnel
+│  │  ├─ 📄 City Of Barcelona
+│  │  ├─ 📄 City Of Boise Dixie Drain
+│  │  ├─ 📄 City Of Bremen Cuts Energy Consumption And Consolidates Building Management
+│  │  ├─ 📄 City Of Salem
+│  │  ├─ 📄 Clif Bar
+│  │  ├─ 📄 Colorado Springs Utilities
+│  │  ├─ 📄 Cosatron
+│  │  ├─ 📄 Cosmo Oil
+│  │  ├─ 📄 Covestro
+│  │  ├─ 📄 Covestro Easier Maintenance Of Online Simulation Models
+│  │  ├─ 📄 Covestro Pi System
+│  │  ├─ 📄 Damodar Valley Corporation
+│  │  ├─ 📄 Danone
+│  │  ├─ 📄 Dcp Midstream
+│  │  ├─ 📄 Deltamarin
+│  │  ├─ 📄 Dernetsoft
+│  │  ├─ 📄 Deschutes Brewery
+│  │  ├─ 📄 Det Norske
+│  │  ├─ 📄 Dominion Energy
+│  │  ├─ 📄 Dragon Lng
+│  │  ├─ 📄 Drax
+│  │  ├─ 📄 Drl
+│  │  ├─ 📄 Dte Energy
+│  │  ├─ 📄 Duke Energy
+│  │  ├─ 📄 Eastman Chemical
+│  │  ├─ 📄 Edf Energy
+│  │  ├─ 📄 Edf Renewables
+│  │  ├─ 📄 Eker Dairy
+│  │  ├─ 📄 Elkem
+│  │  ├─ 📄 Enbridge
+│  │  ├─ 📄 Ence
+│  │  ├─ 📄 Enel
+│  │  ├─ 📄 Energy Queensland Aveva
+│  │  ├─ 📄 Eni
+│  │  ├─ 📄 Equinor And Goodtech
+│  │  ├─ 📄 Evides Waterbedrijf
+│  │  ├─ 📄 Evonik
+│  │  ├─ 📄 Exelon Corporation
+│  │  ├─ 📄 Exxonmobil
+│  │  ├─ 📄 F Hoffman La Roche
+│  │  ├─ 📄 Farchioni
+│  │  ├─ 📄 Fingrid Oyj
+│  │  ├─ 📄 Fndairies
+│  │  ├─ 📄 Fujirebio Diagnostics
+│  │  ├─ 📄 Genentech
+│  │  ├─ 📄 General Mills
+│  │  ├─ 📄 Generic Drum Unit Simulator Boosts Productivity At South African Power Plant
+│  │  ├─ 📄 German Multinational Chemical Company
+│  │  ├─ 📄 Ghenova Ingenieria
+│  │  ├─ 📄 Glaxosmithkline Uses Aveva System Platform In Conjunction With Pi System
+│  │  ├─ 📄 Global Epc L T Boosts Collaboration And Insight With Aveva
+│  │  ├─ 📄 Global Semiconductor Company
+│  │  ├─ 📄 Gori
+│  │  ├─ 📄 Gwinnett County
+│  │  ├─ 📄 Hampton Roads Sanitation District
+│  │  ├─ 📄 Hanla Nmt
+│  │  ├─ 📄 Helen Sahkoverkko
+│  │  ├─ 📄 Henkel
+│  │  ├─ 📄 Henn
+│  │  ├─ 📄 Hennig Olsen
+│  │  ├─ 📄 Highview Power
+│  │  ├─ 📄 Idemitsu Kosan
+│  │  ├─ 📄 Igi Wax
+│  │  ├─ 📄 Improved Data Collection And Scalability For Spokane Water Department
+│  │  ├─ 📄 Industrial Parts Depot
+│  │  ├─ 📄 Inframark
+│  │  ├─ 📄 Innergex
+│  │  ├─ 📄 Italpresse Gauss
+│  │  ├─ 📄 Jiangsu Nuclear
+│  │  ├─ 📄 K S Potash
+│  │  ├─ 📄 Kansai
+│  │  ├─ 📄 Kellogg S Uses Data To Drive Sustainability
+│  │  ├─ 📄 Kelloggs
+│  │  ├─ 📄 Klabin
+│  │  ├─ 📄 Kohima Smart City
+│  │  ├─ 📄 Kty Engenharia
+│  │  ├─ 📄 La Tortilla Factory
+│  │  ├─ 📄 Leclerc
+│  │  ├─ 📄 Lexington
+│  │  ├─ 📄 London Energy
+│  │  ├─ 📄 Long Beach Water Department Increases Efficiency With Scada Solution
+│  │  ├─ 📄 Lonmin Mining Co
+│  │  ├─ 📄 Los Angeles Department Of Water And Power
+│  │  ├─ 📄 Mapleleaffoods
+│  │  ├─ 📄 Mcdermott
+│  │  ├─ 📄 Meridian Energy
+│  │  ├─ 📄 Methanex
+│  │  ├─ 📄 Michelin
+│  │  ├─ 📄 Mitsubishi Chemical Corporation
+│  │  ├─ 📄 Mitsubishi Heavy Industries
+│  │  ├─ 📄 Mitsubishi Heavy Industries Engineering
+│  │  ├─ 📄 Mitsubishi Power
+│  │  ├─ 📄 Mitsui Eands Shipbuilding
+│  │  ├─ 📄 Mmg Limited
+│  │  ├─ 📄 Namchi Smart City
+│  │  ├─ 📄 Namibia Breweries Ltd
+│  │  ├─ 📄 Nassco
+│  │  ├─ 📄 Neste
+│  │  ├─ 📄 Nestle
+│  │  ├─ 📄 New Belgium Brewing
+│  │  ├─ 📄 New Hospital Of Orleans
+│  │  ├─ 📄 Newcrest Mining
+│  │  ├─ 📄 Nigeria Lng
+│  │  ├─ 📄 Nis Ad
+│  │  ├─ 📄 Nita
+│  │  ├─ 📄 Norsk Hydro Brasil
+│  │  ├─ 📄 Nutrien
+│  │  ├─ 📄 Oceana Shipyard
+│  │  ├─ 📄 Okg Nuclear Power Plant
+│  │  ├─ 📄 Ons Brazil
+│  │  ├─ 📄 Ontario Clean Water Agency
+│  │  ├─ 📄 Ontario Power Generation
+│  │  ├─ 📄 Oranjevis
+│  │  ├─ 📄 Ormat Technologies
+│  │  ├─ 📄 Oulu University
+│  │  ├─ 📄 Oyak Cement
+│  │  ├─ 📄 Palace Of Versailles
+│  │  ├─ 📄 Pampa Energia
+│  │  ├─ 📄 Pbs
+│  │  ├─ 📄 Pcmc
+│  │  ├─ 📄 Petronas
+│  │  ├─ 📄 Pima County Implements Situational Awareness Strategy To Improve Operational Efficiency Of Wastewater Facilities
+│  │  ├─ 📄 Pjm Uses Aveva Pi System To Visualize The Electric Grid In Real Time
+│  │  ├─ 📄 Pml Exploration Services
+│  │  ├─ 📄 Port Of Portland Marine Maintenance Department Incorporates Avantis Solution
+│  │  ├─ 📄 Procter And Gamble
+│  │  ├─ 📄 Production Downtime And Inefficiencies Dramatically Reduced At Lassila And Tikanoja With Help Of Wonderware Software
+│  │  ├─ 📄 Promon Engenharia
+│  │  ├─ 📄 Protium
+│  │  ├─ 📄 Puerto Rico Water And Sewage Authority Delivers Increased Customer Satisfaction With Wonderware Solution
+│  │  ├─ 📄 Qatar Foundation
+│  │  ├─ 📄 Qatar Power And Water
+│  │  ├─ 📄 Quebec Iron
+│  │  ├─ 📄 Real Time Resource Management Improves Reliability And Efficiency For Sappi Fine Paper
+│  │  ├─ 📄 Reg Allied
+│  │  ├─ 📄 Rhi Magnesita
+│  │  ├─ 📄 Rio Tinto
+│  │  ├─ 📄 Rishabh Engineering Services
+│  │  ├─ 📄 Riverside
+│  │  ├─ 📄 Roca
+│  │  ├─ 📄 Sabesp
+│  │  ├─ 📄 Saipem
+│  │  ├─ 📄 San I Pak
+│  │  ├─ 📄 San Jose Water Optimizes Pump Performance With Aveva Pi System
+│  │  ├─ 📄 Sanofi
+│  │  ├─ 📄 Santa Rosa Junior College Microgrids
+│  │  ├─ 📄 Sbm Offshore
+│  │  ├─ 📄 Scg Chemicals
+│  │  ├─ 📄 Schneider Electric Smart Factory Batam
+│  │  ├─ 📄 Scrubgrass Generating Company
+│  │  ├─ 📄 Sempra Energy
+│  │  ├─ 📄 Senior Dementia Institute
+│  │  ├─ 📄 Sentry Equipment
+│  │  ├─ 📄 Shanghai Laogang Project
+│  │  ├─ 📄 Shell Operator Training System
+│  │  ├─ 📄 Shire
+│  │  ├─ 📄 Simsci Dynsim Power Simulation Software Validates Controls And Trains Operators On New Dcs
+│  │  ├─ 📄 Simsci Improves Genon Power Station Operational Efficiency Enhances Workforce Enablement Reduces Costs
+│  │  ├─ 📄 Slb Capturi
+│  │  ├─ 📄 Snolab
+│  │  ├─ 📄 Software Helps Ferrocarrils De La Generalitat De Catalunya Receive Consistent High Marks In Customer Satisfaction
+│  │  ├─ 📄 South Platte Renew
+│  │  ├─ 📄 Southern Company Digital Twin
+│  │  ├─ 📄 Starbucks
+│  │  ├─ 📄 Stedin
+│  │  ├─ 📄 Suncor
+│  │  ├─ 📄 Sustainable Covestro
+│  │  ├─ 📄 Syensqo
+│  │  ├─ 📄 System Platform Ensures Environmental Success At Branston
+│  │  ├─ 📄 Talison Lithium
+│  │  ├─ 📄 Taswater
+│  │  ├─ 📄 Taswater Saves Oysters With Data
+│  │  ├─ 📄 Tata Power
+│  │  ├─ 📄 Tc Energy
+│  │  ├─ 📄 Tekfen
+│  │  ├─ 📄 The Barcelona El Prat International Airport
+│  │  ├─ 📄 The Nava Raipur Smart City
+│  │  ├─ 📄 The Tucson Electric Power
+│  │  ├─ 📄 Thomas Technology
+│  │  ├─ 📄 Todd Energy
+│  │  ├─ 📄 Total Oleum
+│  │  ├─ 📄 Totalenergies
+│  │  ├─ 📄 Toyota Motor Europe
+│  │  ├─ 📄 Transcanada
+│  │  ├─ 📄 Transnet
+│  │  ├─ 📄 Tyson Foods
+│  │  ├─ 📄 Uc Davis
+│  │  ├─ 📄 Uc Davis Winery
+│  │  ├─ 📄 Ufcg
+│  │  ├─ 📄 University Of Maryland College Park
+│  │  ├─ 📄 Valdespartera Becomes Spains First Sustainable Smart City
+│  │  ├─ 📄 Vale Sa
+│  │  ├─ 📄 Valmet Automotive
+│  │  ├─ 📄 Vattenfall
+│  │  ├─ 📄 Venetian Hotel
+│  │  ├─ 📄 Veolia Water Technologies
+│  │  ├─ 📄 Vista Projects
+│  │  ├─ 📄 Vivix Glass
+│  │  ├─ 📄 Votorantim
+│  │  ├─ 📄 Wacker Chemie
+│  │  ├─ 📄 Western Power
+│  │  ├─ 📄 Wonderware Keeps Norfolk Southern Railway On Track
+│  │  ├─ 📄 Wood
+│  │  ├─ 📄 Woodlands Dairy
+│  │  ├─ 📄 Xcel Energy Uses Aveva Pi System To Improve Wind Forecasting
+│  │  ├─ 📄 Yellow River Conservancy Commission
+│  │  ├─ 📄 Yinson
+│  │  ├─ 📄 Yorkshire Water
+│  │  └─ 📄 Zglobal And Silicon Valley Clean Energy
+
+│  ├─ 📄 Webinars
+
+│  └─ 📄 White Papers
+
+
+├─ 📁 Support And Success
+
+│  ├─ 📄 Support And Success
+
+│  ├─ 📄 Aveva Edge Activation
+
+│  ├─ 📄 Consulting Services
+
+│  ├─ 📄 Customer Success
+
+│  ├─ 📄 Cyber Security Updates
+
+│  ├─ 📄 Myosisoft
+
+│  └─ 📄 Support Contact
+
+
+└─ 📁 Training
+
+   ├─ 📄 Training
+
+   └─ 📄 Cloud Training Center
+

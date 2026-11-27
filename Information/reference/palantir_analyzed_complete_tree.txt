@@ -1,0 +1,1384 @@
+====================================================================================================
+palantir 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Solutions
+
+│  ├─ 📄 Solutions
+
+│  ├─ 📄 Ai Ml
+
+│  ├─ 📂 Automotive Mobility
+│  │  └─ 📄 Auto Racing
+
+│  ├─ 📄 Data Protection
+
+│  ├─ 📄 Ecosystem
+
+│  ├─ 📄 Edge Ai
+
+│  ├─ 📂 Energy
+│  │  └─ 📄 Utilities
+
+│  ├─ 📂 Financial Services
+│  │  ├─ 📄 Anti Money Laundering
+│  │  └─ 📄 Crypto
+
+│  ├─ 📂 Health
+│  │  └─ 📄 Hospital Command Center
+
+│  ├─ 📄 Hyperauto
+
+│  ├─ 📂 Public
+│  │  ├─ 📄 Defense
+│  │  ├─ 📂 Defense
+│  │  │  ├─ 📄 Community
+│  │  ├─ 📂 Defense
+│  │  │  ├─ 📄 News
+│  │  ├─ 📂 Defense
+│  │  │  ├─ 📄 Solutions
+│  │  ├─ 📄 Federal Health
+│  │  ├─ 📄 Govt Financial Services
+│  │  └─ 📄 Intelligence
+
+│  ├─ 📄 Retail
+
+│  ├─ 📂 Space
+│  │  └─ 📄 Metaconstellation
+
+│  ├─ 📄 Supplychain
+
+│  └─ 📄 Telecommunications
+
+
+├─ 📁 Partners
+
+│  ├─ 📄 International
+
+│  └─ 📄 Technical
+
+
+├─ 📁 Contact
+
+│  ├─ 📄 Contact
+
+│  └─ 📄 Get Started
+
+
+├─ 📁 2022 Annual Letter
+
+│  └─ 📄 2022 Annual Letter
+
+
+├─ 📁 2024 Ai Ds Ml Market Study
+
+│  └─ 📄 Download
+
+
+├─ 📁 2024 Modelops Market Study
+
+│  └─ 📄 Download
+
+
+├─ 📁 2025 Ai Ds Ml Market Study
+
+│  └─ 📄 2025 Ai Ds Ml Market Study
+
+
+├─ 📁 2025 Market Studies
+
+│  └─ 📄 2025 Market Studies
+
+
+├─ 📁 2025 Modelops Market Study
+
+│  └─ 📄 2025 Modelops Market Study
+
+
+├─ 📁 2025 Wisdom Of Crowds Agentic Ai Market Study
+
+│  └─ 📄 2025 Wisdom Of Crowds Agentic Ai Market Study
+
+
+├─ 📁 500
+
+│  └─ 📄 500
+
+
+├─ 📁 About
+
+│  └─ 📄 About
+
+
+├─ 📁 Aip
+
+│  ├─ 📄 Developers
+
+│  └─ 📄 Support
+
+
+├─ 📁 Aip For Asset Maintenance Scheduling
+
+│  └─ 📄 Aip For Asset Maintenance Scheduling
+
+
+├─ 📁 Aip For Ehs Risk Management
+
+│  └─ 📄 Aip For Ehs Risk Management
+
+
+├─ 📁 Aip For Maintenance Assistance
+
+│  └─ 📄 Aip For Maintenance Assistance
+
+
+├─ 📁 Aip For Program Knowledge Management
+
+│  └─ 📄 Aip For Program Knowledge Management
+
+
+├─ 📁 Aip For Public Consultation Analysis
+
+│  └─ 📄 Aip For Public Consultation Analysis
+
+
+├─ 📁 Aip For Sustainable Solutions
+
+│  └─ 📄 Aip For Sustainable Solutions
+
+
+├─ 📁 Aip For Wastewater System Optimization
+
+│  └─ 📄 Aip For Wastewater System Optimization
+
+
+├─ 📁 Aip For Work Breakdown Structure Creator
+
+│  └─ 📄 Aip For Work Breakdown Structure Creator
+
+
+├─ 📁 Aip Now Statement
+
+│  └─ 📄 Aip Now Statement
+
+
+├─ 📁 Aip Sensor Integration For Wastewater Management
+
+│  └─ 📄 Aip Sensor Integration For Wastewater Management
+
+
+├─ 📁 Aipcon
+
+│  └─ 📄 Aipcon
+
+
+├─ 📁 Alpha
+
+│  └─ 📄 Alpha
+
+
+├─ 📁 American Tech Fellowship
+
+│  └─ 📄 American Tech Fellowship
+
+
+├─ 📁 Army Intelligence Data Platform
+
+│  └─ 📄 Army Intelligence Data Platform
+
+
+├─ 📁 Army Vantage
+
+│  └─ 📄 Army Vantage
+
+
+├─ 📁 Attributes
+
+│  ├─ 📄 Attributes
+
+│  ├─ 📄 Interoperable
+
+│  └─ 📂 Security
+│     └─ 📄 Wcag
+
+
+├─ 📁 Beyond Anonymization
+
+│  └─ 📄 Beyond Anonymization
+
+
+├─ 📁 Blog
+
+│  └─ 📄 Blog
+
+
+├─ 📁 Careers
+
+│  ├─ 📄 Careers
+
+│  ├─ 📂 Getting Hired
+│  │  ├─ 📄 Analyzing The Efficiency Of Code
+│  │  ├─ 📄 Navigating Open Ended Questions
+│  │  ├─ 📄 Solving Technical Problems
+│  │  ├─ 📄 The Phone Interview
+│  │  ├─ 📄 Working Inside Existing Systems
+│  │  └─ 📄 Writing Good Code
+
+│  ├─ 📄 Infrastructure
+
+│  ├─ 📄 Life At Palantir
+
+│  ├─ 📄 Meritocracy Fellowship
+
+│  ├─ 📄 Open Positions
+
+│  ├─ 📂 Students
+│  │  ├─ 📄 Launch
+│  │  └─ 📄 Meet Our Former Interns
+
+│  └─ 📄 Students And Early Talent
+
+
+├─ 📁 Casestudies
+
+│  ├─ 📄 Casestudies
+
+│  ├─ 📄 Grupo Globo
+
+│  ├─ 📄 Pacific Gas And Electric
+
+│  ├─ 📄 Powering Innovation For Doosan Infracore
+
+│  ├─ 📄 Ringier
+
+│  ├─ 📄 Sompo
+
+│  └─ 📄 Swiss Re
+
+
+├─ 📁 Chain Reaction
+
+│  └─ 📄 Chain Reaction
+
+
+├─ 📁 Climate Pledge
+
+│  └─ 📄 Climate Pledge
+
+
+├─ 📁 Cookie Statement
+
+│  └─ 📄 Cookie Statement
+
+
+├─ 📁 Customer Success Services
+
+│  └─ 📄 Customer Success Services
+
+
+├─ 📁 Defense
+
+│  └─ 📄 Sdk
+
+
+├─ 📁 Designing For Deletion
+
+│  └─ 📄 Designing For Deletion
+
+
+├─ 📁 Devcon
+
+│  ├─ 📄 Devcon
+
+│  ├─ 📄 Dc1
+
+│  ├─ 📄 Dc2
+
+│  └─ 📄 Fellowship
+
+
+├─ 📁 Devcon On Your Mark
+
+│  └─ 📄 Devcon On Your Mark
+
+
+├─ 📁 Devcon Submit
+
+│  └─ 📄 Devcon Submit
+
+
+├─ 📁 Devcon3
+
+│  └─ 📄 Devcon3
+
+
+├─ 📁 Developers
+
+│  └─ 📄 Developers
+
+
+├─ 📁 End Of Year Message From Alex Karp
+
+│  └─ 📄 2022
+
+
+├─ 📁 Explore
+
+│  ├─ 📄 Biomanufacturing
+
+│  ├─ 📄 Create Real Value
+
+│  ├─ 📂 Defense
+│  │  └─ 📄 Secure Collaboration
+
+│  ├─ 📂 Download
+│  │  └─ 📄 Secure Collaboration
+
+│  ├─ 📄 Foundry For Manufacturing
+
+│  ├─ 📄 Navy
+
+│  ├─ 📄 Navy Logistics
+
+│  ├─ 📄 Oil And Gas
+
+│  ├─ 📂 Platforms
+│  │  ├─ 📂 Foundry
+│  │  │  ├─ 📄 Ontology
+│  │  └─ 📂 Foundry
+│  │     └─ 📄 Ontology Energy
+
+│  ├─ 📄 Retail
+
+│  ├─ 📄 Telecommunications
+
+│  └─ 📄 Usg Channel Fy23 Partner Program Kickoff Registration
+
+
+├─ 📁 Fabrice Bregier Palantir Veut Etre Un Acteur Majeur De La Tech Francaise
+
+│  └─ 📄 Fabrice Bregier Palantir Veut Etre Un Acteur Majeur De La Tech Francaise
+
+
+├─ 📁 First Breakfast
+
+│  └─ 📄 First Breakfast
+
+
+├─ 📁 Form Submission Thank You
+
+│  └─ 📄 Form Submission Thank You
+
+
+├─ 📁 Foundation
+
+│  ├─ 📄 404
+
+│  ├─ 📄 Foundation
+
+│  ├─ 📄 About
+
+│  ├─ 📄 Conference
+
+│  ├─ 📄 Home
+
+│  ├─ 📄 Journal
+
+│  ├─ 📂 News And Resources
+│  │  ├─ 📄 A New Foundation
+│  │  ├─ 📄 In Defense Of Europe
+│  │  ├─ 📄 Lessons From Ukraine
+│  │  └─ 📄 Software And War
+
+│  ├─ 📄 Privacy And Security
+
+│  ├─ 📄 Terms And Conditions
+
+│  ├─ 📄 The Palantir Foundation Or News And Resources Or Ai Expo 2024
+
+│  ├─ 📄 Tpf 2024 Conference
+
+│  └─ 📄 Tpf 2025 Conference
+
+
+├─ 📁 Foundry Entity Resolution
+
+│  └─ 📄 Foundry Entity Resolution
+
+
+├─ 📁 Foundry Explained Get Demo
+
+│  └─ 📄 Foundry Explained Get Demo
+
+
+├─ 📁 Hannover
+
+│  └─ 📄 Hannover
+
+
+├─ 📁 Home
+
+│  └─ 📄 Home
+
+
+├─ 📁 Human Rights
+
+│  └─ 📄 Human Rights
+
+
+├─ 📁 Impact
+
+│  ├─ 📄 Impact
+
+│  ├─ 📄 Airbus
+
+│  ├─ 📄 Axel Springer
+
+│  ├─ 📄 Bank Digitization
+
+│  ├─ 📄 Campaign Optimization
+
+│  ├─ 📄 Cleveland Clinic
+
+│  ├─ 📄 Clinical Data Rd
+
+│  ├─ 📄 Compliance Acceleration
+
+│  ├─ 📄 Concordance
+
+│  ├─ 📄 Customer Retention
+
+│  ├─ 📄 Disaster Response
+
+│  ├─ 📄 Downtime Minimization
+
+│  ├─ 📄 Erp
+
+│  ├─ 📄 Inventory Optimization
+
+│  ├─ 📄 Jacobs
+
+│  ├─ 📄 Kindermorgan
+
+│  ├─ 📄 Network Reliability
+
+│  ├─ 📄 Next Best Offer
+
+│  ├─ 📄 Pacific Gas And Electric
+
+│  ├─ 📄 Partner In Crises
+
+│  ├─ 📄 Powering Innovation For Doosan Infracore
+
+│  ├─ 📄 Pricing Optimization
+
+│  ├─ 📄 Ringier
+
+│  ├─ 📄 Sales Acceleration
+
+│  ├─ 📂 Sompo
+│  │  └─ 📄 Japan
+
+│  ├─ 📄 Sonnedix
+
+│  ├─ 📄 Sosa
+
+│  ├─ 📄 Supply Chain Emissions
+
+│  ├─ 📄 Swiss Re
+
+│  ├─ 📄 Tampa General Hospital
+
+│  ├─ 📄 Task Prioritization
+
+│  ├─ 📄 Transaction Monitoring
+
+│  ├─ 📄 Turbine Maintenance
+
+│  ├─ 📄 Warranty Optimization
+
+│  └─ 📄 World Food Programme
+
+
+├─ 📁 Impact Or Disaster Response Jpn
+
+│  └─ 📄 Impact Or Disaster Response Jpn
+
+
+├─ 📁 In Defense Of Europe
+
+│  ├─ 📄 In Defense Of Europe
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Information Security
+
+│  └─ 📄 Information Security
+
+
+├─ 📁 Insights
+
+│  ├─ 📄 Insights
+
+│  └─ 📄 Moving Beyond Customer Analytics Whitepaper
+
+
+├─ 📁 Interoperability
+
+│  └─ 📄 Interoperability
+
+
+├─ 📁 Interview With Fabrice Bregier President Of Palantir France
+
+│  └─ 📄 Interview With Fabrice Bregier President Of Palantir France
+
+
+├─ 📁 Japan
+
+│  └─ 📄 Japan
+
+
+├─ 📁 Journal
+
+│  ├─ 📄 11 Elements Of American Ai Supremacy
+
+│  ├─ 📄 Journal
+
+│  ├─ 📄 About
+
+│  ├─ 📂 Articles
+│  │  ├─ 📄 A Rockefeller Of The Seas
+│  │  ├─ 📄 A Smarter Semiconductor Supply
+│  │  ├─ 📄 American Power And The Cost Of Uncertainty
+│  │  ├─ 📄 Codex For Catastrophe
+│  │  ├─ 📄 Decrypting Terrorist Funding
+│  │  ├─ 📂 Firebreak
+│  │  │  ├─ 📄 Iran
+│  │  ├─ 📄 Liberal Leviathan Or Paper Tiger
+│  │  ├─ 📄 Neighbors In Arms
+│  │  └─ 📄 Tradeoffs Of Transparency
+
+│  ├─ 📂 Book Review
+│  │  ├─ 📄 The Coming Wave
+│  │  └─ 📄 War Transformed
+
+│  ├─ 📄 Contact Us
+
+│  ├─ 📄 Dont Let Copyright Kill American Ai
+
+│  ├─ 📄 Drones Alone Are Not Enough
+
+│  ├─ 📄 Frontline Defense The Untold Story
+
+│  ├─ 📄 Home
+
+│  ├─ 📄 Human Cognitive Autonomy
+
+│  ├─ 📄 Is Software Eating The Battlefield
+
+│  ├─ 📄 Sunlight Is The Best Accelerant
+
+│  ├─ 📄 The Republic Book Review Technology And The Rise Of Great Powers
+
+│  ├─ 📄 The Republic Book Review The Conservative Futurist
+
+│  ├─ 📄 The Rise Of Tech Enabled States
+
+│  └─ 📄 Volume 1 Number 1 Contributors
+
+
+├─ 📁 Kelly Explains His Decision To Join Palantir
+
+│  └─ 📄 Kelly Explains His Decision To Join Palantir
+
+
+├─ 📁 Kr
+
+│  ├─ 📄 Kr
+
+│  ├─ 📂 Contact
+│  │  └─ 📄 Get Started
+
+│  ├─ 📄 Form Submission Thank You Page
+
+│  └─ 📄 Home
+
+
+├─ 📁 Master Classes
+
+│  └─ 📄 Master Classes
+
+
+├─ 📁 Mission Manager
+
+│  └─ 📄 Mission Manager
+
+
+├─ 📁 Modern Slavery Statement
+
+│  └─ 📄 Modern Slavery Statement
+
+
+├─ 📁 Nan
+
+│  └─ 📄 Nan
+
+
+├─ 📁 Ncmec
+
+│  └─ 📄 Ncmec
+
+
+├─ 📁 New Homepage
+
+│  └─ 📄 New Homepage
+
+
+├─ 📁 Newsroom
+
+│  ├─ 📄 Newsroom
+
+│  ├─ 📂 Letters
+│  │  ├─ 📄 2022 Annual Letter
+│  │  ├─ 📂 2022 Annual Letter
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 2022 Annual Letter
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📄 2023 Annual Letter
+│  │  ├─ 📂 2023 Annual Letter
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 2023 Annual Letter
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📄 2024 Annual Letter
+│  │  ├─ 📂 2024 Annual Letter
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 2024 Annual Letter
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📄 Aip In Action
+│  │  ├─ 📂 Aip In Action
+│  │  │  ├─ 📄 April 27 2023
+│  │  ├─ 📂 Aip In Action
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Aip In Action
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📄 Direct Listing Letter
+│  │  ├─ 📄 In Defense Of Europe
+│  │  ├─ 📂 In Defense Of Europe
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter From The Ceo
+│  │  │  ├─ 📄 A New Foundation
+│  │  ├─ 📂 Letter From The Ceo
+│  │  │  ├─ 📄 Software And War
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 August 7 2023
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 August 8 2022
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 May 8 2023
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 May 9 2022
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 November 7 2022
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📂 Letter To Shareholders
+│  │  │  ├─ 📄 September 20 2022
+│  │  ├─ 📄 Our New Platform
+│  │  ├─ 📂 Our New Platform
+│  │  │  ├─ 📄 April 7 2023
+│  │  ├─ 📂 Our New Platform
+│  │  │  ├─ 📄 De
+│  │  ├─ 📂 Our New Platform
+│  │  │  ├─ 📄 Fr
+│  │  ├─ 📄 The S And P 500
+│  │  ├─ 📂 The S And P 500
+│  │  │  ├─ 📄 April 19 2023
+│  │  ├─ 📂 The S And P 500
+│  │  │  ├─ 📄 De
+│  │  └─ 📂 The S And P 500
+│  │     └─ 📄 Fr
+
+│  ├─ 📂 Media
+│  │  ├─ 📄 Die Welt 8 4 2023
+│  │  ├─ 📄 Lesechos2 2 2023
+│  │  ├─ 📂 Lesechos
+│  │  │  ├─ 📄 2 2 2023 English
+│  │  ├─ 📂 Lesechos
+│  │  │  ├─ 📄 2 2 2023 Francais
+│  │  ├─ 📄 Lobs3 13 2023
+│  │  ├─ 📂 Lobs3 13 2023
+│  │  │  ├─ 📄 English
+│  │  └─ 📂 Lobs3 13 2023
+│  │     └─ 📄 Francais
+
+│  ├─ 📂 Press Releases
+│  │  ├─ 📄 Palantir And Grupo Globo Extend Digital Transformation Partnership
+│  │  ├─ 📄 Army Selects Palantir For Intelligence Data Fabric And Analytics Solution
+│  │  ├─ 📄 Army Selects Palantir To Build Titan Program Competitive Prototype
+│  │  ├─ 📄 Army Vantage Reaffirms Palantir Partnership For A Third Consecutive Year
+│  │  ├─ 📄 Athinia To Accelerate The Use Of Ai And Big Data
+│  │  ├─ 📄 Bigbear Ai And Palantir Announce Strategic Partnership
+│  │  ├─ 📄 Cdc Partners With Palantir To Bolster The Fight Against Covid 19
+│  │  ├─ 📄 Cdc Renews Partnership With Palantir For Disease Monitoring And Outbreak
+│  │  ├─ 📄 Faa Selects Palantir For Aircraft Certification Safety Monitoring Solution
+│  │  ├─ 📄 Fda And Palantir Partner To Modernize Food Supply Chain Resilience Through
+│  │  ├─ 📄 Fujitsu Limited Signs Usd8 Million Contract As Palantir Foundry Customer
+│  │  ├─ 📄 Hertz Partners With Palantir To Drive Operational Excellence
+│  │  ├─ 📄 Homeland Security Investigations Renews Partnership With Palantir
+│  │  ├─ 📄 Ibm And Palantir Partner To Help Businesses
+│  │  ├─ 📄 Jacobs And Palantir Launch Global Strategic Partnership For Data Solutions
+│  │  ├─ 📄 Kt Palantir Discuss Plans For Training Specialists And Joint Marketing
+│  │  ├─ 📄 Lauren Friedman Stat Joins Palantir Board Of Directors
+│  │  ├─ 📄 Md Anderson Advances Data Collaboration Through Technology Agreement
+│  │  ├─ 📄 Micron To Select Athinia Tm For Pioneering Data Collaboration
+│  │  ├─ 📄 Nih Continues Collaboration With Palantir Technologies
+│  │  ├─ 📄 Palantir And 3M Expand Relationship To Build Dynamic Supply Chain
+│  │  ├─ 📄 Palantir And Akin Gump Collaborate On Legal Digital Service Platform
+│  │  ├─ 📄 Palantir And Alixpartners Join Forces To Help Clients Unlock Data Value
+│  │  ├─ 📄 Palantir And Bp Deepen Partnership Accelerate Energy Transition
+│  │  ├─ 📄 Palantir And Dewpoint Therapeutics Announce Strategic Partnership
+│  │  ├─ 📄 Palantir And Faurecia Embark On Long Term Strategic Partnership
+│  │  ├─ 📄 Palantir And Kinder Morgan Sign Multi Year Agreement
+│  │  ├─ 📄 Palantir And Ringier Extend Digital Transformation Partnership
+│  │  ├─ 📄 Palantir And Space Force Expand Partnership
+│  │  ├─ 📄 Palantir And Station F Partner To Empower Early Stage Companies
+│  │  ├─ 📄 Palantir And Trafigura Announce Collaboration To Deliver Supply Chain Carbon
+│  │  ├─ 📄 Palantir And Us Government To Continue Work On Covid 19 Vaccine
+│  │  ├─ 📄 Palantir Announces Broadcast Of Flagship Customer Conference Foundrycon
+│  │  ├─ 📄 Palantir Announces Date Of First Quarter 2021 Earnings Release
+│  │  ├─ 📄 Palantir Announces Date Of First Quarter 2022 Earnings Release And Webcast
+│  │  ├─ 📄 Palantir Announces Date Of Fourth Quarter 2020 Earnings
+│  │  ├─ 📄 Palantir Announces Date Of Fourth Quarter 2021 Earnings Release And Video
+│  │  ├─ 📄 Palantir Announces Date Of Second Quarter 2021 Earnings Release Call
+│  │  ├─ 📄 Palantir Announces Date Of Second Quarter 2022 Earnings Release And Webcast
+│  │  ├─ 📄 Palantir Announces Date Of Third Quarter 2022 Earnings Release And Webcast
+│  │  ├─ 📄 Palantir Announces Double Click Demo Event On April 14 2021
+│  │  ├─ 📄 Palantir Announces Expansion Of Federal Cloud Service With Dod Il6
+│  │  ├─ 📄 Palantir Announces Global Enterprise Deal With Stellantis
+│  │  ├─ 📄 Palantir Announces Hiring Of First Usg Chief Medical Officer
+│  │  ├─ 📄 Palantir Announces Partnership With Beckett Collectibles
+│  │  ├─ 📄 Palantir Announces Q And A Platform For Shareholders
+│  │  ├─ 📄 Palantir Announces Third Quarter 2021 Earnings Release Call Date
+│  │  ├─ 📄 Palantir Appoints Philippe Mathieu As President Of Palantir Emea
+│  │  ├─ 📄 Palantir Comments On Rio Tinto Kemano T2 Project Breakthrough
+│  │  ├─ 📄 Palantir Concordance Partner To Power First Fully Integrated Medical Supply Chain Ecosystem
+│  │  ├─ 📄 Palantir Continues Expansion In Australia With Westrac Partnership
+│  │  ├─ 📄 Palantir Datarobot Partner
+│  │  ├─ 📄 Palantir Expands Longstanding Cdc Partnership For Disease Monitoring And
+│  │  ├─ 📄 Palantir Expands Partnership With Us Space Systems Command
+│  │  ├─ 📄 Palantir Expects 40 Revenue Growth In Fy 2021 Q3 Us Commercial Revenue Up
+│  │  ├─ 📄 Palantir Hyundai Heavy Industries Group Expand Into Shipbuilding
+│  │  ├─ 📄 Palantir Introduces Certification Program To Scale Platform And Empower
+│  │  ├─ 📄 Palantir Introduces Foundry For Builders
+│  │  ├─ 📄 Palantir Introduces Second Cohort Of Foundry For Builders Start Ups
+│  │  ├─ 📄 Palantir Issues Additional Details About Industrials Capabilities
+│  │  ├─ 📄 Palantir Issues Additional Details Regarding Inaugural Demo Day
+│  │  ├─ 📄 Palantir Issues Additional Double Click Details About Life Sciences Capabilities
+│  │  ├─ 📄 Palantir Named A Leader In Ai Ml Platforms By Independent Research Firm
+│  │  ├─ 📄 Palantir Named An Overall Leader In Dresner Wisdom Of Crowds R Bi Market
+│  │  ├─ 📄 Palantir Partners With Carahsoft To Broaden Reach In U S Government Market
+│  │  ├─ 📄 Palantir Ranked No1 Idc Worldwide Ai Software Study
+│  │  ├─ 📄 Palantir Reaffirms Fy22 Revenue Guidance Reports Revenue Growth Of 22 Y Y For Q3 2022
+│  │  ├─ 📄 Palantir Recognized With Amazon Web Services Global Public Sector Partner
+│  │  ├─ 📄 Palantir Reports Revenue Growth For Full Year 2020
+│  │  ├─ 📄 Palantir Reports Revenue Growth Of 26 Y Y For Q2 2022 Us Commercial Revenue
+│  │  ├─ 📄 Palantir Reports Revenue Growth Of 31 For Q1 2022 Us Commercial Revenue Up
+│  │  ├─ 📄 Palantir Reports Revenue Growth Of 41 For Fy 2021 Us Commercial Revenue Up
+│  │  ├─ 📄 Palantir Reports Revenue Growth Us Commercial Revenue Up
+│  │  ├─ 📄 Palantir Revenue Growth First Quarter 2021
+│  │  ├─ 📄 Palantir Secures Additional Usd43 Million Contract From Space Systems Command
+│  │  ├─ 📄 Palantir Selected By Army Materiel Command
+│  │  ├─ 📄 Palantir Selected By National Nuclear Security Administration
+│  │  ├─ 📄 Palantir Selected For Usd90 Million 5 Year Hhs Contract Vehicle
+│  │  ├─ 📄 Palantir Selected To Deliver Prototype For Armys Ground Station
+│  │  ├─ 📄 Palantir Showcases Series Of New Products At Apollo Demo Day
+│  │  ├─ 📄 Palantir Technologies And Rio Tinto Sign Multi Year Enterprise Partnership
+│  │  ├─ 📄 Palantir Technologies And The Royal Navy Extend Contracts
+│  │  ├─ 📄 Palantir Technologies Expands Japan Business
+│  │  ├─ 📄 Palantir Technologies Extends Partnership With Ferrari To Bring Data Driven
+│  │  ├─ 📄 Palantir Technologies To Expand In South Korea
+│  │  ├─ 📄 Palantir Technologies Uk Named As A Crown Commercial Service Supplier
+│  │  ├─ 📄 Palantir Technology To Enhance California Electric Grid Safety And Reliability
+│  │  ├─ 📄 Palantir To Build Supply Chain Resiliency Platform Solution With Canadian
+│  │  ├─ 📄 Palantir To Unveil New Products In Apollo
+│  │  ├─ 📄 Palantir Ussocom Award Mission Command Platform
+│  │  ├─ 📄 Us Army Research Lab Expands Artificial Intelligence And Machine Learning
+│  │  ├─ 📄 Us Army Research Lab Extends Contract With Palantir To Deliver Leading Ai
+│  │  └─ 📄 Us Coast Guard Renews Partnership With Palantir To Fight Covid 19
+
+│  └─ 📄 Thought Leadership
+
+
+├─ 📁 Nhs Vaccine Rollout Success Built On Nhs Determination And Military
+
+│  └─ 📄 Nhs Vaccine Rollout Success Built On Nhs Determination And Military
+
+
+├─ 📁 Offerings
+
+│  ├─ 📄 Offerings
+
+│  ├─ 📄 Aml B
+
+│  ├─ 📄 Anti Money Laundering
+
+│  ├─ 📄 Automotive Mobility
+
+│  ├─ 📄 Consumer Goods
+
+│  ├─ 📄 Crypto
+
+│  ├─ 📄 Data Mesh
+
+│  ├─ 📄 Data Protection
+
+│  ├─ 📂 Defense
+│  │  ├─ 📄 Air Space
+│  │  ├─ 📄 Army
+│  │  ├─ 📄 Community
+│  │  ├─ 📄 Navy
+│  │  ├─ 📄 News
+│  │  ├─ 📄 Secure Collaboration
+│  │  ├─ 📂 Secure Collaboration
+│  │  │  ├─ 📄 Capabilities
+│  │  ├─ 📂 Secure Collaboration
+│  │  │  ├─ 📄 Contact
+│  │  ├─ 📂 Secure Collaboration
+│  │  │  ├─ 📄 Features
+│  │  ├─ 📄 Solutions
+│  │  └─ 📄 Systems Integration
+
+│  ├─ 📄 Edge Ai
+
+│  ├─ 📄 Energy
+
+│  ├─ 📂 Federal Health
+│  │  └─ 📄 Publications
+
+│  ├─ 📄 Fedstart
+
+│  ├─ 📂 Financial Services
+│  │  ├─ 📄 Applied Customer Intelligence
+│  │  └─ 📄 Government
+
+│  ├─ 📄 Food And Beverage
+
+│  ├─ 📄 Government Web Services
+
+│  ├─ 📂 Health
+│  │  └─ 📄 Demos
+
+│  ├─ 📄 Hyperauto
+
+│  ├─ 📄 Insurance
+
+│  ├─ 📄 Intelligence
+
+│  ├─ 📄 Iot
+
+│  ├─ 📄 Iot A
+
+│  ├─ 📄 Life Sciences
+
+│  ├─ 📄 Metaconstellation
+
+│  ├─ 📄 Mixed Reality
+
+│  ├─ 📂 Palantir For Builders
+│  │  ├─ 📄 Smbs
+│  │  ├─ 📄 Building Blocks
+│  │  ├─ 📄 Global Builders
+│  │  ├─ 📄 News
+│  │  ├─ 📄 Service Providers
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 10 X
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Aplos Innovation
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Codestrap
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Decho
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Fourth Age
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Foxtrot
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Northslope
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Ontologize
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Proxet
+│  │  ├─ 📂 Service Providers
+│  │  │  ├─ 📄 Rangr
+│  │  └─ 📄 Startups
+
+│  ├─ 📄 Palantir For Hospitals
+
+│  ├─ 📄 Palantir For Rail
+
+│  ├─ 📄 Procurement
+
+│  ├─ 📄 Readiness
+
+│  ├─ 📄 Retail
+
+│  ├─ 📄 Semiconductors
+
+│  ├─ 📂 Supply Chain
+│  │  └─ 📄 Supply Chain Control Tower
+
+│  ├─ 📄 Supply Chain Risk Management
+
+│  ├─ 📄 Telecommunications
+
+│  └─ 📄 Utilities
+
+
+├─ 📁 Pagenotfound
+
+│  └─ 📄 Pagenotfound
+
+
+├─ 📁 Palantir Explained
+
+│  └─ 📄 Palantir Explained
+
+
+├─ 📁 Palantir Fraud Detection
+
+│  └─ 📄 Palantir Fraud Detection
+
+
+├─ 📁 Palantir Is Not A Data Company
+
+│  └─ 📄 Palantir Is Not A Data Company
+
+
+├─ 📁 Palantir Is Still Not A Data Company
+
+│  └─ 📄 Palantir Is Still Not A Data Company
+
+
+├─ 📁 Palantir Mourns The Loss Of Sergio Marchionne
+
+│  └─ 📄 Palantir Mourns The Loss Of Sergio Marchionne
+
+
+├─ 📁 Partnership Vanguard
+
+│  └─ 📄 Partnership Vanguard
+
+
+├─ 📁 Partnerships
+
+│  ├─ 📄 Usg
+
+│  ├─ 📄 Partnerships
+
+│  ├─ 📄 Aaxis
+
+│  ├─ 📄 Accenture
+
+│  ├─ 📄 Alixpartners
+
+│  ├─ 📄 Anaconda
+
+│  ├─ 📄 Aws
+
+│  ├─ 📄 Bain
+
+│  ├─ 📄 Booz Allen
+
+│  ├─ 📄 Cloud
+
+│  ├─ 📄 Commercial
+
+│  ├─ 📄 Databricks
+
+│  ├─ 📄 Deloitte
+
+│  ├─ 📄 Elite
+
+│  ├─ 📄 Fujitsu
+
+│  ├─ 📄 Google Cloud
+
+│  ├─ 📄 Guidehouse
+
+│  ├─ 📂 Jacobs
+│  │  ├─ 📄 Irdr
+
+│  ├─ 📄 Kpmg
+
+│  ├─ 📄 Kt
+
+│  ├─ 📄 Microsoft
+
+│  ├─ 📄 Ontologize
+
+│  ├─ 📄 Oracle
+
+│  ├─ 📄 Preferred Partners
+
+│  ├─ 📄 Pvm
+
+│  ├─ 📄 Pwc
+
+│  ├─ 📄 Sap
+
+│  ├─ 📄 Snowflake
+
+│  ├─ 📄 Synpulse
+
+│  ├─ 📄 Twg
+
+│  └─ 📄 Unit8
+
+
+├─ 📁 Pcl
+
+│  ├─ 📄 Pcl
+
+│  ├─ 📄 Advisors
+
+│  ├─ 📂 Data Protection
+│  │  └─ 📄 Deletion
+
+│  ├─ 📄 Palantir Ai Ethics
+
+│  ├─ 📄 Palantir Ai Policy Contributions
+
+│  ├─ 📄 Principles
+
+│  ├─ 📄 Team
+
+│  ├─ 📄 Technologies
+
+│  └─ 📄 Thought Leadership
+
+
+├─ 📁 Platforms
+
+│  ├─ 📄 Platforms
+
+│  ├─ 📂 Aip
+│  │  ├─ 📄 Bootcamp
+│  │  └─ 📄 Defense
+
+│  ├─ 📂 Apollo
+│  │  ├─ 📄 Content Hub
+│  │  ├─ 📄 Get Started
+│  │  ├─ 📄 Pricing
+│  │  ├─ 📄 Product
+│  │  └─ 📄 Solutions
+
+│  ├─ 📂 Foundry
+│  │  ├─ 📄 Bi Analytics
+│  │  ├─ 📄 Data Integration
+│  │  ├─ 📂 Data Integration
+│  │  │  ├─ 📄 Pipeline Builder
+│  │  ├─ 📄 Data Platforms
+│  │  ├─ 📄 Data Science
+│  │  ├─ 📄 Digital Twin
+│  │  ├─ 📄 Dynamic Scheduling
+│  │  ├─ 📄 Foundry Ontology
+│  │  ├─ 📄 Foundry Rules
+│  │  ├─ 📄 Integrations
+│  │  ├─ 📂 Integrations
+│  │  │  ├─ 📄 Bi Analytics
+│  │  ├─ 📂 Integrations
+│  │  │  ├─ 📄 Data Platforms
+│  │  ├─ 📂 Integrations
+│  │  │  ├─ 📄 Data Science
+│  │  ├─ 📂 Integrations
+│  │  │  ├─ 📄 Integration Types
+│  │  ├─ 📄 Marketplace
+│  │  ├─ 📄 Open Architecture
+│  │  ├─ 📄 Plans
+│  │  ├─ 📄 Process Mining
+│  │  └─ 📄 Streaming
+
+│  ├─ 📄 Foundry For Builders
+
+│  ├─ 📂 Gotham
+│  │  └─ 📄 Europa
+
+│  └─ 📄 Ontology
+
+
+├─ 📁 Privacy
+
+│  └─ 📄 Privacy
+
+
+├─ 📁 Privacy And Civil Liberties Engineering
+
+│  └─ 📄 Privacy And Civil Liberties Engineering
+
+
+├─ 📁 Privacy And Security
+
+│  ├─ 📄 Privacy And Security
+
+│  └─ 📄 Data Request
+
+
+├─ 📁 Pt Test
+
+│  ├─ 📂 Blog
+│  │  ├─ 📄 Empowering The Warfighter Palantirs Partnership With Microsoft
+│  │  ├─ 📄 Evaluating Generative Ai A Field Manual
+│  │  ├─ 📄 Palantir Ai Action Plan
+│  │  └─ 📄 Requirements For Ai In Production In Insurance Underwriting
+
+│  ├─ 📄 Nhs
+
+│  └─ 📂 Partnerships
+│     └─ 📄 Twg
+
+
+├─ 📁 Purpose Based Access Controls
+
+│  └─ 📄 Purpose Based Access Controls
+
+
+├─ 📁 Q1 2024 Letter
+
+│  ├─ 📄 Q1 2024 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q1 2025 Letter
+
+│  ├─ 📄 Q1 2025 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q2 2024 Letter
+
+│  ├─ 📄 Q2 2024 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q2 2025 Letter
+
+│  ├─ 📄 Q2 2025 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q3 2023 Letter
+
+│  ├─ 📄 Q3 2023 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q3 2024 Letter
+
+│  ├─ 📄 Q3 2024 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q3 2025 Letter
+
+│  ├─ 📄 Q3 2025 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Q4 2024 Letter
+
+│  ├─ 📄 Q4 2024 Letter
+
+│  ├─ 📄 De
+
+│  └─ 📄 Fr
+
+
+├─ 📁 Responsible Business And Sustainability
+
+│  └─ 📄 Responsible Business And Sustainability
+
+
+├─ 📁 Responsible Disclosure
+
+│  └─ 📄 Responsible Disclosure
+
+
+├─ 📁 Rubix
+
+│  └─ 📄 Rubix
+
+
+├─ 📁 Rubix Specs
+
+│  └─ 📄 Rubix Specs
+
+
+├─ 📁 Search
+
+│  └─ 📄 Search
+
+
+├─ 📁 Security Advisories
+
+│  └─ 📄 Log4J Vulnerability
+
+
+├─ 📁 Sitemap
+
+│  └─ 📄 Sitemap
+
+
+├─ 📁 Terms And Conditions
+
+│  └─ 📄 Terms And Conditions
+
+
+├─ 📁 Thank You Or Moving Beyond Customer Analytics Whitepaper
+
+│  └─ 📄 Thank You Or Moving Beyond Customer Analytics Whitepaper
+
+
+├─ 📁 Titan
+
+│  └─ 📄 Titan
+
+
+├─ 📁 Titanium
+
+│  └─ 📄 Titanium
+
+
+├─ 📁 Trust In Data
+
+│  └─ 📄 Trust In Data
+
+
+├─ 📁 Uk
+
+│  ├─ 📄 Uk
+
+│  ├─ 📄 Carbonreductionplan
+
+│  ├─ 📄 Careers
+
+│  ├─ 📂 Contact
+│  │  └─ 📄 Get Started
+
+│  ├─ 📄 Defence
+
+│  ├─ 📄 Email Subscription
+
+│  ├─ 📂 Explore
+│  │  ├─ 📄 Applied Customer Intelligence Whitepaper
+│  │  ├─ 📂 Applied Customer Intelligence Whitepaper
+│  │  │  ├─ 📄 Thank You
+│  │  ├─ 📄 Confirmation Ls
+│  │  ├─ 📄 Defra Hackathon
+│  │  ├─ 📄 Levellingup Whitepaper
+│  │  ├─ 📄 Lifesciences
+│  │  └─ 📂 On Demand
+│  │     └─ 📄 Evolving Ai Ml From Point Solutions To Platform
+
+│  ├─ 📂 Financial Services
+│  │  └─ 📄 Get Started
+
+│  ├─ 📄 Foundry For Resilience Planning Whitepaper
+
+│  ├─ 📂 Get Started
+│  │  └─ 📄 Palantir For Insurance
+
+│  ├─ 📂 Government
+│  │  ├─ 📄 Counterfraud
+│  │  └─ 📂 Counterfraud
+│  │     └─ 📄 Whitepaper
+
+│  ├─ 📄 Healthcare
+
+│  ├─ 📄 Home
+
+│  ├─ 📄 Hyperauto For Sap
+
+│  ├─ 📄 Meet Us At Fima 2022 Or Palantir Uk For Financial Services
+
+│  ├─ 📄 Palantir Foundry For Ukcg
+
+│  ├─ 📄 Palantir Uk Defence Request A Demo
+
+│  ├─ 📄 Palantir Uk Or Next Best Offer Demo Page
+
+│  ├─ 📄 Request A Meeting
+
+│  ├─ 📄 Retail
+
+│  ├─ 📄 Societal Environmental Impact
+
+│  └─ 📄 Workforce Optimisation Whitepaper
+
+
+├─ 📁 Unlock
+
+│  └─ 📄 Unlock
+
+
+├─ 📁 Usg Partner Portal
+
+│  └─ 📄 Solutions
+
+
+├─ 📁 Vertex For Energy
+
+│  └─ 📄 Vertex For Energy
+
+
+└─ 📁 Warpspeed
+
+   └─ 📄 Warpspeed
+

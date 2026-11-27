@@ -1,0 +1,51 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 2500
+
+Domains: inductiveautomation.com
+
+Languages:
+  : 1454
+  blog: 591
+  news: 441
+  about: 11
+  edge: 1
+  ccpa: 1
+  login: 1
+
+Sections:
+  : 403
+  icc: 337
+  tags: 182
+  customerproject: 182
+  webinar: 153
+  video: 145
+  user: 108
+  casestudy: 74
+  article: 73
+  podcast: 59
+  modules: 16
+  author: 16
+  taxonomy: 8
+  solution-suites: 6
+  ignition: 6
+  careers: 5
+  solution-partners: 4
+  technology-providers: 4
+  edge: 3
+  technical: 3
+
+Content Types:
+  resource: 827
+  other: 815
+  blog: 601
+  webinar: 186
+  industry: 36
+  company: 19
+  product: 16
+
+Years:
+  2025: 2446
+  2024: 54

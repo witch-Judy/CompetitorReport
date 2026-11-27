@@ -1,0 +1,1157 @@
+====================================================================================================
+cognite 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Product
+
+│  ├─ 📄 Ai Solutions
+
+│  ├─ 📂 Applications
+│  │  ├─ 📄 Cognite_Infield
+│  │  ├─ 📄 Cognite_Maintain
+│  │  └─ 📄 Robotics
+
+│  ├─ 📄 Atlas
+
+│  ├─ 📄 Extractors
+
+│  ├─ 📄 Quickstart
+
+│  ├─ 📄 Services
+
+│  ├─ 📂 Solution Area
+│  │  └─ 📄 Unified Operations Insights
+
+│  ├─ 📂 Solution Areas
+│  │  ├─ 📄 Advanced Troubleshooting
+│  │  ├─ 📄 Asset Performance Management
+│  │  ├─ 📄 Connected Field Operations
+│  │  ├─ 📄 Embedded
+│  │  ├─ 📄 Emissions Management
+│  │  ├─ 📄 Power Market Operations
+│  │  ├─ 📄 Power System Analysis
+│  │  ├─ 📄 Production Management And Optimization
+│  │  ├─ 📄 Root Cause Analysis
+│  │  ├─ 📄 Turnaround Planning
+│  │  └─ 📄 Unified Operations Insight
+
+│  └─ 📄 Sustainability
+
+
+├─ 📁 Industries
+
+│  ├─ 📄 Batch Manufacturing
+
+│  ├─ 📄 Continuous Process Industries
+
+│  ├─ 📄 Discrete Manufacturing
+
+│  ├─ 📄 Downstream Energy
+
+│  ├─ 📄 Life Sciences
+
+│  ├─ 📄 Oil And Gas
+
+│  ├─ 📄 Petrochemicals
+
+│  ├─ 📄 Power Generation
+
+│  ├─ 📄 Power Grid
+
+│  ├─ 📄 Renewables
+
+│  └─ 📄 Upstream Energy
+
+
+├─ 📁 Solutions
+
+│  └─ 📄 Partner Solutions
+
+
+├─ 📁 Resources
+
+│  ├─ 📄 Resources
+
+│  ├─ 📂 Analyst Reports
+│  │  ├─ 📄 Cognite Awarded 2022 Technology Innovation Leader
+│  │  ├─ 📄 Cognite Wins Frost Sullivans 2023 Company Of The Year Award
+│  │  ├─ 📄 Contextualized Data And Digital Twins Amplify Digitization Value
+│  │  ├─ 📄 Forrester Total Economic Impact
+│  │  ├─ 📄 Frost Radar Digital Industrial Platforms
+│  │  ├─ 📄 Test Page
+│  │  └─ 📄 Verdantix Cognite Recognized As A Leader In Industrial Data Management Solutions
+
+│  ├─ 📂 Blog
+│  │  ├─ 📄 2023 Crystal Ball Gazing The Emperor Will Need Clothes
+│  │  ├─ 📄 3 Key Takeaways From Hannover Messe 2023
+│  │  ├─ 📄 3 Key Takeaways From Hannover Messe 2024
+│  │  ├─ 📄 3 Key Takeaways From The 2023 Arc Industry Leadership Forum
+│  │  ├─ 📄 3 Lessons Learned In 2024 7 Industrial Ai Predictions For 2025
+│  │  ├─ 📄 3 Steps For Successfully Implementing Industrial Dataops
+│  │  ├─ 📄 3 Takeaways From The World Economic Forum S Global Technology Retreat
+│  │  ├─ 📄 3 Ways To Improve Rca With The Industrial Canvas
+│  │  ├─ 📄 5 Things You Need To Know About Generative Ai For Industry
+│  │  ├─ 📄 7 Myths About Diy Platforms Lead To 1 Logical Conclusion
+│  │  ├─ 📄 A Monumental Cognite Data Fusion Product Release
+│  │  ├─ 📄 A New Way Why Industrial Digitalization Needs Data Fusion And Contextualization
+│  │  ├─ 📄 Advancing Digital Twins Data Modeling
+│  │  ├─ 📄 An Incredible Break Through For Building And Deploying Ai Agents
+│  │  ├─ 📄 Anatomy Of A Highly Optimized Time Series Database For Real Time Industrial Applications
+│  │  ├─ 📄 Are Lighthouse Sites Blinding Manufacturers From Long Term Digital Success
+│  │  ├─ 📄 As Complexity Mounts Data Can Be A Lifeline For Grid Operators
+│  │  ├─ 📄 Asahikasei Plant Digitalization
+│  │  ├─ 📄 Asset Intensive Industries Are On The Brink Of Their Iphone Moment
+│  │  ├─ 📄 Atlas Ai Summit In Tokyo 2025 Report
+│  │  ├─ 📄 Boston Dynamics Robot In Industry
+│  │  ├─ 📄 Clean Up Your Data Lakes Data Contextualization In The Manufacturing Industry
+│  │  ├─ 📄 Cognite Ai Open Letter
+│  │  ├─ 📄 Cognite At Arc Forum 2025
+│  │  ├─ 📄 Cognite Atlas Ai Hackathon 24 Hours Of Rapid Innovation
+│  │  ├─ 📄 Cognite Atlas Ai September Product Release Accelerating Agentic Ai At Scale
+│  │  ├─ 📄 Cognite Ceo If 2020 Forever Changed Asset Intensive Industries Whats In Store For 2021
+│  │  ├─ 📄 Cognite Ceo Three Signs That Oil And Gas Isnt Standing Still As The World Transforms
+│  │  ├─ 📄 Cognite Data Platform Powers Pioneering Business Models For Digitalized Energy Companies
+│  │  ├─ 📄 Cognite December Product Release Advancing Ai Agent Trust And Enterprise Scalability
+│  │  ├─ 📄 Cognite Forrester Webinar
+│  │  ├─ 📄 Cognite Industrial Ai Leadership On Display In Key Independent Research Reports
+│  │  ├─ 📄 Cognite Named A Launch Partner For The New Ai Apps And Agents Category In Microsoft Marketplace
+│  │  ├─ 📄 Cognite User Meetup At East Report
+│  │  ├─ 📄 Cognite User Meetup At West Report
+│  │  ├─ 📄 Cognites Impact In 2024 Driving The Future Of Industrial Ai
+│  │  ├─ 📄 Commodity Trading Data Challenges
+│  │  ├─ 📄 Companies Should Take A 360 Degree Approach To Robotics
+│  │  ├─ 📄 Computer Vision Remains An Untapped Opportunity In American Industry
+│  │  ├─ 📄 Cosmo Oil Interview Video Released
+│  │  ├─ 📄 Covid 19 Was A Wake Up Call For Industrial Digitalization Laggards
+│  │  ├─ 📄 Data Context And Openness How The Oil And Gas Industry Can Drive A Sustainable Transformation
+│  │  ├─ 📄 Data Delivers Much Needed Stability To The Us Power Grid
+│  │  ├─ 📄 Data Management Revolution In The Age Of Ai And The Citizen Data Scientist
+│  │  ├─ 📄 Dataops Takes Leading Role In The Future Of Asset Intensive Industries
+│  │  ├─ 📄 Dear Chief Digital Officer This Is Where Your Engineers Want Help
+│  │  ├─ 📄 Deepseeks Breakthrough
+│  │  ├─ 📄 Demonstrating Autonomous Industrial Operations With Cognite Atlas Ai
+│  │  ├─ 📄 Demystifying Industrial Ai Agents
+│  │  ├─ 📄 Demystifying The Digital Twin For Power Utilities Time To Rethink The Definition
+│  │  ├─ 📄 Digital Leaders Four Things You Should Be Known For In Tough Times
+│  │  ├─ 📄 Digital Transformation Manufacturing
+│  │  ├─ 📄 Digital Twin Evolution
+│  │  ├─ 📄 Does Rag Still Matter
+│  │  ├─ 📄 Dont Let Pandemic Induced Digitalisation Go To Waste
+│  │  ├─ 📄 Dont Let Your Industrys Pace Of Change Outpace That Of Your Workforce
+│  │  ├─ 📄 Downstream Digitalization Boost Field Workers Health Safety And Productivity
+│  │  ├─ 📄 Downstream Digitalization Get A Closer Smarter Look At Your Maintenance Activities
+│  │  ├─ 📄 Downstream Digitalization Maximize Throughput By Ensuring Operational Excellence
+│  │  ├─ 📄 Drain Your Data Lakes With A Data Products As A Service Model
+│  │  ├─ 📄 Drilling For Data
+│  │  ├─ 📄 Evaluating Large Language Models Usefulness Correctness
+│  │  ├─ 📄 Field Robots For Autonomous Inspection
+│  │  ├─ 📄 Fixing Industrial Data Search For Subject Matter Experts
+│  │  ├─ 📄 Forget About Data Federation Scale Industrial Ai With Data Persistence
+│  │  ├─ 📄 Four Ways Grid Operators Are Accelerating Digitalization
+│  │  ├─ 📄 Framo Cognite Explain How To Get Started With Performance Based Contracts
+│  │  ├─ 📄 From Aging To Agent Ing With Cognites Atlas Ai
+│  │  ├─ 📄 Generative Ai In Industrial Dataops
+│  │  ├─ 📄 Heavy Asset Companies Race Towards A Future Ready Data And Digital Platform
+│  │  ├─ 📄 How Far Have You Come On Your Industrial Digitalization Journey
+│  │  ├─ 📄 How Long Will The Us Let Europe Lead The Race To Sustainably Transform Oil And Gas
+│  │  ├─ 📄 How To Become A Digital Maverick
+│  │  ├─ 📄 How To Save Months Of Turnaround Planning With Generative Ai
+│  │  ├─ 📄 How To Scale Use Cases With Data Contextualization
+│  │  ├─ 📄 I Already Have An Mes Why Do I Need An Industrial Dataops Platform
+│  │  ├─ 📄 Impact 2024 The Future Is Here
+│  │  ├─ 📄 Industrial Asset Performance Management Has A Data Problem
+│  │  ├─ 📄 Industrial Dataops Capabilities To Truly Scale Simulation Digital Twins
+│  │  ├─ 📄 Industrial Dataops The Data Backbone Of Digital Twins
+│  │  ├─ 📄 Industrial Use Cases Require A System Of Engagement
+│  │  ├─ 📄 Industry Veterans Share Secrets To Scaling Digitalization Efforts
+│  │  ├─ 📄 Japanese Session Report For Impact 2024
+│  │  ├─ 📄 Japanese Session Report For Impact 2025
+│  │  ├─ 📄 Key Highlights From Impact 2025
+│  │  ├─ 📄 Key Takeaways From Ceraweek 2025
+│  │  ├─ 📄 Key Takeaways From Hannover Messe Ai Knowledge Graphs And The Push For Interoperability
+│  │  ├─ 📄 Key Takeaways From Offshore Europe 2023
+│  │  ├─ 📄 Key Takeaways From Slb Forum 2024
+│  │  ├─ 📄 Maximizing Hydropower Operations By Avoiding The Iiot Data Swamp Why Data Flow Rate Matters
+│  │  ├─ 📄 Metadata Is The New Data
+│  │  ├─ 📄 Navigating Digital Initiatives By Using Value As The North Star
+│  │  ├─ 📄 Navigating Digital Transformation In Complex Industries A Framework For Success
+│  │  ├─ 📄 Notice Of Japan Office Relocation 2025
+│  │  ├─ 📄 Now That We See The Cracks In Our Digital Foundation Lets Fix Them
+│  │  ├─ 📄 One Customers Guide To Data Modeling With Cognite Data Fusion
+│  │  ├─ 📄 One Year Reflections On Generative Ai For Industry
+│  │  ├─ 📄 Open Industrial Digital Twin
+│  │  ├─ 📄 Operationalize Or Move On
+│  │  ├─ 📄 Physics And Ai Hybrid Deliver Working Ai For Industry
+│  │  ├─ 📄 Pitfalls Purchasing Industrial Ai Data Management Software
+│  │  ├─ 📄 Primepolymer Interview Video Released
+│  │  ├─ 📄 Put Data To Use And Reduce The Time To Value In Oil Gas
+│  │  ├─ 📄 Qa With Aker Carbon Capture How Does Industrial Dataops Help You In Your Day To Day Work
+│  │  ├─ 📄 Rag Is All The Rage
+│  │  ├─ 📄 Reaching A Critical Maas
+│  │  ├─ 📄 Reduce Cost And Drive Data Literacy With Dataops
+│  │  ├─ 📄 Reliability Redefined Using Proactive Maintenance And Digital Workflows For Peak Performance
+│  │  ├─ 📄 Robot Garden A Robotics Training Grounds
+│  │  ├─ 📄 Solving The Onshore Data Problem To Unlock Infinite Use Cases
+│  │  ├─ 📄 Solving The Robot Data Problem With Industrial Dataops
+│  │  ├─ 📄 Spaghetti Great For Dinner Not So Tasty For Ot Security
+│  │  ├─ 📄 Streamline Industrial Workflows And Collaboration With Extensible Ai Agents
+│  │  ├─ 📄 Systems Of Record Are Dying
+│  │  ├─ 📄 Tech Predictions Industrial Data Management
+│  │  ├─ 📄 Technologys Role In Corporate Sustainability Journeys
+│  │  ├─ 📄 The Cognite Imperative The Next 75 Years
+│  │  ├─ 📄 The Data Liberation Paradox Drowning In Data Starving For Context
+│  │  ├─ 📄 The Five Questions Industrial Companies Should Be Asking Before Purchasing Software
+│  │  ├─ 📄 The Imperative Role Of Knowledge Graphs In Generative Ai For The New Era Of Industrial Operations
+│  │  ├─ 📄 The Industrial Metaverse More Than A Glorified Digital Twin
+│  │  ├─ 📄 The Manufacturing Industry Has A Sensor Problem Heres How To Fix It
+│  │  ├─ 📄 The Power Of Data Models In Your Hands
+│  │  ├─ 📄 The Power Sdk Simplifying Data Analysis In The Power Industry
+│  │  ├─ 📄 The Role Of Advanced Analytics And Machine Learning In Industrial Ai
+│  │  ├─ 📄 The Role Of Agentic Ai In Industrial Ai
+│  │  ├─ 📄 The Role Of Generative Ai In Industrial Ai
+│  │  ├─ 📄 The Role Of Hybrid Ai In Industrial Ai
+│  │  ├─ 📄 The Three First Steps Toward A More Profitable Sustainable American Industry
+│  │  ├─ 📄 The Top Digitalization Trends And Opportunities Changing The Manufacturing Industry
+│  │  ├─ 📄 The Top Digitalization Trends And Opportunities Reshaping The Power Generation Industry
+│  │  ├─ 📄 The Treacherous Path To Trustworthy Generative Ai For Industry
+│  │  ├─ 📄 The True Digital Industry 4.0
+│  │  ├─ 📄 The Truth About Industrial Digitalization
+│  │  ├─ 📄 Think Beyond Data Lakes Data Products And Data Value Measurement
+│  │  ├─ 📄 This Og Ceos Search For A Digital Solution Ended Up In A Billion Pound Software Company
+│  │  ├─ 📄 Three Things Grid Operators Can Learn From Professional Athletes
+│  │  ├─ 📄 To Apply Generative Ai In Industrial Environments Context Means Everything
+│  │  ├─ 📄 Top Of Mind From Executives At The World Economic Forum 2024
+│  │  ├─ 📄 Transforming Industrial Operations With Ai Powered Robotics
+│  │  ├─ 📄 Two Full Days At Impact
+│  │  ├─ 📄 Unlocking Operational Intelligence From Contextualization To Industrial Ai At Scale
+│  │  ├─ 📄 Unlocking The Power Of Operations Cognite S Unique Approach To Interactive Documents And P And
+│  │  ├─ 📄 Use Ai Agents To Orchestrate Industrial Data Pipelines In Cognite Data Fusion
+│  │  ├─ 📄 Use Dataops To Deliver To Both Smes And Professional Data Scientists
+│  │  ├─ 📄 Using Data To Fuel The Energy Transition
+│  │  ├─ 📄 Watch Out For Consolidation Trumping Co Operation Ot It Convergence Giving Way To Ot It Handshake At Best
+│  │  ├─ 📄 We Need New Ways To Access Data In Ep
+│  │  ├─ 📄 What Does Deepseek Triggering The Sputnik Moment Of Ai Mean For Industry
+│  │  ├─ 📄 What Is A Digital Twin And How Does It Create Value In Industry
+│  │  ├─ 📄 What Is Contextualization
+│  │  ├─ 📄 What Is Data Contextualization
+│  │  ├─ 📄 What Is Data Fabric And Does It Complement My Data Warehouse
+│  │  ├─ 📄 What Is Data Silos
+│  │  ├─ 📄 What Is Dataops What Industrial Leaders Need To Know
+│  │  ├─ 📄 What Is Industrial Ai
+│  │  ├─ 📄 What Is Point Cloud Data
+│  │  ├─ 📄 Why Scaling Industrial Ai Is Hard And How To Fix It
+│  │  ├─ 📄 Why Understanding The Modern Data Stack Is Priority 1 To Digitalisation Executives In Industry
+│  │  ├─ 📄 Will Ai Replace People In Oil And Gas
+│  │  ├─ 📄 Will Chatgpt Gpt 4 Finally Unleash The Iphone Moment In Digital Transformation
+│  │  ├─ 📄 Will Generative Ai Finally Turn Data Swamps Into Contextualized Operations Insight Machines
+│  │  ├─ 📄 You Cant Go Green If Youre In The Red
+│  │  └─ 📄 You Cant Go Green While Operating In The Red Cognite Ceo Tells Ceraweek Audience
+
+│  ├─ 📂 Customer Stories
+│  │  ├─ 📄 Accelerate And Optimize Onshore Activity Planning With Cognite Data Fusion
+│  │  ├─ 📄 Aker Biomarine Operations Cognite Data Fusion
+│  │  ├─ 📄 Aker Solutions Aker Bp And Cognite Advance Robotics For The Yggdrasil Development
+│  │  ├─ 📄 Celanese Uses Cognite Data Fusion To Power Its Digital Plants Of The Future
+│  │  ├─ 📄 Cognite And Equinor Leverage Robotics And Ai To Reinvent Safer Smarter Field Operations
+│  │  ├─ 📄 Cosmo Oil Builds Digital Twin Refinenery Into One Virtual Space
+│  │  ├─ 📄 Dataops Commercial Building Energy Optimization
+│  │  ├─ 📄 Dataops In Action Speeding Up Seismic Surveying
+│  │  ├─ 📄 Dataops Manufacturing Cnc Machine Optimization
+│  │  ├─ 📄 Dataops Manufacturing Condition Based Maintenance
+│  │  ├─ 📄 Dataops Manufacturing Cutting Tool Optimization
+│  │  ├─ 📄 Dataops Manufacturing Maintenance
+│  │  ├─ 📄 Dataops Manufacturing Servi Monitor
+│  │  ├─ 📄 Dataops Oil Gas 3D Visualization
+│  │  ├─ 📄 Dataops Oil Gas Condition Monitoring
+│  │  ├─ 📄 Dataops Oil Gas Critical Equipment Overview
+│  │  ├─ 📄 Dataops Oil Gas Data Discovery
+│  │  ├─ 📄 Dataops Oil Gas Hse Visualization
+│  │  ├─ 📄 Dataops Oil Gas Hybrid Machine Learning
+│  │  ├─ 📄 Dataops Oil Gas Maintenance Optimization
+│  │  ├─ 📄 Dataops Oil Gas Multiphase Flow Allocation
+│  │  ├─ 📄 Dataops Oil Gas Multiphase Flow Meter Calibration
+│  │  ├─ 📄 Dataops Oil Gas Real Time Well Monitoring
+│  │  ├─ 📄 Dataops Oil Gas Reducing Co2 Emissions
+│  │  ├─ 📄 Dataops Oil Gas Rotating Equipment
+│  │  ├─ 📄 Dataops Oil Gas Scaling
+│  │  ├─ 📄 Dataops Oil Gas Siemens Condition Monitoring
+│  │  ├─ 📄 Dataops Oil Gas Slug Prediction
+│  │  ├─ 📄 Dataops Oil Gas Smart Maintenance Sustainability
+│  │  ├─ 📄 Dataops Oil Gas Third Party Integration
+│  │  ├─ 📄 Dataops Oil Gas Turbulentflux Well Monitoring
+│  │  ├─ 📄 Dataops Oil Gas Well Flow Rate Optimization
+│  │  ├─ 📄 Dataops Oilgas Improving Vessel Crew Safety
+│  │  ├─ 📄 Dataops Oilgas Visual Inspection Function Tests
+│  │  ├─ 📄 Dataops Power Utilities Hydropower Plant Digitalization
+│  │  ├─ 📄 Dataops Power Utilities Power System Analysis
+│  │  ├─ 📄 Dataops Power Utilities Smart Asset Management
+│  │  ├─ 📄 Dataops Power Utilities Turbine Startup Optimization
+│  │  ├─ 📄 Dataops Renewables Arbaflame Data Foundation
+│  │  ├─ 📄 Dataops Wind Energy Computer Vision Acoustic Data
+│  │  ├─ 📄 Dataops Wind Mainstream Computer Vision
+│  │  ├─ 📄 Drill Down Smarter How Cognite Built The Chatgpt For Wellview Data
+│  │  ├─ 📄 Fuji Oil Leverages Cognite Data Fusion To Realize The Construction Of A Virtual Refinery
+│  │  ├─ 📄 How To Build A Hybrid Physics Data Virtual Flow Metering Solution For Production Monitoring With Cognite Data Fusion
+│  │  ├─ 📄 Idemitsu Kosan Begins Full Scale Efforts To Streamline Manufacturing Sites By Centralizing Plant Data
+│  │  ├─ 📄 Industrial Dataops Manufacturing Data Foundation
+│  │  ├─ 📄 Industrial Dataops Operational Efficiency
+│  │  ├─ 📄 Industrial Dataops Quality Prediction Optimization
+│  │  ├─ 📄 Jfe Steel Innovative Approach To Building An Intelligent Steelworks
+│  │  ├─ 📄 Mamata Unleashes Industrial Knowledge With Cognite Data Fusion
+│  │  ├─ 📄 Moelven Turned To Cognite Data Fusion For Data Driven Solutions
+│  │  ├─ 📄 Nippon Shokubai Launches A Saas Data Integration Platform For Next Generation Plant Operations
+│  │  ├─ 📄 Nippon Shokubai Launches Saas Data Integration Platform Using Cognite Data Fusion
+│  │  ├─ 📄 Nippon Shokubai Transforms Operations And Drives Efficiency With The Support Of Cognite Customer
+│  │  ├─ 📄 Novachem Sets New Standard For Efficiency
+│  │  ├─ 📄 Omv Uses Data From Cognite Data Fusion To Reduce Inspection Time And Deferments
+│  │  ├─ 📄 Orsted Uses A Data Driven Approach To Maintenance Through Industrial Dataops
+│  │  ├─ 📄 Prime Polymer Launches Cognite Data Fusion
+│  │  ├─ 📄 Quantafuel Improves Its Sustainability Profile
+│  │  ├─ 📄 Scaling Across The Enterprise
+│  │  ├─ 📄 Skagerak Maximizes Data Value
+│  │  └─ 📄 Transforming Ops At Kaes
+
+│  ├─ 📂 Datasheets
+│  │  ├─ 📄 Achieving True Scale In Oil And Gas With Cognite Data Fusion
+│  │  ├─ 📄 Cognite Atlas Ai Get The Most Out Of Gen Ai For Industry
+│  │  ├─ 📄 Cognite Data Fusion Quick Start Smarter Plant Operations Start Here
+│  │  ├─ 📄 Cognite Data Fusion The Only Industrial Data And Ai Platform Built For Scaling
+│  │  ├─ 📄 Customer Stories
+│  │  ├─ 📄 Get More Value Out Of Cognite Data Fusion
+│  │  ├─ 📄 How To Deploy Ai Enabled Asset Performance Management Foundation
+│  │  ├─ 📄 How To Deploy Scale And Trust Generative Ai For Production Optimization
+│  │  ├─ 📄 How To Deploy Scale And Trust Generative Ai In The Chemicals Industry
+│  │  ├─ 📄 How To Deploy Scale And Trust Generative Ai In The Oilfield
+│  │  ├─ 📄 Optimize Processes And Production With Real Time Operational Data
+│  │  ├─ 📄 Pulse Report Simple Access To Complex Industrial Data Survey
+│  │  ├─ 📄 Smarter Substation Operations With Cognite Data Fusion
+│  │  ├─ 📄 The Future Of Data Management
+│  │  ├─ 📄 The Journey From Data Fabric To Dataops To Data Products
+│  │  ├─ 📄 The Modern Data And Ai Playbook For Industrial Leaders
+│  │  └─ 📄 Unlock Value At Scale With Ai Copilot For Asset Performance Management With Cognite Data Fusion And Microsoft
+
+│  ├─ 📂 Events
+│  │  ├─ 📄 Impact 2025
+│  │  ├─ 📄 Infield Seminar 2025 August
+│  │  ├─ 📄 Tokyo Atlas Ai Summit 2025
+│  │  └─ 📄 User Meetup 2025 December
+
+│  ├─ 📂 Guides
+│  │  ├─ 📄 The Cognite Atlas Ai Definitive Guide To Industrial Agents
+│  │  ├─ 📄 The Definitive Guide To Generative Ai For Industry
+│  │  └─ 📄 The Definitive Guide To Industrial Dataops
+
+│  ├─ 📂 Webinars Videos
+│  │  ├─ 📄 3 Steps To Contextualizing Data In 60 Seconds
+│  │  ├─ 📄 75 Days To Change The World Or Impact 2024
+│  │  ├─ 📄 Accelerating App Development How Wintershall Dea Uses Low Code To Realize Value In Weeks
+│  │  ├─ 📄 Accelerating Digital Transformation Technology And Innovation Ibrahim Al Syed Of Celanese
+│  │  ├─ 📄 Accelerating Digital Transformation Technology And Innovation Karen Czachorowski Of Akerbp
+│  │  ├─ 📄 Accelerating Digital Transformation Technology And Innovation Panel Discussion Arc Forum 2024
+│  │  ├─ 📄 Accelerating Oilfield Transformation With Ai And Digital Tools
+│  │  ├─ 📄 Adjust Your Organizational Structure Accelerate Your Digital Ambitions
+│  │  ├─ 📄 Ai Copilot For Asset Performance Management
+│  │  ├─ 📄 Ai In Sustainability Panel Discussion Arc Forum 2024
+│  │  ├─ 📄 Ai In Sustainability Thomas Lier Nilsen Of Quantafuel Arc Forum 2024
+│  │  ├─ 📄 Ai Solutions In Industrial Operations At Arc Forum
+│  │  ├─ 📄 Aker Bp Enable Ai Supported Rca With Cognite
+│  │  ├─ 📄 Aker Bp Improve Operations Generative Ai Cognite Data Fusion
+│  │  ├─ 📄 Application Developer Day 2022
+│  │  ├─ 📄 Arbaflame Uses Industrial Dataops To Power The Company S Growth Ambitions In Renewable Energy
+│  │  ├─ 📄 Best Practices For Building Your Own Data And Digital Platform For Industry
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 1
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 2
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 3 Or Impact 2024
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 4 Or Impact 2024
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 5 Or Impact 2024
+│  │  ├─ 📄 Brace For Impact Unleashing Innovation From Oceans To Energy Part 6 Or Impact 2024
+│  │  ├─ 📄 Cdf Introduction
+│  │  ├─ 📄 Celaneses Digital Twin Journey At Arc Forum
+│  │  ├─ 📄 Cognite Customer Panel Trustworthy Generative Ai For Autonomous Industry
+│  │  ├─ 📄 Cognite Data Fusion And Microsoft Fabric Access To A 360 View Of Your Industrial Data
+│  │  ├─ 📄 Cognite Data Fusion Generative Ai Copilot
+│  │  ├─ 📄 Cognite Data Fusion Makes Akerbp Work More Efficient
+│  │  ├─ 📄 Cognite Data Fusion Platform Architecture
+│  │  ├─ 📄 Cognite Data Fusion Platform Guided Tour
+│  │  ├─ 📄 Cognite Data Fusion Product Demonstration
+│  │  ├─ 📄 Cognite Lundin Akerbp
+│  │  ├─ 📄 Cognite Outsystems Pwc Webinar From Idea To Operationalized Applicationin Weeks Not Years
+│  │  ├─ 📄 Cognite Product Tour 2023
+│  │  ├─ 📄 Cognite Product Tour Data Driven Asset Performance Management
+│  │  ├─ 📄 Cognite Webinar Demystifying Hybrid Ai In Og Process Manufacturing
+│  │  ├─ 📄 Cognite Webinar From Machinist To Citizen Data Scientist
+│  │  ├─ 📄 Commodities Trading With Cognite Data Fusion
+│  │  ├─ 📄 Contextualise Imagery Data
+│  │  ├─ 📄 Contextualized Data And Digital Twins Amplifying Digitalization Value
+│  │  ├─ 📄 Cosmo Oil Enables Predictive And Collaborative Maintenance With Cognite
+│  │  ├─ 📄 Data And Ai The Foundation For Impact Part 1 Or Impact 2024
+│  │  ├─ 📄 Data And Ai The Foundation For Impact Part 3 Or Impact 2024
+│  │  ├─ 📄 Data Contextualization Masterclass
+│  │  ├─ 📄 Data Driven Predictive Maintenance By Altair Rapidminer And Cdf
+│  │  ├─ 📄 Delivering Quick Digital Wins In Power Gen With Dataops
+│  │  ├─ 📄 Democratizing Generative Ai Democratizing Innovation
+│  │  ├─ 📄 Digital Transformation All About The Data And User Experience Panel
+│  │  ├─ 📄 Digital Transformation Its All About The Data And Ux Pgs
+│  │  ├─ 📄 Faster Troubleshooting With Ai Agents
+│  │  ├─ 📄 Forrester Deep Dive Total Economic Impact Of Cognite Data Fusion
+│  │  ├─ 📄 From Data Swamps To Operations Insight Machines
+│  │  ├─ 📄 From First Principles Simulation To Hybrid Ai And Generative Ai
+│  │  ├─ 📄 From Pilots To Plant Wide Results Radix And Cognite On Scaling Industrial Ai
+│  │  ├─ 📄 From Pilots To Plant Wide Results Radix And Cognite On Scaling Industrial Ai Ungated
+│  │  ├─ 📄 From Search To Collaboration To Scaling
+│  │  ├─ 📄 Generate A Digital Twin From 3D Models
+│  │  ├─ 📄 Generate Interactive Diagrams From Contextualised Data
+│  │  ├─ 📄 Generative Ai For Industry Another Hype Or The Real Deal
+│  │  ├─ 📄 Generative Ai For Industry Global Executive Summit Summary
+│  │  ├─ 📄 Generative Ai In Cognite Products And 2023 Roadmap
+│  │  ├─ 📄 Generative Ai Robotics And Humanoids In Industry
+│  │  ├─ 📄 Harnessing Trust Openness And Gen Ai To Drive Impact In The Energy Transition Or Impact 2024
+│  │  ├─ 📄 How Aarbakke Uses Cognite Data Fusion To Boost Production Maintenance And Quality
+│  │  ├─ 📄 How Aker Biomarine Uses Cognite Data Fusion To Break Down Data Silos Throughout The Production
+│  │  ├─ 📄 How Aker Bp Innovates With Cognite Data Fusion
+│  │  ├─ 📄 How Cognite Data Fusion Enables Data Driven Decision Support Systems
+│  │  ├─ 📄 How Cognite Data Fusion Lets You Build Operationalize And Scale Predictive Models
+│  │  ├─ 📄 How Cognite Enables Developers To Build Applications On Top Of Cognite Data Fusion
+│  │  ├─ 📄 How Cognite Solutions Portal Gives You An Overview Of All Your Dataops Applications
+│  │  ├─ 📄 How Data Liberation Drives Structural Integrity Analytics
+│  │  ├─ 📄 How Dataops Unlocks True Industrial Transformation
+│  │  ├─ 📄 How Elkem Carbon Uses Cognite Data Fusion To Eliminate Off Spec Product And Optimize
+│  │  ├─ 📄 How Generative Ai Improves Aker Bps Data Management Practices
+│  │  ├─ 📄 How Teams Can Use Their Favorite Tools On Top Of Cognite Data Fusion
+│  │  ├─ 📄 How To Analyze Your Data And Develop Low Code Calculations With Cognite Charts
+│  │  ├─ 📄 How To Bring To Market Data Driven Maintenance Services With Certified Quality
+│  │  ├─ 📄 How To Build And Scale Use Cases With Democratized Data
+│  │  ├─ 📄 How To Create An Industrial Knowledge Graph With Cognite Data Fusion
+│  │  ├─ 📄 How To Execute Smarter Hybrid Field Operations
+│  │  ├─ 📄 How To Explore Your Data With Cognite Data Fusion
+│  │  ├─ 📄 How To Improve Maintenance Outcomes With Collaborative Planning
+│  │  ├─ 📄 How To Improve Your Product Quality Using Contextualized Real Time Data
+│  │  ├─ 📄 How To Integrate Data Into Cognite Data Fusion
+│  │  ├─ 📄 How To Realize Smarter Data Driven Asset Health Programs
+│  │  ├─ 📄 How To Solve Dataops Challenges In Heavy Asset Industries With Technology
+│  │  ├─ 📄 How Totalenergies Is Accelerating Digital Transformation
+│  │  ├─ 📄 Idemitsu Kosan Streamlines Manufacturing Operations With Cognite Data Fusion
+│  │  ├─ 📄 Improving Performance Through Digital Transformation
+│  │  ├─ 📄 Improving Process Manufacturing Operations In The Digital Workspace
+│  │  ├─ 📄 Industrial Dataops For Contextualized Data
+│  │  ├─ 📄 Industrial Dataops For Digital Worker
+│  │  ├─ 📄 Industrial Dataops For Maintenance
+│  │  ├─ 📄 Industrial Dataops For Robotics
+│  │  ├─ 📄 Infield Apm Intelligence Suite Of Applications
+│  │  ├─ 📄 Inrobot Apm Intelligence Suite Of Applications
+│  │  ├─ 📄 Is Your Data Journey Taking Too Long
+│  │  ├─ 📄 Kaes Accelerates Its Digital Transformation Journey With Cognite Data Fusion
+│  │  ├─ 📄 Mamata Builds Scalable Agile And Future Proof Solutions With Cognite Data Fusion
+│  │  ├─ 📄 Manufacturing Product Tour 2022 Cognite Data Fusion
+│  │  ├─ 📄 Matching Entities From Two Different Sources
+│  │  ├─ 📄 Microsoft Ai Showcase For Manufacturing Cognite Data Fusion
+│  │  ├─ 📄 Mitigating Operational Risks Across The Grid With Data And Digital Twin Best Practices
+│  │  ├─ 📄 Modernizing Field Operations
+│  │  ├─ 📄 Modernizing Legacy Hydroelectric Operations With Modern Data And Analytics Practices
+│  │  ├─ 📄 Moelven Cognite Data Fusion Optimizing Timber Production With Industrial Dataops
+│  │  ├─ 📄 Moelven Scales Contextualized Data With Cognite
+│  │  ├─ 📄 Nippon Shokubai Builds Next Generation Plant Operations With Cognite Data Fusion
+│  │  ├─ 📄 Omv Optimizes Production With Data Driven Ai Modeling
+│  │  ├─ 📄 Operational Efficiency Improvement In Process Manufacturing Using Generative Ai
+│  │  ├─ 📄 Optimizing Energy With Ai Agents
+│  │  ├─ 📄 Orsted And Cognite Microsoft Inspire 2022
+│  │  ├─ 📄 Performance Optimization With Ai Agents
+│  │  ├─ 📄 Pioneering Clean Industrial Heat With Kyoto Group And Cognite
+│  │  ├─ 📄 Practical Implementation Of Industry 4 X
+│  │  ├─ 📄 Predicting Equipment Failures With Ai Agents
+│  │  ├─ 📄 Product Tour 2024
+│  │  ├─ 📄 Product Tour 2025
+│  │  ├─ 📄 Product Tour Industrial Ai In The Era Of Contextualization
+│  │  ├─ 📄 Quantafuel Improve Sustainability Profile Cognite Data Fusion
+│  │  ├─ 📄 Reducing Contractor Expense
+│  │  ├─ 📄 Revolutionizing Industry The Impact Of Real Time Digital Twins And Ai Robotics Or Impact 2024
+│  │  ├─ 📄 Simple Access To Complex Data In 3 Minutes
+│  │  ├─ 📄 Skagerak Kraft Makes Data Accessible Across Domains With Cognite Data Fusion
+│  │  ├─ 📄 Smarter Trades Bigger Profits Improving Data Analysis Across The Spectrum Of Power Trading Activity
+│  │  ├─ 📄 Solving Turnaround Planning And Execution Challenges
+│  │  ├─ 📄 Statnett Speeds Up The Power Grid Connection With Cognite Data Fusion
+│  │  ├─ 📄 Tailor A Data Model To A Application Or Use Case With Templates
+│  │  ├─ 📄 Take Control Of Your Operational Data Industrial Dataops In Power And Utilities
+│  │  ├─ 📄 Talking To Industrial Data With Chatgpt
+│  │  ├─ 📄 The Future Of Operational Excellence
+│  │  ├─ 📄 The Product Vision To Fully Unlock Industrial Ai
+│  │  ├─ 📄 Three Ways Chemical Producers Can Deliver Proactive Operations
+│  │  ├─ 📄 Unleash Your Data For Smarter Grid Investments And Upgrades
+│  │  ├─ 📄 Unlocking Ai To Accelerate Value
+│  │  ├─ 📄 Unlocking Ai Transformation For Asset Heavy Industries
+│  │  ├─ 📄 Unlocking Factory Data And Gen Ai With Aws And Cognite
+│  │  ├─ 📄 Unlocking More Sailing Wins With Data
+│  │  ├─ 📄 What Is Data Contextualization
+│  │  ├─ 📄 What Our Customers Think Of Cognite Data Fusion
+│  │  ├─ 📄 Whats Keeping Data Driven Apm From Having An Impact
+│  │  ├─ 📄 When Data Discovery Becomes Simple For Industrial Operations
+│  │  ├─ 📄 Why Data Driven Inspection Is Critical For A Solid Asset Reliability Strategy
+│  │  ├─ 📄 Why Industrial Data Management Matters More Than Ever
+│  │  └─ 📄 Why Process Industries Need Industrial Dataops To Optimize Production
+
+│  └─ 📂 White Papers
+│     ├─ 📄 Advancing Digital Twins With Data Modeling
+│     ├─ 📄 Atlas Ai Slm Llm Benchmark Report
+│     ├─ 📄 Building A Contextualized Power System Network Model
+│     ├─ 📄 Cognite Data Fusion Support For Nerc Cip V5
+│     ├─ 📄 Data Contextualization For Industry
+│     ├─ 📄 Data Driven Predictive Maintenance Extend The Lifetime Of Your Assets With Industrial Dataops
+│     ├─ 📄 Data Driven Production Optimization Maximize Production With Industrial Dataops And Ai
+│     ├─ 📄 Digital Worker Improve Industrial Field Work Execution With Accessible Data
+│     ├─ 📄 Downstream Digitalization Digital Strategies For Refinery Operators
+│     ├─ 📄 How Utilities Can Manage Operational Change
+│     ├─ 📄 Industrial Organizations Require Saas Environments To Scale Operational Impact
+│     ├─ 📄 Inspiring Innovation And Fueling Collaboration In The Oil And Gas Ecosystem
+│     ├─ 📄 Intelligent Factories The Data Driven Future Of Manufacturing
+│     ├─ 📄 Making The Cognite Business Case To The C Suite
+│     ├─ 📄 Physics Guided Machine Learning Putting Ai To Work In Industry
+│     ├─ 📄 Power Generation Manage Architecture Complexity And Scale Digital Apps
+│     ├─ 📄 State Of Industrial Ai And Cloud Strategies 2025
+│     ├─ 📄 Surface Your Data A Manifesto For Data Liberation In Subsurface And Drilling
+│     ├─ 📄 The Atlas Ai Security And Trust Framework
+│     ├─ 📄 The Cognite Atlas Ai Definitive Guide To Industrial Agents
+│     ├─ 📄 The Definitive Guide To Generative Ai For Industry
+│     ├─ 📄 The Definitive Guide To Industrial Dataops
+│     ├─ 📄 The Future Of Industrial Interoperability
+│     ├─ 📄 The Open Industrial Digital Twin
+│     ├─ 📄 The Robot Data Problem Solved Pave The Path To Automation With Industrial Dataops
+│     └─ 📄 The Strategic Value Of An Industrial Data And Ai Platform
+
+
+├─ 📁 Customers
+
+│  ├─ 📄 Aarbakke
+
+│  ├─ 📄 Aker Bp
+
+│  ├─ 📄 Akerbp
+
+│  ├─ 📄 Celanese
+
+│  ├─ 📄 Cosmo
+
+│  ├─ 📄 Idemitsu
+
+│  ├─ 📄 Kaes
+
+│  ├─ 📄 Mamata
+
+│  ├─ 📄 Moelven
+
+│  ├─ 📄 Nippon Shokubai
+
+│  ├─ 📄 Nova Chemicals
+
+│  ├─ 📄 Omv
+
+│  ├─ 📄 Pgs
+
+│  ├─ 📄 Skagerak Kraft
+
+│  └─ 📄 Statnett
+
+
+├─ 📁 Company
+
+│  ├─ 📄 About Us Cognite
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Corporate Ethics
+
+│  ├─ 📄 Heritage
+
+│  ├─ 📄 Leadership
+
+│  ├─ 📂 Legal
+│  │  ├─ 📄 Cloud Provider Terms
+│  │  ├─ 📄 Cognite Saas Service Level Agreement Sla 0
+│  │  ├─ 📄 Cognite Saas Service Level Agreement Sla 2022
+│  │  ├─ 📄 Cognite Saas Service Level Agreement Sla Japanese
+│  │  ├─ 📄 Cognite Solutions Service Level Agreement Sla
+│  │  ├─ 📄 Cognite Solutions Service Level Agreement Sla 2022
+│  │  ├─ 📄 Cognite Sub Processors
+│  │  ├─ 📄 Cognite Supplier Declaration
+│  │  ├─ 📄 Consultancy Services Agreement
+│  │  ├─ 📄 Cookie Policy
+│  │  ├─ 📄 Data Processing Agreement
+│  │  ├─ 📄 Data Processing Agreement 0
+│  │  ├─ 📄 Data Processing Agreement 2022
+│  │  ├─ 📄 Data Processing Agreement 2023
+│  │  ├─ 📄 Data Processing Agreement Archive
+│  │  ├─ 📄 Data Processing Agreement Japanese
+│  │  ├─ 📄 End User License Agreement Eula
+│  │  ├─ 📄 End User License Agreement Eula Japanese
+│  │  ├─ 📄 General Privacy Policy
+│  │  ├─ 📄 Generalterms
+│  │  ├─ 📄 Generalterms Suppliers 0
+│  │  ├─ 📄 Hub And Academy Terms And Conditions
+│  │  ├─ 📄 Human Rights Report Archive
+│  │  ├─ 📄 Impact Challenge 2025 Terms And Conditions
+│  │  ├─ 📄 Master Subscription Agreement
+│  │  ├─ 📄 Master Subscription Agreement 2022
+│  │  ├─ 📄 Master Subscription Agreement 2023
+│  │  ├─ 📄 Master Subscription Agreement 2024
+│  │  ├─ 📄 Master Subscription Agreement Archive
+│  │  ├─ 📄 Master Subscription Agreement Japanese
+│  │  ├─ 📄 Master Subscription Services Agreement 2025
+│  │  ├─ 📄 Partners Generalterms 0
+│  │  ├─ 📄 Policy
+│  │  ├─ 📄 Privacy
+│  │  ├─ 📄 Privacy Policy
+│  │  ├─ 📄 Professional Services Agreement
+│  │  ├─ 📄 Professional Services Agreement 2022
+│  │  ├─ 📄 Professional Services Agreement 2023
+│  │  ├─ 📄 Professional Services Agreement 2024
+│  │  ├─ 📄 Professional Services Agreement Archive
+│  │  ├─ 📄 Recruitment Privacy Notice
+│  │  ├─ 📄 Reseller Agreement
+│  │  ├─ 📄 Si Alliance Terms And Conditions
+│  │  ├─ 📄 Sustainability Report Archive
+│  │  ├─ 📄 Terms And Conditions Overview
+│  │  └─ 📄 Terms Of Use
+
+│  └─ 📂 Newsroom
+│     ├─ 📄 Agentic Ai Takes Center Stage At Cognite S Global Impact 2025 Conference To Showcase Industrial
+│     ├─ 📄 Aker Biomarine And Cognite Pioneering Machine Learning For Operational Decision Making
+│     ├─ 📄 Aker Biomarine Launches New Circular Economy Company
+│     ├─ 📄 Aker Bp And Cognite Partner To Explore The Potential Of Robotics In The Oil Gas Industry
+│     ├─ 📄 Aker Bp And Cognite Pioneer Robotics Deployment Offshore
+│     ├─ 📄 Aker Bp And Framo Sign First Long Term Smart Contract For Offshore Maintenance
+│     ├─ 📄 Aker Bp Leverages Cognite Atlas Ai Tm To Pioneer An Ai First Future In Exploration And
+│     ├─ 📄 Aker Bp Receives 2020 Operational Excellence Innovation Award
+│     ├─ 📄 Aker Bp Shortlisted For 2020 Operational Excellence Innovation Award
+│     ├─ 📄 Aker Cognite And Digitalnorway Launch Free Digital Academy For Norways Industrial Workforce
+│     ├─ 📄 Aker Group And World Economic Forum Launch Technology Center For Ocean And Environment
+│     ├─ 📄 Aramco And Cognite Establish Joint Venture To Accelerate Industrial Digitalization
+│     ├─ 📄 Aramco And Cognite Launch Joint Venture Cntxt
+│     ├─ 📄 Aramco Invests In Cognite
+│     ├─ 📄 Arbaflame Enters Long Term Partnership With Cognite To Accelerate Growth Ambitions In Renewable Energy And Biochemicals
+│     ├─ 📄 Arion And Cognite Partner To Advance The Digital Enablement Of Engineering Modifications Programs
+│     ├─ 📄 B. Braun Partners With Cognite To Power Its Data First Transformation 1
+│     ├─ 📄 Built In Honors Cognite In Its Esteemed 2022 Best Places To Work Awards
+│     ├─ 📄 Chiyoda Cognite And Mitsubishi To Launch Digital Platform Solutions For Industrial Facilities And Plants
+│     ├─ 📄 Clean Connect Ai And Cognite Partner To Deliver Hyper Automation To The Energy Industry
+│     ├─ 📄 Cognite Accel Series A
+│     ├─ 📄 Cognite Accelerates Productivity By 75 With Industrial Ai Agent Builder
+│     ├─ 📄 Cognite Accelerates Value Realization For Asset Performance Management
+│     ├─ 📄 Cognite Achieves Soc 2 Type Ii Compliance
+│     ├─ 📄 Cognite Aker Horizons Ceraweek 2022
+│     ├─ 📄 Cognite And Anybotics Driving Innovation Within Ai Robotics And Safe Operations
+│     ├─ 📄 Cognite And Equinor Enter Robotics Collaboration To Accelerate Autonomous Industry
+│     ├─ 📄 Cognite And Kyoto Group Collaborate On Digitizing And Automating Renewable Industrial Process Heat Using Thermal Energy Storage
+│     ├─ 📄 Cognite And Opex Group Form Partnership
+│     ├─ 📄 Cognite And Pgs Join Forces To Optimize Seismic Surveying
+│     ├─ 📄 Cognite And Snowflake Form Strategic Partnership To Unify Industrial Data For Enterprise Wide Ai
+│     ├─ 📄 Cognite And Windsim To Collaborate On Next Generation Digital Solutions
+│     ├─ 📄 Cognite And Yokogawa Solution Service Partner To Boost Industrial Productivity
+│     ├─ 📄 Cognite Announces Beta Launch Ofgenerative Ai Powered Remote Operations Control Room For Celanese Clear Lake Facility
+│     ├─ 📄 Cognite Announces Generative Ai Powered Industrial Canvas Platform To Accelerate Business Decisions By 90
+│     ├─ 📄 Cognite Announces Global Arizona Headquarters With Grand Opening Anchoring Us Operations
+│     ├─ 📄 Cognite Announces Jeff Coulter As Chief Financial Officer
+│     ├─ 📄 Cognite Announces New Leaders To Continue Driving Ai Innovation And Accelerate Industrial Value
+│     ├─ 📄 Cognite Announces Partnership With Databricks To Fuel Industrial Ai And Accelerate Value With
+│     ├─ 📄 Cognite Appoints Alysa Taylor To Board Of Directors
+│     ├─ 📄 Cognite Appoints Amish Sabharwal As Managing Director Industry Solutions And Strategic Projects
+│     ├─ 📄 Cognite Appoints Bill Hendricks As President Of Cognite Americas To Accelerate Data And Ai Transformation For Industry Through Atlas Ai
+│     ├─ 📄 Cognite Appoints Four Global Leaders To Fuel Market Momentum
+│     ├─ 📄 Cognite Appoints Girish Rishi As Ceo
+│     ├─ 📄 Cognite Appoints Jeff Flammer As President Of Cognite Americas
+│     ├─ 📄 Cognite Appoints New Leaders To Scale Management Team
+│     ├─ 📄 Cognite Appoints Paul Grenet As Chief Revenue Officer
+│     ├─ 📄 Cognite Atlas Ai Drives Customer Momentum With New Major Release
+│     ├─ 📄 Cognite Atlas Ai Tm Drives Customer Momentum With New Major Release Accelerates Adoption Of
+│     ├─ 📄 Cognite Awarded Contracts With Statnett Norwegian State Owned Grid Operator
+│     ├─ 📄 Cognite Awarded Technology Partner Of The Year 2019 For Manufacturing By Google
+│     ├─ 📄 Cognite Bluememe Outsystems Partnership
+│     ├─ 📄 Cognite Bluememe Var Agreement
+│     ├─ 📄 Cognite Ceo Wins Norwegian Tech Award
+│     ├─ 📄 Cognite Co Founder Geir Engdahl Appointed Chief Product Officer
+│     ├─ 📄 Cognite Collaborates With Microsoft
+│     ├─ 📄 Cognite Cuts Complexity With Extensible Ai Agents To Streamline Industrial Workflows
+│     ├─ 📄 Cognite Data Fusion Achieves Industry First Dnv Compliance For Digital Twins
+│     ├─ 📄 Cognite Data Fusion Is Now Available On Aws In The Tokyo Region
+│     ├─ 📄 Cognite Data Fusion Launches Native Simulator Integration Workflows
+│     ├─ 📄 Cognite Data Fusion Now Available On Google Cloud In Saudi Arabia
+│     ├─ 📄 Cognite Data Fusion Product Tour Features Innovative Industrial Data And Ai Solutions Mamata And Nippon Shokubai
+│     ├─ 📄 Cognite Data Fusion Receives Mm Research Institute Award In Smart Solution Digital Twin Category
+│     ├─ 📄 Cognite Data Fusion To Power The Data Infrastructure Of Ntt Comwares Smart Data Fusion
+│     ├─ 📄 Cognite Delivers Impact A Global Industrial Data Ai Conference Focused On User Success Scaling And Value
+│     ├─ 📄 Cognite Earns 2023 Best Places To Work In Both Austin And Houston On Built Ins Best Places To Work List
+│     ├─ 📄 Cognite Earns 2023 Microsoft Partner Of The Year Award
+│     ├─ 📄 Cognite Earns Spot On Built Ins 2025 Best Places To Work List For Austin And Houston
+│     ├─ 📄 Cognite Expands Global Footprint With New Abu Dhabi Entity To Accelerate Industrial Ai Adoption
+│     ├─ 📄 Cognite Expands Into Latin America
+│     ├─ 📄 Cognite Featured In Boston Consulting Group Article On Digital Twins
+│     ├─ 📄 Cognite Fuels Industrial Ai Revolution With Inaugural Class Of Cognite Fellows
+│     ├─ 📄 Cognite Honors Industry Leaders At Impact 2024 With Prestigious Awards For Ai And Digital Innovation
+│     ├─ 📄 Cognite Hub Ocean And Ecowende Partner To Develop The Future Of Sustainable Offshore Wind 1
+│     ├─ 📄 Cognite Inaugurates India Center Of Excellence In Bengaluru With Commitment To Leveraging Ai For Industrial Growth
+│     ├─ 📄 Cognite Integrates Ai Agents Into Data Pipeline Workflows For Enhanced Scalability
+│     ├─ 📄 Cognite Japan Names New President Forms Executive Advisory Board
+│     ├─ 📄 Cognite Launches Cognite Embedded To Accelerate Innovation For Equipment Manufacturers And Industrial Software Builders
+│     ├─ 📄 Cognite Launches Data Models To Accelerate Adoption Of Ai
+│     ├─ 📄 Cognite Launches Japan Operations
+│     ├─ 📄 Cognite Launches Multi Site Manufacturing Dataconnectivity Initiative With Nova Chemicals To Reshapeglobal Operations Across 1 1 Assets
+│     ├─ 📄 Cognite Launches The Cognite Atlas Ai Llm Slm Benchmark Report For Industrial Agents
+│     ├─ 📄 Cognite Named As A 2021 Best Place To Work Built In Austin
+│     ├─ 📄 Cognite Named To Cnbcs Inaugural Top Startups For The Enterprise List
+│     ├─ 📄 Cognite Names Guru Ananthanarayanan As Managing Director Cognite India
+│     ├─ 📄 Cognite Receives Two Iso Certifications
+│     ├─ 📄 Cognite Recognized As 2024 Microsoft Energy And Resources Partner Of The Year
+│     ├─ 📄 Cognite Recognized As A Leader In Industrial Data Management Solutions
+│     ├─ 📄 Cognite Recognized As Leader In Scaling Ai For Industry Secures Spot On Crn R Internet Of Things
+│     ├─ 📄 Cognite Recognized As One Of The Hottest Tech Companies In Norway
+│     ├─ 📄 Cognite Recognized By Microsoft As Energy Sustainability Partner Of The Year Finalist
+│     ├─ 📄 Cognite Releases First Of Its Kind Industrial Dataops Book
+│     ├─ 📄 Cognite Releases Genai Advanced Data Exploration Experience To Enhance Efficiencies Of Root Cause Analysis And Other Business Critical Workflows
+│     ├─ 📄 Cognite Releases Industrys First Definitive Guide To Generative Ai
+│     ├─ 📄 Cognite S Industrial Ai Momentum Soars Driving Ecosystem Impact At Global Conference
+│     ├─ 📄 Cognite Secures 150 Million Investment From Tcv To Acceleratedigitalization Of Global Industries
+│     ├─ 📄 Cognite Signs New Agreement With Bp To Provide Single Consolidated Data Layer For Bps Well Operations
+│     ├─ 📄 Cognite Software Engineer Named Among Norways Top 50 Women In Technology
+│     ├─ 📄 Cognite Supports Osdu Data Platform Mercury Release
+│     ├─ 📄 Cognite To Liberate Data In Subsurface And Drilling Sector
+│     ├─ 📄 Cognite To Liberate Data In Subsurface And Drilling Sector 0
+│     ├─ 📄 Cognite To Play Leading Role In Saudi Aramco Aker Asa Collaboration
+│     ├─ 📄 Cognite To Power Omvs Digital Transformation Agenda
+│     ├─ 📄 Cognite To Supercharge Aarbakkes Smart Factory Initiative
+│     ├─ 📄 Cognite To Unleash Next Gen Industrial Ai To Unlock New Levels Of Intelligence Innovation And
+│     ├─ 📄 Cognite Tohoku Enterprise Release Aug 23Th
+│     ├─ 📄 Cognite Wins 2020 Red Dot Award For Infield Design
+│     ├─ 📄 Cognite Wins Ai Breakthrough Award 
+│     ├─ 📄 Cognite Wins The 2021 Norwegian Tech Award
+│     ├─ 📄 Cognite Yokogawa Var Agreement
+│     ├─ 📄 Cosmo Energy Holdings Partners With Cognite To Drive High Operational Efficiency
+│     ├─ 📄 Cosmo Oil
+│     ├─ 📄 Dashboard Servic Launch For Wind Power Generators With Nttcomware
+│     ├─ 📄 Dea Selects Cognite As Strategic Partner For Digital Transformation
+│     ├─ 📄 Digital Innovation Leaders From Celanese Skagerak Kraft Aker Bp Slb And Radix Earn Most Valuable Professional Mvp Recognition In Cognites New Co 1728037207803
+│     ├─ 📄 Digital Transformation Totalenergies And Cognite Expand Their Partnership To Scale Industrial Ai
+│     ├─ 📄 E Co Energi Selects Cognite To Digitalize Hydroelectric Power Plant
+│     ├─ 📄 Eneos Begins Building Digital Twin Infrastructure For Refineries Using Cognite Data Fusion
+│     ├─ 📄 Energy Transition Center Of Excellence
+│     ├─ 📄 Equinor And Cognite Enter Long Term Collaboration To Further Accelerate Equinors Digitalization Program
+│     ├─ 📄 Equinor And Cognite Enter Partnership To Accelerate Digital Ambitions Within Global Marketing And Supply
+│     ├─ 📄 Extension For Cognite Data Fusion Available On Altair Rapidminers Marketplace To Help Customers Leverage Data
+│     ├─ 📄 Frost Sullivan Names Cognite A Technology Innovation Leader
+│     ├─ 📄 Frost Sullivan Names Cognite As The Leader In The Global Digital Industrial Platforms Market
+│     ├─ 📄 Hafslund Eco And Lyse Partner With Cognite To Create Next Generation Decision Support For Power Markets
+│     ├─ 📄 Hafslund Eco And Lyse Partner With Cognite To Create Next Generation Decision Support For Power Markets 0
+│     ├─ 📄 Hmh Powers Smarter Drilling With Cognite Atlas Ai For Enhanced Global Reliability
+│     ├─ 📄 Hydro Rein And Cognite Data Fusion️ Join Forces To Accelerate Energy Transition For Industries
+│     ├─ 📄 Hydro Rein Partners With Cognite To Accelerate Energy Transition With Industrial Digital Solutions
+│     ├─ 📄 Idemitsu Adopts Cognite Data Fusion Realizing Productivity Improvement
+│     ├─ 📄 Idemitsu Kosan Deploys Cognite Data Fusion To Four Manufacturing Sites
+│     ├─ 📄 Ignite Tokyo 2020
+│     ├─ 📄 Independent Research Firm Names Cognite A Market Leader For Condition Monitoring And Environmental Performance In Asset Heavy Industries
+│     ├─ 📄 Independent Study Finds Asset Heavy Organizations Can Expect 21.6M In Value After Adopting Cognite Data Fusion
+│     ├─ 📄 Infoworld Names Cognite To 2025 List Of Technology Of The Year
+│     ├─ 📄 Introducing Cognite Ai
+│     ├─ 📄 Introducing Cognite Atlas
+│     ├─ 📄 Jfe Steel Adopts Cognite Data Fusion For Their Cps Platform
+│     ├─ 📄 Koch Ag Energy Solutions Selects Cogniteto Create Transformative Change In Operations Through Data Discovery Contextualization
+│     ├─ 📄 New President Joins And Formed Executive Advisory Board For Japan
+│     ├─ 📄 Nipponshokubai
+│     ├─ 📄 Ntt Comware Launches Unified Analytics Dashboard
+│     ├─ 📄 Officemove
+│     ├─ 📄 Omv And Cognite Deploy Bestday A Jointly Developed Application
+│     ├─ 📄 Omv And Cognite Extend Long Term Collaborationto Further Accelerate Omvs Digitalization Transformation Program
+│     ├─ 📄 Piab Group Selects Cognite To Power Smart Ai Driven Vacuum Automation
+│     ├─ 📄 Pinnacle And Cognite Form Strategic Partnership To Accelerate Data Driven Reliability For Industrial Facilities
+│     ├─ 📄 Pwc Partners With Cognite And Outsystems To Accelerate Industrial Digitalization
+│     ├─ 📄 Radix And Cognite Launch Industrial Application Library Including Ai Agents Powered By Cognite
+│     ├─ 📄 Rockwell Automation And Cognite Form A Strategic Partnership
+│     ├─ 📄 Sara Amar Named One Of Norways Top 50 Women In Tech For 2022
+│     ├─ 📄 Sbm Offshore And Cognite Partner To Accelerate Ai And Data Collaboration To Optimize Floating
+│     ├─ 📄 Schlumberger And Cognite To Deliver Data Driven Solutions At Scale For The Global Energy Industry
+│     ├─ 📄 Sigrid Schaanning Named One Of Norways Top 50 Women In Tech For 2025
+│     ├─ 📄 Telenor Aker Cognite Cybersecurity Omny
+│     ├─ 📄 The Cognite Atlas Ai Definitive Guide To Industrial Agents Launched As The Premiere Ai Manual For Industry
+│     ├─ 📄 Tokuyama Adopts Cognite To Accelerate Dx In Manufacturing
+│     ├─ 📄 Tokyogas
+│     ├─ 📄 Tulip And Cognite To Drive Ai Powered Manufacturing To Increase Production Capacity By Up To 45
+│     ├─ 📄 Wintershall Dea And Cognite Enable Domain Experts To Harness Value From The North Dea
+│     ├─ 📄 Wintershall Dea Working With Cognite To Scale Digitalization Efforts Globally
+│     └─ 📄 Wood And Cognite Form Partnership To Unlock Value
+
+
+├─ 📁 Partners
+
+│  ├─ 📄 Partners
+
+│  ├─ 📄 Aws
+
+│  ├─ 📄 Google
+
+│  ├─ 📄 Microsoft
+
+│  ├─ 📄 Nvidia
+
+│  ├─ 📄 Pinnacle
+
+│  ├─ 📄 Radix
+
+│  ├─ 📄 Rockwell
+
+│  ├─ 📄 Slb
+
+│  ├─ 📄 Tridiagonal Ai
+
+│  └─ 📄 Tulip
+
+
+├─ 📁 Demos
+
+│  ├─ 📄 Demos
+
+│  ├─ 📄 Clgw4Qz55000408L2Hvoy5Aia
+
+│  ├─ 📄 Clk9Daq31000I08Kzd1Zrba94
+
+│  ├─ 📄 Clk9Dr0Iz000808Mj4Z1Qdz6U
+
+│  ├─ 📄 Clkaplqag000E08Jwd8Xc96E7
+
+│  ├─ 📄 Clkbf92Cq021U08Kx7Ygr041E
+
+│  ├─ 📄 Clkcd71Ai000A08La4Q199Swz
+
+│  ├─ 📄 Clkcm8Uk6004U09Mi2Jtyb7S1
+
+│  ├─ 📄 Clkjm0Puh014P08L0Elgxhfkv
+
+│  ├─ 📄 Cllz8S69R004608L46Ndjeezc
+
+│  ├─ 📄 Clo9Rhpm900Qd08Jlbhzd4H6Q
+
+│  ├─ 📄 Clsbx0624000I0Fju1Z2Gehn3
+
+│  ├─ 📄 Clsz0286Z00Vo0Fle401Xgi4W
+
+│  ├─ 📄 Cltd3Po5V001V0Fk1A83Q8Oiz
+
+│  ├─ 📄 Clu0Mlxzu00450Fl3Aggnb6I5
+
+│  ├─ 📄 Clz2Yrhbb000209L9Dzmnhe4K
+
+│  ├─ 📄 Clzk275Yb000209L3B84Rhkv1
+
+│  ├─ 📄 Cm1Hwrd8N000103M869Lb6Ljv
+
+│  ├─ 📄 Cm20Nytcg000103Mc2Jwphjsm
+
+│  ├─ 📄 Cm20O14Jt000403Mfez63F9Hz
+
+│  ├─ 📄 Cmd3Gmqkr000004Iibthcffyw
+
+│  ├─ 📄 Cmeu7Bbk6001304K387Kt9Jb4
+
+│  └─ 📄 Cmfpl02Be000004Ju65Z0Apur
+
+
+├─ 📁 Contact
+
+│  └─ 📄 Contact
+
+
+├─ 📁 Atlas Data Scout
+
+│  └─ 📄 Atlas Data Scout
+
+
+├─ 📁 Build Your Industrial Ai Workspace
+
+│  └─ 📄 Build Your Industrial Ai Workspace
+
+
+├─ 📁 Contextualization
+
+│  └─ 📄 Contextualization
+
+
+├─ 📁 Document Extractor
+
+│  └─ 📄 Document Extractor
+
+
+├─ 📁 Events
+
+│  ├─ 📄 User Meetup 2025 Feb
+
+│  └─ 📄 User Meetup 2025 May
+
+
+├─ 📁 Extend Your Osdu Data Platform Into Valuable Data Products
+
+│  └─ 📄 Extend Your Osdu Data Platform Into Valuable Data Products
+
+
+├─ 📁 Faq
+
+│  └─ 📄 Faq
+
+
+├─ 📁 Faq General
+
+│  └─ 📄 Faq General
+
+
+├─ 📁 Faq Partners
+
+│  └─ 📄 Faq Partners
+
+
+├─ 📁 Faq Technology
+
+│  └─ 📄 Faq Technology
+
+
+├─ 📁 Forrester Total Economic Impact
+
+│  └─ 📄 Forrester Total Economic Impact
+
+
+├─ 📁 Generative Ai
+
+│  └─ 📄 Generative Ai
+
+
+├─ 📁 Heritage
+
+│  └─ 📄 Heritage
+
+
+├─ 📁 Hybrid Ai
+
+│  └─ 📄 Hybrid Ai
+
+
+├─ 📁 Impact Conference
+
+│  └─ 📄 Impact Conference
+
+
+├─ 📁 Industrial Ai
+
+│  └─ 📄 Industrial Ai
+
+
+├─ 📁 Industrial Canvas
+
+│  └─ 📄 Industrial Canvas
+
+
+├─ 📁 Industrial Data Fabric
+
+│  └─ 📄 Industrial Data Fabric
+
+
+├─ 📁 Industrial Data Operations
+
+│  └─ 📄 Industrial Data Operations
+
+
+├─ 📁 Industrial Digital Twin
+
+│  └─ 📄 Industrial Digital Twin
+
+
+├─ 📁 Industrial Knowledge Graph
+
+│  └─ 📄 Industrial Knowledge Graph
+
+
+├─ 📁 Integrations
+
+│  └─ 📄 Integrations
+
+
+├─ 📁 Jo Ai
+
+│  └─ 📄 Jo Ai
+
+
+├─ 📁 Lost On Your Ai Journey
+
+│  └─ 📄 Lost On Your Ai Journey
+
+
+├─ 📁 Maintenance Dashboard
+
+│  └─ 📄 Maintenance Dashboard
+
+
+├─ 📁 Newsletter Signup
+
+│  └─ 📄 Newsletter Signup
+
+
+├─ 📁 Newton Tm Integrations
+
+│  └─ 📄 Newton Tm Integrations
+
+
+├─ 📁 Newton Tm Intelligence
+
+│  └─ 📄 Newton Tm Intelligence
+
+
+├─ 📁 Newton Tm Reliability Data Management System
+
+│  └─ 📄 Newton Tm Reliability Data Management System
+
+
+├─ 📁 Ogpodcast
+
+│  └─ 📄 Ogpodcast
+
+
+├─ 📁 Omny
+
+│  └─ 📄 Omny
+
+
+├─ 📁 Product Tour
+
+│  └─ 📄 Product Tour
+
+
+├─ 📁 Rca Agent
+
+│  └─ 📄 Rca Agent
+
+
+├─ 📁 Request Demo
+
+│  └─ 📄 Request Demo
+
+
+├─ 📁 Rockwell Factorytalk Datamosaix
+
+│  └─ 📄 Rockwell Factorytalk Datamosaix
+
+
+├─ 📁 Roles
+
+│  ├─ 📄 Digital Transformation Leaders
+
+│  ├─ 📄 Executives
+
+│  ├─ 📄 It Teams
+
+│  └─ 📄 Operations Teams
+
+
+├─ 📁 Scaling
+
+│  └─ 📄 Scaling
+
+
+├─ 📁 Security
+
+│  └─ 📄 Security
+
+
+├─ 📁 Slb Optiflow Production Assurance Solutions
+
+│  └─ 📄 Slb Optiflow Production Assurance Solutions
+
+
+├─ 📁 Slb Optisite Facility Equipment And Pipeline Solutions
+
+│  └─ 📄 Slb Optisite Facility Equipment And Pipeline Solutions
+
+
+├─ 📁 Thank You
+
+│  └─ 📄 Thank You
+
+
+├─ 📁 Time Series Trender
+
+│  └─ 📄 Time Series Trender
+
+
+├─ 📁 Tokyo Atlas Ai Summit 2024
+
+│  └─ 📄 Tokyo Atlas Ai Summit 2024
+
+
+├─ 📁 Tokyo Atlas Ai Summit 2025
+
+│  └─ 📄 Tokyo Atlas Ai Summit 2025
+
+
+├─ 📁 Tridiagonal Ai Emitops
+
+│  └─ 📄 Tridiagonal Ai Emitops
+
+
+├─ 📁 Tridiagonal Ai Opsedge
+
+│  └─ 📄 Tridiagonal Ai Opsedge
+
+
+├─ 📁 Tridiagonal Ai What If Simulator
+
+│  └─ 📄 Tridiagonal Ai What If Simulator
+
+
+├─ 📁 Tulip Digital Guidance
+
+│  └─ 📄 Tulip Digital Guidance
+
+
+├─ 📁 Tulip Production Management
+
+│  └─ 📄 Tulip Production Management
+
+
+├─ 📁 Tulip Quality Management
+
+│  └─ 📄 Tulip Quality Management
+
+
+├─ 📁 Tulip Traceability And Compliance
+
+│  └─ 📄 Tulip Traceability And Compliance
+
+
+├─ 📁 Utm Tracking Test
+
+│  └─ 📄 Utm Tracking Test
+
+
+├─ 📁 Value Review
+
+│  └─ 📄 Value Review
+
+
+├─ 📁 Why Cognite
+
+│  └─ 📄 Why Cognite
+
+
+├─ 📁 Work Order Classifier
+
+│  └─ 📄 Work Order Classifier
+
+
+├─ 📁 Work Package Generator
+
+│  └─ 📄 Work Package Generator
+
+
+└─ 📁 Your Ai Strategy
+
+   └─ 📄 Your Ai Strategy
+

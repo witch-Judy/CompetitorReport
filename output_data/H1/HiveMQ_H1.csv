@@ -1,0 +1,102 @@
+﻿company,company_key,url,h1_text,h1_length,word_count
+HiveMQ,hivemq,https://www.hivemq.com/blog/enterprise-ai-readiness-starts-better-data-context/,Enterprise AI Readiness Starts with Better Data Context,55,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/coordinating-edge-microservices-hivemq-mqtt/,Coordinating Edge Microservices with HiveMQ and MQTT,52,7
+HiveMQ,hivemq,https://www.hivemq.com/blog/agentic-ai-in-industry-trusted-data-pipelines-more-important-than-models/,Agentic AI in Industry: Are Trusted Data Pipelines More Important Than the AI Models?,85,14
+HiveMQ,hivemq,https://www.hivemq.com/blog/enabling-real-time-environmental-data-monitoring-hivemq-sensor-community/,Enabling Real-Time Environmental Data Monitoring with HiveMQ and Sensor.Community,81,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/empowering-real-world-iot-with-mqtt-for-fleet-tracking/,Empowering Real-World IoT with MQTT – Lessons from a Fleet Tracking Project,75,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-compliant-event-driven-architecture-pharma-mqtt-hivemq/,Building a Compliant Event-Driven Architecture in Pharma with MQTT and HiveMQ,77,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-to-centrally-manage-hivemq-edge-with-barbara/,How to Centrally Manage HiveMQ Edge With Barbara,48,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-orange-and-hivemq-streamline-automated-edge-rollouts/,How Orange and HiveMQ are Streamlining Automated Edge Rollouts,62,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/why-distributed-data-intelligence-is-the-missing-piece-in-industrial-ai/,Why Distributed Data Intelligence Is the Missing Piece in Industrial AI,71,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/an-iot-telemetry-solution-with-nodemcu-esp8226-hivemq/,An IoT Telemetry Solution with NodeMCU ESP8266 and HiveMQ,57,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/top-10-videos-to-level-up-your-uns-game-for-ai-readiness-and-digital-transformation/,Top 10 Videos to Level Up Your UNS Game for AI-Readiness and Digital Transformation,83,14
+HiveMQ,hivemq,https://www.hivemq.com/blog/optimizing-edge-to-cloud-communications-with-mqtt/,Optimizing Edge-to-Cloud Communications with MQTT,49,5
+HiveMQ,hivemq,https://www.hivemq.com/blog/mitigating-downtime-in-enterprise-iot-when-writing-database/,Mitigating Downtime in Enterprise IoT When Writing to a Database,64,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/hivemq-on-raspberry-pi-as-mqtt-broker-and-mqtt-client/,HiveMQ on Raspberry Pi: As an MQTT Broker and an MQTT Client,60,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/inside-connack-episode-5-how-uns-fuels-industrial-ai/,Inside CONNACK! Episode 5: How UNS Fuels Industrial AI,54,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/g2-recognition-once-again-reinforces-hivemq-iot-industry-leadership/,G2 Recognition Once Again Reinforces HiveMQ’s IoT Industry Leadership,69,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/most-manufacturing-data-isnt-ai-ready-fix-data-foundation-not-model/,"Most Manufacturing Data Isn’t AI Ready, Fix the Data Foundation Not the Model",77,13
+HiveMQ,hivemq,https://www.hivemq.com/blog/dynamic-geo-fencing-building-location-aware-iot-applications-with-mqtt-hivemq/,Dynamic Geo-Fencing: Building Location-Aware IoT Applications with MQTT and HiveMQ,82,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/powering-the-future-industrial-data-icc-2025/,Powering the Future of Industrial Data at ICC 2025,50,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/example-of-a2a-over-mqtt-scale-agentic-ai-collaboration-part-4/,Example of AI Agent-to-Agent (A2A) Communication Over MQTT,58,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/why-mqtt-best-suited-for-scale-agentic-ai-collaboration-part-3/,Why MQTT is Best Suited for AI Agent Communication,50,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/benefits-of-event-driven-architecture-scale-agentic-ai-collaboration-part-2/,The Benefits of Event-Driven Architecture for AI Agent Communication,68,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/a2a-enterprise-scale-agentic-ai-collaboration-part-1/,A2A for Enterprise-Scale AI Agent Communication: Architectural Needs and Limitations,84,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/why-distributed-data-intelligence-missing-link-in-sustainability-strategy/,Why Distributed Data Intelligence is the Missing Link in Your Sustainability Strategy,85,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/ai-at-scale-part-2-rethinking-data-centers-as-data-problem/,AI at Scale: Rethinking Data Centers as a Data Problem,54,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/ai-at-scale-part-1-why-data-centers-will-define-next-industrial-era/,AI at Scale: Why Data Centers Will Define the Next Industrial Era,65,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-cxos-can-build-foundation-for-ai-ready-industrial-operations/,How CxOs Can Build the Foundation for AI-Ready Industrial Operations,68,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/understanding-mqtt-message-ordering/,Understanding MQTT Message Ordering,35,4
+HiveMQ,hivemq,https://www.hivemq.com/blog/solving-common-industrial-iot-data-streaming-challenges-mqtt/,Solving Common Industrial IoT Data Streaming Challenges with MQTT,65,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/deploying-real-world-uns-architectures-mqtt-node-red/,Deploying Real-World UNS Architectures with MQTT and Node-RED,61,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/a-guide-event-driven-architecture-edge-to-cloud-connectivity/,A Guide to Event-Driven Architecture for Edge-to-Cloud Connectivity,67,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/managing-hivemq-releases-support-what-you-need-to-know/,Managing HiveMQ Releases and Support: What You Need to Know,59,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/simplify-secure-user-access-sso-for-hivemq-cloud/,Simplify and Secure User Access with Single Sign-On (SSO) for HiveMQ Cloud,74,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/industrial-iot-data-streaming-continuous-intelligence-through-ai-ml/,Industrial IoT Data Streaming for Continuous Intelligence Through AI/ML,71,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/unified-namespace-ot-it-integration-mqtt-wincc-open-architecture/,Unified Namespace for OT/IT Integration with MQTT and WinCC Open Architecture,77,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/the-business-impact-real-time-dashboards-industrial-iot-data-streaming-analytics/,The Business Impact of Real-Time Dashboards and Industrial IoT Data Streaming Analytics,87,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/the-coolest-smart-cities-2025-how-iot-changing-urban-living-america/,The Coolest Smart Cities of 2025: How IoT is Changing Urban Living in America,77,14
+HiveMQ,hivemq,https://www.hivemq.com/blog/a-practical-guide-iiot-data-streaming-implementation-smart-manufacturing/,A Practical Guide to IIoT Data Streaming Implementation in Smart Manufacturing,78,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/why-embracing-cloud-native-iot-business-imperative-enterprise-architecture/,Why Embracing Cloud-Native IoT is a Business Imperative for Enterprise Architecture,83,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-industrial-iot-data-streaming-architecture-mqtt/,Building Industrial IoT Data Streaming Architecture with MQTT,61,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-hivemq-iso-27001-soc-2-certifications-support-gxp-compliance/,How HiveMQ’s ISO 27001 and SOC 2 Certifications Support GxP Compliance,70,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/industrial-iot-data-streaming-what-it-is-how-to-get-started/,Industrial IoT Data Streaming: What It Is and How to Get Started,64,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/unified-namespace-ai-agents-for-manufacturing-connack-episode-4/,Unified Namespace and AI Agents: Game-Changer for Manufacturing or Just Hype?,77,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/site-broker-or-not-for-modern-iiot-and-edge-deployments/,Site Broker or Not? How to Decide for Modern IIoT and Edge Deployments,70,13
+HiveMQ,hivemq,https://www.hivemq.com/blog/a-step-by-step-guide-connecting-ignition-mqtt-hivemq/,A Step-by-Step Guide to Connecting Ignition to MQTT and HiveMQ,62,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-industrial-edge-data-management-enables-industry-40-energy/,How Industrial Edge Data Management Enables Industry 4.0 in Energy,66,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/a-guide-distributed-tracing-iot-systems-hivemq-opentelemetry/,A Guide to Distributed Tracing for IoT Systems Using HiveMQ and OpenTelemetry,77,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/overcoming-data-chaos-smart-manufacturing-real-time-data-intelligence/,Overcoming Data Chaos in Smart Manufacturing with Real-Time Data Intelligence,77,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/machine-learning-iiot-part-2-kde-predictive-maintenance-oee/,Machine Learning in IIoT: Foundations for Using KDE for Predictive Maintenance and OEE,86,13
+HiveMQ,hivemq,https://www.hivemq.com/blog/roadmap-building-ai-ready-data-foundation-manufacturing/,The Roadmap to Building an AI-Ready Data Foundation in Manufacturing,68,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-unified-namespace-why-mqtt-outperforms-nats/,Building a Unified Namespace: Why MQTT Outperforms NATS,55,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-unified-namespace-why-mqtt-outperforms-nats/,(multi-level),13,1
+HiveMQ,hivemq,https://www.hivemq.com/blog/data-governance-metadata-management-ai-readiness-manufacturing/,Data Governance and Metadata Management for AI Readiness in Manufacturing,73,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/deploying-hivemq-mqtt-broker-on-aws-ecs-vs-eks/,Deploying HiveMQ on AWS ECS vs. AWS EKS: Pros and Cons,54,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/enabling-scalable-industrial-data-architecture-for-ai-ready-manufacturing/,Enabling a Scalable Industrial Data Architecture for AI-Ready Manufacturing,75,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/distributed-data-intelligence-manufacturing/,"Distributed Data Intelligence in Manufacturing: The Path, Benefits, and Pitfalls",80,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/data-quality-standardization-contextualization-ai-readiness-manufacturing/,"Data Quality, Standardization and Contextualization for AI Readiness in Manufacturing",85,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-unified-namespace-why-mqtt-outperforms-amqp/,Building a Unified Namespace: Why MQTT Outperforms AMQP,55,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/data-foundations-for-ai-in-manufacturing/,Why the Data Foundation Matters for AI in Manufacturing,55,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/deploy-hivemq-edge-azure-arc-enabled-kubernetes-cluster-gitops/,Deploy HiveMQ Edge on Azure ARC-Enabled Kubernetes Cluster with GitOps,70,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/preparing-for-hivemq-pulse-distributed-data-intelligence/,Preparing for HiveMQ Pulse and Distributed Data Intelligence,60,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/building-digital-resilience-with-uns-distributed-data-intelligence/,Building Digital Resilience with UNS and Distributed Data Intelligence,70,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/the-rise-distributed-data-intelligence-in-iiot/,The Rise of Distributed Data Intelligence in Industrial IoT (IIoT),66,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/build-stateful-iot-data-pipelines-with-hivemq-data-hub/,Build Stateful IoT Data Pipelines with HiveMQ Data Hub,54,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/introducing-hivemq-uns-maturity-assessment/,Introducing the HiveMQ UNS Maturity Assessment,46,6
+HiveMQ,hivemq,https://www.hivemq.com/blog/new-rest-api-host-for-hivemq-cloud-starter/,New REST API Host for HiveMQ Cloud Starter,42,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/harnessing-value-real-time-data-streaming-data-centers/,Harnessing the Value of Real-Time Data Streaming in Data Centers,64,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/digital-transformation-oil-gas-uns-mqtt-distributed-data-intelligence/,"Digital Transformation in Oil & Gas With UNS, MQTT & Distributed Data Intelligence",82,13
+HiveMQ,hivemq,https://www.hivemq.com/blog/connack-2025-exploring-convergence-unified-namespace-ai/,CONNACK! 2025: Exploring the Convergence of Unified Namespace and AI,68,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/industrial-intelligence-key-takeaways-hannover-messe-2025/,Industrial Intelligence Unleashed: Key Takeaways from Hannover Messe 2025,73,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/whats-coming-in-industrial-dataops/,What’s Coming in Industrial DataOps,35,5
+HiveMQ,hivemq,https://www.hivemq.com/blog/enabling-real-time-oee-production-analytics-unified-namespace-uns/,Enabling Real-Time OEE and Production Analytics with a Unified Namespace (UNS),78,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/enabling-digital-work-order-management-unified-namespace-uns/,Enabling Digital Work Order Management with a Unified Namespace (UNS),69,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/modeling-at-the-edge-with-data-combinations/,Modeling at the Edge with Data Combinations,43,7
+HiveMQ,hivemq,https://www.hivemq.com/blog/enabling-efficient-warehouse-operations-unified-namespace-uns/,Enabling Efficient Warehouse Operations with a Unified Namespace (UNS),70,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/uns-enabling-resilience-agility-shop-floor-scheduling/,UNS for Enabling Resilience and Agility in Shop-Floor Scheduling,64,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/digital-transformation-pharma-manufacturing-with-uns-mqtt-distributed-data-intelligence/,"Digital Transformation in Pharma Manufacturing With UNS, MQTT & Distributed Data Intelligence",93,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/unified-namespace-consolidated-view-production-order-status/,Unified Namespace for a Consolidated View of Production Order Status,68,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/hivemq-cloud-introduces-metrics-troubleshooting-cloud-console/,HiveMQ Cloud Introduces Metrics and Troubleshooting in Cloud Console,68,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/hivemq-hannover-messe-2025-unlock-value-your-industrial-data/,HiveMQ at Hannover Messe 2025: Unlock the Value of Your Industrial Data,71,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/digital-transformation-chemical-manufacturing-with-uns-mqtt-distributed-data-intelligence/,"Digital Transformation in Chemical Manufacturing With UNS, MQTT & Distributed Data Intelligence",95,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/insights-proveit-2025-unified-namespace-solutions-in-action/,Insights from ProveIt! 2025: Unified Namespace Solutions in Action,66,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-data-management-fuels-success-industrial-ai-era/,How Data Management Fuels Success in the Industrial AI Era,58,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/good-architecture-well-implemented/,"Good Architecture, Well Implemented",35,4
+HiveMQ,hivemq,https://www.hivemq.com/blog/improve-it-ot-collaboration-hivemq-custom-modules-data-hub-part-1/,Improve IT-OT Collaboration with HiveMQ’s Custom Modules for Data Hub: Part 1,77,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/hivemq-vs-aws-iot-core-comparative-analysis-iot-messaging/,HiveMQ vs. AWS IoT Core: A Comparative Analysis for IoT Messaging,65,11
+HiveMQ,hivemq,https://www.hivemq.com/blog/g2-recognizes-hivemq-as-top-25-best-german-software-companies-2025/,G2 Recognizes HiveMQ as One of the Top 25 Best German Software Companies for 2025,81,15
+HiveMQ,hivemq,https://www.hivemq.com/blog/visualizing-hivemq-cluster-and-node-metrics-grafana/,Visualizing HiveMQ Cluster and Node Metrics with Grafana,56,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/beyond-mqtt-fit-and-limitations-other-technologies-in-uns/,Beyond MQTT: The Fit and Limitations of Other Technologies in a UNS,67,12
+HiveMQ,hivemq,https://www.hivemq.com/blog/announcing-hivemq-pulse-distributed-data-intelligence-platform/,Announcing HiveMQ Pulse: The Distributed Data Intelligence Platform,67,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/why-mqtt-is-critical-building-unified-namespace/,Why MQTT is Critical for Building a Unified Namespace,53,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/how-to-stream-machine-data-timescaledb-using-mqtt/,How to Stream Machine Data into TimescaleDB Using MQTT,54,9
+HiveMQ,hivemq,https://www.hivemq.com/blog/elements-of-the-unified-namespace/,Elements of the Unified Namespace,33,5
+HiveMQ,hivemq,https://www.hivemq.com/blog/a-practical-guide-to-data-modelling-asset-reliability-analytics/,A Practical Guide To Data Modelling for Asset Reliability Analytics,67,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/bringing-clarity-to-unified-namespace-approach/,Bringing Clarity to the Unified Namespace Approach,50,7
+HiveMQ,hivemq,https://www.hivemq.com/blog/what-airports-can-learn-from-mqtt/,What Airports Can Learn from MQTT,33,6
+HiveMQ,hivemq,https://www.hivemq.com/blog/robust-responsive-overload-protection-hivemq-broker/,Robust and Responsive Overload Protection for HiveMQ Broker,59,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/expanding-industrial-iot-in-2025-survey-reveals-growth/,Expanding Industrial IoT in 2025: Survey Reveals Growth,55,8
+HiveMQ,hivemq,https://www.hivemq.com/blog/solving-real-time-smart-meter-data-inconsistencies-via-hivemq-data-hub/,Solving Real-Time Smart Meter Data Inconsistencies via HiveMQ Data Hub,70,10
+HiveMQ,hivemq,https://www.hivemq.com/blog/mqtt-data-visualization-with-grafana/,MQTT Data Visualization with Grafana,36,5
+HiveMQ,hivemq,https://www.hivemq.com/blog/smart-agriculture-harnessing-iot-to-revolutionize-farming/,Smart Agriculture: Harnessing IoT to Revolutionize Farming,58,7

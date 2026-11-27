@@ -1,0 +1,147 @@
+# 各数据源事件 → event_log 事实层映射（机器可读）
+# 与 fact_layer_source_mapping.md 对应，供 Connector / 配置使用
+
+version: "v0"
+
+sources:
+  ga4:
+    source_value: "ga4"
+    default_channel: "website"
+    events:
+      - native: "page_view"
+        event_type: "content_viewed"
+        channel: "website"
+        properties_keep: ["page_location", "page_referrer", "page_title", "engagement_time_msec"]
+      - native: "first_visit"
+        event_type: "session_start"
+        channel: "website"
+      - native: "session_start"
+        event_type: "session_start"
+        channel: "website"
+      - native: "click"
+        event_type: "asset_clicked"
+        channel: "website"
+        properties_keep: ["link_url", "link_domain", "link_id", "link_classes", "outbound"]
+      - native: "form_start"
+        event_type: "form_start"
+        channel: "website"
+        properties_keep: ["form_id", "form_name", "form_destination"]
+      - native: "form_submit"
+        event_type: "form_submitted"
+        channel: "website"
+        properties_keep: ["form_id", "form_name", "form_destination", "form_submit_text"]
+      - native: "file_download"
+        event_type: "content_downloaded"
+        channel: "website"
+        properties_keep: ["file_extension", "file_name", "link_url", "link_id"]
+      - native: "scroll"
+        event_type: "content_viewed"
+        channel: "website"
+      - native: "view_search_results"
+        event_type: "search"
+        channel: "website"
+        properties_keep: ["search_term"]
+      - native: "video_start"
+      - native: "video_progress"
+      - native: "video_complete"
+        event_type: "content_viewed"
+        channel: "website"
+        properties_keep: ["video_provider", "video_title", "video_url", "video_percent"]
+      - native: "generate_lead"
+        event_type: "form_submitted"
+        channel: "website"
+        properties_keep: ["currency", "value", "lead_source"]
+      - native: "view_item"
+        event_type: "content_viewed"
+        channel: "website"
+      - native: "select_content"
+        event_type: "asset_clicked"
+        channel: "website"
+        properties_keep: ["content_type", "content_id"]
+      - native: "share"
+        event_type: "content_shared"
+        channel: "website"
+        properties_keep: ["method", "content_type", "item_id"]
+      - native: "sign_up"
+        event_type: "form_submitted"
+        channel: "website"
+      - native: "qualify_lead"
+        event_type: "lifecycle_stage_changed"
+        channel: "website"
+      - native: "working_lead"
+        event_type: "meeting_booked"
+        channel: "website"
+    external_ref: "event_id + timestamp or BigQuery event_id"
+
+  linkedin:
+    source_value: "linkedin"
+    default_channel: "linkedin"
+    events:
+      - native: "form_submit"
+        event_type: "form_submitted"
+        channel: "linkedin"
+      - native: "button_click"
+        event_type: "asset_clicked"
+        channel: "linkedin"
+      - native: "download"
+        event_type: "content_downloaded"
+        channel: "linkedin"
+      - native: "lead"
+        event_type: "form_submitted"
+        channel: "linkedin"
+      - native: "custom"
+        event_type: "content_downloaded"  # 按 Conversion Rule 配置覆盖
+        channel: "linkedin"
+    external_ref: "conversion event unique id"
+
+  hubspot:
+    source_value: "hubspot"
+    default_channel: "email"
+    events:
+      - native: "OPEN"
+        event_type: "email_opened"
+        channel: "email"
+        properties_keep: ["email_id", "campaign_id", "recipient", "user_agent"]
+      - native: "CLICK"
+        event_type: "email_clicked"
+        channel: "email"
+        properties_keep: ["email_id", "campaign_id", "recipient", "click_url", "link_id"]
+      - native: "DELIVERED"
+        event_type: "email_delivered"
+        channel: "email"
+      - native: "SENT"
+        event_type: "email_sent"
+        channel: "email"
+      - native: "form_submission"
+        event_type: "form_submitted"
+        channel: "website"
+      - native: "webinar_registration"
+        event_type: "webinar_registered"
+        channel: "email"
+      - native: "webinar_attendance"
+        event_type: "webinar_attended"
+        channel: "email"
+    external_ref: "HubSpot eventId or engagement id"
+    person_id_from: "hubspot_contact_id -> person.hubspot_contact_id"
+
+# 统一 event_type 列表（与 event_taxonomy 一致，供校验）
+canonical_event_types:
+  - content_viewed
+  - content_downloaded
+  - content_shared
+  - asset_clicked
+  - form_submitted
+  - form_start
+  - email_opened
+  - email_clicked
+  - email_sent
+  - email_delivered
+  - webinar_registered
+  - webinar_attended
+  - session_start
+  - search
+  - lead_status_changed
+  - lifecycle_stage_changed
+  - opportunity_created
+  - meeting_booked
+  - generate_lead

@@ -1,0 +1,1629 @@
+====================================================================================================
+apple 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Contact
+
+│  ├─ 📄 Contact
+
+│  └─ 📄 Feedback
+
+
+├─ 📁 Accessibility
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Assistive Technologies
+
+│  ├─ 📄 Designed For Students
+
+│  ├─ 📄 Features
+
+│  └─ 📄 Labels
+
+
+├─ 📁 Airplay
+
+│  └─ 📄 Airplay
+
+
+├─ 📁 Airpods
+
+│  ├─ 📄 Airpods
+
+│  └─ 📄 Compare
+
+
+├─ 📁 Airpods 4
+
+│  ├─ 📄 Airpods 4
+
+│  ├─ 📄 Compare
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Airpods Max
+
+│  ├─ 📄 Airpods Max
+
+│  ├─ 📄 Compare
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Airpods Pro
+
+│  ├─ 📄 Airpods Pro
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Feature Availability
+
+│  ├─ 📄 Hearing Health
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Airtag
+
+│  └─ 📄 Airtag
+
+
+├─ 📁 App Store
+
+│  ├─ 📄 App Store
+
+│  └─ 📄 Developing For The App Store
+
+
+├─ 📁 Apple Arcade
+
+│  ├─ 📄 Apple Arcade
+
+│  └─ 📄 How To
+
+
+├─ 📁 Apple Books
+
+│  └─ 📄 Apple Books
+
+
+├─ 📁 Apple Card
+
+│  ├─ 📄 Apple Card
+
+│  ├─ 📄 Family
+
+│  ├─ 📄 Features
+
+│  ├─ 📄 Financial Health
+
+│  ├─ 📄 How To
+
+│  └─ 📄 Monthly Installments
+
+
+├─ 📁 Apple Cash
+
+│  └─ 📄 Apple Cash
+
+
+├─ 📁 Apple Events
+
+│  └─ 📄 Apple Events
+
+
+├─ 📁 Apple Fitness Plus
+
+│  └─ 📄 Apple Fitness Plus
+
+
+├─ 📁 Apple Intelligence
+
+│  └─ 📄 Apple Intelligence
+
+
+├─ 📁 Apple Music
+
+│  └─ 📄 Apple Music
+
+
+├─ 📁 Apple News
+
+│  ├─ 📄 Apple News
+
+│  └─ 📄 Publications
+
+
+├─ 📁 Apple One
+
+│  └─ 📄 Apple One
+
+
+├─ 📁 Apple Pay
+
+│  ├─ 📄 Apple Pay
+
+│  └─ 📄 How To
+
+
+├─ 📁 Apple Pencil
+
+│  └─ 📄 Apple Pencil
+
+
+├─ 📁 Apple Podcasts
+
+│  └─ 📄 Apple Podcasts
+
+
+├─ 📁 Apple Tv
+
+│  └─ 📄 Apple Tv
+
+
+├─ 📁 Apple Tv 4K
+
+│  ├─ 📄 Apple Tv 4K
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Apple Tv App
+
+│  └─ 📄 Apple Tv App
+
+
+├─ 📁 Apple Vision Pro
+
+│  ├─ 📄 Apple Vision Pro
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Apple Watch For Your Kids
+
+│  └─ 📄 Apple Watch For Your Kids
+
+
+├─ 📁 Apple Watch Hermes
+
+│  └─ 📄 Apple Watch Hermes
+
+
+├─ 📁 Apple Watch Nike
+
+│  └─ 📄 Apple Watch Nike
+
+
+├─ 📁 Apple Watch Se 3
+
+│  ├─ 📄 Apple Watch Se 3
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Why Apple Watch
+
+
+├─ 📁 Apple Watch Series 11
+
+│  ├─ 📄 Apple Watch Series 11
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Why Apple Watch
+
+
+├─ 📁 Apple Watch Ultra 3
+
+│  ├─ 📄 Apple Watch Ultra 3
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Why Apple Watch
+
+
+├─ 📁 Applecare
+
+│  └─ 📄 Applecare
+
+
+├─ 📁 Apps
+
+│  └─ 📄 Apps
+
+
+├─ 📁 Augmented Reality
+
+│  └─ 📄 Augmented Reality
+
+
+├─ 📁 Batteries
+
+│  ├─ 📄 Batteries
+
+│  ├─ 📄 Maximizing Performance
+
+│  ├─ 📄 Service And Recycling
+
+│  └─ 📄 Why Lithium Ion
+
+
+├─ 📁 Business
+
+│  ├─ 📄 Business
+
+│  ├─ 📂 Enterprise
+│  │  ├─ 📄 Apple Vision Pro
+│  │  ├─ 📄 Resources
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Construction
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Fulton Hogan
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Rogers Obrien
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Financial Services
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Bdc
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Inter
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Tochigi Bank
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Insurance
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Aia China
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Zurich
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Manufacturing
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Ash Cloud
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Bsh
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Vestas
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Volvo
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Want Want
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Foncia
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Retail
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Bestseller
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Hastens
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Heb
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Himo Group
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Laura Canada
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Rituals
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sap
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Zoho
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Transportation
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Finnair
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Tokyo Metro
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 United
+│  │  └─ 📂 Success Stories
+│  │     └─ 📄 Openreach
+
+│  ├─ 📄 Essentials
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📂 Small Business
+│     ├─ 📄 Success Stories
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Aj Hackett Bungy New Zealand
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Bicycles Quilicot
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Dance
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Dans Pet Care
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Hello Vet
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Jaunt
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Nagomi Pharmacy
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Rmwilliams
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Saturnbird
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Senor Sisig
+│     ├─ 📂 Success Stories
+│     │  ├─ 📄 Sock Club
+│     └─ 📂 Success Stories
+│        └─ 📄 The Dinner Ladies
+
+
+├─ 📁 Careers
+
+│  └─ 📂 Us
+│     ├─ 📄 Accessibility.Html
+│     ├─ 📄 Accommodation.Html
+│     ├─ 📄 Life At Apple.Html
+│     ├─ 📂 Life At Apple
+│     │  ├─ 📄 Benefits.Html
+│     ├─ 📂 Life At Apple
+│     │  ├─ 📄 Dna.Html
+│     ├─ 📂 Life At Apple
+│     │  ├─ 📄 Shared Values.Html
+│     ├─ 📄 Work At Apple.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Locations.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Retail.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Students.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Teams.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Hardware.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Machine Learning And Ai.Html
+│     ├─ 📂 Work At Apple
+│     │  ├─ 📄 Software And Services.Html
+│     └─ 📂 Work At Apple
+│        └─ 📄 Support And Service.Html
+
+
+├─ 📁 Child Safety
+
+│  ├─ 📄 Rc
+
+│  ├─ 📄 Rc U13
+
+│  └─ 📄 Rp
+
+
+├─ 📁 Choose Country Region
+
+│  └─ 📄 Choose Country Region
+
+
+├─ 📁 Compliance
+
+│  ├─ 📄 Compliance
+
+│  ├─ 📄 Policies
+
+│  ├─ 📄 Speak Up
+
+│  ├─ 📄 Third Parties
+
+│  ├─ 📄 Training
+
+│  └─ 📄 Ww
+
+
+├─ 📁 Diversity
+
+│  └─ 📄 Diversity
+
+
+├─ 📁 Education
+
+│  ├─ 📄 Education
+
+│  ├─ 📂 College Students
+│  │  ├─ 📄 Success Stories
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Alferos
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Ayala
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Cai
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Chuenchompoo
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Hernandez
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Li
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Lim Chan
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Masacoo
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Nanba
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Parekh
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Patil
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Pengilly
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Preenapun
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Reinicke
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Scaggs
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Su
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sukonpatip
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sumettavanich
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Suresh
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Thomas
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Vu
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Wang
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Wannakit
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Yee
+│  │  └─ 📂 Success Stories
+│  │     └─ 📄 Yu
+
+│  ├─ 📂 Higher Education
+│  │  ├─ 📄 App Development
+│  │  ├─ 📄 How To Buy
+│  │  ├─ 📄 Success Stories
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Academy Art University
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Ajuan Mance
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Anahuac Cancun University
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Bill Adams
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Brad Bergsma
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Duke University
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Ichiro Iimura
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Jessica Watson
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 John Volckens
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Mayuree Srikulwong
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Raymundo Magos Hernandez
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 San Diego State University
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sathya Gopalakrishnan
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Shanghai Business School
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sharon Walsh
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Siriwan Chatmaneerungcharoen
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 University Kentucky
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 University Nebraska
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Walter Barbieri
+│  │  └─ 📂 Success Stories
+│  │     └─ 📄 Youngmoo Kim
+
+│  ├─ 📂 K12
+│  │  ├─ 📄 Apple Distinguished Schools
+│  │  ├─ 📄 Deploy And Manage
+│  │  ├─ 📄 Learn To Code
+│  │  ├─ 📄 Professional Learning
+│  │  ├─ 📄 Success Stories
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Apple Learning Coach
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Berwyn
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Brisbane
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Centro Escolar
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Corpus Christi
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Dincao
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Dsb1
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Everyone Can Code
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Gardens
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Greenside
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Hirakata City
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Holsworthy
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Istituto
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Lewis
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Madrasah Alsagoff
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Mallya Aditi
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Mcps
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Niigata City
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Nowra
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Remote Learning
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Rotorua
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Satitpim
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Scottish Borders
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sewanhaka
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Sisler
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 St Andrews
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 St Pierre De La Mer
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Stowe
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Township
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Windsor
+│  │  ├─ 📂 Success Stories
+│  │  │  ├─ 📄 Zhiqing
+│  │  └─ 📄 Teaching Tools
+
+│  └─ 📄 Success Stories
+
+
+├─ 📁 Education Initiative
+
+│  └─ 📄 Education Initiative
+
+
+├─ 📁 Environment
+
+│  ├─ 📄 Environment
+
+│  └─ 📄 Answers
+
+
+├─ 📁 Families
+
+│  └─ 📄 Families
+
+
+├─ 📁 Family Sharing
+
+│  └─ 📄 Family Sharing
+
+
+├─ 📁 Feedback
+
+│  ├─ 📄 Feedback
+
+│  ├─ 📄 Airpods
+
+│  ├─ 📄 Airtag
+
+│  ├─ 📄 Apple Fitness Plus
+
+│  ├─ 📄 Apple Music
+
+│  ├─ 📄 Apple News
+
+│  ├─ 📄 Apple Pay
+
+│  ├─ 📄 Apple Podcasts
+
+│  ├─ 📄 Apple School Manager
+
+│  ├─ 📄 Apple Sports
+
+│  ├─ 📄 Apple Tv
+
+│  ├─ 📄 Apple Tv App
+
+│  ├─ 📄 Apple Vision Pro
+
+│  ├─ 📄 Automator
+
+│  ├─ 📄 Books
+
+│  ├─ 📄 Books Ios Ipados
+
+│  ├─ 📄 Calendar
+
+│  ├─ 📄 Camera
+
+│  ├─ 📄 Classroom Ios Ipados
+
+│  ├─ 📄 Classroom Mac
+
+│  ├─ 📄 Compressor
+
+│  ├─ 📄 Configurator
+
+│  ├─ 📄 Contacts
+
+│  ├─ 📄 Displays
+
+│  ├─ 📄 Dvdplayer
+
+│  ├─ 📄 Facetime
+
+│  ├─ 📄 Final Cut Camera
+
+│  ├─ 📄 Finalcutpro
+
+│  ├─ 📄 Freeform
+
+│  ├─ 📄 Garageband
+
+│  ├─ 📄 Garageband Ios Ipados
+
+│  ├─ 📄 Health
+
+│  ├─ 📄 Home App
+
+│  ├─ 📄 Homepod
+
+│  ├─ 📄 Icloud
+
+│  ├─ 📄 Imac
+
+│  ├─ 📄 Imac Pro
+
+│  ├─ 📄 Imovie
+
+│  ├─ 📄 Imovie Ios Ipados
+
+│  ├─ 📄 Ipad
+
+│  ├─ 📄 Iphone
+
+│  ├─ 📄 Itunes Store
+
+│  ├─ 📄 Journal
+
+│  ├─ 📄 Keynote For Icloud.Html
+
+│  ├─ 📄 Keynote Ios Ipados.Html
+
+│  ├─ 📄 Keynote.Html
+
+│  ├─ 📄 Logic Pro
+
+│  ├─ 📄 Mac Mini
+
+│  ├─ 📄 Mac Pro
+
+│  ├─ 📄 Mac Studio
+
+│  ├─ 📄 Macbook
+
+│  ├─ 📄 Macbook Air
+
+│  ├─ 📄 Macbook Pro
+
+│  ├─ 📄 Macos
+
+│  ├─ 📄 Magic Mouse
+
+│  ├─ 📄 Mail
+
+│  ├─ 📄 Mainstage
+
+│  ├─ 📄 Maps Ios Ipados
+
+│  ├─ 📄 Maps Mac
+
+│  ├─ 📄 Messages
+
+│  ├─ 📄 Messages Ios Ipados
+
+│  ├─ 📄 Motion
+
+│  ├─ 📄 Notes
+
+│  ├─ 📄 Numbers For Icloud.Html
+
+│  ├─ 📄 Numbers Ios Ipados.Html
+
+│  ├─ 📄 Numbers.Html
+
+│  ├─ 📄 Pages For Icloud.Html
+
+│  ├─ 📄 Pages Ios Ipados.Html
+
+│  ├─ 📄 Pages.Html
+
+│  ├─ 📄 Photos
+
+│  ├─ 📄 Pixelmator Pro
+
+│  ├─ 📄 Quicktime
+
+│  ├─ 📄 Reminders
+
+│  ├─ 📄 Remotedesktop
+
+│  ├─ 📄 Safari
+
+│  ├─ 📄 Server
+
+│  ├─ 📄 Stocks
+
+│  ├─ 📄 Time Machine
+
+│  ├─ 📄 Translate
+
+│  ├─ 📄 Voice Memos
+
+│  ├─ 📄 Watch
+
+│  └─ 📄 Weather
+
+
+├─ 📁 Final Cut Pro
+
+│  ├─ 📄 Final Cut Pro
+
+│  ├─ 📄 Compressor
+
+│  ├─ 📄 Motion
+
+│  ├─ 📂 Resources
+│  │  └─ 📄 Ecosystem
+
+│  ├─ 📄 Specs
+
+│  ├─ 📄 Trial
+
+│  └─ 📄 Workflows
+
+
+├─ 📁 Final Cut Pro For Ipad
+
+│  └─ 📄 Final Cut Pro For Ipad
+
+
+├─ 📁 Financing
+
+│  └─ 📄 Financing
+
+
+├─ 📁 Government
+
+│  ├─ 📄 Government
+
+│  ├─ 📄 Resources
+
+│  └─ 📂 Success Stories
+│     ├─ 📄 Cpkc
+│     ├─ 📄 Energy Queensland
+│     ├─ 📄 North Shore
+│     └─ 📄 Umc Utrecht
+
+
+├─ 📁 Health
+
+│  └─ 📄 Health
+
+
+├─ 📁 Healthcare
+
+│  ├─ 📄 Healthcare
+
+│  ├─ 📄 Home Care
+
+│  ├─ 📄 Hospital Care
+
+│  └─ 📄 Success Stories
+
+
+├─ 📁 Home App
+
+│  ├─ 📄 Home App
+
+│  └─ 📄 Accessories
+
+
+├─ 📁 Homepod 2Nd Generation
+
+│  ├─ 📄 Homepod 2Nd Generation
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Homepod Mini
+
+│  ├─ 📄 Homepod Mini
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Icloud
+
+│  ├─ 📄 Icloud
+
+│  └─ 📄 Find My
+
+
+├─ 📁 Imac
+
+│  ├─ 📄 Imac
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Ios
+
+│  ├─ 📄 Business Chat
+
+│  ├─ 📂 Carplay
+│  │  └─ 📄 Available Models
+
+│  ├─ 📄 Feature Availability
+
+│  └─ 📄 Garageband
+
+
+├─ 📁 Ipad
+
+│  ├─ 📄 Ipad
+
+│  ├─ 📂 Cellular
+│  │  └─ 📄 Networks
+
+│  └─ 📄 Compare
+
+
+├─ 📁 Ipad 11
+
+│  ├─ 📄 Ipad 11
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Ipad Air
+
+│  ├─ 📄 Ipad Air
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Ipad Keyboards
+
+│  └─ 📄 Ipad Keyboards
+
+
+├─ 📁 Ipad Mini
+
+│  ├─ 📄 Ipad Mini
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Ipad Pro
+
+│  ├─ 📄 Ipad Pro
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Iphone
+
+│  ├─ 📄 Iphone
+
+│  ├─ 📄 Battery.Html
+
+│  ├─ 📄 Buy
+
+│  ├─ 📄 Cellular
+
+│  ├─ 📄 Compare
+
+│  └─ 📄 Switch
+
+
+├─ 📁 Iphone 16
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Iphone 16E
+
+│  ├─ 📄 Iphone 16E
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Switch
+
+
+├─ 📁 Iphone 17
+
+│  ├─ 📄 Iphone 17
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Switch
+
+
+├─ 📁 Iphone 17 Pro
+
+│  ├─ 📄 Iphone 17 Pro
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Switch
+
+
+├─ 📁 Iphone Air
+
+│  ├─ 📄 Iphone Air
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Switch
+
+
+├─ 📁 Itunes
+
+│  └─ 📄 Itunes
+
+
+├─ 📁 Iwork
+
+│  └─ 📄 Iwork
+
+
+├─ 📁 Keynote
+
+│  └─ 📄 Compatibility
+
+
+├─ 📁 Leadership
+
+│  ├─ 📄 Leadership
+
+│  ├─ 📄 Adrian Perica
+
+│  ├─ 📄 Craig Federighi
+
+│  ├─ 📄 Deirdre Obrien
+
+│  ├─ 📄 Eddy Cue
+
+│  ├─ 📄 Greg Joswiak
+
+│  ├─ 📄 Isabel Ge Mahe
+
+│  ├─ 📄 John Ternus
+
+│  ├─ 📄 Johny Srouji
+
+│  ├─ 📄 Katherine Adams
+
+│  ├─ 📄 Kevan Parekh
+
+│  ├─ 📄 Kristin Huguet Quayle
+
+│  ├─ 📄 Lisa Jackson
+
+│  ├─ 📄 Luca Maestri
+
+│  ├─ 📄 Mike Fenger
+
+│  ├─ 📄 Phil Schiller
+
+│  ├─ 📄 Sabih Khan
+
+│  ├─ 📄 Tim Cook
+
+│  └─ 📄 Tor Myhren
+
+
+├─ 📁 Legal
+
+│  ├─ 📄 Legal
+
+│  ├─ 📂 Contact
+│  │  ├─ 📄 Copyright Infringement.Html
+│  │  ├─ 📄 Counterfeit Prevention.Html
+│  │  ├─ 📄 Piracy.Html
+│  │  ├─ 📄 Rights Permissions.Html
+│  │  └─ 📄 Trademark Information.Html
+
+│  ├─ 📂 Education
+│  │  └─ 📄 Apple School Manager
+
+│  ├─ 📂 Enterprise
+│  │  ├─ 📄 Apple Business Manager
+│  │  └─ 📄 Datatransfer
+
+│  ├─ 📂 Intellectual Property
+│  │  ├─ 📄 Copyright Claims Board.Html
+│  │  ├─ 📄 Dispute Forms
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 App Store
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 App Name Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 App Store Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Books
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Books Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Icloud
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Music
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Music Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Ringtones Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Tv Film Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 News
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 News Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Original Content
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Podcasts
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Podcasts Dispute.Html
+│  │  ├─ 📂 Dispute Forms
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📄 Frand
+│  │  ├─ 📄 Guidelinesfor3Rdparties.Html
+│  │  ├─ 📄 Piracy.Html
+│  │  ├─ 📂 Policies
+│  │  │  ├─ 📄 Ideas.Html
+│  │  ├─ 📄 Tld
+│  │  ├─ 📂 Tld
+│  │  │  ├─ 📄 Anti Abuse Policy
+│  │  ├─ 📂 Tld
+│  │  │  ├─ 📄 Czds Policy
+│  │  ├─ 📂 Tld
+│  │  │  ├─ 📄 Dps
+│  │  ├─ 📂 Tld
+│  │  │  ├─ 📄 Registration Policy
+│  │  └─ 📂 Trademark
+│  │     └─ 📄 Appletmlist.Html
+
+│  ├─ 📂 Internet Services
+│  │  ├─ 📄 Icloud
+│  │  ├─ 📂 Icloud
+│  │  │  ├─ 📄 Terms.Html
+│  │  ├─ 📂 Icloud
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📄 Itunes
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Giftcards
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Terms.Html
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Testflight
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Terms.Html
+│  │  ├─ 📂 Itunes
+│  │  │  ├─ 📄 Ww
+│  │  └─ 📂 Terms
+│  │     └─ 📄 Site.Html
+
+│  ├─ 📂 More Resources
+│  │  ├─ 📄 Gtc.Html
+│  │  ├─ 📂 Settlement
+│  │  │  ├─ 📄 Apple Bag Check Settlement.Html
+│  │  ├─ 📂 Settlement
+│  │  │  ├─ 📄 Foreman.Html
+│  │  └─ 📄 Supplier Provisions.Html
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Sales Support
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Acpa.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Acrapac.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Actssgeos.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Appforipad.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Appforiphone.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Appgeos.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Applecareforenterprise
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Applecareplus
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Business Essentials
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Cooperative Support
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Education
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Applecareplus_Mac_Nf.Html
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Ipad Mac
+│  │  ├─ 📂 Applecare
+│  │  │  ├─ 📄 Ipad Multipack
+│  │  ├─ 📄 Certification
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Apple Service Certification Policies
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certification_Policies_Applecare.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreement.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementbrpt.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementde.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementes.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementfr.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementhans.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementhant.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementit.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementjp.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementko.Html
+│  │  ├─ 📂 Certification
+│  │  │  ├─ 📄 Certprogagreementth.Html
+│  │  ├─ 📄 Iphoneinstallments_Us
+│  │  ├─ 📄 Iphoneupgrade_Texting_Us
+│  │  ├─ 📄 Iphoneupgrade_Us
+│  │  ├─ 📄 Recycle
+│  │  ├─ 📂 Recycle
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Online Store Education Individuals.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Online Store Enterprise.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Online Store Higher Education.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Online Store K12 Schools.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Online Store.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Reseller.Html
+│  │  ├─ 📂 Sales Policies
+│  │  │  ├─ 📄 Retail.Html
+│  │  ├─ 📄 Support Assistant
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Inwarranty.Html
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Outofwarranty.Html
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Iphonears
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Inwarranty.Html
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Outofwarranty.Html
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Repair
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Generalservice
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsar
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsbrpt
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsda
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsde
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsen
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermses
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsfi
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsfr
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsfrca
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermshans
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermshant
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsit
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsjv
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsmxes
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsnl
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsno
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermsru
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Servicetermssv
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Ww
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Retailservice.Html
+│  │  ├─ 📂 Terms
+│  │  │  ├─ 📄 Trainingservice.Html
+│  │  ├─ 📄 Trade In
+│  │  └─ 📂 Trade In
+│  │     └─ 📄 Ww
+
+│  ├─ 📄 Sla
+
+│  └─ 📂 Warranty
+│     ├─ 📄 Obligor.Html
+│     └─ 📄 Statutoryrights.Html
+
+
+├─ 📁 Logic Pro
+
+│  ├─ 📄 Logic Pro
+
+│  ├─ 📄 Garageband To Logic
+
+│  ├─ 📄 Plugins And Sounds
+
+│  ├─ 📄 Resources
+
+│  ├─ 📄 Specs
+
+│  └─ 📄 Trial
+
+
+├─ 📁 Logic Pro For Ipad
+
+│  └─ 📄 Logic Pro For Ipad
+
+
+├─ 📁 Mac
+
+│  ├─ 📄 Mac
+
+│  ├─ 📄 Best Mac
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Garageband
+
+│  └─ 📄 Mac Does That
+
+
+├─ 📁 Mac Mini
+
+│  ├─ 📄 Mac Mini
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Mac Pro
+
+│  ├─ 📄 Mac Pro
+
+│  ├─ 📄 Compare
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Mac Studio
+
+│  ├─ 📄 Mac Studio
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Macbook Air
+
+│  ├─ 📄 Macbook Air
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Macbook Pro
+
+│  ├─ 📄 Macbook Pro
+
+│  ├─ 📄 Compare
+
+│  ├─ 📄 Mac Does That
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Macos
+
+│  └─ 📄 Continuity
+
+
+├─ 📁 Mainstage
+
+│  ├─ 📄 Mainstage
+
+│  └─ 📄 Plugins And Sounds
+
+
+├─ 📁 Maps
+
+│  └─ 📄 Maps
+
+
+├─ 📁 Nan
+
+│  └─ 📄 Nan
+
+
+├─ 📁 Numbers
+
+│  └─ 📄 Compatibility
+
+
+├─ 📁 Os
+
+│  ├─ 📄 Os
+
+│  ├─ 📄 Ios
+
+│  ├─ 📄 Ipados
+
+│  ├─ 📄 Macos
+
+│  ├─ 📄 Visionos
+
+│  └─ 📄 Watchos
+
+
+├─ 📁 Pages
+
+│  └─ 📄 Compatibility
+
+
+├─ 📁 Privacy
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Control
+
+│  ├─ 📄 Features
+
+│  └─ 📄 Labels
+
+
+├─ 📁 Pro Display Xdr
+
+│  ├─ 📄 Pro Display Xdr
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Product Red
+
+│  └─ 📄 Product Red
+
+
+├─ 📁 Promo
+
+│  └─ 📄 Promo
+
+
+├─ 📁 Racial Equity Justice Initiative
+
+│  └─ 📄 Racial Equity Justice Initiative
+
+
+├─ 📁 Retail
+
+│  ├─ 📄 Retail
+
+│  ├─ 📄 Business
+
+│  ├─ 📄 Downtownnashville
+
+│  ├─ 📄 Geniusbar
+
+│  ├─ 📂 Instore Shopping Session
+│  │  └─ 📄 Session Selection
+
+│  ├─ 📄 Miamiworldcenter
+
+│  ├─ 📄 Michiganavenue
+
+│  ├─ 📄 Storelist
+
+│  └─ 📄 Towertheatre
+
+
+├─ 📁 Safari
+
+│  └─ 📄 Safari
+
+
+├─ 📁 Services
+
+│  └─ 📄 Services
+
+
+├─ 📁 Siri
+
+│  └─ 📄 Siri
+
+
+├─ 📁 Sitemap
+
+│  └─ 📄 Sitemap
+
+
+├─ 📁 Store
+
+│  └─ 📄 Store
+
+
+├─ 📁 Store Opening Letter
+
+│  └─ 📄 Store Opening Letter
+
+
+├─ 📁 Studio Display
+
+│  ├─ 📄 Studio Display
+
+│  └─ 📄 Specs
+
+
+├─ 📁 Supply Chain
+
+│  └─ 📄 Supply Chain
+
+
+├─ 📁 Tv Home
+
+│  └─ 📄 Tv Home
+
+
+├─ 📁 Tv Pr
+
+│  ├─ 📄 Tv Pr
+
+│  ├─ 📄 About
+
+│  ├─ 📄 News
+
+│  └─ 📂 Originals
+│     ├─ 📂 Black Bird
+│     │  ├─ 📄 Trailers Videos
+│     ├─ 📄 Duck And Goose
+│     ├─ 📂 Duck And Goose
+│     │  ├─ 📄 Cast Crew
+│     ├─ 📂 Duck And Goose
+│     │  ├─ 📄 Trailers Videos
+│     ├─ 📂 Greatness Code
+│     │  ├─ 📄 Cast Crew
+│     ├─ 📂 Physical
+│     │  ├─ 📄 Trailers Videos
+│     ├─ 📂 Slow Horses
+│     │  ├─ 📄 Cast Crew
+│     ├─ 📂 The Mosquito Coast
+│     │  ├─ 📄 Trailers Videos
+│     ├─ 📄 The Problem With Jon Stewart
+│     ├─ 📂 The Problem With Jon Stewart
+│     │  ├─ 📄 Cast Crew
+│     ├─ 📂 The Problem With Jon Stewart
+│     │  ├─ 📄 Trailers Videos
+│     └─ 📂 The Sky Is Everywhere
+│        └─ 📄 Images
+
+
+├─ 📁 Us
+
+│  └─ 📂 Search
+│     └─ 📄 Product Red
+
+
+├─ 📁 Us Edu
+
+│  └─ 📄 Store
+
+
+├─ 📁 Us_Epp_55499
+
+│  └─ 📄 Store
+
+
+├─ 📁 Us_Epp_67909
+
+│  └─ 📄 Store
+
+
+├─ 📁 Usergroups
+
+│  └─ 📄 Usergroups
+
+
+├─ 📁 Wallet
+
+│  └─ 📄 Wallet
+
+
+├─ 📁 Watch
+
+│  ├─ 📄 Watch
+
+│  ├─ 📄 Battery
+
+│  ├─ 📄 Cellular
+
+│  ├─ 📄 Close Your Rings
+
+│  ├─ 📄 Compare
+
+│  └─ 📄 Why Apple Watch
+
+
+├─ 📁 Working With Apple Services
+
+│  └─ 📄 Working With Apple Services
+
+
+└─ 📁 Wtgh
+
+   └─ 📄 Re
+

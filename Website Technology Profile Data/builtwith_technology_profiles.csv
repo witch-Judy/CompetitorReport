@@ -1,0 +1,19 @@
+﻿Company,CMS,Web Server,JavaScript Libraries,Analytics,Marketing Automation,CDN,Hosting,SSL Certificate,Email Service,Tag Management,Other Technologies
+Cognite,,"IIS, Nginx","React, jQuery",,HubSpot,Cloudflare,"AWS, Azure, Google Cloud",,,Google Tag Manager,
+Aveva,,"IIS, Nginx","React, Sentry, jQuery","Matomo, Omniture SiteCatalyst (Adobe Analytics)","Adobe Marketing Cloud, Marketo","Akamai, Cloudflare",Azure,,,"Adobe Dynamic Tag Management, Adobe Launch, Google Tag Manager",
+Tulip,,"Apache, Nginx","React, Sentry, jQuery",,Marketo,"AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront), Azure, Google Cloud",,Amazon SES,Google Tag Manager,Stripe
+C3 AI,,"Apache, Nginx","React, Sentry, jQuery",,Marketo,"AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront), Azure, Google Cloud",,Amazon SES,Google Tag Manager,Stripe
+Yokogawa,,Apache,"Angular, jQuery",,Marketo,"AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront)",,"Amazon SES, Mailgun",Google Tag Manager,
+Emerson,,Apache,"React, Sentry, Vue.js, jQuery",,Eloqua,Cloudflare,Azure,,Mailgun,Google Tag Manager,
+ABB,,"Apache, IIS","Angular, jQuery",Omniture SiteCatalyst (Adobe Analytics),"Adobe Marketing Cloud, Marketo","Akamai, Cloudflare",Azure,,SendGrid,"Adobe Dynamic Tag Management, Adobe Launch, Google Tag Manager",
+Siemens,,,"Sentry, JavaScript Modules","Omniture SiteCatalyst (Adobe Analytics), Matomo",Adobe Marketing Cloud,"Azure Edge, AWS CloudFront",Azure (inferred from Azure Edge),,,"Adobe Launch, Adobe Dynamic Tag Management, Matomo Tag Manager","Amazon API Gateway, Adyen"
+Rockwell Automation,,"Apache, IIS","Angular, jQuery",Omniture SiteCatalyst (Adobe Analytics),"Adobe Marketing Cloud, Marketo","Akamai, Cloudflare",Azure,,SendGrid,"Adobe Dynamic Tag Management, Adobe Launch, Google Tag Manager",
+Honeywell,,Apache,"Sentry, jQuery",Omniture SiteCatalyst (Adobe Analytics),"Adobe Marketing Cloud, Eloqua","Akamai, Cloudflare",Azure,,Amazon SES,"Adobe Dynamic Tag Management, Google Tag Manager",
+Schneider Electric,,Apache,"Sentry, jQuery",Omniture SiteCatalyst (Adobe Analytics),"Adobe Marketing Cloud, Eloqua","Akamai, Cloudflare",Azure,,Amazon SES,"Adobe Dynamic Tag Management, Google Tag Manager",
+Bosch,,"Apache, IIS","React, jQuery",Omniture SiteCatalyst (Adobe Analytics),Pardot,"Akamai, Cloudflare","AWS, Azure",,Amazon SES,"Adobe Dynamic Tag Management, Google Tag Manager",
+GE,,"Apache, IIS","React, jQuery",Omniture SiteCatalyst (Adobe Analytics),Pardot,"Akamai, Cloudflare","AWS, Azure",,Amazon SES,"Adobe Dynamic Tag Management, Google Tag Manager",
+Hitachi,,Apache,"React, Sentry, Vue.js, jQuery",,"Eloqua, Pardot",Cloudflare,Azure,,Mailgun,Google Tag Manager,
+Ignition,,Apache,"React, Sentry, Vue.js, jQuery",,"Eloqua, Pardot",Cloudflare,Azure,,Mailgun,Google Tag Manager,
+HiveMQ,,Apache,"Angular, jQuery",,"Marketo, Pardot","AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront)",,"Amazon SES, Mailgun",Google Tag Manager,
+UMH,,Apache,"Angular, jQuery",,"Marketo, Pardot","AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront)",,"Amazon SES, Mailgun",Google Tag Manager,
+Univers,,"Apache, Nginx","React, Sentry, jQuery",,Marketo,"AWS CloudFront, Cloudflare","AWS, AWS (inferred from AWS CloudFront), Azure, Google Cloud",,Amazon SES,Google Tag Manager,Stripe

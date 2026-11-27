@@ -1,0 +1,53 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 1550
+
+Domains: c3.ai
+
+Languages:
+  : 1342
+  blog: 125
+  live: 72
+  legal: 6
+  data: 2
+  news: 1
+  sip: 1
+  svea: 1
+
+Sections:
+  : 758
+  data-science: 48
+  data-sheet: 34
+  artificial-intelligence: 29
+  features: 14
+  machine-learning: 14
+  c3-ai-ex-machina: 12
+  category: 10
+  it-for-enterprise-ai: 8
+  data: 7
+  ai: 5
+  c3-ai-studio: 5
+  platform-services: 5
+  enterprise-ai-for-manufacturing: 5
+  c3-ai-inventory-optimization: 5
+  application-development: 4
+  enterprise-ai-for-financial-services: 4
+  enterprise-ai-for-government: 4
+  enterprise-ai-for-utilities: 4
+  c3-ai-anti-money-laundering: 4
+
+Content Types:
+  other: 1155
+  product: 134
+  blog: 130
+  industry: 49
+  resource: 38
+  company: 24
+  newsroom: 10
+  legal: 8
+  home: 1
+  webinar: 1
+
+Years:

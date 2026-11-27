@@ -1,0 +1,1088 @@
+[
+  {
+    "company": "C3 AI",
+    "webinar_count": 1,
+    "webinar_titles": [
+      "Webinar Scaling Enterprise Ai"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "scaling": 1,
+        "enterprise": 1
+      },
+      "total_webinars": 1
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 1
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Webinar Scaling Enterprise Ai"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 1,
+      "path_patterns": {},
+      "sections": {
+        "webinar-scaling-enterprise-ai": 1
+      }
+    }
+  },
+  {
+    "company": "abb",
+    "webinar_count": 1,
+    "webinar_titles": [
+      "Omnicore Webinar Series"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "analytics": 1
+      },
+      "top_keywords": {
+        "omnicore": 1
+      },
+      "total_webinars": 1
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 1
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Omnicore Webinar Series"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 1,
+      "path_patterns": {
+        "has_series": 1
+      },
+      "sections": {
+        "en": 1
+      }
+    }
+  },
+  {
+    "company": "aveva",
+    "webinar_count": 1,
+    "webinar_titles": [
+      "Webinars"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "analytics": 1
+      },
+      "top_keywords": {},
+      "total_webinars": 1
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 1
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Webinars"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 1,
+      "path_patterns": {},
+      "sections": {
+        "perspectives": 1
+      }
+    }
+  },
+  {
+    "company": "cognite",
+    "webinar_count": 5,
+    "webinar_titles": [
+      "Cognite Forrester Webinar",
+      "Webinars Videos",
+      "Cognite Outsystems Pwc Webinar From Idea To Operationalized Applicationin Weeks Not Years",
+      "Cognite Webinar Demystifying Hybrid Ai In Og Process Manufacturing",
+      "Cognite Webinar From Machinist To Citizen Data Scientist"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "cognite": 4,
+        "forrester": 1,
+        "videos": 1,
+        "outsystems": 1,
+        "idea": 1,
+        "operationalized": 1,
+        "applicationin": 1,
+        "weeks": 1,
+        "years": 1,
+        "demystifying": 1,
+        "hybrid": 1,
+        "process": 1,
+        "manufacturing": 1,
+        "machinist": 1,
+        "citizen": 1,
+        "data": 1,
+        "scientist": 1
+      },
+      "total_webinars": 5
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 1,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 4
+      },
+      "examples": {
+        "tofu": [
+          "Cognite Forrester Webinar"
+        ],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Webinars Videos",
+          "Cognite Outsystems Pwc Webinar From Idea To Operationalized Applicationin Weeks Not Years",
+          "Cognite Webinar Demystifying Hybrid Ai In Og Process Manufacturing",
+          "Cognite Webinar From Machinist To Citizen Data Scientist"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {
+        "forrester": 1,
+        "pwc": 1
+      },
+      "co_hosted_count": 2,
+      "co_hosted_examples": [
+        {
+          "title": "Cognite Forrester Webinar",
+          "partners": [
+            "forrester"
+          ]
+        },
+        {
+          "title": "Cognite Outsystems Pwc Webinar From Idea To Operationalized Applicationin Weeks Not Years",
+          "partners": [
+            "pwc"
+          ]
+        }
+      ]
+    },
+    "structure_analysis": {
+      "total_webinars": 152,
+      "path_patterns": {
+        "live": 2
+      },
+      "sections": {
+        "resources": 152
+      }
+    }
+  },
+  {
+    "company": "emerson",
+    "webinar_count": 14,
+    "webinar_titles": [
+      "Branson Webinar Center",
+      "Movicon Webinar Center",
+      "Deltav Saas Scada Webinar Series Oil Gas Producers",
+      "Webinar",
+      "Fluid Control Pneumatics Webinar Center",
+      "Gas Chromatograph Webinar Series",
+      "Deltav Webinars",
+      "Webinar Hub",
+      "Webinars",
+      "Emerson Uk Live Webinars",
+      "2020 Energy Efficiency Webinar",
+      "R290 Vts Livewebinar",
+      "Webinar A2L Romania",
+      "Webinar Emerson Technology For R32 Chillers And Heat Pumps"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "cloud": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "center": 3,
+        "deltav": 2,
+        "emerson": 2,
+        "branson": 1,
+        "movicon": 1,
+        "saas": 1,
+        "scada": 1,
+        "producers": 1,
+        "fluid": 1,
+        "control": 1,
+        "pneumatics": 1,
+        "chromatograph": 1,
+        "live": 1,
+        "2020": 1,
+        "energy": 1,
+        "efficiency": 1,
+        "r290": 1,
+        "livewebinar": 1,
+        "romania": 1,
+        "technology": 1
+      },
+      "total_webinars": 14
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 14
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Branson Webinar Center",
+          "Movicon Webinar Center",
+          "Deltav Saas Scada Webinar Series Oil Gas Producers",
+          "Webinar",
+          "Fluid Control Pneumatics Webinar Center"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 14,
+      "path_patterns": {
+        "has_series": 2,
+        "live": 2
+      },
+      "sections": {
+        "automation": 8,
+        "news": 5,
+        "expertise": 1
+      }
+    }
+  },
+  {
+    "company": "hitachi",
+    "webinar_count": 1,
+    "webinar_titles": [
+      "Hbr Webinar"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "analytics": 1
+      },
+      "top_keywords": {},
+      "total_webinars": 1
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 1
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Hbr Webinar"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 1,
+      "path_patterns": {},
+      "sections": {
+        "about": 1
+      }
+    }
+  },
+  {
+    "company": "hivemq",
+    "webinar_count": 5,
+    "webinar_titles": [
+      "Join The Hivemq Webinar",
+      "Mqtt Sparkplug Whitepaper And Webinar",
+      "📁 Webinars",
+      "Webinars",
+      "Dzone Webinar Moving Iot Data Into Cloud Platforms"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "iot_iiot": 1,
+        "cloud": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "join": 1,
+        "hivemq": 1,
+        "mqtt": 1,
+        "sparkplug": 1,
+        "whitepaper": 1,
+        "dzone": 1,
+        "moving": 1,
+        "data": 1,
+        "cloud": 1,
+        "platforms": 1
+      },
+      "total_webinars": 5
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 5
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Join The Hivemq Webinar",
+          "Mqtt Sparkplug Whitepaper And Webinar",
+          "📁 Webinars",
+          "Webinars",
+          "Dzone Webinar Moving Iot Data Into Cloud Platforms"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 95,
+      "path_patterns": {
+        "live": 1
+      },
+      "sections": {
+        "cisco-hivemq-and-orange-delivering-edge-to-cloud-digital-resilience-for-ot": 1,
+        "redefining-iot-data-management-hivemq-s-unified-namespace-approach": 1,
+        "quick-wins-with-uns-a-12-week-plan-for-scale-and-ai-readiness": 1,
+        "maximizing-data-center-efficiency-real-time-data-streaming-with-hivemq": 1,
+        "industrial-data-management-trends-for-2025": 1,
+        "conversation-with-kudzai-uns-architecture-core-components-functions": 1,
+        "conversation-with-kudzai-business-value-uns": 1,
+        "unified-namespace-real-life-implementations-in-manufacturing-industries": 1,
+        "revolutionizing-connectivity-powerful-mqtt-use-cases-with-andy-stanford-clark": 1,
+        "driving-the-future-aligning-automotive-innovation-with-uscar-standards": 1
+      }
+    }
+  },
+  {
+    "company": "honeywell",
+    "webinar_count": 6,
+    "webinar_titles": [
+      "Automation Ai Innovations Webinar",
+      "Honeywell Intelligrated Webinar Series Explores Strategies To Help Distribution Centers Reach Lifecycle Management Goals",
+      "Webinar",
+      "Emissions Management Webinar",
+      "Fuels Of The Future Webinar",
+      "Webinars"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 1,
+        "sustainability": 1,
+        "automation": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "management": 2,
+        "automation": 1,
+        "innovations": 1,
+        "honeywell": 1,
+        "intelligrated": 1,
+        "explores": 1,
+        "strategies": 1,
+        "help": 1,
+        "distribution": 1,
+        "centers": 1,
+        "reach": 1,
+        "lifecycle": 1,
+        "goals": 1,
+        "emissions": 1,
+        "fuels": 1,
+        "future": 1
+      },
+      "total_webinars": 6
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 1,
+        "mofu": 0,
+        "bofu": 0,
+        "unknown": 5
+      },
+      "examples": {
+        "tofu": [
+          "Fuels Of The Future Webinar"
+        ],
+        "mofu": [],
+        "bofu": [],
+        "unknown": [
+          "Automation Ai Innovations Webinar",
+          "Honeywell Intelligrated Webinar Series Explores Strategies To Help Distribution Centers Reach Lifecycle Management Goals",
+          "Webinar",
+          "Emissions Management Webinar",
+          "Webinars"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {
+        "intel": 1,
+        "ey": 1
+      },
+      "co_hosted_count": 1,
+      "co_hosted_examples": [
+        {
+          "title": "Honeywell Intelligrated Webinar Series Explores Strategies To Help Distribution Centers Reach Lifecycle Management Goals",
+          "partners": [
+            "intel",
+            "ey"
+          ]
+        }
+      ]
+    },
+    "structure_analysis": {
+      "total_webinars": 7,
+      "path_patterns": {
+        "has_series": 1
+      },
+      "sections": {
+        "en": 7
+      }
+    }
+  },
+  {
+    "company": "ignition",
+    "webinar_count": 54,
+    "webinar_titles": [
+      "Webinar",
+      "Data Ops Webinar With Inductive Automation And Cirrus Link",
+      "Webinar 10 Steps Architecting Sustainable Scada System",
+      "Webinar Affordably Refreshing Your Water Districts Process Control",
+      "Webinar Best Practices Iiot",
+      "Webinar Boost Operational Efficiency New Oee Software",
+      "Webinar Design Pro Alarm Management",
+      "Webinar Design Pro Essential Steps Enterprise Architectures",
+      "Webinar Design Pro Scada Security Guidelines",
+      "Webinar Design Pro Scripting Best Practices",
+      "Webinar Fixing Scada How Ignition Saves Money",
+      "Webinar Fixing Scada How Ignition Saves Time",
+      "Webinar Get More Data Your Scada",
+      "Webinar Getting Started Lean Manufacturing",
+      "Webinar Ignition Edge Simplifying Edge Network",
+      "Webinar Implementing Iiot Field Cloud",
+      "Webinar Integrator Roundtable Future Of Automation",
+      "Webinar Practical Iiot Solutions Manufacturing",
+      "Webinar Touring Tomorrows Digital Factory",
+      "Webinar Use Plcs Sql Databases"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 2,
+        "data_ops": 1,
+        "iot_iiot": 2,
+        "cloud": 1,
+        "cybersecurity": 1,
+        "sustainability": 1,
+        "automation": 1,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "scada": 12,
+        "ignition": 7,
+        "2016": 7,
+        "iiot": 6,
+        "data": 5,
+        "2018": 5,
+        "2017": 5,
+        "steps": 4,
+        "practices": 4,
+        "edge": 4,
+        "integrator": 4,
+        "system": 3,
+        "control": 3,
+        "operational": 3,
+        "security": 3,
+        "fixing": 3,
+        "saves": 3,
+        "more": 3,
+        "manufacturing": 3,
+        "roundtable": 3
+      },
+      "total_webinars": 54
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 4,
+        "mofu": 2,
+        "bofu": 5,
+        "unknown": 43
+      },
+      "examples": {
+        "tofu": [
+          "Webinar Integrator Roundtable Future Of Automation",
+          "Smart Industry Base Camp Digital Webinar 08 05 2020",
+          "Smart Industry Insight Webinar 04 09 2021",
+          "Webinar Integrator Roundtable Discussion Facing The Future Of Automati"
+        ],
+        "mofu": [
+          "Webinar Practical Iiot Solutions Manufacturing",
+          "Ias Top Content Of 2021 Our Biggest Webinar Case Study Icc Sessions More"
+        ],
+        "bofu": [
+          "Webinar Design Pro Scada Security Guidelines",
+          "Webinar Getting Started Lean Manufacturing",
+          "Webinar Design Like A Pro Scada Security Guidelines 11 15 2017",
+          "Webinar Getting Started With Lean Manufacturing 03 21 2018",
+          "Webinar How To Quickly Create Effective Plant Floor Screens 10 18 2018"
+        ],
+        "unknown": [
+          "Webinar",
+          "Data Ops Webinar With Inductive Automation And Cirrus Link",
+          "Webinar 10 Steps Architecting Sustainable Scada System",
+          "Webinar Affordably Refreshing Your Water Districts Process Control",
+          "Webinar Best Practices Iiot"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {
+        "ey": 3
+      },
+      "co_hosted_count": 3,
+      "co_hosted_examples": [
+        {
+          "title": "Webinar Fixing Scada How Ignition Saves Money",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar 4 Keys To Removing Friction In Your Industrial Organization 01",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar Fixing Scada How Ignition Saves Money 05 30 2018",
+          "partners": [
+            "ey"
+          ]
+        }
+      ]
+    },
+    "structure_analysis": {
+      "total_webinars": 187,
+      "path_patterns": {
+        "live": 33
+      },
+      "sections": {
+        "webinar": 153,
+        "smart-industry-base-camp-digital-webinar-08-05-2020": 1,
+        "webinar-integrator-evolution-11-02-2016": 1,
+        "webinar-design-like-a-pro-building-better-hmi-navigation-schemes-02-22": 1,
+        "webinar-getting-started-with-lean-manufacturing-03-21-2018": 1,
+        "webinar-affordably-refreshing-your-water-districts-process-control-04-": 1,
+        "design-like-a-pro-reporting-webinar-11-11-2015": 1,
+        "upcoming-webinar-web-based-cross-platform-scada-software-works-it-n": 1,
+        "webinar-how-to-quickly-create-effective-plant-floor-screens-10-18-2018": 1,
+        "webinar-10-steps-to-architecting-a-sustainable-scada-system-06-27-2018": 1
+      }
+    }
+  },
+  {
+    "company": "rockwell-automation",
+    "webinar_count": 130,
+    "webinar_titles": [
+      "Webinar Security Risks And How To Mitigate Them",
+      "Rockwell Automation Webinar Offers Practical Sustainability Tactics For Industrial Manufacturers",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Learningplus Techconnect Genius Webinar Thinmanager Fundamentos Teoricos Practicos",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 1,
+        "cybersecurity": 1,
+        "sustainability": 1,
+        "automation": 2,
+        "analytics": 1
+      },
+      "top_keywords": {
+        "learningplus": 5,
+        "techconnect": 5,
+        "genius": 5,
+        "thinmanager": 2,
+        "autonox": 2,
+        "robotics": 2,
+        "security": 1,
+        "risks": 1,
+        "mitigate": 1,
+        "rockwell": 1,
+        "automation": 1,
+        "offers": 1,
+        "practical": 1,
+        "sustainability": 1,
+        "tactics": 1,
+        "industrial": 1,
+        "manufacturers": 1,
+        "fundamentos": 1,
+        "teoricos": 1,
+        "practicos": 1
+      },
+      "total_webinars": 130
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 0,
+        "mofu": 1,
+        "bofu": 1,
+        "unknown": 128
+      },
+      "examples": {
+        "tofu": [],
+        "mofu": [
+          "Partner Webinar With Autonox Robotics Innovative Robotic Solutions From Autonox Robotics"
+        ],
+        "bofu": [
+          "Webinar Security Risks And How To Mitigate Them"
+        ],
+        "unknown": [
+          "Rockwell Automation Webinar Offers Practical Sustainability Tactics For Industrial Manufacturers",
+          "Webinars",
+          "Webinars",
+          "Webinars",
+          "Webinars"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {},
+      "co_hosted_count": 0,
+      "co_hosted_examples": []
+    },
+    "structure_analysis": {
+      "total_webinars": 117,
+      "path_patterns": {
+        "has_series": 7,
+        "on_demand": 1,
+        "live": 1
+      },
+      "sections": {
+        "events": 115,
+        "company": 2
+      }
+    }
+  },
+  {
+    "company": "siemens",
+    "webinar_count": 528,
+    "webinar_titles": [
+      "Webinar Production Availability Through Standardization",
+      "Webinar Accelerating Rd Engineering Through Science Based Modeling",
+      "Webinar End To End Bioprocess Digital Twins",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Webinars",
+      "Form Webinar G Code 1",
+      "Webinar Flexibility G Code 1",
+      "Webinar G Code Programming 2 Turning",
+      "Webinar Graphical Cnc Programming Shopmill",
+      "Webinar Graphical Cnc Programming Shopturn",
+      "Webinar Principle Of A Cnc Machine Tool",
+      "Webinars",
+      "Webinar Series Smart Manufacturing In Automotive",
+      "Webinar Cybersecurity 20230316",
+      "Webinar European Green Deal",
+      "Webinar Sentron 20230316"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 3,
+        "digital_twin": 3,
+        "iot_iiot": 1,
+        "cloud": 1,
+        "cybersecurity": 3,
+        "automation": 1,
+        "analytics": 2
+      },
+      "top_keywords": {
+        "siemens": 22,
+        "simatic": 19,
+        "industrial": 19,
+        "automation": 16,
+        "digital": 15,
+        "cybersecurity": 12,
+        "safety": 11,
+        "wincc": 11,
+        "webinari": 11,
+        "webinare": 10,
+        "portal": 10,
+        "process": 10,
+        "partner": 10,
+        "standardization": 9,
+        "services": 9,
+        "security": 9,
+        "power": 9,
+        "2025": 9,
+        "smart": 8,
+        "simulation": 8
+      },
+      "total_webinars": 528
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 10,
+        "mofu": 6,
+        "bofu": 4,
+        "unknown": 508
+      },
+      "examples": {
+        "tofu": [
+          "Webinar Industry 40 For Machinetools",
+          "Webinar Industry 40 For Machinetools",
+          "Register Industry Webinars",
+          "Industry Webinars",
+          "Webinar Electronics Ai In Semicon Industry"
+        ],
+        "mofu": [
+          "Replay Webinar Smart Lab Solution",
+          "Solution Partner Webinar 6 February 2025",
+          "Solution Partner Webinar May 2025",
+          "Solution Partner Webinar Oct 2025",
+          "Webinar Solution Partner Update May 2024"
+        ],
+        "bofu": [
+          "Webinar From Ideal Planning To Ideal Implementation",
+          "Webinar From Ideal Planning To Ideal Implementation",
+          "Webinar From Ideal Planning To Ideal Implementation",
+          "Senseye Getting Started Webinar"
+        ],
+        "unknown": [
+          "Webinar Production Availability Through Standardization",
+          "Webinar Accelerating Rd Engineering Through Science Based Modeling",
+          "Webinar End To End Bioprocess Digital Twins",
+          "Webinars",
+          "Webinars"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {
+        "intel": 8,
+        "ey": 7
+      },
+      "co_hosted_count": 15,
+      "co_hosted_examples": [
+        {
+          "title": "Webinar13 Artificial Intelligence",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Webinar Reglementation Epbd Automatisation Intelligent Batiment",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Webinarserie Itot Integration Und Senseye",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence Webinar",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Webinar Inteligentni Ventil",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence Webinar",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence Webinar",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Webinar Reduce Energy Usage And Save Money With Mdm Prepay",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Artificial Intelligence Webinar",
+          "partners": [
+            "intel"
+          ]
+        },
+        {
+          "title": "Webinar Reyrolle Portfolio",
+          "partners": [
+            "ey"
+          ]
+        }
+      ]
+    },
+    "structure_analysis": {
+      "total_webinars": 1952,
+      "path_patterns": {
+        "on_demand": 263,
+        "has_series": 92,
+        "live": 50
+      },
+      "sections": {
+        "en": 479,
+        "de": 360,
+        "it": 274,
+        "pl": 153,
+        "fr": 119,
+        "es": 103,
+        "nl": 89,
+        "da": 89,
+        "pt": 75,
+        "cs": 69
+      }
+    }
+  },
+  {
+    "company": "yokogawa",
+    "webinar_count": 218,
+    "webinar_titles": [
+      "Cv8000 Webinar",
+      "Webinar Alarme Betriebsanweisungen Und Anlagenbediener Ein Team Fur Effiziente Und Sichere Produktion",
+      "Webinar Secured Remote Services",
+      "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+      "Webinar Oprex Safety And Security Secured Remote Services German",
+      "Webinar Oprextm Smart Maintenance Taking Industrial Service To A New Level",
+      "Cv8000 Webinar",
+      "Cv8000 Webinar",
+      "Webinar Improve Your Wte And Biomass Plant Profitability",
+      "Virtualization Of Yokogawa Systems Webinar",
+      "Yhc5150X And Ca700 Webinar",
+      "High Content Screening Reveals The Phenotypic Landscape Of Intestinal Organoid Regeneration Webinar",
+      "Cv8000 Webinar",
+      "Webinar Alarme Betriebsanweisungen Und Anlagenbediener Ein Team Fur Effiziente Und Sichere Produktion",
+      "Webinar Secured Remote Services",
+      "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+      "Webinar Oprex Safety And Security Secured Remote Services German",
+      "Webinar Oprextm Smart Maintenance Taking Industrial Service To A New Level",
+      "Webinar",
+      "Webinar Lcs"
+    ],
+    "topic_analysis": {
+      "topic_distribution": {
+        "ai_genai": 1,
+        "digital_twin": 1,
+        "iot_iiot": 2,
+        "cybersecurity": 2,
+        "sustainability": 2,
+        "automation": 2,
+        "analytics": 2
+      },
+      "top_keywords": {
+        "digital": 23,
+        "management": 23,
+        "cv8000": 18,
+        "yokogawa": 16,
+        "system": 16,
+        "plant": 15,
+        "operation": 15,
+        "smart": 13,
+        "maintenance": 12,
+        "yokogawas": 12,
+        "remote": 10,
+        "asset": 10,
+        "control": 10,
+        "safety": 9,
+        "systems": 9,
+        "transformation": 9,
+        "chemical": 9,
+        "injection": 9,
+        "benefits": 9,
+        "solution": 9
+      },
+      "total_webinars": 218
+    },
+    "funnel_analysis": {
+      "distribution": {
+        "tofu": 2,
+        "mofu": 18,
+        "bofu": 7,
+        "unknown": 191
+      },
+      "examples": {
+        "tofu": [
+          "Webinar Special Process Analytics For The Chlorine Industry",
+          "Webinar Special Process Analytics For The Chlorine Industry"
+        ],
+        "mofu": [
+          "Webinar Benefits Of Autonomous Controller",
+          "Webinar Benefits Of Yokogawa Wireless Solution",
+          "Webinar Digitize Hazoplopasrs And Benefits To Sis Engineering Operation And Maintenance",
+          "Webinar The Roi And Digital Transformation Guide To Ar Vr And Mr Projects",
+          "Webinar The Value Of Yokogawas Asset Management Solution"
+        ],
+        "bofu": [
+          "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+          "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+          "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+          "Webinar Operating Instructions Are Patient Practice Makes It Training And Online Real Time Support For Safe And Efficient Production German",
+          "Webinar The Problem Of Choice A Guide To Flowmeter Selection"
+        ],
+        "unknown": [
+          "Cv8000 Webinar",
+          "Webinar Alarme Betriebsanweisungen Und Anlagenbediener Ein Team Fur Effiziente Und Sichere Produktion",
+          "Webinar Secured Remote Services",
+          "Webinar Oprex Safety And Security Secured Remote Services German",
+          "Webinar Oprextm Smart Maintenance Taking Industrial Service To A New Level"
+        ]
+      }
+    },
+    "ecosystem_analysis": {
+      "partners": {
+        "ey": 6
+      },
+      "co_hosted_count": 6,
+      "co_hosted_examples": [
+        {
+          "title": "Webinar End To End Process Automation Through Rpa Journey",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar What The Eyes Dont See Mitigating Hazards Using Fo",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar End To End Process Automation Through Rpa Journey",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar What The Eyes Dont See Mitigating Hazards Using Fo",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar End To End Process Automation Through Rpa Journey",
+          "partners": [
+            "ey"
+          ]
+        },
+        {
+          "title": "Webinar What The Eyes Dont See Mitigating Hazards Using Fo",
+          "partners": [
+            "ey"
+          ]
+        }
+      ]
+    },
+    "structure_analysis": {
+      "total_webinars": 416,
+      "path_patterns": {
+        "has_series": 1,
+        "live": 3
+      },
+      "sections": {
+        "news": 190,
+        "library": 184,
+        "about": 41,
+        "videos": 1
+      }
+    }
+  }
+]

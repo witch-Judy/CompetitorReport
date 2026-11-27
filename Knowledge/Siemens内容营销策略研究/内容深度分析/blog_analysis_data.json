@@ -1,0 +1,257 @@
+[
+  {
+    "url": "https://www.siemens.com/au/en/company/press-centre/blogs/40-years-of-progress.html",
+    "url_hash": "dc65adabcded",
+    "content_type": "blog",
+    "content_data": {
+      "title": "40 years of progress - Siemens AU",
+      "h1": "Forty years of technological progress",
+      "word_count": 68,
+      "paragraph_count": 4
+    },
+    "structure": {
+      "title_structure": {
+        "length": 33,
+        "word_count": 7,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {
+        "paragraph_count": 4,
+        "avg_paragraph_length": 17.0,
+        "min_paragraph_length": 14,
+        "max_paragraph_length": 18,
+        "total_words": 68
+      },
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": true,
+        "image_count": 2,
+        "has_links": true,
+        "link_count": 11
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 1,
+          "factors": [
+            "has_headings"
+          ]
+        },
+        "scannability": {
+          "score": 1,
+          "factors": [
+            "has_images"
+          ]
+        },
+        "engagement_elements": {
+          "has_images": true,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "blog",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:55"
+  },
+  {
+    "url": "https://www.siemens.com/au/en/company/press-centre/blogs/ai-friend-or-foe.html",
+    "url_hash": "0af9a0865892",
+    "content_type": "blog",
+    "content_data": {
+      "title": "AI - friend or foe? - Siemens AU",
+      "h1": "AI – friend or foe?",
+      "word_count": 52,
+      "paragraph_count": 4
+    },
+    "structure": {
+      "title_structure": {
+        "length": 32,
+        "word_count": 8,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {
+        "paragraph_count": 4,
+        "avg_paragraph_length": 13.0,
+        "min_paragraph_length": 10,
+        "max_paragraph_length": 14,
+        "total_words": 52
+      },
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": true,
+        "image_count": 2,
+        "has_links": true,
+        "link_count": 11
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 1,
+          "factors": [
+            "has_headings"
+          ]
+        },
+        "scannability": {
+          "score": 1,
+          "factors": [
+            "has_images"
+          ]
+        },
+        "engagement_elements": {
+          "has_images": true,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "blog",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 17:59:57"
+  },
+  {
+    "url": "https://www.siemens.com/au/en/company/press-centre/blogs/cybersecurity-for-industrial-control-systems.html",
+    "url_hash": "d948e2dca90d",
+    "content_type": "blog",
+    "content_data": {
+      "title": "Cybersecurity for Industrial Control Systems - Siemens AU",
+      "h1": "Cybersecurity for Industrial Control Systems",
+      "word_count": 15,
+      "paragraph_count": 3
+    },
+    "structure": {
+      "title_structure": {
+        "length": 57,
+        "word_count": 8,
+        "has_separator": true,
+        "format": "dash_separated"
+      },
+      "heading_hierarchy": {
+        "total_headings": 1,
+        "level_distribution": {
+          "1": 1
+        },
+        "max_depth": 1,
+        "heading_sequence": [
+          1
+        ]
+      },
+      "content_organization": {
+        "paragraph_count": 3,
+        "avg_paragraph_length": 5.0,
+        "min_paragraph_length": 5,
+        "max_paragraph_length": 5,
+        "total_words": 15
+      },
+      "formatting_patterns": {
+        "has_lists": false,
+        "list_count": 0,
+        "has_images": true,
+        "image_count": 2,
+        "has_links": true,
+        "link_count": 11
+      }
+    },
+    "reasons": {
+      "seo_optimization": {
+        "has_meta_description": true,
+        "has_meta_keywords": false,
+        "title_optimized": true,
+        "has_structured_data": false,
+        "heading_structure": true,
+        "image_alt_tags": 0
+      },
+      "user_experience": {
+        "readability": {
+          "score": 1,
+          "factors": [
+            "has_headings"
+          ]
+        },
+        "scannability": {
+          "score": 1,
+          "factors": [
+            "has_images"
+          ]
+        },
+        "engagement_elements": {
+          "has_images": true,
+          "has_lists": false,
+          "has_headings": true
+        }
+      },
+      "marketing_goals": {
+        "content_depth": "shallow",
+        "call_to_action": [],
+        "social_sharing": false,
+        "conversion_elements": []
+      },
+      "content_strategy": {
+        "content_type": "blog",
+        "target_audience": "general",
+        "content_purpose": "awareness"
+      }
+    },
+    "analysis_time": "2025-12-22 18:00:00"
+  }
+]

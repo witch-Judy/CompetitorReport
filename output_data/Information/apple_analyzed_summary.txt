@@ -1,0 +1,59 @@
+============================================================
+Sitemap Analysis Summary
+============================================================
+
+Total URLs: 844
+
+Domains: www.apple.com
+
+Languages:
+  : 509
+  legal: 136
+  us: 128
+  tv-pr: 16
+  mac: 14
+  ipad: 11
+  os: 6
+  watch: 6
+  ios: 5
+  imac: 4
+  apps: 1
+  iwork: 1
+  macos: 1
+  maps: 1
+  pages: 1
+  promo: 1
+  siri: 1
+  store: 1
+  wtgh: 1
+
+Sections:
+  : 155
+  search: 128
+  sales-support: 74
+  k12: 38
+  enterprise: 36
+  specs: 29
+  intellectual-property: 29
+  college-students: 27
+  higher-education: 24
+  us: 17
+  compare: 14
+  small-business: 14
+  internet-services: 13
+  originals: 13
+  features: 8
+  mac-does-that: 7
+  success-stories: 7
+  contact: 6
+  switch: 5
+  more-resources: 5
+
+Content Types:
+  other: 574
+  legal: 131
+  product: 128
+  resource: 10
+  home: 1
+
+Years:

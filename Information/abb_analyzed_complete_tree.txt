@@ -1,0 +1,2092 @@
+====================================================================================================
+abb 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+└─ 📁 Global
+
+   ├─ 📂 Areas
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Services
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Advanced Services
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Advisory Services
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Electrical Safety Service Training
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 End Of Life
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Environmental Impact Estimation
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Extensions
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Frequently Asked Questions
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Installation Commissioning
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Isomax Eco Solutions
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Legacy Brands
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Information Widget
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Life Cycle Management
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Lock Out Tag Out
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Maintenance
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Mv Core
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Swaps
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 News And Case Studies Archives
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Power System Study
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Powercare
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Replacement
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Retrofits
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Ge Entelliguardtm L
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Gec Alsthom Mpact Mk1
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Low Voltage Circuit Breakers
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Low Voltage Switchgears
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Service Heroes
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Service In Action
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Spares Consumables
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 System Assessments
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Electrical System Health Check
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Infrared Thermography
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Technical Support Repairs
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Training
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Upgrades
+   │  ├─ 📂 Electrification
+   │  │  ├─ 📄 Value Provider Portal
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 About Us
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Channel Partners
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Oem Hubs
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Applications
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Artificial Lift
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Chillers
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Close To Shore Marine
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Compressors Blowers
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Conveyors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cooling Systems
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cranes Hoists
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 District Cooling Heating
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Electric Buses
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Extruders
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fans
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Heavy Off Highway Vehicles
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Injection Molding Machine
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pumps
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rail Vehicles
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Stacker Cranes
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Crealizer
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Crealizer Assistant
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Crealizer  Assistant Form
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Request Crealizer Sdk
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Drivelab
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Virtual Drive Plus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Connectivity
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fieldbus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bacnet Ip
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fbip 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bacnet Ms Tp
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Canopen
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fcan 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Controlnet
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fcna 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Devicenet
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fdna 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ethercat
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Feca 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ethernet Ip
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Feip 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ethernet Powerlink
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fepl 02
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Legacy Products
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Lonworks
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Flon 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Modbus Rtu
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fsca 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Modbus Tcp
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fmbt 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Opc Ua For Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Profibus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fpba 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Profinet
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fpno 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Functional Safety
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Atex Certified Safety Functions
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fscs 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fsdt 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fso 12 Fso 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fsps 21
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 User Interface
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Assistant Control Panels
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Basic Control Panel
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bluetooth Control Panels
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Connectivity Panel
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Mounting Options
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Expertise Technology
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 All Compatible Solution
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cyber Security
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Direct Torque Control
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Flange Mounting
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Harmonics
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Liquid Cooling
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Machine Builders
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Manuals Feedback Form
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Power Regeneration
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Servo E530 Dsm Faq
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Simulation Portfolio
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 What Is A Variable Speed Drive
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Low Voltage Ac Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 General Purpose Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs480
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs580
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs580 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs580 04
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs580 07
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hvacr Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach480
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580 04
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580 07
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580 31
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach580 34
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Industrial Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 Drive Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 04
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 04F
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 04Fxt
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 04Xt
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 104
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 104Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 14
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 1604
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 1604Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 204
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 204Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 304
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 304Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 34
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 604
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 604Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 904
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 Multidrives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 107
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 107Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 1607
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 1607Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 207
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 207Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 307
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 307Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 607
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 607Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 907
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 Single Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 07
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 07Clc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 07Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 11
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 17
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 17Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 31
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 37
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 37Lc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Legacy Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ach550
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq810
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs150
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs310
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs320
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs355
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs55
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs550
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Legacy Servo Products
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Microflex Analog
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Microflex E100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Microflex E150
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Nextmove E100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Nextmove Esb 2
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Machinery Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs180
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs255
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs280
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs380
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs380 E
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acs880 M04
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Servo Products
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dsm Servo Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 E Series Servo Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 E530
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Microflex E190
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Motiflex E180
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Water Wastewater Drives
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580 01
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580 04
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580 07
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580 31
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq580 34
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Acq80
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Generators For Engines
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Critical Power Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 End Shield Generator Series
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 High Voltage Compact Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Low Voltage Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pedestal Bearing Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Generators For Steam And Gas Turbines
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 High Voltage Compact Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Large Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dc Permanent Magnet
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dc Shunt Wound
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ec Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Integrated Motor Drive
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ec Titanium Integrated Motor Drive
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Erh
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Lfh
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Low Voltage Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 General Performance Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Low Voltage Motors Us 60Hz Market
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ecp5000 Series Severe Duty Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ecr580 Series Crusher Duty Motors Imperial Dimensioned
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Flameproof Iec Low Voltage Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Low Voltage Open Drip Proof Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Low Voltage Twister Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Zone 2 22 And Div 2 Triple Certified Increased Safety Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Process Performance Iec Low Voltage Aluminum Motors For The Us Market
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Process Performance Iec Low Voltage Cast Iron Motors For The Us Market
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Iec Lv Manuals
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Lv Titanium Variable Speed Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Motors For Explosive Atmospheres
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Low Voltage Dust Ignition Proof Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Low Voltage Flameproof Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Low Voltage Increased Safety Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Motors For Industries And Specific Applications
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Brake Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 High Dynamic Performance Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Motors For High Ambient Temperatures
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Roller Table Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Smoke Extraction Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Process Performance Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Permanent Magnet Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Process Performance Induction Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Water Cooled Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Synchronous Reluctance Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ie5 Liquid Cooled Synchronous Reluctance Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ie5 Synchronous Reluctance Increased Safety Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ie5 Synchronous Reluctance Safe Area Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Brake Motors Electrical Clutches And Brakes
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Brake Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Electrical Clutches And Brakes
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Definite Purpose Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ammonia Refrigeration Compressor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Automotive Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pressure Washer Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Direct Drive Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Air Cooled Condensers
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Air Cooled Heat Exchangers
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cooling Tower Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Explosion Proof
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Xp Drill Rig Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Xp General Purpose
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Xp Severe Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Xp100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Farm Duty Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Aeration Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Auger Drive Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dairy Vacuum Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Direct Drive Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Farm Duty Single Phase
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Farm Duty Three Phase
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Grain Dryer Centrifugal Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Grain Dryer Vane Axial Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Grain Stirring Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Incubator Hatchery Vent Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Instant Reversing Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Metering Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 General Purpose Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gnem Enclosed Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gnem Open Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gp100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gp100A
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Single Phase Enclosed
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Single Phase Open
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 General Purpose   Enclosed Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 General Purpose   Open Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Three Phase Enclosed Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Three Phase Open Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hvac Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Chiller Cooling Tower Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Condenser Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Critical Cooling Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Direct Drive Fan Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fan And Blower Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 General Purpose Hvac Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gnem Hvac Enclosed Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Gnem Hvac Open Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Shaft Grounding Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 Super Premium Hvac Enclosed
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 Super Premium Hvac Open
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ventilation Fan Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Yoke Pedestal Fan
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Marine Duty Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hydrocool Xt
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Marine Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Reliance Duty Master
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Closed Coupled Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dp200 Hps
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Fire Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical Hollow Shaft Tefc Fire Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical Hollow Shaft Wp1 Fire Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Jet Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sae Hydraulic Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 Pump Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Square Flange Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Submersible Immersible Pump
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical Hollow Shaft
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical Hollow Shaft Wp1
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical P Base Solid Shaft
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hp100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ieee 841Xl Vertical P Base
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Lp100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vertical P Base Solid Shaft
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Severe Duty Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 661Xl Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Crusher Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dirty Duty Plus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Dp200 Crush
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ieee 841Xl Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Quarry Duty Motors Design C
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sd100
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sd100 Ieee 841
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sd200
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sd200 841
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sd661
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Sp4 Severe Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Xex Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Unit Handling Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 D Series Brake Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 General Purpose Unit Handling
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 High Cycle Brake Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Short Series Brake Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Variable Speed Ac Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ec Titanium Motor General Purpose Sp5
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rpm Ac
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rpm Ac Extruder Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rpm Ac Inverter Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rpm Ac Vector Duty
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rpm Xe Extreme Efficient Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Top Drive Drilling Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vs Master
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Vs Master Rs
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Washdown Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Food Safe Single Phase Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Food Safe Three Phase Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Paint Free Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Stainless Steel Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 White Washdown Features Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 White Washdown Motors
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Plc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Control Panels
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Accessories
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cp600
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cp600 C
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cp600 Eco
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cp600 Pro
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Software
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 I O Range
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 Eco I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 Xc I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Programmable Logic Controllers
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ac500
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ac500 Eco
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Accessories
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cpus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Option Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 Eco I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Software
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ac500 S
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cpus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Terminal Units
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Ac500 Xc
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Accessories
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Communication Interface Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Communication Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Condition Monitoring Cms
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cpus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Software
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Terminal Units
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Accessories
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Communication Interface Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Communication Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Condition Monitoring Cms
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cpus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 S500 I O Modules
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Software
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Terminal Units
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Resources
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Brochures
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Leaflets
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Movies
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Training And Tools
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Services
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Motion Onecare Agreement
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Asset Health And Monitoring
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Condition Monitoring For Powertrains
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Condition Monitoring For Shaftlines
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Digital Powertrain
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Leap For Motors And Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Leap For Motors And Generators Faq
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Monitoring Service
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Abb Ability Predictive Maintenance For Motors And Generators
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Air Gap Inspection
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Air Gap Inspection Faq
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Condition Monitoring For Traction Batteries
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Drive System Consulting
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Digital And Analytics
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Energy Efficiency
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Energy Appraisal
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Installation And Commissioning
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Life Cycle Management
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Modernization For Resilience Global Report
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Operations And Maintenance
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Preventive Maintenance
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Reconditioning
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Repairs
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Spare Parts
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Technical Support
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction Battery Storage
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Partners
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Reliability
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Replacements
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction Service Level Agreement
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Training
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Upgrades And Retrofits
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Drives Upgrades And Retrofits
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Haul Truck Retrofits
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Motors And Generators Upgrades And Retrofits
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Rail Vehicle Retrofits
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Circularity
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Energy Efficiency
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Auxiliary Converter
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 M Series
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pb Series
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bordline Pb For Light Rail Vehicles
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bordline Pb For Metro
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Battery Charger
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bc Series
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bc Assembly
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bc Assembly 40
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bc Module
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bc Rack
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Bcx Series
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Energy Storage Converter
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Mobile Inverter
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hes580
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Hes880
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction Battery
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Max
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Modus
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Pro
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Tailored
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction Converter
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cc1500
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cc200
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cc400
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Cc750
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Traction Motor
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxe
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxe132
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxe160
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxe200
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxe250
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxl
+   │  ├─ 📂 Motion
+   │  │  ├─ 📄 Amxm
+   │  ├─ 📂 Power Conversion Control
+   │  │  ├─ 📄 Unitrol Excitation Systems
+   │  ├─ 📂 Power Conversion Control
+   │  │  ├─ 📄 Unitrol 8000
+   │  ├─ 📂 Power Conversion Control
+   │  │  ├─ 📄 Unitrol 8000 2000A
+   │  ├─ 📂 Power Conversion Control
+   │  │  ├─ 📄 Services
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Shaping Lower Carbon Future Through Energy Addition
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Engineering Accuracy Industrial Flowmeter Calibration
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Events
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Adipec
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Force Measurement
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Flatness Measurement
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Roll Force
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Strip Tension
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Strip Width Positioning
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Thickness Gauging
+   │  ├─ 📂 Process Automation
+   │  │  ├─ 📄 Web Tension
+   │  ├─ 📂 Renewable Power
+   │  │  ├─ 📄 Electrolyzer Power Supplies
+   │  ├─ 📂 Renewable Power
+   │  │  ├─ 📄 Hyq Pci880
+   │  ├─ 📂 Renewable Power
+   │  │  ├─ 📄 Legacy Electrolyzer Converters
+   │  ├─ 📂 Renewable Power
+   │  │  ├─ 📄 Pct880
+   │  ├─ 📄 Robotics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Applications
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Applications
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Goods To Person
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Logistics Trains
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Material Handling
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Production Flows
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Storage Operations
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Lab Automation
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Material Handling
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Packaging And Palletizing
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Spot Welding
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Surface Finishing
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Welding
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Channel Partners
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Cobot Expert
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Service Partner
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Downloads
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Events
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Ciif
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Industries
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Industries
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Automotive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Ecommerce Retail
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Food Beverage
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Logistics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Manufacturing
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 More Industries
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Pharma Cosmetics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Automotive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Assembly
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Battery
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Chassis
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 E Motor
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Final Assembly
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Hydrogen
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Interior
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Manufacturing Outlook Survey
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Paint Solutions
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Press Automation
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Construction
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Education
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Electronics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Food And Beverage
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Food Service
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Life Sciences Healthcare
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Logistics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Innovation
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Autonomous Versatile Robotics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Sustainability In Robotics
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 User Experience Design Principles
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 News And Media
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Content Hub
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Archive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Customer Stories
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Archive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 News Archive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Cobot Archive
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Products
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Controllers
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5 Compact
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5 Paint
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5 Panel Mounted
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5 Single
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore C30
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore C90Xt
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore E10
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore Eyemotion
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore V250Xt
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore V400Xt
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnicore Webinar Series
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Safemove
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Equipment
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Arc Welding
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Bullseye
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Cobot Arc Welding Package
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Torch Cleaner
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Torch Service Center
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Weldguide
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Body In White
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexframer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gateframer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Modulflex
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Roller Hemming Tools
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Conveyor Tracking Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Dresspacks
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 External Dresspack
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 External Dresspack With Retract Function
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Integrated Dresspack Leanid
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Ecosystem
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexfeeder
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Integrated Force Control
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Motor And Gear Units
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gear Units
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Motor Units
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Painting
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 2K Mixer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Air Control Unit
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Compact Cbs Ii
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Featherduster
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Fluid Regulator
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gear Pump
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Rb 1000I
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Rb 1000I S Atomizer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Track Motion Positioners
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irbt 4004 For Irb 4400
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irbt 6004 For Irb 6600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irbt 7004 For Irb 7600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irt 501 Flextrack
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irt 510
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irt 710
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Vision Systems
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Integrated Vision
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Workpiece Positioners
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexlifter
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp A
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp B
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp C
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp K
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp L
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irp R
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irplp 220
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Mobile Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexley Mover
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr P304
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr P404
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr P603
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr P604
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexley Stack
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr F602
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr F702
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexley Tug
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr T701
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr T702
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr T901
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Technology
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Visual Slam
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Articulated Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Large Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5710
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5720
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 660
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6710
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6720
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6730
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6730S
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6740
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6750S
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6760
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 6790
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 760
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 7710
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 7720
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 8700
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Lite Plus Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1100 Lite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1200 Lite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Medium Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1520Id
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1660Id
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 2600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 2600Id
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 4400
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 460
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 4600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Small Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1010
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1090
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1100
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1200 Hygienic
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1200 Next Generation
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 1300
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Cleanroom Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Collaborative Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Application Builder
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Dual Arm Yumi
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gofa
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robot Assist App
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Single Arm Yumi
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Troubleshooting
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Delta Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 360
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 365
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 390
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Paint Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5350
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5500 22
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5500 25
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5500 27
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 5510
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Palletizing Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Scara Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 910Inv
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 920T
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 930
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Studio Suite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Studio
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Amr Studio Fleet Manager
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Appstudio
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Arc Welding Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Assembly Software Solutions
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 High Speed Alignment
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotware Assembly Force Control
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Automatic Path Planning
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Cutting Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Iot Gateway
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Machine Tending Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Machining Software Solutions
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Machining Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Machining Powerpac
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotware Machining Force Control
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Optifact
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Painting Software Solutions
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Digital Painting Suite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Painting Powerpac
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robview 5
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Path Tuning Master
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Pickmaster Twin
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Press Automation Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotware Stampapp
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robomasters
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio 3D Printing Powerpac
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Suite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Ai Assistant
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Ar Viewer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Cloud
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Desktop
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotstudio Tutorials
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Spot Welding Software
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotware Spot
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Wizard Easy Programming
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Services
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Circular Economy
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Data Driven Services
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Condition Based Maintenance
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Connected Services
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Energy Efficient Service
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Extensions Upgrades Retrofits
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Installation And Commissioning
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Maintenance
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Remanufacturing And Workshop Repair
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Buy Back
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irc5 Controller Upgrade
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Remanufactured Arm Exchange
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Remanufactured Customer Robot Property
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Remanufactured Robots
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Repairs
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Electronics Repairs
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Remote Access
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Workshop Repair
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Replacements
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Service Agreements
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Service Contacts
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Spare Parts And Consumables
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Technical Support
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Training
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Appstudio Customer Training
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Online Learning
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Teacher Led Trainings
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Solutions
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Application Cells
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Updates
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Compact Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Custom
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Lite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Modular Cells
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Collaborative Arc Welding Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Collaborative Machine Tending Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Flexarc
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc A
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc B
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc C
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Compact Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc K
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc L
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Lite
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc R
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexarc Tt
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Laser Welding And Cutting
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Flexbuffer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Flexloader
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexloader Fp 600
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexloader Fp 800
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexloader Sc 3000
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Flexloader Vision
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Machining Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Omnivance Plastics Assembly Clipping Cell
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Functional Modules
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Abb Robotic Depalletizer
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Clipping Functional Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Dynamic Assembly Pack
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Education Package
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Friction Stir Welding Functional Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Handling Functional Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Integrated Dispensing Function Package
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Item Picking Family
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotic Fashion Inductor
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotic Item Picker
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Robotic Parcel Inductor
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Pixelpaint
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Press Automation Functional Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 760Fx
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Irb 7710 Sfx
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Tooling
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Twin Robot Xbar
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Spot Welding Functional Module
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gwt C9 Spot Welding Gun
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Gwt X9 Spot Welding Gun
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Spot Welding Cabinet
+   │  ├─ 📂 Robotics
+   │  │  ├─ 📄 Water And Air Unit
+   │  └─ 📂 Robotics
+   │     └─ 📄 Ultrasonic Spot Welding Quality Inspection
+
+   ├─ 📂 Channel Partners
+   │  ├─ 📄 Partner Details
+   │  └─ 📄 Where To Buy
+
+   ├─ 📂 Company
+   │  ├─ 📄 About
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Abb Ability Terms
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Expired Versions
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Cybersecurity
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Alerts And Notifications
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Eu Cyber Resilience Act At Abb
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Nis 2 At Abb
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Report Security Vulnerabilities
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Privacy Notice
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Engagements And Partnerships
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Engineered To Outrun
+   │  ├─ 📂 About
+   │  │  ├─ 📄 History
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Heritage Brands
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Ab Rotech
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Accuray Systems
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Alfa Laval Automation
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Asea
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Asea Brown Boveri
+   │  ├─ 📂 About
+   │  │  ├─ 📄 August Systems
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Aztec
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Bailey Controls
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Bailey Network Management
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Baldor Electric Company
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Bbc Brown Boveri Electric
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Bomem
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Brown Boveri Cie Bbc
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Busch Jaeger Elektro Gmbh
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Calor Emag
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Cellier
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Comem
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Ejf
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Elektro Praga
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Elettrocondutture Spa
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Elmek
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Etsi
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Figeholm
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Fischer Porter
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Ge Industrial Solutions
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Gould Ite
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Hartmann And Braun
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Intrion
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Ite
+   │  ├─ 📂 About
+   │  │  ├─ 📄 K Tek
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Kent
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Keymile
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Kuhlman Electric Corporation
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Los Gatos Research
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Luca System
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Micafil
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Mincom
+   │  ├─ 📂 About
+   │  │  ├─ 📄 National Industri
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Newave
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Niessen
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Nub3D
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Powercorp
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Pucaro
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Raman Boards
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Reyrolle
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Sace
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Schoppe Faeser
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Silver Star Shenzhen Surge Arrestor Co Ltd
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Simcon
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Spiritit
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Stromberg
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Svia
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Swedewater
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Taylor
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Tbi Bailey
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Thomas Betts
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Totalflow
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Trasfor
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Tropos
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Turati
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Ventyx
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Westinghouse
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Zwar
+   │  ├─ 📂 About
+   │  │  ├─ 📄 How We Do Business
+   │  ├─ 📂 About
+   │  │  ├─ 📄 Value Creation Model
+   │  ├─ 📄 Digitalization Ai
+   │  ├─ 📂 Digitalization Ai
+   │  │  ├─ 📄 Accelerator
+   │  ├─ 📂 Digitalization Ai
+   │  │  ├─ 📄 Success Stories
+   │  ├─ 📂 Digitalization Ai
+   │  │  ├─ 📄 Assets Processes
+   │  ├─ 📂 Digitalization Ai
+   │  │  ├─ 📄 Energy Production
+   │  ├─ 📂 Digitalization Ai
+   │  │  ├─ 📄 People
+   │  ├─ 📄 Formula E
+   │  ├─ 📂 Formula E
+   │  │  ├─ 📄 Technology And Sustainability
+   │  ├─ 📄 Innovation
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Corporate Research Centers
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 China
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Germany
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 India
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Poland
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Sweden
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Switzerland
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Usa
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Nobel International Partner
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Open Innovation
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 Startups Engagement
+   │  ├─ 📂 Innovation
+   │  │  ├─ 📄 University Collaboration
+   │  ├─ 📄 Stories
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Ashesi Eth Partnership
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Batteries
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Brazil
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Brazil Circular Approach To Energy Efficiency
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Brazil Steel Warehouse Cisa
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Building Tomorrow With Efficient And Sustainable Construction
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Calculators
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Carbon Capture And Storage
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Cargo Shipping Decarbonization
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 China Auto Maker Efficiency
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 China Data Centers Ai Boom
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 China Shipbuilding
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 China Sustainable Growth
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Circular Economy
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Climate Week Nyc
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Container Terminals
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Data Center Service
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Decarbonizing Data Centers
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 E Mining
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Education
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Electrifying Public Transit
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Electronic Waste
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Eliminating Methane
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Embracing Every Ability
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Energy Efficient Buildings
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Food And Beverage
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 France Cern Energy Efficiency
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 France Pulp Paper
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 France Zero Emission Transport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Generations In The Workplace
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Germany
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Germany Organic Batteries
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Germany Space Science
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Germany Transport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Green Hydrogen Value Chain
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Healthcare Life Sciences
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Hydrogen
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Indonesia
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Indonesia Data Centers
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Indonesia Geothermal Energy
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Intellectual Property
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 International Womens Day
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Interns Young Professionals
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Japan Auto Pixel Paint
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Japan Mining Electrification
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Japan Satellites Predict Extreme Weather
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Japan Sustainable Innovation
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Learn Connect Grow Career Development
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Marine Industry Safety
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Maritime Transport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Metals Industry Decarbonization
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Mexico
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Mexico Felipe Angeles International Airport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Mission To Zero Contagem Brazil
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Mission To Zero Saltillo Mexico
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 On The Road To Cop29
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Parental Leave
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Plastic Pollution
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Powering A Renewable Future
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Pride
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Public Transport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Pulp And Paper
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Rail Transport
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Railway
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Renewable Energy
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Revolutionizing The Automotive Paint Industry
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Roller Coaster Safety
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Saudi Arabia
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Saudi Arabia Energy Industries
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Saudi Arabia Makkah Cooling System
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Saudi Arabia Sustainable Tourism
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Service Agreements
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Smart And Sustainable Buildings
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Smart Stadium Automation
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Space
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Sustainable Construction
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Sustainable Hospitality
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Sustainable Mobility Montreal Rem
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Transforming Heavy Industry
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Transforming Textiles
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Uk Industries
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Uk Innovation
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Uk Maritime
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Uk Offshore Wind Farm
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 United States
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 United States Geothermal Energy
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 United States Manufacturing
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 United States Transportation Electrification
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Water Solutions
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Wildfires And The Grid
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Wind Solar Energy
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Women In Stem
+   │  ├─ 📂 Stories
+   │  │  ├─ 📄 Zero Waste To Landfill
+   │  ├─ 📄 Ventures
+   │  ├─ 📂 Ventures
+   │  │  ├─ 📄 Electrification
+   │  ├─ 📂 Ventures
+   │  │  ├─ 📄 Investments
+   │  ├─ 📂 Ventures
+   │  │  ├─ 📄 Motion
+   │  ├─ 📂 Ventures
+   │  │  ├─ 📄 News Archive
+   │  ├─ 📂 Ventures
+   │  │  ├─ 📄 Robotics Ventures
+   │  └─ 📂 Ventures
+   │     └─ 📄 Team
+
+   ├─ 📂 Industries
+   │  ├─ 📄 Food Beverage
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Segments
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Agriculture
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Aquaculture
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Bakery And Confectionary
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Brewing And Beverage
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Dairy
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Food Retail
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Ingredients
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Meat Poultry And Seafood
+   │  ├─ 📂 Food Beverage
+   │  │  ├─ 📄 Sugar
+   │  ├─ 📂 Metals
+   │  │  ├─ 📄 How Digitalization Can Address Eu Pressures Reshaping Spains Metals Industry
+   │  └─ 📂 Metals
+   │     └─ 📄 Sustainability In Motion Aluminium Lifecycle
+
+   └─ 📄 News
+

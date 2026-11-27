@@ -1,0 +1,273 @@
+# Martech Schema v0（Snowplow 范式）
+# 1 事实表 + 5 维表 + 3 派生表
+
+fact_tables:
+  event_log:
+    description: "唯一事实来源；谁在什么时候做了什么（超立方体坐标系）"
+    snowplow: "event_type = event_name; properties = unstructured/context"
+    columns:
+      - name: event_id
+        type: uuid
+        required: true
+        note: PK
+      - name: occurred_at
+        type: timestamptz
+        required: true
+      - name: event_type
+        type: text
+        required: true
+        note: "content_downloaded | form_submitted | ..."
+      - name: actor_type
+        type: text
+        required: true
+        note: "person | company | anonymous"
+      - name: person_id
+        type: uuid
+        required: false
+        ref: person.person_id
+      - name: company_id
+        type: uuid
+        required: false
+        ref: company.company_id
+      - name: content_id
+        type: uuid
+        required: false
+        ref: content.content_id
+      - name: campaign_id
+        type: uuid
+        required: false
+        ref: campaign.campaign_id
+      - name: source
+        type: text
+        required: false
+        note: "hubspot | web | manual | teams"
+      - name: channel
+        type: text
+        required: false
+        note: "email | linkedin | website | ..."
+      - name: properties
+        type: jsonb
+        required: false
+        note: "utm, page_url, device, 等不稳定字段"
+      - name: external_ref
+        type: text
+        required: false
+        note: "HubSpot event id 等，防重复"
+      - name: created_at
+        type: timestamptz
+        required: true
+    indexes:
+      - [occurred_at]
+      - [person_id, occurred_at]
+      - [event_type, occurred_at]
+      - [external_ref]  # unique 防重
+
+dimension_tables:
+  person:
+    description: "联系人/Lead 维表；支持表单收集 + 手动上传历史客户库，用 source 区分来源"
+    columns:
+      - name: person_id
+        type: uuid
+        required: true
+        note: PK
+      - name: email
+        type: text
+        required: true
+        unique: true
+      - name: full_name
+        type: text
+        note: "表单 Name*；可与 first_name/last_name 二选一或同时维护"
+      - name: first_name
+        type: text
+      - name: last_name
+        type: text
+      - name: job_title
+        type: text
+        note: "表单 Position"
+      - name: mobile_number
+        type: text
+        note: "表单 Mobile Number"
+      - name: interested_products_solutions
+        type: text
+        note: "表单 Interested products/solutions，如 Hardware / Software"
+      - name: notes
+        type: text
+        note: "表单 Notes"
+      - name: source
+        type: text
+        note: "form | manual_upload | hubspot | import_YYYYMM 等，用于维护与去重"
+      - name: hubspot_contact_id
+        type: text
+      - name: created_at
+        type: timestamptz
+        required: true
+      - name: updated_at
+        type: timestamptz
+        note: "最近一次更新（含手动上传覆盖时更新）"
+
+  company:
+    description: "公司维表（B2B 必备）；支持表单收集 + 手动上传历史客户库，用 source 区分来源"
+    columns:
+      - name: company_id
+        type: uuid
+        required: true
+        note: PK
+      - name: company_name
+        type: text
+        note: "表单 Company*"
+      - name: domain
+        type: text
+        note: "可从 Website 解析或单独填写"
+      - name: website
+        type: text
+        note: "表单 Website（完整 URL）"
+      - name: industry
+        type: text
+        note: "表单 Industry*"
+      - name: country
+        type: text
+        note: "表单 Country*"
+      - name: source
+        type: text
+        note: "form | manual_upload | hubspot | import_YYYYMM 等"
+      - name: hubspot_company_id
+        type: text
+      - name: created_at
+        type: timestamptz
+        required: true
+      - name: updated_at
+        type: timestamptz
+        note: "最近一次更新（含手动上传覆盖时更新）"
+
+  content:
+    description: "Content Library 维表；内容资产库（Teams/OneDrive + 网站等），事件只存 content_id，详情在此"
+    columns:
+      - name: content_id
+        type: uuid
+        required: true
+        note: PK
+      - name: title
+        type: text
+      - name: content_type
+        type: text
+        note: "业务类型：whitepaper | case_study | blog | video | webinar | ebook | ..."
+      - name: format
+        type: text
+        note: "文件/媒体格式：pdf | text | image | video | audio；或存 mime_type"
+      - name: tags
+        type: text[]
+        note: "或 jsonb"
+      - name: owner_team
+        type: text
+      - name: file_url
+        type: text
+        note: "实际文件在对象存储/OneDrive/Teams；此处只存链接，不存文件本体"
+      - name: thumbnail_url
+        type: text
+      - name: status
+        type: text
+        note: "draft | published | archived，控制是否可见、是否参与统计"
+      - name: language
+        type: text
+        note: "zh | en 等，多语言内容库"
+      - name: slug
+        type: text
+        note: "URL 友好标识，固定链接、去重"
+      - name: published_at
+        type: timestamptz
+      - name: source_system
+        type: text
+        note: "teams | onedrive | manual | cms"
+      - name: created_at
+        type: timestamptz
+        required: true
+      - name: updated_at
+        type: timestamptz
+        note: "最近一次元数据或状态变更"
+
+  campaign:
+    description: "活动维表"
+    columns:
+      - name: campaign_id
+        type: uuid
+        required: true
+        note: PK
+      - name: name
+        type: text
+      - name: start_date
+        type: date
+      - name: end_date
+        type: date
+      - name: objective
+        type: text
+      - name: channel_mix
+        type: jsonb
+      - name: created_at
+        type: timestamptz
+        required: true
+
+  touchpoint_source:
+    description: "source/channel 枚举与规范化（可选 v0）"
+    columns:
+      - name: code
+        type: text
+        required: true
+        note: PK, 如 website | email | linkedin
+      - name: label
+        type: text
+      - name: category
+        type: text
+        note: "owned | paid | earned"
+
+derived_models:
+  lead_score_daily:
+    description: "从 event_log 按日重算；每人每日得分 + 贡献 breakdown"
+    source: event_log
+    columns:
+      - name: person_id
+        type: uuid
+        ref: person.person_id
+      - name: score_date
+        type: date
+      - name: score
+        type: numeric
+      - name: score_breakdown
+        type: jsonb
+        note: "哪几个事件贡献了分数"
+    unique: [person_id, score_date]
+
+  lifecycle_state:
+    description: "从 event 重算的当前状态；reason 可解释、可追溯"
+    source: event_log
+    columns:
+      - name: person_id
+        type: uuid
+        ref: person.person_id
+      - name: current_stage
+        type: text
+        note: "subscriber | lead | MQL | SQL | opportunity | ..."
+      - name: stage_updated_at
+        type: timestamptz
+      - name: reason
+        type: jsonb
+        note: "导致变化的事件引用（event_id 或 event_type+occurred_at）"
+    note: "每人一条当前状态；历史可再从 event 重算"
+
+  attribution_summary:
+    description: "可选 v0；归因汇总"
+    source: event_log
+    columns:
+      - name: person_id
+        type: uuid
+        ref: person.person_id
+      - name: conversion_event_id
+        type: uuid
+        ref: event_log.event_id
+        note: "如 form_submitted / meeting_booked"
+      - name: first_touch_channel
+        type: text
+      - name: last_touch_channel
+        type: text
+      - name: influencing_events
+        type: jsonb
+        note: "参与归因的事件列表"

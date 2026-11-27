@@ -1,0 +1,5167 @@
+====================================================================================================
+hitachi 网站完整导航树结构
+====================================================================================================
+
+📋 说明：
+  • 展示每个页面在对应逻辑层级下的完整路径
+  • 每个分级点进去都还有分级，直到最细的末梢（具体页面）
+  • 相同内容的不同语言版本已合并，只显示内容本身
+  • 清晰的层级关系，专注于内容逻辑而非语言版本
+
+====================================================================================================
+
+├─ 📁 Product
+
+│  └─ 📄 Products
+
+
+├─ 📁 Contact
+
+│  └─ 📄 Contact
+
+
+├─ 📁 404
+
+│  └─ 📄 404
+
+
+├─ 📁 About
+
+│  ├─ 📄 About
+
+│  ├─ 📄 Conduct
+
+│  ├─ 📄 Directors
+
+│  ├─ 📄 Directory
+
+│  ├─ 📄 Group
+
+│  ├─ 📄 Group Global
+
+│  ├─ 📄 Group Japan
+
+│  ├─ 📂 History
+│  │  ├─ 📄 1910
+│  │  ├─ 📄 1961
+│  │  ├─ 📄 1981
+│  │  ├─ 📄 2001
+│  │  └─ 📂 Comic
+│  │     └─ 📄 Namihei Odaira
+
+│  ├─ 📄 Hitachi
+
+│  ├─ 📂 Identity
+│  │  ├─ 📄 Mission
+│  │  ├─ 📄 Values
+│  │  └─ 📄 Vision
+
+│  ├─ 📂 It
+│  │  ├─ 📂 Asset Operations
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Asset Operations
+│  │  │  ├─ 📄 Contents2
+│  │  ├─ 📂 Asset Operations
+│  │  │  ├─ 📄 Contents3
+│  │  ├─ 📂 Asset Operations
+│  │  │  ├─ 📄 Contents4
+│  │  ├─ 📂 Basic Policy
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Digital Management
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Digital Management
+│  │  │  ├─ 📄 Contents2
+│  │  ├─ 📄 Download
+│  │  ├─ 📂 Dx
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Dx
+│  │  │  ├─ 📄 Contents2
+│  │  ├─ 📂 Dx
+│  │  │  ├─ 📄 Contents3
+│  │  ├─ 📂 Dx
+│  │  │  ├─ 📄 Contents4
+│  │  ├─ 📂 Dx
+│  │  │  ├─ 📄 Contents5
+│  │  ├─ 📂 Employee Empowerment
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Employee Empowerment
+│  │  │  ├─ 📄 Contents2
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents1
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents2
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents3
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents4
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents5
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents6
+│  │  ├─ 📂 Governance Resources
+│  │  │  ├─ 📄 Contents7
+│  │  └─ 📄 Message
+
+│  ├─ 📂 Location
+│  │  ├─ 📄 Branch
+│  │  ├─ 📄 Division1
+│  │  ├─ 📄 Head
+│  │  └─ 📄 Hospital
+
+│  ├─ 📄 Message
+
+│  ├─ 📄 Officers
+
+│  ├─ 📄 Organization
+
+│  └─ 📂 Publicity
+│     ├─ 📄 Ad Cm
+│     ├─ 📄 Ad Newspaper
+│     ├─ 📂 Ad Newspaper
+│     │  ├─ 📄 Hitachinoki Gr
+│     ├─ 📄 Ad Outdoor
+│     ├─ 📂 Ad Outdoor
+│     │  ├─ 📄 Osaka
+│     ├─ 📂 Ad Outdoor
+│     │  ├─ 📄 Osaka History
+│     └─ 📄 Showroom
+
+
+├─ 📁 Accessibility
+
+│  └─ 📄 Accessibility
+
+
+├─ 📁 Antiques Law
+
+│  └─ 📄 Antiques Law
+
+
+├─ 📁 De De
+
+│  └─ 📄 De De
+
+
+├─ 📁 En Ae
+
+│  ├─ 📄 En Ae
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Products
+
+│  └─ 📄 Sitemap
+
+
+├─ 📁 En Ca
+
+│  ├─ 📄 En Ca
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  └─ 📄 Projects In Canada
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 Consolidated Financial Results First Quarter Ended June 30 2022
+│  │  ├─ 📄 Consolidated Financial Results Second Quarter Ended September 30 2022
+│  │  ├─ 📄 Consolidated Financial Results Third Quarter Ended December 31 2021
+│  │  ├─ 📄 Consolidated Financial Results Year Ended March 31 2022 And Mid Term Management Plan 2024
+│  │  ├─ 📄 Globallogic And Ericsson Deploy Private 5G Network At Hitachi Rails Digital Factory
+│  │  ├─ 📄 Globallogic And Flexware Innovation Announce Major Deployment Of Lift At Hitachi Rails State Manufacturing Facility
+│  │  ├─ 📄 Hitachi And Google Cloud Announce Strategic Partnership
+│  │  ├─ 📄 Hitachi And Microsoft Enter Milestone Agreement To Accelerate Business
+│  │  ├─ 📄 Hitachi Announces Executive Changes
+│  │  ├─ 📄 Hitachi Announces Leadership Appointments To Propel Strategic Growth In The Americas Emea Regions
+│  │  ├─ 📄 Hitachi Donate Towards Humanitarian Aid Ukraine
+│  │  ├─ 📄 Hitachi Energy Bolsters Manufacturing Capacity In North America With Additional Investments Of Over 155 Million Usd
+│  │  ├─ 📄 Hitachi Energy Invests An Additional 270 Million Cad To Expand Large Power Transformer Manufacturing Capacity In Varennes
+│  │  ├─ 📄 Hitachi Energy Selected Technology Partner Support Transmission Renewable Power Between Canada
+│  │  ├─ 📄 Hitachi Energy Successfully Deploys First Centralized Ev Bus Charging System Quebec Citys Public
+│  │  ├─ 📄 Hitachi Investor Day 2022
+│  │  ├─ 📄 Hitachi Is Recognized As One Of The 2025 Worlds Most Ethical Companies
+│  │  ├─ 📄 Hitachi Rail Acquires Thales Ground Transportation Systems
+│  │  ├─ 📄 Hitachi Rail Announces New Digital Rail Products 2022 Rssi Cs Exhibition
+│  │  ├─ 📄 Hitachi Rail Deliver New Ontario Line Trains Systems Maintenance And Operations 9B Cad Deal
+│  │  ├─ 📄 Hitachi Rail Named Award Recipient Ij Globals Transport Deal Year North America
+│  │  ├─ 📄 Hitachi Rail Opens Lighthouse Digital Factory In The Us
+│  │  ├─ 📄 Hitachi Strengthen Business Structure Further Growth Through Digital Environment And Innovation
+│  │  ├─ 📄 Hitachis Business Situation Ukraine And Russia
+│  │  ├─ 📄 Notification Change Subsidiary And Recognition Extraordinary Gain Unconsolidated Basis
+│  │  └─ 📄 Recognition Extraordinary Gain Unconsolidated Basis Due Transfer Shares Hitachi Transport System
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Digital Solutions
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 It Products
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Energy Solutions
+│  │  ├─ 📄 Measurement And Analytical Systems
+│  │  └─ 📂 Mobility
+│  │     └─ 📄 Rail Services And Solutions
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📂 Sustainability
+│  │  └─ 📄 Inspire Stem Education Outreach Program
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En Eu
+
+│  ├─ 📄 En Eu
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Hitachi In The Uk
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 24 Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 24 Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 24 Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 24 Rail
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 24Hours
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Adam Buxton Cities Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 All Change For Seamless Sustainable Journeys
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ask Hitachi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Autonomous Vehicles Whatever The Weather
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 B7 Summit
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Battery Trains
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Better Patient Care With Digital Hospitals
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Biometrics Q And A
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Blues
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Circular Economy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 City Wide Driverless Trains
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 City Wide Driverless Trains In Denmark
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Class 395 High Speed Train Uk
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Collaborating To Advance The Circular Economy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Collaboration Is The Key To An Interconnected Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cop26 First Bus
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cop26 Florence Tram
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cop26 Scotrail
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Decarbonization Insurmountable Challenge
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Decarbonizing Data Centers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Designing And Powering A Green It Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitization Transforming The Banking Sector
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Dr Ais Prescription Happiness And Productivity
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Durable Medium
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Durable_Medium
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Earthshot Prize
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ehgv
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Entering Age Biometrics
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ev Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Everything Is Possible
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Facing Up To The Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Finger Vein
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Finger Vein Technology For Bank Bph Poland
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Florence Tram
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Four Big Questions With Heather Gray
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Four Big Questions With Kerstin Linden
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Four Big Questions With Natalia Pietruszewska
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Four Big Questions With Sandrine Herbert Razafinjato
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Genoa Metro Station
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Global Logic
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Energy Blog
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Uber In London
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Happiness At The Touch Of A Button
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi And Imperial College Partnering For A Sustainable Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Finger Vein Technology For Pbs Bank Poland
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Proton Therapy System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Sponsors Maritime Innovation Week
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Batteries Can Super Charge The Transition To Net Zero
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Digitalisation Is Accelerating A Future Fit Energy System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How The Earthshot Prize Is Powering A Cleaner Greener Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How The Metro Is Transforming The Way Copenhagen Moves
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hyperloop
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innotrans 2024
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innovation Drives Us Forward
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Investigating Technologies Across Generations
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Investor Day
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Is Net Zero Really Possible
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Its Time To Close The Say Do Gap
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Its Time To Dial Our Energy Efforts Up To Ten
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Journey To Electrification
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Jrautomation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Kiva
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Low Carbon Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Madel
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Major Operation Uks First Fully Integrated Hospital
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Making A Difference
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Manchester Energy Market
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Measuring And Managing Progress Against Sdgs
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Medtech Engineering Partnership Digital Cardiac Monitoring System Save Lives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 My Three Business Imperatives For Mobility In 2023 And Beyond
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Net Zero New Target
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Nhs Salford
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 North Sea Link
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Oliena Model Hitachi Water Saving Project Italian Best Practices List 2017 Sardinia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Opportunities For Social Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Optimise Prime
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Optimise Prime Results
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Pbt Milan
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Poland Healthcare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Polytech Orleans
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Possible
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Possible Digital
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Possible Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Possible Rail
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering Our Future Energy System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Royal Mail
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Safer Stations With Lidar
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Saving Water For Hilton Istanbul Turkey
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Energy Islands Isles Of Scilly
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Supply Chain Decarbonisation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainability As A Growth Driver
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Taking The Fight To Cancer With Pbt
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Technologies In A Fragmented World
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Technology For A More Resilient World
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Isles Of Scilly Case Study Inspiring A Net Zero Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Us 4 5 Trillion Opportunity And How To Unlock It
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Worm Has Turned
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Three Steps To A Successful Green Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Time To Break Down Traditional Barriers And Embrace A Different Direction
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Together In Electric Dreams
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Turbo Charge Transport Decarbonisation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Unlocking Growth In The Age Of Intelligence
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Vulnerability Hub
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Wave Goodbye To Flawed Security New Biometric Hand Gestures
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Wave Goodbye To Passports
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Why The Future Lies In Fingerveinid
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Women In Engineering
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Youre So Vein
+│  │  ├─ 📄 Customer Stories
+│  │  ├─ 📄 Insights Index
+│  │  ├─ 📄 Inspirethenext
+│  │  ├─ 📄 Podcasts
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 A Success Case Of Circular Economy In Industrial Wastewater Trea
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 A Worlds First E Waste Sustainability Programme Jamie Watson And Kevin Roberts
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Achieving A Zero Carbon Future For First Bus
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Achieving Diversity Equity And Inclusion At Hitachi
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Alistair Dormer
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Allbionics Arms
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 David Green
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Digitalising Hospitals
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Exploring Hitachi S Key Sectors Across Emea With Andrew Barr
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Exploring The Digital Sector With Andrew Barr President Of Emea
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Exploring The Energy Sector With Andrew Barr President Of Emea
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Exploring The Mobility Sector With Andrew Barr President Of Emea
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Facing Up To The Future How Generations Must Work Together To Deliver A Better Future For Tomorrow
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Farm Machinery For Iot And Advanced Analytics For Mining
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Firefly Fatima De La Fuente
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Globallogic Next Generation Cryoconsole Maryna Antonova
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Globallogics Lighthouse Project Olha Korostylova
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hans Daems Helen Grundy
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Energy Nordlink Hvdc Interconnector Torsten Neidig
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Energy North Sea Link Simon Gozdz Englund
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Presents Action For A Sustainable Future
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Rail The Lumo Train Fleet Paul Charles
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Rails Battery Tram Florence Salvatore Zazzaro
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Zero Carbon Ev Innovation Claudio Varano John Whybrow
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Hitachi Zerocarbon Fleet Mike Nugent
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Human Drive And Sustainable Finance
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Improving The Safety Of Rail Maintenance Lone Workers Lan Lin Cristina Rodriguez Vera
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Industrial Components Equipment Group Thomas Otte Viktor Seif
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 International Women S Day Special
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Lorena Dellagiovanna
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Meeting The Challenges Of Electrification How Digitalisation Is The Future Of Our Energy System
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Mental Health Special
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Mentoring Circles
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Optimise Prime James Bracegirdle Tiago Ventinhas
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Pioneering The Zero Carbon Future How Next Generation Technology Is Key To Decarbonised Transport
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Pride Month Special
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Pride Special
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Proton Beam Therapy
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Ram Ramachander
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Reducing Carbon Emissions In The Mobility Sector Vincent Gaillot
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Sid Verma
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 The Vulnerability Hub
+│  │  ├─ 📂 Podcasts
+│  │  │  ├─ 📄 Worlds First Disaster Recovery Solution Claudio Spella
+│  │  └─ 📄 Thought Leadership
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 Agility Trains Confirm Intercity Express Programme Contract
+│  │  ├─ 📄 Ai Captain Hitachi Partners Stena Line Implement Digital Technology Shipping
+│  │  ├─ 📄 Ansaldo Sts Awarded Two Contracts Signalling Italy
+│  │  ├─ 📄 Ansaldo Sts Board Directors Appointed Alberto De Benedictis Deputy Chairman Board Directors
+│  │  ├─ 📄 Ansaldo Sts Brussels Metro Lines 15 Signalling System Renewal
+│  │  ├─ 📄 Ansaldo Sts Consolidated And Draft Financial Statements 2016 Approved Dividend Proposed Eur
+│  │  ├─ 📄 Ansaldo Sts Information Reporting Public
+│  │  ├─ 📄 Ansaldo Sts Publishes 2015 Sustainability Report
+│  │  ├─ 📄 Ansaldo Sts Shaholders Meeting
+│  │  ├─ 📄 Ansaldo Sts Unaudited Preliminary Fy 2016 Estimates Very Positive Performance Transitional
+│  │  ├─ 📄 Aquafree
+│  │  ├─ 📄 Arrival Electric Buses
+│  │  ├─ 📄 Award Winning Dc Inverter Utopia Ivx
+│  │  ├─ 📄 Barclays And Hitachi Launch Next Generation Finger Vein Scanner
+│  │  ├─ 📄 Class 465 Trains New Hitachi Traction Drive Handed Back Southeastern Scheduled
+│  │  ├─ 📄 Court Genoa Rejects Elliotts Claim
+│  │  ├─ 📄 Easydentic Group Deploy Hitachi Finger Vein Security Solutions Core Devices Its Security
+│  │  ├─ 📄 Electrabel Eon Kraftwerke And Hitachi Power Europe Build And Operate Facility Testing Co2
+│  │  ├─ 📄 Executive Changes Hitachi Europe
+│  │  ├─ 📄 Final Class 395 Train Arrives Southampton Begins Last Leg Journey Depot Ashford
+│  │  ├─ 📄 Foundation Stone Laid Kozienice
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy And Fluor Hold Local Suppliers Conference Capitalize Finnish Nuclear
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy Continues Build Nuclear Infrastructure Poland
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy Excited Support Hitachi Ge Nuclear Energys Efforts Bring Safe Clean
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy Expands Supplier Network Poland Government Prepares Build First
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy Lines Prestigious Academic Support Quest Dispose Uk Plutonium
+│  │  ├─ 📄 Ge Hitachi Nuclear Energy Signs Mou Agreement National Nuclear Laboratory Work Tackling Uk
+│  │  ├─ 📄 Getin Bank Implements Hitachi Finger Vein Biometric Authentication New Getin Branches
+│  │  ├─ 📄 High Speed Service Crowned Champion
+│  │  ├─ 📄 Hitachi Acquires Ma Micro Automation Of Germany In Effort To Accelerate Global Expansion Of Robotic Si Business In The Medical And Other Fields
+│  │  ├─ 📄 Hitachi Affirms Its Commitment To Carbon Reduction
+│  │  ├─ 📄 Hitachi And Bombardier Will Supply 14 Very High Speed Frecciarossa 1000 Trains Italy
+│  │  ├─ 📄 Hitachi And Cci Paris Ile De France Cefj Host Eu Hitachi Science And Technology Forum Inspire
+│  │  ├─ 📄 Hitachi And Genkey Announce Collaboration
+│  │  ├─ 📄 Hitachi And Getin Bank Present Innovative Finger Vein Technology Cebit 2013 Hannover
+│  │  ├─ 📄 Hitachi And Guardian Host Debate Technology Social Innovation And Future Healthcare
+│  │  ├─ 📄 Hitachi And Ubisecure Partner
+│  │  ├─ 📄 Hitachi Announce Trio Compact Tft Displays
+│  │  ├─ 📄 Hitachi Announces Consolidated Financial Results For Fiscal 2023
+│  │  ├─ 📄 Hitachi Announces Consolidated Financial Results For The Third Quarter Ended December 31 2023
+│  │  ├─ 📄 Hitachi Announces Executive Changes 14
+│  │  ├─ 📄 Hitachi Announces Performance Improvement Measures
+│  │  ├─ 📄 Hitachi Appoints Klaus Dieter Rennert Chief Executive Europe Corporate Officer Hitachi And
+│  │  ├─ 📄 Hitachi Celebrates Successful First Anniversary Ashford Tmc
+│  │  ├─ 📄 Hitachi Class 395 Train Makes Uks First Domestic High Speed Passenger Voyage
+│  │  ├─ 📄 Hitachi Commence Tender Offer Shares Its Subsidiary Hitachi Maxell
+│  │  ├─ 📄 Hitachi Commence Tender Offer Shares Its Subsidiary Hitachi Software Engineering
+│  │  ├─ 📄 Hitachi Completes Acquisition Of Ma Micro Automation Of Germany A Leading Provider Of Robotic And Automation Technology
+│  │  ├─ 📄 Hitachi Consulting Lead Establishment Sustainable Finance Platform Accelerate Investments
+│  │  ├─ 📄 Hitachi Consulting Uk Seeks Unlock Shopping Particle
+│  │  ├─ 📄 Hitachi Cooperates With Polskie E Platnosci In The Development Of Software And It Systems
+│  │  ├─ 📄 Hitachi Data Systems Announces New Office Istanbul
+│  │  ├─ 📄 Hitachi Demonstrates World Leading Technologies Ifa 2007
+│  │  ├─ 📄 Hitachi Develop Innovative Iot Platform Isles Scilly Uk
+│  │  ├─ 📄 Hitachi Establishes New Branch Office Istanbul Expand Business Turkey
+│  │  ├─ 📄 Hitachi Europe  Polish Branch    It Card S A Pr Statement
+│  │  ├─ 📄 Hitachi Europe And Frost Sullivan Host Hitachi Social Innovation Forum Istanbul
+│  │  ├─ 📄 Hitachi Europe And Green Data Systems Open Highly Energy Efficient Data Centre Netherlands
+│  │  ├─ 📄 Hitachi Europe And Invixium Identity Announce Partnership Agreement Resell Finger Vein
+│  │  ├─ 📄 Hitachi Europe And Optibus Partner Decarbonise Bus Fleets
+│  │  ├─ 📄 Hitachi Europe Announces Appointment Dr Satoshi Yoshitomi New General Manager Johannesburg
+│  │  ├─ 📄 Hitachi Europe Announces Appointment Guillaume De Pommereau Chief Financial Officer
+│  │  ├─ 📄 Hitachi Europe Announces Appointment Kazuo Abe New Managing Director
+│  │  ├─ 📄 Hitachi Europe Announces Appointment Mr Naotoshi Nishida New Managing Director
+│  │  ├─ 📄 Hitachi Europe Appoints Andrew Barr President
+│  │  ├─ 📄 Hitachi Europe Ltd  And Bank Pekao S A  Sign Agreement For Deliv
+│  │  ├─ 📄 Hitachi Europe Ltd Announces Appointment Kiyoshi Yamamoto New Managing Director
+│  │  ├─ 📄 Hitachi Europe Partners With Shenzhen Bus Group
+│  │  ├─ 📄 Hitachi First Signalling Milestone Major Boost Digital Railway
+│  │  ├─ 📄 Hitachi Ge Nuclear Energy Welcomes Progress Gda
+│  │  ├─ 📄 Hitachi Ges Uk Abwr Takes Further Step Forward Gda
+│  │  ├─ 📄 Hitachi Group And Osge Are Implementing Their First Projects Related To The Smr Fleet And Strengthening Strategic Cooperation On The Polish And European Markets
+│  │  ├─ 📄 Hitachi High Technologies Europe Donates Tabletop Scanning Electron Microscope Turkish
+│  │  ├─ 📄 Hitachi Host First Social Innovation Forum Milan
+│  │  ├─ 📄 Hitachi Host Social Innovation Forum London
+│  │  ├─ 📄 Hitachi Hosts Social Innovation Forums Turkey And Poland
+│  │  ├─ 📄 Hitachi Included In Dei Lighthouses 2024 Insight Report Issued By The World Economic Forum
+│  │  ├─ 📄 Hitachi Industrial Engineering Emea Srl Formed
+│  │  ├─ 📄 Hitachi Introduce Ultra High Brightness Tft Displays
+│  │  ├─ 📄 Hitachi Introduces Ultimate Interactive Lcd Projector
+│  │  ├─ 📄 Hitachi Launches 2Nd Series Are You Next Brand Campaign
+│  │  ├─ 📄 Hitachi Launches First Ever Brand Campaign Kazakhstan And Further Campaign Russia
+│  │  ├─ 📄 Hitachi Launches New Social Innovation Business Brand Campaign
+│  │  ├─ 📄 Hitachi Launches World First Zero Carbon Powered Film
+│  │  ├─ 📄 Hitachi Maxell Announces New President And Chief Executive Officer
+│  │  ├─ 📄 Hitachi Medical Systems Uk Sells Its First 12 Tesla Open Architecture Vertical Highfield Mri
+│  │  ├─ 📄 Hitachi Metals Ltd And Hitachi Cable Ltd Conclude Basic Agreement Business Integration
+│  │  ├─ 📄 Hitachi Mitsubishi Motors And Engie Explore Using Electric Car Batteries Renewable Energy
+│  │  ├─ 📄 Hitachi Omron Terminal Solutions Publishes Whitepaper Role Recycling Technology Retail Back
+│  │  ├─ 📄 Hitachi Onboard Etcs Technology Successfully Operating Network Rail Track Side System
+│  │  ├─ 📄 Hitachi Partnership With Global Centre Of Rail Excellence Will Deliver Energy Security And Uk Innovation
+│  │  ├─ 📄 Hitachi Power Europe And Local Subsidiary Build Six Utility Steam Generators South Africa
+│  │  ├─ 📄 Hitachi Power Europe And Terna Sa Will Construct Ptolemais V
+│  │  ├─ 📄 Hitachi Power Europe Enters Polish Power Plant Market Order Volume Nearly 63Bn Zloty
+│  │  ├─ 📄 Hitachi Power Europe Reinforces Its Services Supply Offer
+│  │  ├─ 📄 Hitachi Power Europe Secures Eu2 Billion Order
+│  │  ├─ 📄 Hitachi Qnb Finansbank Atm Sr7500
+│  │  ├─ 📄 Hitachi Rail Europe Selects Mtu Preferred Supplier Rail Power Packs Hitachi Super Express
+│  │  ├─ 📄 Hitachi Rail Europe Selects Nomad Digital Board Server Solution Iep
+│  │  ├─ 📄 Hitachi Rail Europe Strengthens Leadership Team
+│  │  ├─ 📄 Hitachi Rail Italy Delivers First Train Miami Dade County
+│  │  ├─ 📄 Hitachi Records Valuation Allowance Against Deferred Tax Assets And Unconsolidated Basis
+│  │  ├─ 📄 Hitachi Secures Contract Supply Flue Gas Desulphurisation Fgd System Elektrownia Kozienice Sa
+│  │  ├─ 📄 Hitachi Showcase Latest Technologies London Event
+│  │  ├─ 📄 Hitachi Showcase Latest Technologies Paris Event
+│  │  ├─ 📄 Hitachi Social Innovation Forum 2016 Announced Berlin
+│  │  ├─ 📄 Hitachi Social Innovation Forum 2016 Coming London
+│  │  ├─ 📄 Hitachi Solutions Announce German Acquisition
+│  │  ├─ 📄 Hitachi Sponsors International Tennis Tournament Kremlin Cup 2012 Bank Moscow
+│  │  ├─ 📄 Hitachi Sponsors New London Business Iphone App
+│  │  ├─ 📄 Hitachi Strengthen Business Structure Accelerate Growth
+│  │  ├─ 📄 Hitachi Swiss Re Corporate Solutions Partnership
+│  │  ├─ 📄 Hitachi Systems Acquires Cbt Italian It Service Company Enter European It Market
+│  │  ├─ 📄 Hitachi Tjmorris Technology Partnership
+│  │  ├─ 📄 Hitachi To Announce Capital Reorganization Of Air Conditioning Joint Venture
+│  │  ├─ 📄 Hitachi To Strengthen Business Structure To Achieve Sustainable Growth
+│  │  ├─ 📄 Hitachi Unveils New European Tv And Online Brand Campaign Developed Cdp
+│  │  ├─ 📄 Hitachi Veinid Aktif Bank Mitsubishi
+│  │  ├─ 📄 Hitachis Launches First Ever Brand Campaign Turkey Are You Next
+│  │  ├─ 📄 Hitachis New Hand Gesture Biometric Technology Raises Bar Computer Security
+│  │  ├─ 📄 Humandrive Project
+│  │  ├─ 📄 Iav And Hitachi Industry Control Sign Cooperation Agreement Partnership Contributing Worldwide
+│  │  ├─ 📄 Information Reporting Public
+│  │  ├─ 📄 Integrating Mathworks Matlab And Microsoft Dynamics 365 Using Hitachis Lumada Iot Platform
+│  │  ├─ 📄 International Teacher Exchange Programme
+│  │  ├─ 📄 Isles Scilly And Smart Energy Islands Project Update July 2018
+│  │  ├─ 📄 Karen Boswell Hre Managing Director Receives Obe Queens Birthday Honours List
+│  │  ├─ 📄 Kir Durable Medium
+│  │  ├─ 📄 Krakowski Bank Spoldzielczy Starts Cooperation With Hitachi And Basement To Use Digital Durable Medium
+│  │  ├─ 📄 Lorena Dellagiovanna Chief Diversity Inclusion Officer
+│  │  ├─ 📄 M2Sys Technology Partners Hitachi Offer Innovative Biometric Finger Vein Scanner Us Market
+│  │  ├─ 📄 Major Plans Wylfa Newydd Formally Accepted
+│  │  ├─ 📄 Milestone Supply Energy South Africa
+│  │  ├─ 📄 Mr Yoshiyuki Ogura Appointed New Chairman Hitachi Europe Ltd
+│  │  ├─ 📄 New Company Be Established Battery Operations Through Corporate Spin
+│  │  ├─ 📄 New Leadership Boost Horizon
+│  │  ├─ 📄 New Research Shows Co Creation Transforming How Businesses Approach Innovation
+│  │  ├─ 📄 Opening Hitachi Europe Ltd Representative Office Poland
+│  │  ├─ 📄 Planet Cash Europes First Biometric Atm Shared Network Launched Poland Based Successful
+│  │  ├─ 📄 Project Director Appointed Support Wylfa Newydd Delivery
+│  │  ├─ 📄 Remarks Suspension Uk Nuclear Power Stations Construction Project Meeting Media Investors
+│  │  ├─ 📄 Servcity Autonomous Mobility Uk
+│  │  ├─ 📄 Sir Stephen John Gomersall Receives Grand Cordon Order Rising Sun Government Japan
+│  │  ├─ 📄 South African Engineers Japan Courtesy Hitachi Dst Scholarship
+│  │  ├─ 📄 Uk Companies Build New Operating System
+│  │  ├─ 📄 Uk Smart Grids Move Closer Reality Successful Trial Dynamic Voltage Control Hitachi And
+│  │  ├─ 📄 Wdr And Hitachi Expect Close Agreement Sale Hitachis Hdd Business Wd March 8Th
+│  │  ├─ 📄 Worlds Biggest Commercial Electric Vehicle Project Announced Uk
+│  │  ├─ 📄 Worlds Biggest Commercial Ev Trial Accelerates Move All Electric Fleets 0
+│  │  └─ 📄 Wylfa Newydd Confirmed Uks Next Nuclear New Build Project
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Products
+
+│  ├─ 📂 Rd
+│  │  ├─ 📄 Customer Stories
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Advanced Driver Assistance System For Trams And Metros
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Business Origami
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Clear View Of Sustainability
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Dense 24 7 Sensing System
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Easy Boarding Passenger Flow Optimisation
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Eras The Solution That Watches Out For Lone Rail Maintenance Workers Safety
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Humandrive
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Safer Airports
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Smooth Sailing
+│  │  ├─ 📂 Customer Stories
+│  │  │  ├─ 📄 Vision Design
+│  │  ├─ 📄 People And Labs
+│  │  ├─ 📄 Publications
+│  │  └─ 📂 Publications
+│  │     └─ 📄 The People Of Hitachi An Engineer Aiming To Realize A Circular Economy
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  ├─ 📄 Termsofuse
+
+│  └─ 📄 Uk Tax Management
+
+
+├─ 📁 En Hk
+
+│  ├─ 📄 En Hk
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 Hea
+│  │  ├─ 📄 History
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1910
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1961
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1981
+│  │  └─ 📂 History
+│  │     └─ 📄 2001
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 20230726
+│  │  ├─ 📄 20231102
+│  │  ├─ 📄 20231115
+│  │  ├─ 📄 20250326
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Products
+
+│  ├─ 📄 Sitemap
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En In
+
+│  ├─ 📄 En In
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 Events
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Pnid2013
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Inno Future2014
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Inno Future2015 Bengaluru
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Inno Future2015 Mumbai
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Inno Future2017 Newdelhi
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Conclave Bengaluru 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Conclave Bengaluru 2018
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Conclave Mumbai 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Conclave Mumbai 2018
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Forum 2021
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Social Innovation Forum Delhi 2018
+│  │  └─ 📂 Events
+│  │     └─ 📄 Social Innovation Forum2013
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 A Hitachi Day In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 A Nation Dream Power For All
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Accelerating India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai And Automation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai In Goverence
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Aiimshospital
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Asset Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Assistive Technologies Empowering Abilities
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Au Finance
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Automating City Gas
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Banking To Hinterland
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Big Data
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Big Data Decodes The Trend
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Blockchain Technology
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Bringing New Age Learning
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Bringing Transformation Through Innovative Green And Digital Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Building A Better Future For All
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Carbon Neutral Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 City Gas Distribution
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Clean Drinking Smart Water Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cloud Computing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Collaborative Creation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Combating Climate Change
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Commitment To Forge A Sustainable Nation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Connecting The Nation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Contribution To Governance In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Creating Wealth
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Data Analytics Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Data Science
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Decongesting Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Delivering Best Payment
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Delivering Solutions For A New Era Of Mobility In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Enterprise
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital India And E Education
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Law Enforcement
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Payment
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Payments Revolution
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Supply Chain
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Transformation In Aviation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitalizing Indian Railways
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitalizing Machine Inspection
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitalizing Transformers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitally Resurgent Rajasthan
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Drive Green
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Driverless Trains
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Driving Evolution Of Agriculture
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Driving Future Of Payments
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Driving The Future Of Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Drivingdigitaltransactions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 E Governance With Data Analytics
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 E Learning
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Edge Computing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Education System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Electrification Of Railways
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Electronic Interlocking System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Embracing Dei
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Embracing Digital Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Embracing Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowered Digital India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowered Tomorrow
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Aiims With Ict
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Citizens Through Social Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Dropout Students
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Enterprises
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Manufacturing Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowerment Digital Payment
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy Efficiency Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy With Hitachi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Engendering A Green Urban Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Enhancing Passengers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Envisioning Rail Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Fault Location Technology
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Financial Empowerment
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Financial Infrastructure Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Fostering Progress Enriching Lives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Fueling Construction Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Fueling Financial Inclusion
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Fulfilling Dreams Of Self Reliant India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Future Of E Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Future Of Governance
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Future Of Urban Commuting
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Generative Ai Tools
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Global Logic
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Energy Economy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Energy Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Energy Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Hydrogen
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Legacy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Revolution
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Transformation Voyage
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Greenovationx Powering Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Health Sector For Inclusive Healthcare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Healthcare On Wheels
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Healthcare Through Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Healthcare With Telemedicine
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Mgrm Net
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Energy In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Money Spot Atms
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Rail
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Research Development
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Home On Finger Tips
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hyperconnected Era
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Improving Law Enforcement
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 India Japan Comradeship
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Indraprastha Gas Limited
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Industrial Energy Management System
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Industrial History
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Industrial Safety Monitoring Systems
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Industrial Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innovation With Digital Engineering
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innovations That Foster Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Integrated It Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Intelligent Automation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Intelligent Transportation Systems
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Intelligent Water Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Atul Shukla
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Mahesh Sharma Katare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Rajashekar Reddy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Sanjeev Bakshi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Sidharth Bharadwaj
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Tarun Sharma
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Interviews Venkat Kaparapu
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Iot To Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Iway
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Journey Of Financial Inclusion
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Journey Of Progression
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Kolkata East West Metro
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Learning Through Robotics
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Leveraging Technology
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Life And Economy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Management Message
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Manufacturing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Manufacturing Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Merchant Payment App
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Mhealth Service
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Mission Oxygen
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Mobility Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Modernizing Education
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Money Spot Atm
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Money Spot Atms
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 New Era Of Banking
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Next Generation Cybersecurity Systems
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Noida Metro Project
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Noidametro
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Payment Infrastructure India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Payment Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Payments With Hitachi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Poachers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power For All
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power Of 5G
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power Of Big Data
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power Of Efficient Water Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power Sustainability Through Automation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power To Decarbonize
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power To Millions Big Data Analytics
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering Corridors
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering Green Energy Revolution
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering Kolkata Metro
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Powering Western Dedicated Freight
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Preventive Predictive Healthcare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Rail Systems
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Rd
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Real Time Governance
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Recycle Technologies
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Redefining Data Centres
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reduced Carbon Footprints
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reduced Co2
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reducing Carbon Footprint With Green Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Rekindling Hope
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Renewable Energy Capacity
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reviving Reservoir
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Revolutionising Manufacturing Efficiency
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Revolutionizing Rail Signalling
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Rich Legacy In India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Roadmap To Sustainable Development
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Robotic Assistant
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Robust It Infrastructure
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Safe Drinking Water
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Safety On Roads
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Saving Woods
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Securing What Matters
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Shopping
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart City
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Energy Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Mobility India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Railway
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Railways
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Sustainable Cities
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Social Innovation In Renewable Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Society 5 0
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Solar Energy Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Solar Panel Recycling
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Solution For Vehicle Recycling
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Steering Wheel
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainability In Action
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainability Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainability Stories
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Automotive Sector
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Development In Decade
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Energy Infrastructure
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Mobility Hitachi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Planet
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Catalyst To Powering India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Future Track
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Thriving New Normal With Industry 4 0
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transformation Of Police
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transformation To E Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Lifeline
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Lives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Mobility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Steel Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming The Pharmaceutical And Healthcare Landscape
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Udhampur Srinagar Baramulla Rail Link
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Unified Legacy Of Inclusion
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Urban Development
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Vaishno Devi Pilgrims
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Vertical Transit Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Vision Of New India
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Wastewater Management
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Water
+│  │  ├─ 📄 Customer Stories
+│  │  ├─ 📄 Insights Index
+│  │  ├─ 📄 Thought Leadership
+│  │  └─ 📄 Videos
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 Hitachi Newsletter
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 106 Elevators For Hyderabad
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 49 Units For Bengaluru
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 56 Elevators For Noida
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 58 Elevators Mumbai
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Acquisition Boosts Payment Services
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Adstefan 2019 Launch
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Air Conditioning Venture Reorganized
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Atm Milestone India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Atm Production In India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Atm Recycling Launch
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Banking Tech Partnership
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Battery Insights Drive Efficiency
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Bengaluru Manufacturing Hub
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Boosting Hospital Oxygen Supply
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Casting Simulation Upgrade
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Covid 19 Tech Aid
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Croma Hitachi Sales Push
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Driving Innovation Through It
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Eco Friendly Healthcare By Hitachi
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Elevator Expo Spotlight
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Elevator Order From Unity
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Elevator Project India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Empowering Digital India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Empowering Women In Bangladesh
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Expanding Presence In Bengaluru
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 First Indian Md
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Forum On Digital Transformation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Fy18 Growth Ambition
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Generative Ai Collaboration
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Gis Partnership Strengthened
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Global Lift Expo Showcase
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Green Energy Initiative
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hisys Mc Launches In India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi At Autoexpo
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Enhances Family Support
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Forms Mgrm
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi India Business Strategy
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi India Leadership
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Innovation Forum In New Delhi
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi It Expansion
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Joins Aws Network
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Launches Adstefan
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Hitachi Urban Solutions
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Improving Care With Ict
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Innovation Forum New Delhi
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Innovative Data Science Collaboration
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Itc Kohinoor Gets Elevators
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Joint Venture For Payments
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Leadership Change Announced
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Mid Term Strategy Progress Report
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 New Escalator For Asia
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Power Business Expansion India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Power Grid Expansion
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Power Grids Fuel Refinery
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Power Grids Rail Contract
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Powering Indian Railways
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Prizm Rebrands As Hitachi
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Railway Network Expansion India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Reducing Circulation With Innovation
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Rolta Hitachi Partnership
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Showcasing Smart Lift Solutions
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Simulation Tech For India
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Smart Forests Collaboration
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Smart Medical Extraction
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Smarter Print Management
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Social Innovation Forum 2015
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Solar Energy For Maharashtra
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Strategic Ai Partnership Formed
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Sustainable Health Project
+│  │  ├─ 📂 Press Releases
+│  │  │  ├─ 📄 Transforming India With Innovation
+│  │  └─ 📂 Press Releases
+│  │     └─ 📄 Uhvdc Link Energized
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Products
+
+│  ├─ 📄 Rd
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Subscription
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En Mm
+
+│  └─ 📄 En Mm
+
+
+├─ 📁 En Mx
+
+│  ├─ 📄 En Mx
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Products
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Software
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Solutions
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Industrial Solutions
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Services
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Supply Chain
+│  │  └─ 📂 Mobility
+│  │     └─ 📄 Rail Services Solutions
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En My
+
+│  └─ 📄 En My
+
+
+├─ 📁 En Ph
+
+│  └─ 📄 En Ph
+
+
+├─ 📁 En Sea
+
+│  ├─ 📄 En Sea
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Brochure
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 Events
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2023 Hyli Alumni Singapore Gathering
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 35 Years Of Christmas Joy With Hitachi
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Christmas A Timeless Celebration
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Christmas Light Up 2021
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Christmas The Season Of Giving
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Clu Hps 2022
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Creating Solar Powered Rooftops With Grid Edge Solutions For A Decarbonised Society
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 From Forest To Future
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Blood Hero
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Elevator Asia Clinched Lowcarbonsg Award At The Singapore Apex Corporate Sustainability Awards 2025
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Plays Santa 2021 Cooking From The Heart
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Keeping Our Kampung Spirit Alive With Safer Communities
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Metalex 2020
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Powering Good For Thai Citizens Through The Pandemic
+│  │  ├─ 📄 Lumadacenter
+│  │  └─ 📄 Message
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Aseannewnormal
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Better Quality Of Life
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Business Of Improving Lives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Businessinnovations
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Championing Dt
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cluhps2022
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cna Partnering
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Cna Sustainable
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Combating Climate Change
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Corporate Social Responsibility
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Covid19
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Data Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Decarbonising Asean
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Finance Matters In Southeast Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Healthcare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitaltransformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 E Mobility Growth
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Elevating Quality Of Life
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empoweringcities
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy Matters In Southeast Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Enterprises
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Environmental Value
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ev Charging
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Financial Transformation Southest Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Future Connectivity
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Greener Southeast Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Greenhub
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Growth And Environment Matters
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hope And Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Horiuchi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Indonesia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innovations
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Lightinguplives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Lumada Solutions Digital Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Lumadacenter Sea
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Manufacturing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Myanmar
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Openvq
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Philippines
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Philippines Digital Payment
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Power Grid Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Preventive Healthcare
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Proton Beam Therapy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Protontherapy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Redline
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reduce Carbon Emissions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Reimagining Asean
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Responsibility Of Corporations
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Roadtoth
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sending Cash
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sggreenbuilding
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Shaping Whats Next Hitachi Rd Sustainable Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Singapore
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smart Automation Matters In Southeast Asia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smartcities Asean
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smartcity
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Smartmanufacturing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Social Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Social Innovation In Action
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Somsakgarnjanakarn
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Southeast Asia Matters
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Southeast Asia Next Gen Semiconductor
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Cities With Green Financing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Thailand
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Thailand Green Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Towards Industry
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Indonesia
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Vietnam
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Water Issues
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Water Matters In Southeast Asia
+│  │  └─ 📂 Articles
+│  │     └─ 📄 Wujuan
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 Ctbc Bank Philippines Partners Hitachi Asia To Bring Faster Safer Digital Banking Experience To Customers
+│  │  ├─ 📄 Ctbc Bank Philippines Partners Hitachi Asia To Transform Digital Banking For Corporates And Smes
+│  │  ├─ 📄 Filinvest City Invests In High Tech Water Solutions
+│  │  ├─ 📄 Hitachi Abb Power Grids Expands Transformer Manufacturing In Vietnam
+│  │  ├─ 📄 Hitachi Abb Power Grids Teams Up With Ntu Singapore To Take Solid State Transformer Technology To The Next Level
+│  │  ├─ 📄 Hitachi And Mqdc Sign Mou To Develop Placemaking 5 0 Digital Masterplan To Transform Mixed Use Into 360 Consumer Experiences
+│  │  ├─ 📄 Hitachi And The Lee Kong Chian Natural History Museum Collaborate To Propel Stem Education In Singapore
+│  │  ├─ 📄 Hitachi Asia To Participate In Ibew 2022 As Diamond Sponsor
+│  │  ├─ 📄 Hitachi Awarded Largest Contract In Singapore To Supply 450 Lifts At Hdb Blocks
+│  │  ├─ 📄 Hitachi Calls On Asias Future Leaders To Flow As One For A Sustainable Future
+│  │  ├─ 📄 Hitachi Celebrates 31 Years Of Powering Singapores Iconic Christmas Light Up
+│  │  ├─ 📄 Hitachi Collaborates With Vietnam Post And Vietcredit To Deploy New Financial Services Nationwide
+│  │  ├─ 📄 Hitachi Elevates Wastewater Management Standards At Cupang Water Reclamation Facility In The Philippines
+│  │  ├─ 📄 Hitachi Elevator Philippines Receives 67 Elevators And Escalators Order For Its First Railway System Project
+│  │  ├─ 📄 Hitachi Partners With Bao Viet Insurance To Drive Innovation In Insurance Business Using Ai And Medical Big Data
+│  │  ├─ 📄 Hitachi Selected As System Vendor For Demand Response Demonstration Project For The Optimization Of Thai Power Supply And Demand Balance
+│  │  ├─ 📄 Hitachi To Launch Full Scale Smart Building Solution In Thailand
+│  │  ├─ 📄 Hitachi To Showcase Sustainable Financial Solutions At Sff2025
+│  │  ├─ 📄 Hitachi To Showcase Sustainable Semiconductor Solutions At Semicon Sea 2025
+│  │  ├─ 📄 Hitachi Young Leader Initiative 2024 Empowering Future Leaders For A Sustainable Tomorrow
+│  │  ├─ 📄 Security Association Singapore And Hitachi Asia Sign Mou To Set Up A Business Continuity Operations Centre
+│  │  ├─ 📄 Seven Bank Adopts Hitachi Omron Terminal Solutions Atm System Managed Service For Atms Installed At 7 Eleven Stores In The Philippines
+│  │  ├─ 📄 Shinichi Sakai Appointed New Managing Director Of Hitachi Asia Ltd
+│  │  ├─ 📄 Singtel And Hitachi Digital Partner To Accelerate Industrial Ai Solutions
+│  │  ├─ 📄 Singtel And Hitachi Expand Collaboration To Next Generation Data Centers And Gpu Cloud To Accelerate Enterprise Digital Transformation By Ai Adoption
+│  │  └─ 📄 Thailands First Demonstration Project Of Optimized Performance Enabling Network For Volt Varq Openvq In Power Transmission Network
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📄 Building Systems
+│  │  ├─ 📄 Digital
+│  │  ├─ 📄 Healthcare
+│  │  ├─ 📄 Industry
+│  │  ├─ 📄 Measurement Analytical Systems
+│  │  └─ 📄 Mobility
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En Tw
+
+│  ├─ 📄 En Tw
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 History
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1910
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1961
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1981
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 2001
+│  │  └─ 📄 Thap
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 20231102
+│  │  ├─ 📄 20240415
+│  │  ├─ 📄 20240520
+│  │  ├─ 📄 20241128
+│  │  ├─ 📄 20250326
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Products
+
+│  ├─ 📄 Sitemap
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 En Us
+
+│  ├─ 📄 En Us
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 Events
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2013 Us Japan Council Conference
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2013 World Business Forum
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2014 Bloomberg New Energy Finance Summit
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2019 North American Manufacturing Excellence Summit
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 2026 Att Pebble Beach Pro Am
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Ahra2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Americas Digital Transformation
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Ase2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Climate Forum 2009
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Climate Forum 2010
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Climate Technology And Sustainability
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Creating A Software Driven Organization
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Decoding The Hidden Opportunities Of Accelerating Your Sustainability Strategy
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Eco Engineering Forum 2011
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Eco Engineering Forum 2012
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Eco Engineering Forum 2013
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Eco Engineering Forum 2014
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hbr Webinar
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi And Penske Turning Sustainable Transportation Into A Reality
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Bloomberg Breakaway 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Ces 2020
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Climate Week Nyc 2024
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Distributech 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Distributech 2023
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Minexpo 2016
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi At Verge 2023
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Digital Summit 2023
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Digital Summit 2024
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Digital Summit 2025
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Inspire 2024
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Inspire Summit 2025
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Social Innovation Forum 2015
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Hitachi Social Innovation Forum 2016
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Industrial Digitalization For Everyone In Manufacturing
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Innovating Across The Ev Value Chain
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Innovating The American Metropolis
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Insights Into Smart Manufacturing Excellence
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Key Takeaways From Climate Week Nyc 2022
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Manufacturing Leadership Summit
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Manufacturing Leadership Summit 2019
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Naias 2018
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Oracle Openworld 2018
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Powering Mobility Infrastructure For Decades To Come
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Rethink Accelerating Digital Transformation In Manufacturing
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Rethink The Manufacturing Leadership Council Summit
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Rsna 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Rsna 2019
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Smart Cities New York 2019
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Strategies For A Greener Future In The Digital Age
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Sustainability Summit 2017
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Sustainability Transformation In Transportation And Energy
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Take The Lead Sonoma
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Teamwork Wins On Track And In Business
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 The New Frontier For Utilities Lumada Inspection Insights
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 The Smart American City
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Tracking Supply Chain Sustainability
+│  │  ├─ 📂 Events
+│  │  │  ├─ 📄 Transportation For All
+│  │  ├─ 📄 Government Relations
+│  │  ├─ 📂 Government Relations
+│  │  │  ├─ 📄 A Message From Team
+│  │  ├─ 📂 Government Relations
+│  │  │  ├─ 📄 Policy Priorities
+│  │  ├─ 📂 Government Relations
+│  │  │  ├─ 📄 Political Engagement
+│  │  ├─ 📂 Government Relations
+│  │  │  ├─ 📄 State Engagement
+│  │  ├─ 📄 Powering Americas Journey To A Sustainable Society
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Accelerating The Journey To Clean Energy And Resilient Power Grids
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Data Driven Transformation Is Critical For The Next Challenges
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Developing Resilient Manufacturing And Supply Chains
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Redefining Ev
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Supporting Healthy Lives In The Us
+│  │  ├─ 📂 Powering Americas Journey To A Sustainable Society
+│  │  │  ├─ 📄 Upgrading Infrastructure
+│  │  ├─ 📄 Rd
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 About
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Alliances
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Contact
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Response
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Diversity Enriches Us All
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Our Method
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Patents
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Publications
+│  │  ├─ 📂 Rd
+│  │  │  ├─ 📄 Solutions
+│  │  └─ 📂 Rd
+│  │     └─ 📄 Why Hitachi Rd
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Ca Configuration
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Contact
+
+│  ├─ 📄 Cookie Policy
+
+│  ├─ 📂 Dsar
+│  │  ├─ 📄 Response
+│  │  ├─ 📄 Someone Else
+│  │  └─ 📄 Yourself
+
+│  ├─ 📄 Dsd
+
+│  ├─ 📂 Gdpr
+│  │  ├─ 📄 De
+│  │  ├─ 📄 Es
+│  │  ├─ 📄 Fr
+│  │  ├─ 📄 Fr Ca
+│  │  ├─ 📄 It
+│  │  ├─ 📄 Pl
+│  │  ├─ 📄 Pt
+│  │  └─ 📄 Zh
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 A New Spin On Sdlc Is Solving A Big Problem In Industrial Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Achieving Sustainable Energy Future With Digital Innovation And Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Actionable Esg Compliance For Businesses
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai Beyond The Hype Strategies For Business
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai For Smart Manufacturing Industry 4 0
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai Innovations Powering Data Centers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai Revolution In Automotive Design Production Operations
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ai Revolution In Manufacturing Lead The Charge
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 An Industrial Approach To Ai In Financial Services
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Automated Trains For Cleaner Safer Future Of Transportation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Blues
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Bringing Green Energy To The Grid
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Building Green And Digital Business To Drive Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Building Resilient Supply Chains With Graph Neural Networks
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Building The First Driverless Rail Transit System In The Us
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Data Intelligence Tackles Climate Change
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Decarbonization For Green Mobility And Energy Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Designing And Powering A Green It Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Designing The Next Generation Of Ai Powered Grid Solutions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Solutions Are Driving Sustainable Energy Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Solutions In Agriculture Drive Sustainability In Farming
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Technology For Smart Sustainable Supply Chains
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Twins For Smarter Greener Energy Grid
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Easing The Pressure On The Electrical Grid With Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Empowering Industrial Workers With Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Energy Strategies For Industrial Manufacturers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 From Automation To Innovation Potential Of Generative Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Glow Helping Clean Energy Transition For California
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Energy For Generative Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Technologies Drive Sustainability
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi And Penske Are Leading The Charge In Sustainable Truck Fleet Charging
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi And Ring Power Collaboration For Electric Air Compressor
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Communications Based Train Control For Bart
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Helps Baker Cheese Reduce Print Costs And Downtime
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Rail Unveils Hagerstown A Digital Factory Built On Udl
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Rails First Manufacturing Plant In The United States Is Now Complete
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Success Story City Of Moreno Valley
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachis Commitment To Carbon Neutrality
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachis Role In Shaping A Greener Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Digital Engineering Is Powering Ai Driven Loyalty Programs
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Electrification Will Reshape The Future Of Fleets
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Hitachi Is Empowering A Digital Future Through Ai And Innovation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How The Industrial Metaverse Will Empower Businesses To Visualize Their Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Human Centric Manufacturing Technology For Workers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Industrial Ai Move Fast Break Nothing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Jrautomation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Keys To Successful Digital Transformation In Manufacturing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Leading The Charge Future Of Electric Vehicle Transportation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Making Circular Economy A Reality Digital Technology
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Making Sustainable Mobility A Reality
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Maple Leaf Foods
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Medtech Engineering Partnership Digital Cardiac Monitoring System Save Lives
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 North Sea Link
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Pivot Power Gm Hitachi
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Proactive Diagnostics For Enterprise Fleet Maintenance And Repair
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Renewable Energy Transmission Technology Power Ny Homes
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Revolutionizing Agriculture With Sustainable Feed Production
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Rocky Mountain Spice Company
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Role Of Technology In Sustainable Energy Management And Transition
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Safety First With Hitachi Technologies
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Security Centres International And Hitachi Visualization Success Story
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Skyline Rail Transforms Public Transportation In Honolulu
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Stanfords Jure Leskovec On Graph Learning
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Sustainable Farming Through Technology
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Tequila Inteligente
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Sunzia Project A Landmark In Renewable Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Energy Forecasting With Artificial Intelligence
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Transforming Healthcare With Software As A Medical Device Patient Companion App
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Triumphing With Industrial Ai
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Unlocking Genomic Data For Better Quality Of Life
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Using Microscopy To Advance Stem Education
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Why A Circular Battery Ecosystem Is Both Necessary And Doable
+│  │  ├─ 📄 Customer Stories
+│  │  ├─ 📄 Inspirethenext
+│  │  └─ 📄 Thought Leadership
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 04182000
+│  │  ├─ 📄 07212015 01
+│  │  ├─ 📄 11162015 Enters Na Carrier Market
+│  │  ├─ 📄 A New Facility Is Being Established In U S To Collaborate And Create New Solutions With Customers
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01022007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01032007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01032007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042001 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042001 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042001 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042001 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01042008 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01052007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01052007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01062003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01062015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01072002 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01072016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082002 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082002 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082007 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082007 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01082007 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01092003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01102006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01142004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01152004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01182006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01182006 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01201998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01221998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01281998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 01302015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02031998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02032011 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02042004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02052015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02112016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02122007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02132007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02162015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02221999 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02272015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02282002 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02282002 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 02282002 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03022004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03062007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03102005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03111998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03112015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03121998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03122007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03132006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03162016 Rail
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03212006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03222004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03252002 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03262015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03302004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 03302015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04012003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04022015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04032001 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04032004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04042005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04062000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04072003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04072015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04132009 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04162001 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04162001 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04172007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04232007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04252007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04262005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04262007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 04292004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05022005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05052007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05072003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05072007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05082006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05092005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05142015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05152006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05152007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05202015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05212007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05232000 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05232000 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05272005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05272005 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05272005 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05292001 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05292001 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05292001 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05292001 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05302006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05302006 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 05312007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062005 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062005 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062005 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062005 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06062006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06082000 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06092016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06102002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112001 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112001 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112001 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112002 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06112015 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06122002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06122008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06162008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06162008 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06162008 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06162008 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06162008 05
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06182015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06192007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06192007 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06192007 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06192007 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06192007 05
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06212004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06292015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 06302006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07012004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07022002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07022002 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07132006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07132006 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07192010 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07202006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07212015 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07222002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07272016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07292015 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 07312002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08032006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08072006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08092004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08112008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08112016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08122002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08142013 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08162004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08162004 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08162004 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08172005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08222006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08262015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08282003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08292000 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 08292000 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09012004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09012006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09021997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09022008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09022008 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09042008 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09042008 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09042008 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09092004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09132006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09142015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09151997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09192005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09202004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09202016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09211998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09231997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09242002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09262006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09272007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09281998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09282015
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 09282015 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10012006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10012008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10042011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10061997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10062010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10072004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10082007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10112011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10141998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10151997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10151998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10152007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10152007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10162000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10192000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10211998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10211998 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10212003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1022008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10231998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10232006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10232006 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10232007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10232014 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10242011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10252001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10262000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10262011 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10262011 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10272004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10272009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10281997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10282009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10302000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1042008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1052010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1072000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1072002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1082002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1082014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 10Th Annual Summer Food Drive Local Tarrytown Community To Support Efforts With All Donations
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11012006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1102001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11031999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11041997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11052014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11061997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11062001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11072005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11082000 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11082000 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11092009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11101997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11111997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11112014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1111999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11121997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11121999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11122001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11131997
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11132000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11132006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 03
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 04
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 05
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 06
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11151999 07
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11152006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11162010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11162015 Debuts Carrier Ethernet Switches
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11172003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11172008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11192007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11192007 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11192007 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1122009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11232010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11242014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11282006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11282006 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11291999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 11292012 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1172001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1172014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1191999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12012004
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12012004 01
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12012004 02
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12012006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12021999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12022013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12042006
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12052005
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12052011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12092008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12102003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12122001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12141998
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12162014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12172014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12202000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12212015 Accreditcoach
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1222010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12232008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 12312003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1252001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 1252012
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 132 240Kw Dsp Series Oil Free Compressors To North America
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2012001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2032009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2042008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2042011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2072000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2202001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2221999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2222000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 2242010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3032008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3062000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3082001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3102010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3112010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3122013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3151999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3162009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3171999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3182002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3192013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3202002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3222016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3232009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3232010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3252002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3262002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3292012
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 3312014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4022002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4132009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4182000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4211999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4222010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4242001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4262002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4281999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4282000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 4302008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5012000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5012008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5032010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5042009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5082000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5111999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5112010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5122000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5122008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5142001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5142008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5152008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5172000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5242010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5251999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5271999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5302013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 5312002
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6052007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6081999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6092008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6122008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6132000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6152000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6162008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6192007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6202013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6211999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6222000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6242008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6252007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6282010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 6302010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7012009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7032007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7122007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7152013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7162008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7172000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7192010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7242003
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7242008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 7272007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8012007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8042011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8102010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8112008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8142013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8212000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8231999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8241999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8252009
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8252010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8292007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 8302000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9022008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9042008
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9052014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9062007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9071999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9102007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9102013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9112007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9122013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9151999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9182007
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9212001
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9242012
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9271999
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9272000
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9292011
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9302013
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 9302014
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Advanced Industrial Ac Variable Frequency Drives For Fans Pumps Conveyors
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Charlotte Facility Release Final
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Cp Tw3005 Projectors Advance Learning Opportunities
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Donates 7337 Pounds Of Food To The Food Bank For Westchester
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Donates Over 5000 Pounds Of Food To The Food Bank For Westchester During Annual Hitachi Us Food Drive
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Dsp Series Oil Free Screw Compressors To Us
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Employees Donate 6097 Pounds Of Food To The Food Bank For Westchester
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Employees Plant Trees And Cut Vines Along Saw Mill River Parkway In Honor Of Earth Day
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Establishment Of A Subsidiary In Mexico
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 First Ever Hitachi Roku Tv Models Nowlaunching
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Flow Visualization Takes Center Stage At Tedmed 2016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Free Education Program For Westchester Nonprofit Organizations
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Full Featured Ultra Portable Projector With Xga Resolution And High Contrast Ratio
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hal Funds Biobus Visit
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hal Iced 100000Th Cij Press Release Final
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hal Iced Leadership Award Press Release Final 2010
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hal Iced Leadership Award Press Release Final 2012
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hal Iced Wj200M Press Release Final
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Aloka At Ase16
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Aloka Lv Eflow
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Aloka Medical America Increases Patient Throughput
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi America Ltd Announces Appointment Of New President And Chief Executive Officer
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Announces Consolidated Financial Results For The First Quarter Ended June 30 2016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Capital Enhances Its North American Vendor Finance Business
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Completes Annual Food Drive 2016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Environmental Innovation 2050
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Hdtv Cameras Enable Superior Educational Experiences For New England School Of Communications At Husson University
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Introduces New Advanced Ac Micro Drives
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Laser Projectors Completely Transform Ashland Christian Fellowship Worship Experience
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Power Tools Launches High Tech  Brushless Hammer Line
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Social Innovation Forum 2016 Santa Clara
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hitachi Sponsors New York Times Cities For Tomorrow Conference
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka01212016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka02022016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka03282016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka04112016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka06212016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka07112016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka08082016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Hka08252016
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 How Uwm Uses Onevision Benefits Around Campus
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Htp Meds At Md M East Expo
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Introduces First Solid State Dlp Laser Projector
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Meets All Requirements For Cas Certificate For Industrial Ink Jet Printer Cleaning Solution
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Meets Nsf Ansi Standard 61 Annexg For Submersible Motors
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Motor Program Press Release Approved
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Nes1 Variable Frequency Drives Press Release Dec3 2012 Final
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 New Bridge Control Panels For Cranes
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Onevision Program Inspires Collaboration
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Ph Series Small Character Inkjet Printer
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Pro Av Market With A Variety Of Video Solutions At Infocomm 09
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Roku Inks Licensing Deal With Hitachi America
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Rx Series Small Character Inkjet Printers
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Sj700 2200Hfu2 Press Release Final
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 State Of The Art Projectors
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Subsequent Announcment On March 16Th Supercedes This Announcement
+│  │  ├─ 📂 Archive
+│  │  │  ├─ 📄 Suny Oswego Selects Hitachi Projectors
+│  │  ├─ 📄 Consolidated Financial Results For The First Quarter Ended June 30 2021
+│  │  ├─ 📄 Consolidated Financial Results For The First Quarter Ended June 30 2022
+│  │  ├─ 📄 Consolidated Financial Results For The Second Quarter Ended September 30 2021
+│  │  ├─ 📄 Consolidated Financial Results For The Second Quarter Ended September 30 2022
+│  │  ├─ 📄 Consolidated Financial Results For The Third Quarter Ended December 31 2020
+│  │  ├─ 📄 Consolidated Financial Results For The Third Quarter Ended December 31 2021
+│  │  ├─ 📄 Consolidated Financial Results For The Year Ended March 31 2021
+│  │  ├─ 📄 Consolidated Financial Results For The Year Ended March31 2022 And Mid Term Management Plan 2024
+│  │  ├─ 📄 Cortechs Labs And Hitachi Announce Support Of Hitachi 1 2T 1 5T And 3 0T Mri Scanners For Neuroquant
+│  │  ├─ 📄 Data Infrastructure Impact On Sustainability
+│  │  ├─ 📄 Enjoy A Worry Free Event For The Big Game With Hitachi New High Lumen Laser Projector
+│  │  ├─ 📄 Flexware Innovation Accelerates Life Science Focus With Acquisition Of Castle Hill Technologies
+│  │  ├─ 📄 Flexware Innovation Collaborates With Purdue University To Enhance Smart Learning Factory
+│  │  ├─ 📄 Global Technology Leader Hitachi Joins Cmta
+│  │  ├─ 📄 Globallogic And Ericsson Deploy Private 5G Network At Hitachi Rails Digital Factory
+│  │  ├─ 📄 Globallogic And Flexware Innovation Announce Major Deployment Of Lift At Hitachi Rails State Manufacturing Facility
+│  │  ├─ 📄 Globallogic Announces Leadership Change Srini Shankar Appointed As President And Chief Executive Officer
+│  │  ├─ 📄 Globallogic Announces Platform Of Platforms For Enabling Enterprise Grade Ai
+│  │  ├─ 📄 Hitachi Abb Power Grids Enables Minnesota Power To Deliver More Clean And Affordable Hydropower To The U S Upper Midwest Region
+│  │  ├─ 📄 Hitachi Abb Power Grids Is Evolving To Become Hitachi Energy
+│  │  ├─ 📄 Hitachi Accelerates Growth With Major Us Investments In Advanced Manufacturing Electrification And Workforce Development
+│  │  ├─ 📄 Hitachi Achieves Cdps Highest Score Of Grade A In Climate Change And Water Security
+│  │  ├─ 📄 Hitachi Acquire Ma Micro Automation Of Germany In Effort To Accelerate Global Expansion Of Robotic Si Business
+│  │  ├─ 📄 Hitachi Acquires A Sales And Maintenance Service Company For Large Motors In The United States
+│  │  ├─ 📄 Hitachi Acquires Key Industry 4 0 Systems Integrator Flexware Innovation
+│  │  ├─ 📄 Hitachi Aloka Medical America Receives Innovative Technology Designation From Vizient Inc For Sofia
+│  │  ├─ 📄 Hitachi America And Tavistock Partner At Lake Nona Community
+│  │  ├─ 📄 Hitachi America Announces Mergerof Label House Supply And Hitachi Industrial Equipment Marking Solutions
+│  │  ├─ 📄 Hitachi America Announces New Leadership Appointments To Drive Expansion Of Innovative Solutions
+│  │  ├─ 📄 Hitachi America Appoints Hicham Abdessamad As Chairman And President And Ceo
+│  │  ├─ 📄 Hitachi America Appoints Hicham Abdessamad As Chairman Of The Board
+│  │  ├─ 📄 Hitachi America Ltd 10Th Annual Shoe Drive
+│  │  ├─ 📄 Hitachi America Ltd Launches New Sj P1 Variable Frequency Drive
+│  │  ├─ 📄 Hitachi America Ltd Showcases Innovation In Education At Educause 2017
+│  │  ├─ 📄 Hitachi America Names Tech Veteran Arya Barirani As Cmo To Amplify Brand Impact And Propel Regional Growth
+│  │  ├─ 📄 Hitachi America Partners With Louisiana Based Capital Area Transit System To Enhance Ridership Experience
+│  │  ├─ 📄 Hitachi And Google Cloud Announce Strategic Partnership
+│  │  ├─ 📄 Hitachi And Microsoft Enter Milestone Agreement To Accelerate Business
+│  │  ├─ 📄 Hitachi And Penske Launch Large Scale Electric Truck Charging Pilot
+│  │  ├─ 📄 Hitachi And Plug And Play Tech Center Announce Strategic Partnership
+│  │  ├─ 📄 Hitachi And Ree Automotive Agree On Collaboration To Advance And Simplify The Adoption Of Sustainable Electric Vehicles Globally
+│  │  ├─ 📄 Hitachi Announces Changes Of Top Managements
+│  │  ├─ 📄 Hitachi Announces Consolidated Financial Results For The Nine Months Ended December 31 2024
+│  │  ├─ 📄 Hitachi Announces Executive Changes 0202
+│  │  ├─ 📄 Hitachi Announces Executive Changes 2021
+│  │  ├─ 📄 Hitachi Announces Executive Changes 25
+│  │  ├─ 📄 Hitachi Announces Historic 1 Billion Usd Manufacturing Investment To Power Americas Energy Future
+│  │  ├─ 📄 Hitachi Announces Leadership Appointments To Propel Strategic Growth In The Americas Emea Regions
+│  │  ├─ 📄 Hitachi Announces Supria True64 Ct Compact Design Receives Fda Clearance
+│  │  ├─ 📄 Hitachi Announces The Completion Of Merger Of Bay Area Offices Into New Building In Santa Clara
+│  │  ├─ 📄 Hitachi Astemo Americas And Light Collaborate On Development Of Adas Technology
+│  │  ├─ 📄 Hitachi At Ces 2025 Accelerating The Power Of Innovation
+│  │  ├─ 📄 Hitachi At Ces 2026 Building A Harmonized Society Through Technology
+│  │  ├─ 📄 Hitachi Automotive Systems Americas And L3Harris Technologies
+│  │  ├─ 📄 Hitachi Automotive Systems Americas And Tomtom Collaborate On A Proof Of Concept For Developing Next Generation Smart Navigation Solution
+│  │  ├─ 📄 Hitachi Automotive Systems Keihin Showa And Nissin Kogyo Commence Operations As Hitachi Astemo
+│  │  ├─ 📄 Hitachi Automotive Systems Renews Silver Sponsorship Of Sae
+│  │  ├─ 📄 Hitachi Awarded On The Forbes Americas Best Employers 2022 List
+│  │  ├─ 📄 Hitachi Awarded On The Forbes Americas Best Employers For Veterans 2021 List
+│  │  ├─ 📄 Hitachi Awarded On The Forbes Best Employers For Diversity 2022 List
+│  │  ├─ 📄 Hitachi Awarded On The Forbes Best In State Employers 2021 List
+│  │  ├─ 📄 Hitachi Becomes Cop26 Principal Partner
+│  │  ├─ 📄 Hitachi Cable America Inc  Releases Low Smoke Zero Halogen Category 5E Cables
+│  │  ├─ 📄 Hitachi Cable America Inc  Releases Low Smoke Zero Halogen Category 6 Cables
+│  │  ├─ 📄 Hitachi Cable America Inc  Releases New Small Diameter Category 6A Cable
+│  │  ├─ 📄 Hitachi Cable America Inc Has Formed A New Medical Division
+│  │  ├─ 📄 Hitachi Cable America Inc Releases First Verified Category 8 Cable In Na
+│  │  ├─ 📄 Hitachi Cable America Inc Releases New 22 Awg High Power Category 5E Cable
+│  │  ├─ 📄 Hitachi Cable America Inc Releases New Medical Catalog
+│  │  ├─ 📄 Hitachi Cable America Releases Revolutionary Cable Design
+│  │  ├─ 📄 Hitachi Collaborates With Nvidia To Accelerate Digital Transformation With Generative Ai
+│  │  ├─ 📄 Hitachi Completes Acquisition Of Globallogic
+│  │  ├─ 📄 Hitachi Completes Acquisition Of Ma Micro Automation Of Germany A Leading Provider Of Robotic And Automation Technology
+│  │  ├─ 📄 Hitachi Contract Driver Helio Castroneves Of Team Penske Finishes Fourth In The 2017 Verizon Indycar Series Championship
+│  │  ├─ 📄 Hitachi Cyber And Nozomi Networks Join Forces To Deliver World Class Ot And Iot Monitoring Solutions
+│  │  ├─ 📄 Hitachi Demonstrates 112G Pam4 Cable Technology At Designcon 2018
+│  │  ├─ 📄 Hitachi Energy Advances Predictability Of Energy Investments Forecasting With New Ai Powered Solution
+│  │  ├─ 📄 Hitachi Energy Bolsters Manufacturing Capacity In North America With Additional Investments Of Over 155 Million Usd
+│  │  ├─ 📄 Hitachi Energy Completes Expansion Of Bland Virginia Manufacturing Facility
+│  │  ├─ 📄 Hitachi Energy Invests An Additional 270 Million Cad To Expand Large Power Transformer Manufacturing Capacity In Varennes
+│  │  ├─ 📄 Hitachi Energy Solutions Brings Microgrids To Verge
+│  │  ├─ 📄 Hitachi Energy To Support The Transmission Of Increasing Volumes Of Sustainable Electricity To California
+│  │  ├─ 📄 Hitachi Enters Into Agreement To Acquire Air Compressor Manufacturer Making A Full Scale Entry Into The North America Industrial Business
+│  │  ├─ 📄 Hitachi Establishes Its Fourth Corporate Venture Capital Fund To Capture Technology Turning Points And Future Growth Opportunities
+│  │  ├─ 📄 Hitachi Expands Relationship With Sap To Offer Sap Hana Enterprise Cloud Service And Accelerate Customers Journey To Sap Hana
+│  │  ├─ 📄 Hitachi Forms Strategic Research Collaboration With Mass General Brigham
+│  │  ├─ 📄 Hitachi Healthcare Americas And Terason Announce Strategic Partnership
+│  │  ├─ 📄 Hitachi Healthcare Americas As Partners With The Wvu Heart And Vascular Institute
+│  │  ├─ 📄 Hitachi Healthcare Americas Introduces Synergydrive Mri Workflow Solution
+│  │  ├─ 📄 Hitachi Healthcare Americas Introduces The Lisendo 880 New Premium 2D And 3D Cardiovascular Ultrasound System
+│  │  ├─ 📄 Hitachi Healthcare To Exhibit At Rsna 2017 With Exciting New Products
+│  │  ├─ 📄 Hitachi Helps Schools Unlock The Power They Already Own
+│  │  ├─ 📄 Hitachi Industrial Equipment And Solutions America Llc Names New President
+│  │  ├─ 📄 Hitachi Industrial Equipment Systems Acquires Telesis Technologies To Strengthen Marking Equipment Business
+│  │  ├─ 📄 Hitachi Industrial Equipment Systems Announces Establishment Hitachi Global Air Power Sullair
+│  │  ├─ 📄 Hitachi Industrial Equipment Systems Announces Leadership Transitions
+│  │  ├─ 📄 Hitachi Industrial Products Ltd Announces The Change Of President And Director
+│  │  ├─ 📄 Hitachi Introduces 5000 Lumen Laser Projector As Part Of Growing Ssl Line
+│  │  ├─ 📄 Hitachi Introduces Hitachi Vantara
+│  │  ├─ 📄 Hitachi Introduces Their First 3500 Lumen Led Projector
+│  │  ├─ 📄 Hitachi Investor Day 2021
+│  │  ├─ 📄 Hitachi Investor Day 2022
+│  │  ├─ 📄 Hitachi Is Recognized As One Of The 2025 Worlds Most Ethical Companies
+│  │  ├─ 📄 Hitachi Joins Maker Faire Detroit With Sponsorship Exhibit And Recruiting Drive
+│  │  ├─ 📄 Hitachi Joins Shell Eco Marathon To Help Makethefuture
+│  │  ├─ 📄 Hitachi Joins Un Race To Zero Campaign
+│  │  ├─ 📄 Hitachi Kite Making Workshops Expand To Maryland
+│  │  ├─ 📄 Hitachi Kokusai Electric Comark Announces The Repack Optimized E Compact Air Cooled Transmitter Family At Nab 2017
+│  │  ├─ 📄 Hitachi Kokusai Electric Comark Releases Exact V2 Ip Optimized Dtv Exciter
+│  │  ├─ 📄 Hitachi Kokusai To Showcase Hdr Expertise At 2017 Nab Show
+│  │  ├─ 📄 Hitachi Ltd Announces Appointment Of Mr Kenichiro Mizoguchi As General Manager Of Hitachi Corporate Offices Washington Dc Los Angeles
+│  │  ├─ 📄 Hitachi Metals Ltd In Cooperation With Hitachi Cable America Inc Releases New 70 Ohm Micro Coax
+│  │  ├─ 📄 Hitachi Mourns Passing Mr Hiroaki Nakanishi Former Ceo Hitachi Ltd
+│  │  ├─ 📄 Hitachi Named A Visionary In Inaugural Gartner Magic Quadrant For Industrial Iot Platforms
+│  │  ├─ 📄 Hitachi New Cmut Probe To Be Exhibited At Rsna 2017
+│  │  ├─ 📄 Hitachi Partners With The Wall Street Journal To Sponsor 2018 Cio Network Annual Meeting
+│  │  ├─ 📄 Hitachi Power Tools Launches High Tech  Brushless Hammer Line1
+│  │  ├─ 📄 Hitachi Rail Acquires Thales Ground Transportation Systems
+│  │  ├─ 📄 Hitachi Rail Announces Location For New 70M Factory To Build Railcars For The Washington Metro Region
+│  │  ├─ 📄 Hitachi Rail Awarded Up To Dollars 2 2 Billion 8000 Series Railcar Contract With Washington Metropolitan Area Transit Authority
+│  │  ├─ 📄 Hitachi Rail Enters Agreement To Acquire Thales Ground Transportation Systems Business
+│  │  ├─ 📄 Hitachi Rail Invests C100M Plus In Next Gen Urban Rail Signalling Technology
+│  │  ├─ 📄 Hitachi Rail Italy And Ansaldo Sts In Atlatnta For Apta 2017
+│  │  ├─ 📄 Hitachi Rail Italy And Ansaldo Sts In Montreal For Uitp 2017
+│  │  ├─ 📄 Hitachi Rail Italy Delivers First Train To Miami Dade County
+│  │  ├─ 📄 Hitachi Rail Opens Lighthouse Digital Factory In The Us
+│  │  ├─ 📄 Hitachi Rail Reveals Final Designs For New Maryland Train Factory
+│  │  ├─ 📄 Hitachi Rail S 798M Digital Train Control Upgrade For Bart
+│  │  ├─ 📄 Hitachi Rail To Accelerate Rail Digital Transformation With Google Cloud
+│  │  ├─ 📄 Hitachi Rail Unveils The Hmax Ai Solution Accelerated By Nvidia To Optimize Trains Signaling And Infrastructure
+│  │  ├─ 📄 Hitachi Reaffirms Leadership With Expansion Of Ssl Projector Line
+│  │  ├─ 📄 Hitachi Selected By The University Of Tsukuba For Its Second Proton Therapy System As A Pfi Project
+│  │  ├─ 📄 Hitachi Sets New Target To Contribute To A Net Zero Society
+│  │  ├─ 📄 Hitachi Showcases Emiew3 Robot Technology At 2017 Halcyon Dialogue Vip Robotics Showcase
+│  │  ├─ 📄 Hitachi Social Innovation Forum 2021 Americas To Showcase How Data Driven Leaders Are Changing The World
+│  │  ├─ 📄 Hitachi Sponsored Kite Workshops Held In Washington
+│  │  ├─ 📄 Hitachi Sponsored Team Penske Car Wins 11Th Race Of The 2017 Indycar Series
+│  │  ├─ 📄 Hitachi To Acquire Globallogic A Leading Us Based Digital Engineering Services Company
+│  │  ├─ 📄 Hitachi To Announce Capital Reorganization Of Air Conditioning Joint Venture
+│  │  ├─ 📄 Hitachi To Donate To Support Hurricane Helene Relief Efforts
+│  │  ├─ 📄 Hitachi To Donate To Support The Maui Wildfires Relief Efforts In Hawaii Us
+│  │  ├─ 📄 Hitachi To Donate Towards Humanitarian Aid For Ukraine
+│  │  ├─ 📄 Hitachi To Highlight Its New Arietta 850 Premium Ultrasound System At Rsna 2017
+│  │  ├─ 📄 Hitachi To Integrate Hitachi Vantara And Hitachi Consulting
+│  │  ├─ 📄 Hitachi To Participate In Bloomberg Breakaway Summit 2017
+│  │  ├─ 📄 Hitachi To Participate In The Economist Sustainability Summit In The Us
+│  │  ├─ 📄 Hitachi To Strengthen Business Structure For Further Growth Through Digital Environment And Innovation
+│  │  ├─ 📄 Hitachi To Strengthen Business Structure To Realize A True One Hitachi With Digital At Its Core
+│  │  ├─ 📄 Hitachi To Strengthen Its Business Structure
+│  │  ├─ 📄 Hitachi Vantara And Broadcom Announce Advanced Private And Hybrid Cloud Solutions With Vmware Cloud Foundation
+│  │  ├─ 📄 Hitachi Vantara And Virtana Collaborate To Enhance Hybrid Cloud Infrastructure With Ai Powered Automation
+│  │  ├─ 📄 Hitachi Vantara Announces General Availability Of Hitachi Iq And New Ai Discovery Service To Help Businesses Become Ai Ready
+│  │  ├─ 📄 Hitachi Vantara Announces New Converged Solution With Cisco For Red Hat Openshift
+│  │  ├─ 📄 Hitachi Vantara Collaborates With Red Hat To Accelerate Hybrid Cloud Transformation
+│  │  ├─ 📄 Hitachi Vantara Collaborates With Supermicro To Deliver Superior Performance And Scale For Mission Critical Applications And Enterprise Ai
+│  │  ├─ 📄 Hitachi Vantara Expands Hybrid Cloud Storage Platform With Object Storage
+│  │  ├─ 📄 Hitachi Vantara Launches Virtual Storage Platform One Block High End Storage
+│  │  ├─ 📄 Hitachi Vantara Recognized By Gigaom For Innovation In Object Storage
+│  │  ├─ 📄 Hitachi Vantara Reports Significant Revenue Growth In Storage Market
+│  │  ├─ 📄 Hitachi Vantara S Virtual Storage Platform One Wins Crn 2025 Products Of The Year Award
+│  │  ├─ 📄 Hitachi Vantara Secures All Three Of The Top Rankings For Best Storage Solutions Available Assessed By Energy Star
+│  │  ├─ 📄 Hitachi Vantara Secures The State Of Arizona S Critical Water Resources
+│  │  ├─ 📄 Hitachi Vantara Unveils Hitachi Iq Studio To Simplify And Accelerate Agentic Ai Development
+│  │  ├─ 📄 Innovative Ai Technology Aids Personalized Care For Diabetes Patients Needing Complex Drug Treatment
+│  │  ├─ 📄 Jr Automation Announces Ceo Transition
+│  │  ├─ 📄 K 3Rd Grade Education Specialist Installs Hitachi Interactive Projector To Help Increase Student Engagement
+│  │  ├─ 📄 Kutztown University Uses Hitachi Onevision Rewards Program To Extend Projector Life
+│  │  ├─ 📄 Maricopa County Schools Rely On Hitachi Onevision To Provide The Best Classrooms For Students
+│  │  ├─ 📄 Mr Ryuichi Otsuki Appointed Chairman Of The Board Of Hitachi America
+│  │  ├─ 📄 Nau Deploys Hitachi Projectors For Standardized Learning Environment
+│  │  ├─ 📄 Notification Of Agreement For Shares Of Subsidiary
+│  │  ├─ 📄 Notification Of The Change In Subsidiary And The Recognition Of Extraordinary Gain On Unconsolidated Basis
+│  │  ├─ 📄 Olympus And Hitachi Announce Long Term Business Alliance
+│  │  ├─ 📄 Our Savior Lutheran Paints Its Walls With Video After Thanksgiving Arson Attack
+│  │  ├─ 📄 Partnership Forged To Accelerate The Energy Transition Hitachi Energy And Google Cloud Combine Energy And Digital Expertise To Advance Sustainability Initiatives
+│  │  ├─ 📄 Progress Of The 2021 Midterm Management Plan
+│  │  ├─ 📄 Proton Therapy Provider Selected For Uw Health Eastpark Medical Center
+│  │  ├─ 📄 Recognition Of Extraordinary Gain On Unconsolidated Basis Due To Transfer Of Shares Of Hitachi Transport System
+│  │  ├─ 📄 Septa Board Awards Contract To Hitachi Rail For Purchase Of New Market Frankford Line Fleet
+│  │  ├─ 📄 Shonan Kamakura Advanced Medical Center Begins Treatment With Hitachi First Dedicated Compact Proton Therapy System
+│  │  ├─ 📄 Singtel And Hitachi Digital Partner To Accelerate Industria Ai Solutions
+│  │  ├─ 📄 Strengthening The Structure To Accelerate The Hitachi Group Digital Business Globally
+│  │  ├─ 📄 Sullair 1600H Tier 4 Final Chosen For Rental 2017 Editor Choice Awards
+│  │  ├─ 📄 Team Penske Hitachi Reach Partnership Extension Agreement
+│  │  ├─ 📄 The Department Of Transportation And Public Works Places Its First New Metrorail Train In More Than 30 Years Into Service
+│  │  ├─ 📄 University Of Kent Enhances Digital Resilience And Data Availability With Hitachi Vantara Data Platform
+│  │  ├─ 📄 University Of S Thomas Switches To Hitachi For Onevision Extended Warranty
+│  │  ├─ 📄 Us Data Concerns Soar As Ai Surges 37Percent Of It Leaders Identify Data Quality As Major Barrier To Ai Success
+│  │  ├─ 📄 Us First Fully Autonomous Urban Railway System Built By Hitachi Rail Opens In Honolulu
+│  │  └─ 📄 Wenco Mine Performance Suite 6 Reimagines Dispatching Analytics And Total Mine Performance
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📄 Digital
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Digital Solutions
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 It Products
+│  │  ├─ 📄 Energy
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Energy Solutions
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Mine Mill
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Port Rail Operations
+│  │  ├─ 📄 Healthcare
+│  │  ├─ 📂 Healthcare
+│  │  │  ├─ 📄 Healthcare Solutions
+│  │  ├─ 📄 Industry
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Digital Solutions For Manufacturing
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Industrial Solutions
+│  │  ├─ 📄 Measurement Analytical Systems
+│  │  ├─ 📂 Measurement Analytical Systems
+│  │  │  ├─ 📄 Measurement   Analytical Systems
+│  │  ├─ 📂 Measurement Analytical Systems
+│  │  │  ├─ 📄 Mining Solutions
+│  │  ├─ 📄 Mobility
+│  │  └─ 📂 Mobility
+│  │     └─ 📄 Rail Services And Solutions
+
+│  ├─ 📄 Psdd
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  ├─ 📄 Termsofuse
+
+│  └─ 📄 Unsubscribe
+
+
+├─ 📁 En Za
+
+│  ├─ 📄 En Za
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Careers
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 City Wide Driverless Trains In Denmark
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Class 395 High Speed Train Uk
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Finger Vein Technology For Bank Pbs Poland
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 How Hitachis Durable Medium Is Supporting A Paperless Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Madel A Leader In Sustainable Manufacturing
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Oliena Model Hitachi Water Saving Project
+│  │  └─ 📂 Articles
+│  │     └─ 📄 Smart Energy Islands Isles Of Scilly
+
+│  ├─ 📄 Products
+
+│  └─ 📄 Sitemap
+
+
+├─ 📁 Es Br
+
+│  ├─ 📄 Es Br
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Energia
+│  │  │  ├─ 📄 Soluciones En Energia
+│  │  ├─ 📂 Industria
+│  │  │  ├─ 📄 Soluciones Para La Industria
+│  │  ├─ 📂 Movilidad
+│  │  │  ├─ 📄 Servicios Y Soluciones Ferroviarias
+│  │  └─ 📂 Salud
+│  │     └─ 📄 Soluciones En Salud
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 Es Es
+
+│  └─ 📄 Es Es
+
+
+├─ 📁 Es Mx
+
+│  ├─ 📄 Es Mx
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Digital Solutions
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 It Products
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Software
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Solutions
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Industrial Solutions
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Services
+│  │  ├─ 📂 Industry
+│  │  │  ├─ 📄 Supply Chain
+│  │  └─ 📂 Mobility
+│  │     └─ 📄 Rail Services Solutions
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 Fr Ca
+
+│  ├─ 📄 Fr Ca
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  └─ 📄 Projects In Canada
+
+│  ├─ 📄 Ca Configuration
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Contact
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Digital Solutions
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 It Products
+│  │  ├─ 📂 Energy
+│  │  │  ├─ 📄 Energy Solutions
+│  │  ├─ 📄 Measurement And Analytical Systems
+│  │  └─ 📂 Mobility
+│  │     └─ 📄 Rail Services And Solutions
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📂 Sustainability
+│  │  └─ 📄 Inspire Stem Education Outreach Program
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 Fr Fr
+
+│  └─ 📄 Fr Fr
+
+
+├─ 📁 Global
+
+│  └─ 📄 Global
+
+
+├─ 📁 Id Id
+
+│  ├─ 📄 Id Id
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Aseannewnormal
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Better Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Business Of Improving Lives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Businessinnovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Championing Dt
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Partnering
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Sustainable
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Combating Climate Change
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Corporate Social Responsibility
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Covid19
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Data Ai
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Decarbonising Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digital Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digitaltransformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 E Mobility Growth
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Elevating Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Empoweringcities
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Energy Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Enterprises
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Environmental Value
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ev Charging
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Financial Transformation Southest Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Future Connectivity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greener Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greenhub
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Growth And Environment Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hope And Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Horiuchi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Indonesia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Innovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lightinguplives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumada Solutions Digital Transformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumadacenter Sea
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Manufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Openvq
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Philippines Digital Payment
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Power Grid Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Preventive Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Protontherapy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Redline
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reduce Carbon Emissions
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reimagining Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Responsibility Of Corporations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sending Cash
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sggreenbuilding
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smart Automation Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartcity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartmanufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation In Action
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Somsakgarnjanakarn
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Southeast Asia Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainability
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Cities With Green Financing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Thailand Green Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Towards Industry
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Issues
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Matters In Southeast Asia
+│     └─ 📂 Articles
+│        └─ 📄 Wujuan
+
+
+├─ 📁 Information
+
+│  ├─ 📄 180420
+
+│  ├─ 📄 20201202
+
+│  ├─ 📄 20211206
+
+│  ├─ 📄 20220224
+
+│  ├─ 📄 20220303
+
+│  ├─ 📄 20230217
+
+│  ├─ 📄 20230718
+
+│  ├─ 📄 20240311
+
+│  ├─ 📄 20240419
+
+│  ├─ 📄 20240627
+
+│  ├─ 📄 20250228
+
+│  ├─ 📄 20250331
+
+│  ├─ 📄 20250807
+
+│  ├─ 📄 20250909
+
+│  ├─ 📄 230915
+
+│  └─ 📄 Information
+
+
+├─ 📁 Insights
+
+│  ├─ 📄 Insights
+
+│  ├─ 📂 Articles
+│  │  ├─ 📄 Ev Forklift
+│  │  ├─ 📄 Panasonic Public Biometric Infrastructure
+│  │  ├─ 📄 Pang Pong
+│  │  ├─ 📄 Antarctic Expeditions 1
+│  │  ├─ 📄 Antarctic Expeditions 2
+│  │  ├─ 📄 Automatic Ordering
+│  │  ├─ 📄 Blockchain
+│  │  ├─ 📄 Blues
+│  │  ├─ 📄 Cancer Genome
+│  │  ├─ 📄 Carbon Transformation
+│  │  ├─ 📄 Care Leaver
+│  │  ├─ 📄 Circular Economy
+│  │  ├─ 📄 Co Uriba
+│  │  ├─ 📄 Colors Nishimura Daiki
+│  │  ├─ 📄 Colors Oussouby Sacko
+│  │  ├─ 📄 Colors Soejima Jun
+│  │  ├─ 📄 Colors Wakamiya Masako
+│  │  ├─ 📄 Common Ground
+│  │  ├─ 📄 Cop
+│  │  ├─ 📄 Cop28
+│  │  ├─ 📄 Covid Test
+│  │  ├─ 📄 Decarbonization Scenario Simulator
+│  │  ├─ 📄 Design And Innovation
+│  │  ├─ 📄 Design Cleaner
+│  │  ├─ 📄 Design Ev Energy
+│  │  ├─ 📄 Design Freedi
+│  │  ├─ 📄 Design Railway
+│  │  ├─ 📄 Designed Cell
+│  │  ├─ 📄 Designing And Powering A Green It Future
+│  │  ├─ 📄 Digital Engineering
+│  │  ├─ 📄 Digital Road
+│  │  ├─ 📄 Digital Twin
+│  │  ├─ 📄 Diovista East
+│  │  ├─ 📄 Dsdi
+│  │  ├─ 📄 Dx Session Hsif2023
+│  │  ├─ 📄 Ecoassist
+│  │  ├─ 📄 Ems
+│  │  ├─ 📄 Esg Management Support
+│  │  ├─ 📄 Ev Battery
+│  │  ├─ 📄 Expo Session Hsif2023
+│  │  ├─ 📄 Femtech
+│  │  ├─ 📄 Generative Ai
+│  │  ├─ 📄 Generative Ai Use Case
+│  │  ├─ 📄 Genoa Maas
+│  │  ├─ 📄 Globallogic Nitesh Banga
+│  │  ├─ 📄 Green Transformation
+│  │  ├─ 📄 Happycow
+│  │  ├─ 📄 Hida Hvdc
+│  │  ├─ 📄 Hitachi Hightech
+│  │  ├─ 📄 Hitachi Open Day 2023
+│  │  ├─ 📄 Hotel Dx
+│  │  ├─ 📄 Hsif2021Japan
+│  │  ├─ 📄 Human Flow
+│  │  ├─ 📄 Hvdc Nordlink
+│  │  ├─ 📄 Hydrogen Supply Chain
+│  │  ├─ 📄 Icp
+│  │  ├─ 📄 Imirai
+│  │  ├─ 📄 In Wheel Motor
+│  │  ├─ 📄 It Storage
+│  │  ├─ 📄 Itn Inspirations Expo
+│  │  ├─ 📄 Job Internship
+│  │  ├─ 📄 Job Type Employment
+│  │  ├─ 📄 Job Type Employment Internship
+│  │  ├─ 📄 Jrautomation
+│  │  ├─ 📄 Kashiwanoha Smartcity
+│  │  ├─ 📄 Kdb Expander
+│  │  ├─ 📄 Kodo Nishimura
+│  │  ├─ 📄 Koremo Hitachi Ci
+│  │  ├─ 📄 Koremo Hitachi Dss
+│  │  ├─ 📄 Koremo Hitachi Gem
+│  │  ├─ 📄 Koremo Hitachi R And D
+│  │  ├─ 📄 Kyosonomori Osakaexpo
+│  │  ├─ 📄 Lysithea Service
+│  │  ├─ 📄 Maas
+│  │  ├─ 📄 Mana Saza
+│  │  ├─ 📄 Materials Informatics
+│  │  ├─ 📄 Medtech Engineering Partnership Digital Cardiac Monitoring System Save Lives
+│  │  ├─ 📄 Metaverse Railway
+│  │  ├─ 📄 Method Sandrine
+│  │  ├─ 📄 Mitsui
+│  │  ├─ 📄 Muji Flu Forecast
+│  │  ├─ 📄 Nanogrid
+│  │  ├─ 📄 Nebuta
+│  │  ├─ 📄 North Sea Link
+│  │  ├─ 📄 Odaira Namihei 150
+│  │  ├─ 📄 Omika Green Network
+│  │  ├─ 📄 Onlinenxseta
+│  │  ├─ 📄 People Automatic
+│  │  ├─ 📄 People Battlequest
+│  │  ├─ 📄 People Blues
+│  │  ├─ 📄 People Circulareconomy
+│  │  ├─ 📄 People Datascientist
+│  │  ├─ 📄 People Diovista
+│  │  ├─ 📄 People Fukushima
+│  │  ├─ 📄 People Happinessplanet
+│  │  ├─ 📄 People Hightech
+│  │  ├─ 📄 People Marathon
+│  │  ├─ 📄 People Microscope
+│  │  ├─ 📄 People Waterworks
+│  │  ├─ 📄 People Whitehacker
+│  │  ├─ 📄 People Worldskills
+│  │  ├─ 📄 Planetary Boundaries
+│  │  ├─ 📄 Quantum Computing
+│  │  ├─ 📄 Railway Signalling
+│  │  ├─ 📄 Rainforest
+│  │  ├─ 📄 Ransomware Countermeasure
+│  │  ├─ 📄 Remote
+│  │  ├─ 📄 Renewable Energy
+│  │  ├─ 📄 Round Table
+│  │  ├─ 📄 Seita Emori
+│  │  ├─ 📄 Smartaging App
+│  │  ├─ 📄 Touchless Finger Vein
+│  │  ├─ 📄 Transitions
+│  │  ├─ 📄 Urbanace Hf
+│  │  ├─ 📄 Valentina Valori
+│  │  ├─ 📄 Virtual Office
+│  │  ├─ 📄 Wellbeing
+│  │  ├─ 📄 Wellbeing Happinessplanet
+│  │  ├─ 📄 Wellbeing Sauna
+│  │  ├─ 📄 Yukari Takamura
+│  │  └─ 📄 Zerocarbon Evfleet
+
+│  ├─ 📄 Colors
+
+│  ├─ 📄 Design For Social Innovation
+
+│  ├─ 📄 Inspirethenext
+
+│  ├─ 📄 Koremo Hitachi
+
+│  ├─ 📄 Latest
+
+│  └─ 📄 People Of Hitachi
+
+
+├─ 📁 Ir
+
+│  ├─ 📄 Ir
+
+│  ├─ 📄 Caution
+
+│  ├─ 📂 Corporate
+│  │  ├─ 📄 Disclosure
+│  │  ├─ 📄 Governance
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 Compensation
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 Dialogue
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 Guidelines
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 Internal Control
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 Overview
+│  │  ├─ 📂 Governance
+│  │  │  ├─ 📄 System
+│  │  ├─ 📄 Risk
+│  │  └─ 📄 Strategy
+
+│  ├─ 📄 Faq
+
+│  ├─ 📄 Financial
+
+│  ├─ 📄 Inquiry
+
+│  ├─ 📄 Investor
+
+│  ├─ 📂 Library
+│  │  ├─ 📄 Fr
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 140731
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 141029
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 150204
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 150514
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 150514A
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 150729
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 151028 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 151028 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160203 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160203 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160513 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160513 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160518 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160729 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 160729 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 161028
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170201 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170201 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170512
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170512A
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170728 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 170728 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 171026 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 171026 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180131 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180131 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180427
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180427A
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180727 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 180727 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 181026 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 181026 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190201 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190201 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190426 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190426 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190510
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190729 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 190729 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 191030 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 191030 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 191030B
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 191218D
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200131 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200131 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200529
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200529A
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200529A 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200730 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 200730 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 201028 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 201028 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210203 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210203 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210428
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210428A
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210730 1
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 210730 2
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 211027
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 220202
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 220428
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 220729
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 221028
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 230201
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 230427
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 230728
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 231027
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 240131
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 240426
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 240731
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 241030
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 250131
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 250428
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 250731
+│  │  ├─ 📂 Fr
+│  │  │  ├─ 📄 251030
+│  │  ├─ 📄 Integrated
+│  │  ├─ 📄 Irday
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Ams
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Is
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Its
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Oa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Ps
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Stp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612 Uds
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Ams
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Is
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Its
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Oa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Ps
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Stp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 140612E Uds
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Ams
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Is
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Its
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Ps
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Stp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Uds
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611 Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Ams
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Is
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Its
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Ps
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Stp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Uds
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 150611E Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 As
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Fandg
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Pande
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Sp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601 Us
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E As
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Fandg
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Hc
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Pande
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Sp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 160601E Us
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_01_Sp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_01E_Sp
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_02_Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_02E_Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_03_Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_03E_Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_04_As
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_04E_As
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_05_Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_05E_Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_06_Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_06E_Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_07_Ne
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_07E_Ne
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_08_Fi_Gpands
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_08E_Fi_Gpands
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_E_Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 170608_Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_01_Ssb
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_01E_Ssb
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_02_Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_02E_Ip
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_03_Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_03E_Id
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_04_Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_04E_Bs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_05_Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_05E_Rs
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_06_Pe
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_06E_Pe
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_E_Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 180608_Summary
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_00_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_00E_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_01_It
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_01E_It
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_02_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_02E_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_03_In
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_03E_In
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_04_Sl
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_04E_Sl
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_05_Mo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_05E_Mo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_07_Qa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20190604_07E_Qa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_00_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_01_Cso
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_02_Digital
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_03_Green
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_04_Connective
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_05_Cfo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20240611_06_Qa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_00_Ceo_Remarks
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_00_Ceo_Remarks_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_01_Mobility
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_01_Mobility_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_02_Energy
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_02_Energy_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_03_Connective
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_03_Connective_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_04_Digital
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_04_Digital_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_05_Human_Capital
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_05_Human_Capital_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_06_Cfo_Session
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_06_Cfo_Session_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_07_Qa_Session
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 20250611_07_Qa_Session_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_00
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_01_It
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_02_In
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_03_Mo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_04_En
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_05_Sl
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_06_Au
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 210608_Qa
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_00_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_01_Gis
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_02_Dss
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_03_Gem
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_04_Ci
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 220613_05_Ids
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_00_Ceo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_01_Green
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_02_Connective
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_03_Digital
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_04_Cfo
+│  │  ├─ 📂 Irday
+│  │  │  ├─ 📄 230613_06_Qa
+│  │  ├─ 📄 Presentation
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 141216
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 181217
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 190117
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 190924
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 191030B
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 191218D
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 200131A
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 200701
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 201216A
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210118
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210225
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210331
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210420A
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210512B
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 210804
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 221012
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 221205
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 231031
+│  │  ├─ 📂 Presentation
+│  │  │  ├─ 📄 241216
+│  │  ├─ 📄 Report
+│  │  └─ 📄 Stock
+
+│  ├─ 📂 Mail
+│  │  ├─ 📄 Privacy
+│  │  └─ 📄 Sample
+
+│  ├─ 📂 Smeet
+│  │  ├─ 📂 152
+│  │  │  ├─ 📄 Problem152
+│  │  ├─ 📂 153
+│  │  │  ├─ 📄 Problem153
+│  │  ├─ 📂 154
+│  │  │  ├─ 📄 Problem154
+
+│  ├─ 📂 Stock
+│  │  ├─ 📄 Analyst_Coverage
+│  │  ├─ 📄 Article
+│  │  ├─ 📄 Bonds
+│  │  ├─ 📄 Dividend
+│  │  ├─ 📄 Information
+│  │  ├─ 📄 Price
+│  │  ├─ 📄 Process
+│  │  ├─ 📂 Process
+│  │  │  ├─ 📄 Contact
+│  │  ├─ 📂 Process
+│  │  │  ├─ 📄 Group
+│  │  ├─ 📂 Process
+│  │  │  ├─ 📄 Increase
+│  │  ├─ 📂 Process
+│  │  │  ├─ 📄 Sell
+│  │  └─ 📄 Ratings
+
+│  └─ 📂 Topics
+│     └─ 📄 Rss
+
+
+├─ 📁 It It
+
+│  ├─ 📄 It It
+
+│  └─ 📂 Insights
+│     ├─ 📄 24Hours
+│     ├─ 📂 Articles
+│     │  ├─ 📄 24 Energy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 24 Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 24 Mobility
+│     ├─ 📂 Articles
+│     │  ├─ 📄 24 Rail
+│     ├─ 📂 Articles
+│     │  ├─ 📄 4 Ways Finger Veins Are New Signature
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Action For Sustainability
+│     ├─ 📂 Articles
+│     │  ├─ 📄 All Change For Seamless Sustainable Journeys
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ask Hitachi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Autonomous Vehicles Whatever The Weather
+│     ├─ 📂 Articles
+│     │  ├─ 📄 B7 Summit
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Battery Trains
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Better Patient Care With Digital Hospitals
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Biometrics Q And A
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Blues
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Circular Economy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 City Wide Driverless Trains
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Collaborating To Advance The Circular Economy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Collaboration Is The Key To An Interconnected Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cop26 First Bus
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cop26 Florence Tram
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cop26 Scotrail
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Decarbonizing Data Centers
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Designing And Powering A Green It Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Dr Ais Prescription Happiness And Productivity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Earthshot Prize
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ehgv
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Entering Age Biometrics
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ev Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Everything Is Possible
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Florence Tram
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Four Big Questions With Heather Gray
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Four Big Questions With Kerstin Linden
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Four Big Questions With Natalia Pietruszewska
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Four Big Questions With Sandrine Herbert Razafinjato
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Genoa Metro Station
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Global Logic
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Green Uber In London
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Happiness At The Touch Of A Button
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hitachi And Imperial College Partnering For A Sustainable Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 How Batteries Can Super Charge The Transition To Net Zero
+│     ├─ 📂 Articles
+│     │  ├─ 📄 How Digitalisation Is Accelerating A Future Fit Energy System
+│     ├─ 📂 Articles
+│     │  ├─ 📄 How The Earthshot Prize Is Powering A Cleaner Greener Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 How The Metro Is Transforming The Way Copenhagen Moves
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hyperloop
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Innovation Drives Us Forward
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Investigating Technologies Across Generations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Is Net Zero Really Possible
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Its Time To Close The Say Do Gap
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Its Time To Dial Our Energy Efforts Up To Ten
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Journey To Electrification
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Jrautomation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Kiva
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Low Carbon Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Madel
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Major Operation Uks First Fully Integrated Hospital
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Making A Difference
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Manchester Energy Market
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Medtech Engineering Partnership Digital Cardiac Monitoring System Save Lives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 My Three Business Imperatives For Mobility In 2023 And Beyond
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Net Zero New Target
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Nhs Salford
+│     ├─ 📂 Articles
+│     │  ├─ 📄 North Sea Link
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Oliena Model Hitachi Water Saving Project Italian Best Practices List 2017 Sardinia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Optimise Prime
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Optimise Prime Results
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Pbt Milan
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Polytech Orleans
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Possible Digital
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Possible Energy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Possible Rail
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Powering Our Future Energy System
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Royal Mail
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Safer Stations With Lidar
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smart Energy Islands Isles Of Scilly
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Supply Chain Decarbonisation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Taking The Fight To Cancer With Pbt
+│     ├─ 📂 Articles
+│     │  ├─ 📄 The Isles Of Scilly Case Study Inspiring A Net Zero Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 The Us 4 5 Trillion Opportunity And How To Unlock It
+│     ├─ 📂 Articles
+│     │  ├─ 📄 The Worm Has Turned
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Three Steps To A Successful Green Transformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Time To Break Down Traditional Barriers And Embrace A Different Direction
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Together In Electric Dreams
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Turbo Charge Transport Decarbonisation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Vulnerability Hub
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Wave Goodbye To Flawed Security New Biometric Hand Gestures
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Wave Goodbye To Passports
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Why The Future Lies In Fingerveinid
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Youre So Vein
+│     ├─ 📄 Customer Stories
+│     └─ 📄 Possible
+
+
+├─ 📁 Link
+
+│  └─ 📄 Link
+
+
+├─ 📁 Pl Pl
+
+│  ├─ 📄 Pl Pl
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ai Technology I Prediction Of Rare Cases  Rewolucja W Ocenie Ryzyka Kredytowego W Sbi Sumishin Net Bank
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Jak Trwaly Nosnik Firmy Hitachi Wspiera Przyszlosc Bez Papieru
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ochrona Przed Ransomware
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Technologia Finger Vein Dla Banku Bank Bph Polska
+│     └─ 📂 Articles
+│        └─ 📄 Technologia Hitachi Finger Vein Polska
+
+
+├─ 📁 Privacy
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Index2
+
+│  ├─ 📂 Request
+│  │  ├─ 📄 Process1
+│  │  └─ 📄 Process2
+
+│  └─ 📄 Shizai
+
+
+├─ 📁 Pt Br
+
+│  ├─ 📄 Pt Br
+
+│  ├─ 📂 About
+│  │  └─ 📄 Directory
+
+│  ├─ 📄 Accessibility
+
+│  ├─ 📄 Ca Configuration
+
+│  ├─ 📄 Careers
+
+│  ├─ 📄 Cookie Policy
+
+│  ├─ 📂 Insights
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Ansaldo Sts And Hitachi Rail Italy On Peruvian Social Infrastructure
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Better Patient Care With Digital Hospitals
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Concept Of Well Being
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Creating An Inclusive Workspace
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Data Intelligence Tackles Climate Change
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Key Growth Driver
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digital Solutions Are Driving Sustainable Energy Future
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Digitalization And Data Analytics In Energy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 First Step Towards Carbon Neutrality
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Generation Of Quality Electricity And Faster Service To Consumers
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Green Transformation In The Spotlight
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Is Proud To Have Committed To The Uns Race To Zero Emissions
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Hitachi Success Story City Of Moreno Valley
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Innovating The Reforestation Sector
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Inspiring Young People And Children
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Lumada For Digital Transformation
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Meeting The Challenges To Achieve Mobility Equity
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 North Sea Link
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Opening Green And Digital Hospitals
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Planetary Boundaries
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Preserving Quality Of Life With Particle Beam Cancer Therapy
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Proactive Diagnostics For Enterprise Fleet Maintenance And Repair
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Promoting The Supply Of Clean Water To Sao Paulo
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Railways Speed Safety And Economy In Southern Brazil
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 Saving Infrastructure With Water Leak Detection Sensor
+│  │  ├─ 📂 Articles
+│  │  │  ├─ 📄 The Worlds Fastest Elevator
+│  │  ├─ 📄 Customer Stories
+│  │  └─ 📄 Thought Leadership
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📂 Products
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Produtos De Ti
+│  │  ├─ 📂 Digital
+│  │  │  ├─ 📄 Solucoes Digitais
+│  │  ├─ 📂 Energia
+│  │  │  ├─ 📄 Solucoes Em Energia
+│  │  ├─ 📂 Industria
+│  │  │  ├─ 📄 Solucoes Para Industria
+│  │  ├─ 📂 Mobilidade
+│  │  │  ├─ 📄 Servicos E Solucoes Ferroviarias
+│  │  └─ 📂 Saude
+│  │     └─ 📄 Solucoes Em Saude
+
+│  ├─ 📄 Sitemap
+
+│  ├─ 📄 Sustainability
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 Publicnotice
+
+│  └─ 📄 Publicnotice
+
+
+├─ 📁 Ro Ro
+
+│  └─ 📄 Ro Ro
+
+
+├─ 📁 Sitemap
+
+│  └─ 📄 Sitemap
+
+
+├─ 📁 Socialmedia
+
+│  ├─ 📄 Socialmedia
+
+│  ├─ 📄 Americas
+
+│  ├─ 📄 Asia
+
+│  ├─ 📄 Europe
+
+│  ├─ 📄 Fb
+
+│  ├─ 📄 Global
+
+│  ├─ 📄 Group
+
+│  ├─ 📄 Hitachi
+
+│  ├─ 📄 Japan
+
+│  ├─ 📄 Mea
+
+│  └─ 📄 Oceania
+
+
+├─ 📁 Support
+
+│  ├─ 📄 Support
+
+│  ├─ 📂 Inquiry
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Av
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Equipment
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Industrial
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Life
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Others
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Pcb
+│  │  ├─ 📂 Products
+│  │  │  ├─ 📄 Power
+│  │  └─ 📂 Products
+│  │     └─ 📄 Public
+
+│  ├─ 📄 Manual
+
+│  └─ 📄 Products
+
+
+├─ 📁 Sustainability
+
+│  ├─ 📄 Sustainability
+
+│  ├─ 📄 Ceo
+
+│  ├─ 📄 Csuso
+
+│  ├─ 📄 Disclosure
+
+│  ├─ 📂 Download
+│  │  └─ 📂 Assurance
+│  │     └─ 📄 2025
+
+│  ├─ 📂 Environment
+│  │  └─ 📄 Vision
+
+│  ├─ 📄 Governance
+
+│  ├─ 📄 Performance
+
+│  ├─ 📂 Policies
+│  │  ├─ 📄 Chemical
+│  │  ├─ 📄 Fluorocarbon
+│  │  ├─ 📄 Greenlist
+│  │  ├─ 📄 Jyorei
+│  │  ├─ 📄 Method
+│  │  └─ 📄 Wrapping
+
+│  └─ 📄 Social
+
+
+├─ 📁 Termsofuse
+
+│  └─ 📄 Termsofuse
+
+
+├─ 📁 Th Th
+
+│  ├─ 📄 Th Th
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Aseannewnormal
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Better Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Business Of Improving Lives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Businessinnovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Championing Dt
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Partnering
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Sustainable
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Combating Climate Change
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Corporate Social Responsibility
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Covid19
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Data Ai
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Decarbonising Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digital Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digitaltransformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 E Mobility Growth
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Elevating Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Empoweringcities
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Energy Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Enterprises
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Environmental Value
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ev Charging
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Financial Transformation Southest Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Future Connectivity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greener Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greenhub
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Growth And Environment Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hope And Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Horiuchi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Innovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lightinguplives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumada Solutions Digital Transformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumada Solutions Digital Transformation1
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumadacenter Sea
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Manufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Openvq
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Philippines Digital Payment
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Power Grid Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Preventive Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Protontherapy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Redline
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reduce Carbon Emissions
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reimagining Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Responsibility Of Corporations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Roadtoth
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sending Cash
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sggreenbuilding
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smart Automation Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartcities Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartcity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartmanufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation In Action
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Somsakgarnjanakarn
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Southeast Asia Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainability
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Cities With Green Financing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Thailand
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Thailand Green Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Towards Industry
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Issues
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Matters In Southeast Asia
+│     └─ 📂 Articles
+│        └─ 📄 Wujuan
+
+
+├─ 📁 Tr Tr
+
+│  ├─ 📄 Tr Tr
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Akilli Enerji Adalari Isles Of Scilly
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Bph Bank Ve Finger Vein Teknolojisi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Class 395 Yuksek Hizli Trenler
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hilton Istanbul Icin Su Tasarrufu
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hitachi Parmak Damari Tanima Teknolojisi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Oliena Modeli Hitachi Su Tasarrufu Projesi Italyanin En Iyi Uygulamalari 2017 Listesinde Sardinya
+│     └─ 📂 Articles
+│        └─ 📄 Sehirici Surucusuz Tren Kopenhag Icin Birinci Sinif Bir Metro
+
+
+├─ 📁 Vi Vn
+
+│  ├─ 📄 Vi Vn
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Aseannewnormal
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Better Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Business Of Improving Lives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Businessinnovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Championing Dt
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Partnering
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cna Sustainable
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Combating Climate Change
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Corporate Social Responsibility
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Covid19
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Data Ai
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Decarbonising Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digital Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Digitaltransformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 E Mobility Growth
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Elevating Quality Of Life
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Empoweringcities
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Energy Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Enterprises
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Environmental Value
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Ev Charging
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Financial Transformation Southest Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Future Connectivity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greener Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Greenhub
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Growth And Environment Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hope And Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Horiuchi
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Innovations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lightinguplives
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumada Solutions Digital Transformation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumadacenter Sea
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Manufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Openvq
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Philippines Digital Payment
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Power Grid Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Preventive Healthcare
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Protontherapy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Redline
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reduce Carbon Emissions
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Reimagining Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Responsibility Of Corporations
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sending Cash
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sggreenbuilding
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smart Automation Matters In Southeast Asia
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartcities Asean
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartcity
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Smartmanufacturing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Social Innovation In Action
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Somsakgarnjanakarn
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Southeast Asia Matters
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainability
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Cities With Green Financing
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Sustainable Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Thailand Green Future
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Towards Industry
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Vietnam
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Issues
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Water Matters In Southeast Asia
+│     └─ 📂 Articles
+│        └─ 📄 Wujuan
+
+
+├─ 📁 Zh Cn
+
+│  └─ 📂 Insights
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Budweiser
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Cmms
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Deetu
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Design And Innovation
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Design And Innovation2
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Energy_Management
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article01
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article02
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article03
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article04
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article05
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Energy Article06
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article01
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article02
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article03
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article04
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article06
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article07
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Industry Article08
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler It Article01
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler It Article02
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler It Article03
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler It Article04
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler It Article05
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Life Article01
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Life Article03
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Life Article04
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Life Article05
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Feeler Life Article06
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Flu Forecast
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Gzm
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hib_Idea_Marathon
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Hitphams
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Home_Elevator
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Indpc
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Interview Negoro Takagi 01
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Interview Negoro Takagi 02
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Jingzhun
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Konica
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Liht
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Lumada
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Meike
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Mes
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Mhp
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Notouch_Elevator
+│     ├─ 📂 Articles
+│     │  ├─ 📄 People Automatic
+│     ├─ 📂 Articles
+│     │  ├─ 📄 People Battlequest
+│     ├─ 📂 Articles
+│     │  ├─ 📄 People Circulareconomy
+│     ├─ 📂 Articles
+│     │  ├─ 📄 People Whitehacker
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Pss
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Taniguchi_Ceo_Interview
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Valentina Valori
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Whitepaper
+│     ├─ 📂 Articles
+│     │  ├─ 📄 Zgc
+│     ├─ 📄 Feeler
+│     └─ 📄 Latest
+
+
+├─ 📁 Zh Hk
+
+│  ├─ 📄 Zh Hk
+
+│  ├─ 📂 About
+│  │  ├─ 📄 Directory
+│  │  ├─ 📄 Hea
+│  │  ├─ 📄 History
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1910
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1961
+│  │  ├─ 📂 History
+│  │  │  ├─ 📄 1981
+│  │  └─ 📂 History
+│  │     └─ 📄 2001
+
+│  ├─ 📄 Contact
+
+│  ├─ 📂 Press
+│  │  ├─ 📄 20230726
+│  │  ├─ 📄 20231102
+│  │  ├─ 📄 20231115
+│  │  ├─ 📄 20250326
+
+│  ├─ 📄 Privacy
+
+│  ├─ 📄 Products
+
+│  ├─ 📄 Sitemap
+
+│  └─ 📄 Termsofuse
+
+
+└─ 📁 Zh Tw
+
+   ├─ 📄 Zh Tw
+
+   ├─ 📂 About
+   │  ├─ 📄 Directory
+   │  ├─ 📄 History
+   │  ├─ 📂 History
+   │  │  ├─ 📄 1910
+   │  ├─ 📂 History
+   │  │  ├─ 📄 1961
+   │  ├─ 📂 History
+   │  │  ├─ 📄 1981
+   │  ├─ 📂 History
+   │  │  ├─ 📄 2001
+   │  └─ 📄 Thap
+
+   ├─ 📄 Contact
+
+   ├─ 📂 Press
+   │  ├─ 📄 20230202
+   │  ├─ 📄 20230516
+   │  ├─ 📄 20231102
+   │  ├─ 📄 20231226
+   │  ├─ 📄 20240415
+   │  ├─ 📄 20240520
+   │  ├─ 📄 20241128
+   │  ├─ 📄 20250326
+
+   ├─ 📄 Privacy
+
+   ├─ 📄 Products
+
+   ├─ 📄 Sitemap
+
+   └─ 📄 Termsofuse
+
